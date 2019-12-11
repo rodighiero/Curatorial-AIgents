@@ -1,26 +1,27 @@
 {
-  "name": "Cartography of Harvard Art Museums",
-  "version": "0.1",
-  "description": "A map showing the lexical distance between artworks",
+  "name": "harvard-art-museums",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
-  "keywords": [
-    "data visualization",
-    "academia",
-    "map",
-    "NLP",
-    "museum",
-    "artworks"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodighiero/Harvard-Art-Museums.git"
+  },
   "author": "Dario Rodighiero",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodighiero/Harvard-Art-Museums/issues"
+  },
+  "homepage": "https://github.com/rodighiero/Harvard-Art-Museums#readme",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
     "babel-loader": "^8.0.6",
+    "beautify": "0.0.8",
     "cheerio": "^1.0.0-rc.3",
     "css-loader": "^3.2.0",
     "file-loader": "^4.2.0",
@@ -40,6 +41,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "csv-parser": "^2.3.2",
     "d3": "^5.14.2"
   }
 }
