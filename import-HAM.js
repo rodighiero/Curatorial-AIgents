@@ -29,13 +29,13 @@ const createJson = (data) => {
     let docs = []
 
     data.forEach(record => {
-        if (record.title.length > 80) {
+        // if (record.title.length > 50) {
             console.log(record.title.length)
             const obj = {}
             obj.id = record.objectid
             obj.text = record.title
             docs.push(obj)
-        }
+        // }
     })
 
 
