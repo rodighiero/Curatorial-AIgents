@@ -117,17 +117,17 @@ fs.readFile(__dirname + '/data/docs.json', (err, data) => {
     // Tokenizer
     const tokenizer = new natural.WordTokenizer()
     items.forEach((item, i) => {
-        console.log('Computing token for author #', i)
+        console.log('Computing token for item #', i)
         item.tokens = tokenizer.tokenize(item.text)
     })
 
     // Singularize
-    const inflector = new natural.NounInflector()
-    items.forEach(item => item.tokens = item.tokens.map(t => inflector.singularize(t)))
+    // const inflector = new natural.NounInflector()
+    // items.forEach(item => item.tokens = item.tokens.map(t => inflector.singularize(t)))
 
     // Cleaning
-    const stopWords = ['humanity', 'digital', 'data', 'dh', 'http', 'www', '00', 'la', 'research', 'thi', 'community', 'project', 'ko', 'colavizza', 'yeat', 'new', 'corpu', 'censu', 'oo', 'short', 'number', 'figure', 'big', 'international', 'oldest', 'early', 'able', 'ealiest', 'easy', 'sector', 'gb1900']
-    items.forEach(item => item.tokens = item.tokens.filter(token => !stopWords.includes(token)))
+    // const stopWords = ['humanity', 'digital', 'data', 'dh', 'http', 'www', '00', 'la', 'research', 'thi', 'community', 'project', 'ko', 'colavizza', 'yeat', 'new', 'corpu', 'censu', 'oo', 'short', 'number', 'figure', 'big', 'international', 'oldest', 'early', 'able', 'ealiest', 'easy', 'sector', 'gb1900']
+    // items.forEach(item => item.tokens = item.tokens.filter(token => !stopWords.includes(token)))
     items.forEach(item => item.tokens = item.tokens.filter(token => !parseInt(token)))
     items.forEach(item => item.tokens = sw.removeStopwords(item.tokens))
     items.forEach(item => item.tokens = sw.removeStopwords(item.tokens, sw.br))
@@ -144,7 +144,7 @@ fs.readFile(__dirname + '/data/docs.json', (err, data) => {
     })
 
     // 15 is a good value for final version; it can be lowered for testing
-    const tfidfLimit = 10
+    const tfidfLimit = 3
 
     items.forEach((item, i) => {
         console.log('Reducing tokens for author #', i)
@@ -158,7 +158,7 @@ fs.readFile(__dirname + '/data/docs.json', (err, data) => {
     })
 
     // Delete text from items to lighten the file 
-    items.forEach(item => delete item.text)
+    // items.forEach(item => delete item.text)
 
 
 

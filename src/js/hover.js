@@ -23,7 +23,7 @@ export default () => {
                 }, [])
 
                 let text = `<h2><strong>${node.id}</strong></h2>`
-                text += `<p>Number of papers: ${node.docs}</p>`
+                text += `<p>Description: ${node.text}</p>`
                 text += `<p>Tokens:<br/>${tokens.join('<br/>')}</p>`
                 d3.select('#focus').html(text)
 

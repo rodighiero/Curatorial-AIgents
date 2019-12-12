@@ -7,22 +7,22 @@ export let s = {
     distance: 25,
     densityData: [],
     zoomState: null,
-    zoomExtent: [1, 8],
+    zoomExtent: [.2, 8],
     screen: {},
 
     // Yellow d3.rgb(251, 253, 166)
 
     colors: {
-        backgroundLeft: d3.rgb(255, 144, 104),
-        backgroundRight: d3.rgb(253, 116, 108),
+        backgroundLeft: d3.rgb(0, 0, 0),
+        backgroundRight: d3.rgb(30, 30, 30),
         // contours: d3.rgb(251, 253, 166), // Lemon
-        contours: d3.rgb(251, 158, 129), // Pompelmus
-        keywords: d3.rgb(100, 79, 39),
-        nodes: d3.rgb(39, 72, 100), // Blue
+        // contours: d3.rgb(251, 158, 129), // Pompelmus
+        // keywords: d3.rgb(100, 79, 39),
+        nodes: d3.rgb(0, 255, 0), // Blue
     },
 
     style: {
-        fontNodes: `bold 2.5pt Helvetica`
+        fontNodes: `bold 5pt Helvetica`
     },
 
     setVariables: () => {

@@ -14,8 +14,8 @@ export default () => {
     s.context.translate(x, y)
     s.context.scale(k, k)
 
-    contours()
-    keywords()
+    // contours()
+    // keywords()
     nodes()
 
 
