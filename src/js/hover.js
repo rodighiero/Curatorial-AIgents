@@ -1,5 +1,7 @@
 import * as d3 from 'd3'
-import { s } from './state'
+import {
+    s
+} from './state'
 
 export default () => {
 
@@ -17,14 +19,16 @@ export default () => {
 
             if (dx * dx + dy * dy < radius * radius) {
 
-                const tokens = Object.entries(node.tokens).reduce((tokens, token) => {
-                    tokens.push(`${token[0]} (${token[1].toFixed(2)})`)
-                    return tokens
-                }, [])
+                // const tokens = node.tokens.reduce((obj, token) => {
+                //     const string = `${token.tfidf.toFixed(2)} ${token.term}`
+                //     // console.log(string)
+                //     obj.push(string)
+                //     return obj
+                // }, [])
 
                 let text = `<h2><strong>${node.id}</strong></h2>`
-                text += `<p>Description: ${node.text}</p>`
-                text += `<p>Tokens:<br/>${tokens.join('<br/>')}</p>`
+                text += `<p>Text: ${node.text}</p>`
+                // text += `<p>Tokens:<br/>${tokens.join('<br/>')}</p>`
                 d3.select('#focus').html(text)
 
             }

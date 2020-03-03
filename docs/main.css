@@ -14,7 +14,7 @@
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-body, html, canvas {
+body, html {
 	color: rgb(255,255,255);
 	overflow: hidden;
 	margin: 0;
@@ -35,8 +35,8 @@ a {
 	 * Containers		
 ******************************************************************************/
 
-#focus, #title, #searchWrapper {
-	background-color: rgba(0,0,0,.8);
+#focus, #title, #searchWrapper, #warning {
+	background-color: rgba(255,255,255,.1);
 	position: absolute;
 	border: none;
 	padding: 10px;
@@ -44,7 +44,6 @@ a {
 #focus {
 	left: 0;
 	top: 10;
-	width: 20%
 }
 
 #title {
@@ -55,6 +54,11 @@ a {
 #searchWrapper {
 	right: 0;
 	top: 10;
+}
+
+#warning {
+	left: 0;
+	bottom: 10;
 }
 
 h1 {

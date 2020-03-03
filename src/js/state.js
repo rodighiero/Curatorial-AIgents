@@ -4,25 +4,22 @@ const fontSizeKeywords = 1.2
 
 export let s = {
 
-    distance: 25,
+    distance: 40,
     densityData: [],
     zoomState: null,
-    zoomExtent: [.2, 8],
+    zoomExtent: [.1, 8],
     screen: {},
 
-    // Yellow d3.rgb(251, 253, 166)
-
     colors: {
-        backgroundLeft: d3.rgb(0, 0, 0),
-        backgroundRight: d3.rgb(30, 30, 30),
-        // contours: d3.rgb(251, 253, 166), // Lemon
-        // contours: d3.rgb(251, 158, 129), // Pompelmus
-        // keywords: d3.rgb(100, 79, 39),
-        nodes: d3.rgb(0, 255, 0), // Blue
+        backgroundLeft: d3.rgb(19, 92, 158), // Blu Cattolica
+        backgroundRight: d3.rgb(12, 60, 102),
+        contours: d3.rgb(256, 256, 256, .1),
+        keywords: d3.rgb(256, 256, 256, .2),
+        nodes: d3.rgb(216, 169, 21), // Giallo Cattolica
     },
 
     style: {
-        fontNodes: `bold 5pt Helvetica`
+        fontNodes: `normal 2.5pt Helvetica`
     },
 
     setVariables: () => {
@@ -44,16 +41,7 @@ export let s = {
 
         s.keywordScale = d3.scaleLinear()
             .domain(s.linkExtent)
-            .range([s.zoomExtent[1] + 1, s.zoomExtent[0] - 10])
-
-        s.fontScale = d3.scaleLinear()
-            .domain(s.linkExtent)
-            .range([s.zoomExtent[0], s.zoomExtent[1] -10])
-
-        // Good results
-        // s.keywordScale = d3.scaleLinear()
-        //     .domain(s.linkExtent)
-        //     .range([s.zoomExtent[1] + 1, s.zoomExtent[0] - 20])
+            .range([s.zoomExtent[1] + 1, s.zoomExtent[0] - 5])
 
         s.geoPath = d3.geoPath().context(s.context)
 
@@ -61,50 +49,24 @@ export let s = {
 
     setScreen: () => {
 
-        const body = document.querySelector('body')
-
         // Screen density
 
         if ('devicePixelRatio' in window && window.devicePixelRatio > 1) {
             s.screen.density = window.devicePixelRatio
-            console.log('screen density:', s.screen.density)
         } else s.screen.density = 1
+        console.log('screen density:', s.screen.density)
 
+        // Variables
 
-        s.screen.width = body.clientWidth * s.screen.density
-        s.screen.height = body.clientHeight * s.screen.density
-
-        // Visualization canvas
-
+        s.body = document.querySelector('body')
+        s.screen.width = s.body.clientWidth * s.screen.density
+        s.screen.height = s.body.clientHeight * s.screen.density
         s.canvas = d3.select('#visualization')
-
         s.context = document.querySelector('#visualization').getContext('2d')
-        s.context.scale(s.screen.density, s.screen.density)
-
-        s.canvas
-            .style('width', `${body.clientWidth}px`).style('height', `${body.clientHeight}px`)
-            .attr('width', s.screen.width).attr('height', s.screen.height)
-
-        // Background canvas
-
-        d3.select('#background')
-            .style('width', `${body.clientWidth}px`).style('height', `${body.clientHeight}px`)
-            .attr('width', s.screen.width).attr('height', s.screen.height)
-
-        const bgContext = document.querySelector('#background').getContext('2d', { alpha: false })
-
-        const gradient = bgContext.createLinearGradient(0, 0, s.screen.width / 2, 0)
-
-        gradient.addColorStop(0, s.colors.backgroundLeft)
-        gradient.addColorStop(1, s.colors.backgroundRight)
-
-        bgContext.fillStyle = gradient
-        bgContext.fillRect(0, 0, s.screen.width, s.screen.height)
+        s.backgroud = d3.select('#background')
+        s.bgContext = document.querySelector('#background').getContext('2d', { alpha: false })
+        s.gradient = s.bgContext.createLinearGradient(0, 0, s.screen.width / 2, 0)
 
     },
-
-    // setMatches: (matches) => {
-    //     s.matches = matches;
-    // },
 
 }

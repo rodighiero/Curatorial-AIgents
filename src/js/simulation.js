@@ -1,5 +1,7 @@
 import * as d3 from 'd3'
-import { s } from './state'
+import {
+    s
+} from './state'
 import ticked from './ticked'
 
 window.s = s
@@ -18,26 +20,26 @@ export default () => {
     //
 
     const simulation = d3.forceSimulation()
-        .force('charge', d3.forceManyBody()
-            .strength(-10)
-            // .distanceMin(s.distance)
-            // .distanceMax(400)
-        )
-        .force('collide', d3.forceCollide()
-            .radius(s.distance)
-            .strength(.1)
-            // .iterations(5)
-        )
+        // .force('charge', d3.forceManyBody()
+        //     .strength(-1)
+        //     // .distanceMin(s.distance)
+        //     // .distanceMax(400)
+        // )
+        // .force('collide', d3.forceCollide()
+        //     .radius(s.distance)
+        //     .strength(1)
+        // //     // .iterations(5)
+        // )
         .force('center', d3.forceCenter(s.screen.width / 2, s.screen.height / 2))
         .force('link', d3.forceLink()
             .id(d => d.id)
-            .strength(d => d.value)
+            .strength(d => d.value * .2)
         )
     // .alphaDecay(.005)
     // .alpha(0.1)
 
     simulation.nodes(s.nodes)
-    simulation.force('link').links(s.links)
+    // simulation.force('link').links(s.links)
 
 
 
@@ -59,6 +61,15 @@ export default () => {
         simulation.stop()
         simulation.tick(100)
         s.end = true
+    }
+
+    
+    //
+    // Refresh on resize
+    //
+
+    window.onresize = function reportWindowSize() {
+        ticked()
     }
 
 

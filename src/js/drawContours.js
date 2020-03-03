@@ -12,14 +12,16 @@ const _computeDensityData = () => {
     const x = extX[0]
     const y = extY[0]
 
+    // console.log(s.nodes)
+
     s.densityData = d3.contourDensity()
         .x(d => d.x - x)
         .y(d => d.y - y)
-        .weight(d => d.docs)
+        // .weight(d => d.docs) // There is no weigth in this map
         .size([width, height])
-        // .cellSize(10) // Crispness (1 = best resolution)
-        // .bandwidth(20) // Expansion of reliefs (40 = high simplification)
-        // .thresholds(10) // Indicative number of levels
+        .cellSize(2) // Crispness (1 = best resolution)
+        .bandwidth(25) // Expansion of reliefs (40 = high simplification)
+        .thresholds(5) // Indicative number of levels
         (s.nodes)
 
     s.densityData.forEach(d => d.coordinates = d.coordinates
@@ -27,6 +29,7 @@ const _computeDensityData = () => {
             d => [(d[0] + x), (d[1] + y)]
         )))
     )
+
 }
 
 
