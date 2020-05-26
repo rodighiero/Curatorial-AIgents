@@ -1,34 +1,29 @@
 # Setup
 
-import csv
-# import json
-# import npython -m pumpy
-# import os
-# from itertools import chain
-# import spacy
+import pandas as pd
 
-# import sys
+objects = pd.read_csv('Data/Object-2020-03-06.csv',
+                      usecols=['ObjectID', 'Title', 'Description'])
+# objetcs = objetcs.rename(columns={'ObjectID': 'ObjectID', 'Title': 'Title_1'})
 
-# if not sys.warnoptions:
-#     import warnings
-#     warnings.simplefilter("ignore")
+titles = pd.read_csv('Data/Object-Titles-2020-03-06.csv',
+                     usecols=['ObjectID', 'Title'])
+# titles = titles.rename(columns={'ObjectID': 'ObjectID', 'Title': 'Title_2'})
 
-# spacy.prefer_gpu()
-# nlp = spacy.load('en_core_web_lg')
-# os.system('clear')
+merge = pd.merge(objects, titles, on='ObjectID', how='inner')
 
-# with open('data/docs.json', 'r') as json_file:
-#     data = json.load(json_file)['docs']  # Read file
+print(merge.head(20))
 
 
-records = []  # element collector
-similarities = [] # similarity collector
-limit = 15000
+# records = []  # element collector
+# similarities = [] # similarity collector
+# limit = 15000
 
 # Tokenization
 
 # count = limit
-# for i, record in enumerate(data):
+# for i in enumerate(objetcs):
+#     print(i)
 
 #     count -= 1
 #     if i == limit:  # Limit check
@@ -63,3 +58,23 @@ limit = 15000
 # nArray = numpy.array(flatten, dtype=numpy.uint8)
 # # numpy.savetxt("links.csv", nArray)
 # numpy.save("links.npy", nArray)
+
+
+# import json
+# import npython -m pumpy
+# import os
+# from itertools import chain
+# import spacy
+
+# import sys
+
+# if not sys.warnoptions:
+#     import warnings
+#     warnings.simplefilter("ignore")
+
+# spacy.prefer_gpu()
+# nlp = spacy.load('en_core_web_lg')
+# os.system('clear')
+
+# with open('data/docs.json', 'r') as json_file:
+#     data = json.load(json_file)['docs']  # Read file
