@@ -20,8 +20,8 @@ text.columns = ['id', 'text']
 data = pd.merge(objects, text, on='id', how='inner')
 
 # Reduction for testing / .995 corresponds to 7 rows
-random = data.sample(frac=.8)
-data = data.drop(random.index)
+# random = data.sample(frac=.8)
+# data = data.drop(random.index)
 
 # Tokens
 
@@ -62,3 +62,5 @@ del relations['nlp_1']
 del relations['nlp_2']
 
 print(relations)
+
+relations.to_csv('relations.csv')
