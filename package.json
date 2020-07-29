@@ -1,5 +1,5 @@
 {
-  "name": "cartography-of-covid-19",
+  "name": "suprise-machines",
   "version": "1.0.0",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodighiero/COVID-19.git"
+    "url": "git+https://github.com/rodighiero/Suprise-Machines.git"
   },
   "author": "Dario Rodighiero",
   "license": "MIT",
