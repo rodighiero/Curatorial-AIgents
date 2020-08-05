@@ -1,0 +1,1028 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Album of Drawings and Paintings </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Album of Drawings and Paintings" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/311885"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:760654?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Album of Drawings and Paintings" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_422658692" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:760654?width=3000&height=3000" data-initial-image-id="422658692" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">front cover</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?311885" data-behavior="add_to_collection tooltip" data-artwork="311885" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=311885&amp;image_id=760654" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/311885/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="760654">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:760654?width=3000&height=3000" data-zoom-enabled="1" data-people="Unknown Artist"  title="Album Of Drawings And Paintings" data-object-caption="front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="422658692" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760654?width=125&height=125" alt="Album Of Drawings And Paintings">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="760653">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:760653?width=3000&height=3000" data-zoom-enabled="1" data-people="Unknown Artist"  title="Album Of Drawings And Paintings" data-object-caption="back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="422658684" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760653?width=125&height=125" alt="Album Of Drawings And Paintings">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="760655">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:760655?width=3000&height=3000" data-zoom-enabled="1" data-people="Unknown Artist"  title="Album Of Drawings And Paintings" data-object-caption="inside back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="422658688" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760655?width=125&height=125" alt="Album Of Drawings And Paintings">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="760656">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:760656?width=3000&height=3000" data-zoom-enabled="1" data-people="Unknown Artist"  title="Album Of Drawings And Paintings" data-object-caption="inside front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="422658696" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760656?width=125&height=125" alt="Album Of Drawings And Paintings">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1960.161</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/23184>Unknown Artist</a>                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Album of Drawings and Paintings</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Albums</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            album                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>19th century</dd>
+                                                    <dt>Period</dt>
+                <dd>Qajar period</dd>
+                                        <dt>Culture</dt>
+                <dd>Persian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/311885">https://hvrd.art/o/311885</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Drawings; ink and opaque watercolor on paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>33.3 x 22.8 x 5 cm (13 1/8 x 9 x 1 15/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Sold; [through Walter Schatzki (by 1960)]; to Fogg Art Museum, 1960.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Alpheus Hyatt Purchasing Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1960</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1960.161</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                               David Roxburgh, ed., <em>An Album of Artists' Drawings from Qajar Iran</em>, Harvard Art Museums (Cambridge, MA, 2017)
+                                            </p>
+                                                      <p>
+                                              David Roxburgh and Mary McWilliams, ed., <em>Technologies of the Image: Art in 19th-Century Iran</em>, exh. cat., Harvard Art Museums (Cambridge, MA, 2017), pp. 134-139, cats. 10-21
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Islamic Art From the Collections of the Fogg Art Museum, Harvard University</em>, Fogg Art Museum, Cambridge, 08/01/1974
+                            </p>
+                          <p>
+                              <em>The Tablet and the Pen: Drawings from the Islamic World</em>, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 02/18/2006 - 07/23/2006
+                            </p>
+                      </dd>
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98146">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760632?width=3000&height=3000" alt="Folio 10 From An Album Of Artists' Drawings From Qajar Iran: Hero On Horseback Fighting A Dragon (Recto); Couple Entertained On A Terrace By Musicians And Dancers (Verso)">
+                                    <span class="related-artwork__obj">1960.161.10</span>
+                                                        <h3 class="related-artwork__title">Folio 10 from an Album of Artists' Drawings from Qajar Iran: Hero on horseback fighting a dragon (recto); Couple entertained on a terrace by musicians and dancers (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98147">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760635?width=3000&height=3000" alt="Folio 11 From An Album Of Drawings And Paintings: Yusuf Sold Into Slavery (Recto); Horseman With Raised Crop (Verso)">
+                                    <span class="related-artwork__obj">1960.161.11</span>
+                                                        <h3 class="related-artwork__title">Folio 11 from an Album of Drawings and Paintings: Yusuf sold into slavery (recto); Horseman with raised crop (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98162">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760641?width=3000&height=3000" alt="Folio 14 From An Album Of Drawings And Paintings: Two Drawings Of Workmen: Vendor And Hat Maker (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.14</span>
+                                                        <h3 class="related-artwork__title">Folio 14 from an Album of Drawings and Paintings: Two drawings of workmen: vendor and hat maker (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98163">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760645?width=3000&height=3000" alt="Folio 15 From An Album Of Drawings And Paintings: Two Drawings Of Workmen: Tailor And Man With Washboard (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.15</span>
+                                                        <h3 class="related-artwork__title">Folio 15 from an Album of Drawings and Paintings: Two drawings of workmen: tailor and man with washboard (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98164">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760670?width=3000&height=3000" alt="Folio 24 From An Album Of Drawings And Paintings: Mir Fenderesky And Shaykh Bistam (Recto); Two Drawings Of Women: Dancer; Cupbearer (Verso)">
+                                    <span class="related-artwork__obj">1960.161.24</span>
+                                                        <h3 class="related-artwork__title">Folio 24 from an Album of Drawings and Paintings: Mir Fenderesky and Shaykh Bistam (recto); Two drawings of women: dancer; cupbearer (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98165">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760674?width=3000&height=3000" alt="Folio 25 From An Album Of Drawings And Paintings: Two Sheets: Seated Boy; Seated Cleric (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.25</span>
+                                                        <h3 class="related-artwork__title">Folio 25 from an Album of Drawings and Paintings: Two sheets: seated boy; seated cleric (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98166">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760740?width=3000&height=3000" alt="Folio 38 From An Album Of Drawings And Paintings: Three Sheets With Sketches Of People, And Sun And Lion Motifs (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.38</span>
+                                                        <h3 class="related-artwork__title">Folio 38 from an Album of Drawings and Paintings: Three sheets with sketches of people, and sun and lion motifs (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98167">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760742?width=3000&height=3000" alt="Folio 39 From An Album Of Drawings And Paintings: Three Sheets: Women Delousing Children; Women With European Man; Women With Nursing Child (Recto); Fingernail Drawing: Child In Classical Garb (Verso)">
+                                    <span class="related-artwork__obj">1960.161.39</span>
+                                                        <h3 class="related-artwork__title">Folio 39 from an Album of Drawings and Paintings: Three sheets: women delousing children; women with European man; women with nursing child (recto); Fingernail drawing: child in classical garb (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98168">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760752?width=3000&height=3000" alt="Folio 42 From An Album Of Artists' Drawings From Qajar Iran: Virgin And Child With Attendants (Recto); Three Sheets Framed By Colored Paper Borders: Bust-Length Portrait Of Men And Women (Verso)">
+                                    <span class="related-artwork__obj">1960.161.42</span>
+                                                        <h3 class="related-artwork__title">Folio 42 from an Album of Artists' Drawings from Qajar Iran: Virgin and Child with attendants (recto); Three sheets framed by colored paper borders: bust-length portrait of men and women (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98169">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760755?width=3000&height=3000" alt="Folio 43 From An Album Of Drawings And Paintings: Two Sheets: Feline; Quails (Recto); Two Drawings: Woman With Fan; Two Women In European Dress  (Verso)">
+                                    <span class="related-artwork__obj">1960.161.43</span>
+                                                        <h3 class="related-artwork__title">Folio 43 from an Album of Drawings and Paintings: Two sheets: feline; quails (recto); Two drawings: woman with fan; two women in European dress  (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98170">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760764?width=3000&height=3000" alt="Folio 50 From An Album Of Drawings And Paintings: Sketch Of Qajar Man And Four Women (Recto); Drawing Set Within A Colored Paper Border: Two Women And A Small Child (Verso)">
+                                    <span class="related-artwork__obj">1960.161.50</span>
+                                                        <h3 class="related-artwork__title">Folio 50 from an Album of Drawings and Paintings: Sketch of Qajar man and four women (recto); Drawing set within a colored paper border: two women and a small child (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98171">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760766?width=3000&height=3000" alt="Folio 51 From An Album Of Drawings And Paintings: Portrait Of A Dervish (Recto); Sacrifice Of Isaac (Verso)">
+                                    <span class="related-artwork__obj">1960.161.51</span>
+                                                        <h3 class="related-artwork__title">Folio 51 from an Album of Drawings and Paintings: Portrait of a dervish (recto); Sacrifice of Isaac (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98172">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760768?width=3000&height=3000" alt="Folio 52 From An Album Of Drawings And Paintings: King On Horseback Embraced By Angel (Recto); Bust Portrait Of A Young Woman, Probably Pourandokht, With Tiara And Headscarves (Verso)">
+                                    <span class="related-artwork__obj">1960.161.52</span>
+                                                        <h3 class="related-artwork__title">Folio 52 from an Album of Drawings and Paintings: King on horseback embraced by angel (recto); Bust portrait of a young woman, probably Pourandokht, with tiara and headscarves (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98236">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760772?width=3000&height=3000" alt="Folio 54 From An Album Of Drawings And Paintings: Drawing Of A Hyacinth, Framed By A Colored Paper Border (Recto); Layla Visiting Majnun Among The Wild Animals, Framed By Colored Paper Borders (Verso)">
+                                    <span class="related-artwork__obj">1960.161.54</span>
+                                                        <h3 class="related-artwork__title">Folio 54 from an Album of Drawings and Paintings: Drawing of a hyacinth, framed by a colored paper border (recto); Layla visiting Majnun among the wild animals, framed by colored paper borders (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98237">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760775?width=3000&height=3000" alt="Folio 55 From An Album Of Drawings And Paintings: Three Sheets: Portrait Bust Of A Qajar Courtier; Sketches Of Figures (Recto); Woman In European Dress With Attendants  (Verso)">
+                                    <span class="related-artwork__obj">1960.161.55</span>
+                                                        <h3 class="related-artwork__title">Folio 55 from an Album of Drawings and Paintings: Three sheets: portrait bust of a Qajar courtier; sketches of figures (recto); Woman in European dress with attendants  (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98355">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760617?width=3000&height=3000" alt="Folio 7 From An Album Of Artists' Drawings From Qajar Iran: Embracing Couple On Terrace, Attended By Servants, Dancers, And Musicians (Recto); Standing Woman With Headscarf (Verso)">
+                                    <span class="related-artwork__obj">1960.161.7</span>
+                                                        <h3 class="related-artwork__title">Folio 7 from an Album of Artists' Drawings from Qajar Iran: Embracing couple on terrace, attended by servants, dancers, and musicians (recto); Standing woman with headscarf (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98356">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760621?width=3000&height=3000" alt="Folio 8 From An Album Of Drawings And Paintings: Dancer (Recto); Standing Youth With Waterpipe (Verso)">
+                                    <span class="related-artwork__obj">1960.161.8</span>
+                                                        <h3 class="related-artwork__title">Folio 8 from an Album of Drawings and Paintings: Dancer (recto); Standing youth with waterpipe (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98357">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760629?width=3000&height=3000" alt="Folio 9 From An Album Of Drawings And Paintings: Amir Kabir In Audience With Kneeling Courtiers (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.9</span>
+                                                        <h3 class="related-artwork__title">Folio 9 from an Album of Drawings and Paintings: Amir Kabir in audience with kneeling courtiers (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98381">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760614?width=3000&height=3000" alt="Folio 1 From An Album Of Drawings And Paintings: Folio From A Qu’Ran: Sura 1 (Recto); Crown Imperial (Fritillaria Imperialis) (Verso)">
+                                    <span class="related-artwork__obj">1960.161.1</span>
+                                                        <h3 class="related-artwork__title">Folio 1 from an Album of Drawings and Paintings: Folio from a Qu’ran: Sura 1 (recto); Crown imperial (fritillaria imperialis) (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98382">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760616?width=3000&height=3000" alt="Folio 2 From An Album Of Artists' Drawings From Qajar Iran: Blank Page (Recto); Birds, Flowers, And Butterflies (Verso)">
+                                    <span class="related-artwork__obj">1960.161.2</span>
+                                                        <h3 class="related-artwork__title">Folio 2 from an Album of Artists' Drawings from Qajar Iran: Blank page (recto); Birds, flowers, and butterflies (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98383">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760624?width=3000&height=3000" alt="Folio 4 From An Album Of Drawings And Paintings: Dancer With Finger-Cymbals (Recto); Embracing Couple Approached By A Woman (Verso)">
+                                    <span class="related-artwork__obj">1960.161.4</span>
+                                                        <h3 class="related-artwork__title">Folio 4 from an Album of Drawings and Paintings: Dancer with finger-cymbals (recto); Embracing couple approached by a woman (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98384">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760625?width=3000&height=3000" alt="Folio 6 From An Album Of Artists' Drawings From Qajar Iran: Virgin And Child With Elderly Men And Attendants (Recto); Amorous Couple With Attendants, Baby, Rabbits, And Birds (Verso)">
+                                    <span class="related-artwork__obj">1960.161.6</span>
+                                                        <h3 class="related-artwork__title">Folio 6 from an Album of Artists' Drawings from Qajar Iran: Virgin and child with elderly men and attendants (recto); Amorous couple with attendants, baby, rabbits, and birds (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98413">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760619?width=3000&height=3000" alt="Folio 3 From An Album Of Artists' Drawings From Qajar Iran: Medallion With Portrait Bust Of A European Woman, Enclosed In Symmetrical Composition Of Scrollwork, Birds, Flowers, And Butterflies 
+ (Recto); Hunter With Falcon, Hound, And Rifle (Verso)">
+                                    <span class="related-artwork__obj">1960.161.3</span>
+                                                        <h3 class="related-artwork__title">Folio 3 from an Album of Artists' Drawings from Qajar Iran: Medallion with portrait bust of a European woman, enclosed in symmetrical composition of scrollwork, birds, flowers, and butterflies 
+ (recto); Hunter with falcon, hound, and rifle (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98414">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760627?width=3000&height=3000" alt="Folio 5 From An Album Of Drawings And Paintings: Embracing Couple (Recto); Seated Woman And Child In Classical Dress With Kneeling Attendant And Peacock (Verso)">
+                                    <span class="related-artwork__obj">1960.161.5</span>
+                                                        <h3 class="related-artwork__title">Folio 5 from an Album of Drawings and Paintings: Embracing couple (recto); Seated woman and child in classical dress with kneeling attendant and peacock (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98436">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760647?width=3000&height=3000" alt="Folio 16 From An Album Of Drawings And Paintings: Two Drawings Of Workmen: Snack Vendor And Lathe-Turner (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.16</span>
+                                                        <h3 class="related-artwork__title">Folio 16 from an Album of Drawings and Paintings: Two drawings of workmen: snack vendor and lathe-turner (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98437">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760633?width=3000&height=3000" alt="Folio 20 From An Album Of Drawings And Paintings: Holy Family With Winged Angel In Oval Frame (Recto); Three Drawings Of Figures In European Dress (Verso)">
+                                    <span class="related-artwork__obj">1960.161.20</span>
+                                                        <h3 class="related-artwork__title">Folio 20 from an Album of Drawings and Paintings: Holy Family with winged angel in oval frame (recto); Three drawings of figures in European dress (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98438">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760658?width=3000&height=3000" alt="Folio 21 From An Album Of Artists' Drawings From Qajar Iran: Three Drawings Of Figures In European Dress (Recto); Study Sheet With Flowers And Female Portraits And Figures (Verso)">
+                                    <span class="related-artwork__obj">1960.161.21</span>
+                                                        <h3 class="related-artwork__title">Folio 21 from an Album of Artists' Drawings from Qajar Iran: Three drawings of figures in European dress (recto); Study sheet with flowers and female portraits and figures (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98439">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760662?width=3000&height=3000" alt="Folio 22 From An Album Of Drawings And Paintings: Sheet Of Portrait Sketches And Flowers (Recto); Two Sheets: Dog And Decorative Frames; Kneeling Couple And Mixed Bouquet (Verso)">
+                                    <span class="related-artwork__obj">1960.161.22</span>
+                                                        <h3 class="related-artwork__title">Folio 22 from an Album of Drawings and Paintings: Sheet of portrait sketches and flowers (recto); Two sheets: dog and decorative frames; kneeling couple and mixed bouquet (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98440">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:79213_dynmc?width=3000&height=3000" alt="Folio 32 From An Album Of Drawings And Paintings: Wedding Procession (Left Half) (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.32</span>
+                                                        <h3 class="related-artwork__title">Folio 32 from an Album of Drawings and Paintings: Wedding procession (left half) (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98441">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760730?width=3000&height=3000" alt="Folio 33 From An Album Of Drawings And Paintings: Portrait Of A Woman (Recto); Two Drawings Of Felines Framed By Colored Paper Borders (Verso)">
+                                    <span class="related-artwork__obj">1960.161.33</span>
+                                                        <h3 class="related-artwork__title">Folio 33 from an Album of Drawings and Paintings: Portrait of a woman (recto); Two drawings of felines framed by colored paper borders (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98442">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760759?width=3000&height=3000" alt="Folio 47 From An Album Of Drawings And Paintings: Man Splitting Wood (Recto); Qajar Youth Seated In A Chair With Waterpipe And Sword (Verso)">
+                                    <span class="related-artwork__obj">1960.161.47</span>
+                                                        <h3 class="related-artwork__title">Folio 47 from an Album of Drawings and Paintings: Man splitting wood (recto); Qajar youth seated in a chair with waterpipe and sword (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98443">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760760?width=3000&height=3000" alt="Folio 48 From An Album Of Drawings And Paintings: Bird And Flower Design (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.48</span>
+                                                        <h3 class="related-artwork__title">Folio 48 from an Album of Drawings and Paintings: Bird and flower design (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98444">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760762?width=3000&height=3000" alt="Folio 49 From An Album Of Artsts' Drawings From Qajar Iran: Lovers Discovered (Recto); Two Hands Of Fatima (Verso)">
+                                    <span class="related-artwork__obj">1960.161.49</span>
+                                                        <h3 class="related-artwork__title">Folio 49 from an Album of Artsts' Drawings from Qajar Iran: Lovers discovered (recto); Two hands of Fatima (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98445">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760777?width=3000&height=3000" alt="Folio 56 From An Album Of Artists' Drawings From Qajar Iran: Bird And Floral Design For A Pen Box (Recto); Two Sheets: Study Of A Rose; Study Of An Iris (Verso)">
+                                    <span class="related-artwork__obj">1960.161.56</span>
+                                                        <h3 class="related-artwork__title">Folio 56 from an Album of Artists' Drawings from Qajar Iran: Bird and floral design for a pen box (recto); Two sheets: Study of a rose; Study of an iris (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98446">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760778?width=3000&height=3000" alt="Folio 57 From An Album Of Drawings And Paintings: Muhammad Shah Qajar, Seated On A Chair (Recto); Crown Imperial (Fritillaria Imperialis) (Verso)">
+                                    <span class="related-artwork__obj">1960.161.57</span>
+                                                        <h3 class="related-artwork__title">Folio 57 from an Album of Drawings and Paintings: Muhammad Shah Qajar, seated on a chair (recto); Crown imperial (fritillaria imperialis) (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98456">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760639?width=3000&height=3000" alt="Folio 13 From An Album Of Drawings And Paintings: Two Sheets Of Workmen: Clothes-Presser And Tinsmith (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.13</span>
+                                                        <h3 class="related-artwork__title">Folio 13 from an Album of Drawings and Paintings: Two sheets of workmen: clothes-presser and tinsmith (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98457">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760637?width=3000&height=3000" alt="Folio 19 From An Album Of Drawings And Paintings: Two Scenes From Literature: Nushirvan And The Owls; Khusraw Spies Shirin Bathing (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.19</span>
+                                                        <h3 class="related-artwork__title">Folio 19 from an Album of Drawings and Paintings: Two scenes from literature: Nushirvan and the Owls; Khusraw spies Shirin bathing (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98485">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760678?width=3000&height=3000" alt="Folio 27 From An Album Of Drawings And Paintings: Two Sheets: Male And Female Drum Players (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.27</span>
+                                                        <h3 class="related-artwork__title">Folio 27 from an Album of Drawings and Paintings: Two sheets: male and female drum players (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98486">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760668?width=3000&height=3000" alt="Folio 29 From An Album Of Drawings And Paintings: Three Sheets: Woman Nursing Child; Old Woman; Amorous Couple (Recto); Two Drawings Mounted Within Colored Paper Borders: Shaykh San`an And The Christian Maiden; Dervishes Gathered By A Stream (Verso)">
+                                    <span class="related-artwork__obj">1960.161.29</span>
+                                                        <h3 class="related-artwork__title">Folio 29 from an Album of Drawings and Paintings: Three sheets: woman nursing child; old woman; amorous couple (recto); Two drawings mounted within colored paper borders: Shaykh San`an and the Christian maiden; Dervishes gathered by a stream (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98487">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760666?width=3000&height=3000" alt="Folio 30 From An Album Of Artists' Drawings From Qajar Iran: Three Sheets: Pen Box Design With Perspectival Architectural Landscape Divided By Medallions (Top), Bahram Gur Visiting A Princess (Center), Pen Box Design With Audience Scene Divided By Medallions (Bottom) 
+ (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.30</span>
+                                                        <h3 class="related-artwork__title">Folio 30 from an Album of Artists' Drawings from Qajar Iran: Three sheets: Pen box design with perspectival architectural landscape divided by medallions (top), Bahram Gur visiting a princess (center), Pen box design with audience scene divided by medallions (bottom) 
+ (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98488">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760732?width=3000&height=3000" alt="Folio 34 From An Album Of Drawings And Paintings: Three Sheets With Sketches Of People And Animals (Recto); Lion Attacking A Cow, Framed By Colored Paper Borders (Verso)">
+                                    <span class="related-artwork__obj">1960.161.34</span>
+                                                        <h3 class="related-artwork__title">Folio 34 from an Album of Drawings and Paintings: Three sheets with sketches of people and animals (recto); Lion attacking a cow, framed by colored paper borders (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98489">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760738?width=3000&height=3000" alt="Folio 37 From An Album Of Drawings And Paintings: Two Sheets With Sketches Of People, Animals, And Bird And Flower Motifs (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.37</span>
+                                                        <h3 class="related-artwork__title">Folio 37 from an Album of Drawings and Paintings: Two sheets with sketches of people, animals, and bird and flower motifs (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98490">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760748?width=3000&height=3000" alt="Folio 41 From An Album Of Artists' Drawings From Qajar Iran: Four Sheets: Pen Box Design With Reclining Females And Attendants In Landscape (Top), Portrait Bust Of Muhammad Shah Qajar (Center), European Woman With Bouquet And Shawl (Center), Pen Box Design With Reclining Females And Attendants In Landscape, Divided By Medallions (Bottom) (Recto); The Binding Of Isaac (Verso)">
+                                    <span class="related-artwork__obj">1960.161.41</span>
+                                                        <h3 class="related-artwork__title">Folio 41 from an Album of Artists' Drawings from Qajar Iran: Four sheets: Pen box design with reclining females and attendants in landscape (top), Portrait bust of Muhammad Shah Qajar (center), European woman with bouquet and shawl (center), Pen box design with reclining females and attendants in landscape, divided by medallions (bottom) (recto); The Binding of Isaac (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98491">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760746?width=3000&height=3000" alt="Folio 45 From An Album Of Drawings And Paintings: Three Sheets With Floral Drawings (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.45</span>
+                                                        <h3 class="related-artwork__title">Folio 45 from an Album of Drawings and Paintings: Three sheets with floral drawings (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98492">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760770?width=3000&height=3000" alt="Folio 53 From An Album Of Drawings And Paintings: Figures In Porticoes Surrounding Fruit Trees (Recto); Five Drawings Of Flowers Framed By A Colored Paper Border (Verso)">
+                                    <span class="related-artwork__obj">1960.161.53</span>
+                                                        <h3 class="related-artwork__title">Folio 53 from an Album of Drawings and Paintings: Figures in porticoes surrounding fruit trees (recto); Five drawings of flowers framed by a colored paper border (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98501">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760643?width=3000&height=3000" alt="Folio 12 From An Album Of Drawings And Paintings: Hunter Dismounted From Horse, Killing A Deer (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.12</span>
+                                                        <h3 class="related-artwork__title">Folio 12 from an Album of Drawings and Paintings: Hunter dismounted from horse, killing a deer (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98502">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760649?width=3000&height=3000" alt="Folio 17 From An Album Of Drawings And Paintings: Three Drawings: Man And Peacock; Gathering Of Men On A Terrace; Woman And Rabbit (Recto) Two Drawings: Shirin On Horseback Visits Farhad At Mt. Bisutun; Bahram Gur Succeeds At Azada's Shooting Challenges (Verso)">
+                                    <span class="related-artwork__obj">1960.161.17</span>
+                                                        <h3 class="related-artwork__title">Folio 17 from an Album of Drawings and Paintings: Three drawings: man and peacock; gathering of men on a terrace; woman and rabbit (recto) Two drawings: Shirin on horseback visits Farhad at Mt. Bisutun; Bahram Gur succeeds at Azada's shooting challenges (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98503">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760651?width=3000&height=3000" alt="Folio 18 From An Album Of Artists' Drawings From Qajar Iran: Two Draings: The Meeting Of Shams-I Tabrizi And Mawlana Jalal Al-Din Rumi (Top), Shaykh San`an And The Christian Maiden (Bottom)
+ (Recto); Zulaykha's Maids Cut Themselves, Overcome By Yusuf's Beauty (Verso)">
+                                    <span class="related-artwork__obj">1960.161.18</span>
+                                                        <h3 class="related-artwork__title">Folio 18 from an Album of Artists' Drawings from Qajar Iran: Two draings: The meeting of Shams-i Tabrizi and Mawlana Jalal al-Din Rumi (top), Shaykh San`an and the Christian Maiden (bottom)
+ (recto); Zulaykha's maids cut themselves, overcome by Yusuf's beauty (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98504">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760664?width=3000&height=3000" alt="Folio 23 From An Album Of Drawings And Paintings: Three Sheets: Bird And Flower Designs For A Penbox; Polylobed Cartouche Enclosing Couple (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.23</span>
+                                                        <h3 class="related-artwork__title">Folio 23 from an Album of Drawings and Paintings: Three sheets: bird and flower designs for a penbox; polylobed cartouche enclosing couple (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98505">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760676?width=3000&height=3000" alt="Folio 26 From An Album Of Drawings And Paintings: Two Sheets: Pair Of Dervishes; Three Dervishes With Snake  (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.26</span>
+                                                        <h3 class="related-artwork__title">Folio 26 from an Album of Drawings and Paintings: Two sheets: pair of dervishes; three dervishes with snake  (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98506">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760672?width=3000&height=3000" alt="Folio 28 From An Album Of Drawings And Paintings: Domestic Scene With Women And Child (Recto); Three Sheets: Female Musician Playing Bowed Instrument; Embracing Couple; Man Hawking On Horseback (Verso)">
+                                    <span class="related-artwork__obj">1960.161.28</span>
+                                                        <h3 class="related-artwork__title">Folio 28 from an Album of Drawings and Paintings: Domestic scene with women and child (recto); Three sheets: female musician playing bowed instrument; embracing couple; man hawking on horseback (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98507">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:79212_dynmc?width=3000&height=3000" alt="Folio 31 From An Album Of Drawings And Paintings: Women Feasting (Recto); Wedding Procession (Right Half) (Verso)">
+                                    <span class="related-artwork__obj">1960.161.31</span>
+                                                        <h3 class="related-artwork__title">Folio 31 from an Album of Drawings and Paintings: Women feasting (recto); Wedding procession (right half) (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98508">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760734?width=3000&height=3000" alt="Folio 35 From An Album Of Drawings And Paintings: Two Sheets: Two Sheep; Elephant With Rider In Indian Garb (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.35</span>
+                                                        <h3 class="related-artwork__title">Folio 35 from an Album of Drawings and Paintings: Two sheets: two sheep; elephant with rider in Indian garb (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98509">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760736?width=3000&height=3000" alt="Folio 36 From An Album Of Drawings And Paintings: Four Drawings; Two Designs For Penboxes; Head Of A Bearded Man; Seated Dervish (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.36</span>
+                                                        <h3 class="related-artwork__title">Folio 36 from an Album of Drawings and Paintings: Four drawings; two designs for penboxes; head of a bearded man; seated dervish (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98510">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760744?width=3000&height=3000" alt="Folio 40 From An Album Of Drawings And Paintings: Fingernail Drawing: Horseman Fighting A Lion With Hound At Bottom (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.40</span>
+                                                        <h3 class="related-artwork__title">Folio 40 from an Album of Drawings and Paintings: Fingernail drawing: horseman fighting a lion with hound at bottom (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98511">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760750?width=3000&height=3000" alt="Folio 44 From An Album Of Drawings And Paintings: Three Sheets: European Family Gathered Around A Table; Bearded Man In Semi-Classical Garb; Three Graces (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.44</span>
+                                                        <h3 class="related-artwork__title">Folio 44 from an Album of Drawings and Paintings: Three sheets: European family gathered around a table; bearded man in semi-classical garb; three graces (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98512">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760756?width=3000&height=3000" alt="Folio 46 From An Album Of Drawings And Paintings:two Sheets: Horse; Fath Ali Shah Qajar Enthroned (Recto); Blank Page (Verso)">
+                                    <span class="related-artwork__obj">1960.161.46</span>
+                                                        <h3 class="related-artwork__title">Folio 46 from an Album of Drawings and Paintings:Two sheets: horse; Fath Ali Shah Qajar enthroned (recto); Blank page (verso)</h3>
+                                                        <span class="related-artwork__meta">Albums</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/354377">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8846</span>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Album of Drawings and Paintings"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:760654?width=200&height=200" alt="Album Of Drawings And Paintings">
+                <span class="popup__artwork-info-id">1960.161</span>
+        <span class="popup__artwork-info-author">
+                                    Unknown Artist
+                              </span>
+        <span class="popup__artwork-info-title">Album of Drawings and Paintings</span>
+        <span class="popup__artwork-info-class">Albums</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20311885%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311885">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311885" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Album+of+Drawings+and+Paintings+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311885" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/311885" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_0b4c7c52fd1a99f4472d75696c713cdf" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

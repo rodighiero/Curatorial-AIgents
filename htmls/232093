@@ -1,0 +1,685 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Saint Jerome </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Saint Jerome" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/232093"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC251711_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Saint Jerome" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47262103" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC251711_dynmc?width=3000&height=3000" data-initial-image-id="47262103" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?232093" data-behavior="add_to_collection tooltip" data-artwork="232093" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=232093&amp;image_id=DDC251711" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/232093/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC251711">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251711_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jusepe de Ribera"  title="Saint Jerome" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47262103" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251711_dynmc?width=125&height=125" alt="Saint Jerome">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="VRS33955">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS33955_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jusepe de Ribera"  title="Saint Jerome" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20674990" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS33955_dynmc?width=125&height=125" alt="Saint Jerome">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Ribera was a Spaniard who spent most of his career in Naples, which was then a Spanish possession. Known for expressing the corporeal sacrifices associated with faith, he depicted Saint Jerome, the early Christian ascetic, priest, and translator of the Bible, numerous times during his career. With harsh realism, Ribera stresses the saint’s role in propagating the sacrament of penance. Head uplifted, Saint Jerome grasps the stone with which he would violently beat his breast, while his left arm cradles a skull, representing the transience of human existence. Ribera highlights the act of self-abuse by contrasting the muscular tension in the saint’s right arm with the worn and wrinkled skin elsewhere on his aged body. The voluminous folds of his cardinal’s robe, rendered in deep chiaroscuro, and the crisp pages of the book to his right — a reference to his scholarly pursuits — further emphasize the frail state of his earthly body.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1920.7</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28271>Jusepe de Ribera</a>, Spanish                                                                                                                                                                                                                                                                          (Játiva, Valencia 1591 - 1652 Naples)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Saint Jerome</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1640</dd>
+                                                                <dt>Culture</dt>
+                <dd>Spanish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/232093">https://hvrd.art/o/232093</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>128 x 101.3 cm (50 3/8 x 39 7/8 in.)<br />
+framed: 165 x 139.5 x 8.2 cm (64 15/16 x 54 15/16 x 3 1/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.c.: Jusepe de Ribero espanol F., Signed Date: 1640
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Count Friedrich von Pourtalès, Paris (by March 25, 1896). Baron Léon de Busseières, Paris (by 1908). [Trotti et Cie, Paris, March 5,1920], sold; to Arthur Sachs, gift; to Fogg Art Museum, 1920.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Arthur Sachs</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1920</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1920.7</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              August L. Mayer, <em>Jusepe de Ribera (Lo Spagnoletto)</em>, Verlag von Karl W. Hiersemann (Leipzig, 1908), p. 18
+                             </p>
+                                                      <p>
+                                              Chandler R. Post, "Painting of Saint Jerome by Ribera", <em>Fogg Art Museum Notes</em>, Harvard University Press (Cambridge, 1922), vol. 1, no. 2, pp. 14-21, repr. p. 14 as fig. 1
+                             </p>
+                                                      <p>
+                                              <em>Catalogue of an Exhibition of Spanish paintings from El Greco to Goya</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1928), p. 8, no. 51, repr.
+                             </p>
+                                                      <p>
+                                              Arthur McComb, <em>Exhibition of Italian Painting of the Sei- and Settecento</em>, exh. cat., Wadsworth Atheneum Museum of Art / Morgan Memorial (Hartford, CT, 1930), p. 16, cat. no. 42
+                             </p>
+                                                      <p>
+                                              Arthur McComb, "A Saint Jerome by Jan Liss", <em>Bulletin of the Fogg Art Museum</em>, Harvard University Press (Cambridge, March 1933), vol. 2, no. 2, pp. 32-33, p. 33
+                             </p>
+                                                      <p>
+                                              [unknown article title], <em>Art News</em> (April 1941), p. 18
+                             </p>
+                                                      <p>
+                                              José Guidol, <em>Spanish Painting</em>, exh. cat., Toledo Museum of Art (Toledo, Ohio, 1941), pp. 86, 88, cat. no. 55, repr.
+                             </p>
+                                                      <p>
+                                              Carlyle Burrows, "Art Events of the Week", <em>New York Herald Tribune</em> (March 11, 1945), p. C7
+                             </p>
+                                                      <p>
+                               Emily Genauer, "Legend of St. Jerome in Art", <em>New York World-Telegram</em> (New York, March 24, 1945)
+                                            </p>
+                                                      <p>
+                                              Margaret Breuning, "Portraying St. Jerome", <em>Art Digest</em> (March 1945), vol. 19, no. 12, p. 21, repr.
+                             </p>
+                                                      <p>
+                                              Durlacher Brothers, <em>An Exhibition of Paintings and Sculpture of Saint Jerome</em>, exh. cat. (New York, 1945), no. 11
+                             </p>
+                                                      <p>
+                                              Bernardino de Pantorba, <em>José de Ribera</em>, Iberia - Joaquín Gil (Barcelona, 1946), repr. in detail as fig. L.
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of Favorite Italian and Spanish Masters of the 17th and 18th Centuries (the Baroque Era)</em>, exh. cat., Winnipeg Art Gallery Association (Winnipeg, Manitoba, Canada, 1951), p. 18, 26, no. 29, repr. p. 26
+                             </p>
+                                                      <p>
+                                              Elizabeth du Gué Trapier, <em>Ribera</em>, Hispanic Society of America (New York, 1952), pp. 168-169, 171, repr. as figs. 116 and 117
+                             </p>
+                                                      <p>
+                                              Ferdinand Eckhardt, <em>El Greco to Goya</em>, exh. cat., Winnipeg Art Gallery (Winnipeg, 1955), p. 10, cat. no. 4
+                             </p>
+                                                      <p>
+                                              Juan Antonio Gaya-Nuño, <em>La Pintura Española Fuera de España</em>, Espasa-Calpe (Madrid, Spain, 1958), p. 282, no. 2366
+                             </p>
+                                                      <p>
+                                              June Glaser, "[Review] Baroque Symposium Art Exhibit Praised", <em>Vassar Miscellany News</em> (March 11, 1959), p. 2
+                             </p>
+                                                      <p>
+                                              <em>Highlights from the Collections of the Fogg Museum and Harvard Alumni of St. Louis</em>, exh. cat., City Art Museum of St. Louis (St. Louis, 1964), cat. 67
+                             </p>
+                                                      <p>
+                               <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967)
+                                            </p>
+                                                      <p>
+                                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, exh. cat., Albright-Knox Art Gallery (Buffalo, NY, 1967), cat. 58
+                             </p>
+                                                      <p>
+                                              Richard E. Spear, <em>Caravaggio and His Followers</em>, exh. cat., Cleveland Museum of Art (Cleveland, 1971), p. 154, repr.
+                             </p>
+                                                      <p>
+                                              Sydney J. Freedberg, "Lorenzo Lotto to Nicolas Poussin", <em>Apollo</em> (May 1978), vol. 107, no. 195, pp. 389-397, p. 397, repr. p. 396 as fig. 14
+                             </p>
+                                                      <p>
+                                              Alfonso E. Pérez Sánchez and Prof. Nicola Spinosa, <em>L'opera completa del Ribera</em>, Rizzoli Editore (Milan, 1978), no. 198, repr.
+                             </p>
+                                                      <p>
+                                              Herbert Friedmann, <em>A Bestiary for Saint Jerome: Animal Symbolism in European Religious Art</em>, Smithsonian Institution Press (Washington, D.C., 1980), p. 314
+                             </p>
+                                                      <p>
+                                              Craig Felton and William B. Jordan, <em>Jusepe de Ribera lo Spagnoletto, 1591-1652</em>, exh. cat., Kimbell Art Museum (Fort Worth, 1982), pp. 208-209, cat. no. 32, repr. p. 208
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 184, p. 162, repr.
+                             </p>
+                                                      <p>
+                                              Holliday T. Day and Hollister Sturges, ed., <em>Joslyn Art Museum: Paintings & Sculpture from the European & American Collections</em>, University of Nebraska Press (Omaha, Nebraska, 1987), p. 51
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 50, color plate; pp. 127, 373, repr. b/w cat. no. 827
+                             </p>
+                                                      <p>
+                                              [Reproduction only], <em>The Harvard Review of Philosophy</em>, (spring 1999)., repr. in color on cover
+                             </p>
+                                                      <p>
+                                              Prof. Nicola Spinosa, <em>Ribera</em>, Electa Napoli (Naples, Italy, 2003), repr. p. 210; scheda A289, repr.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of Spanish Paintings from El Greco to Goya</em>, The Metropolitan Museum of Art, 02/17/1928 - 04/15/1928
+                            </p>
+                          <p>
+                              <em>Italian Painting of the Sei and Settecento</em>, Wadsworth Atheneum Museum of Art, Hartford, 01/22/1930 - 02/05/1930
+                            </p>
+                          <p>
+                              <em>Spanish Painting</em>, Toledo Museum of Art, 03/16/1941 - 04/27/1941
+                            </p>
+                          <p>
+                              <em>An Exhibition of Paintings and Sculpture of Saint Jerome</em>, Durlacher Brothers, 03/05/1945 - 03/31/1945
+                            </p>
+                          <p>
+                              <em>Exhibition of Favorite Italian and Spanish Masters of the Seventeenth and Eighteenth Centuries</em>, Winnipeg Art Gallery, Winnipeg, 01/01/1951 - 12/31/1951
+                            </p>
+                          <p>
+                              <em>El Greco to Goya</em>, Winnipeg Art Gallery, 04/16/1955 - 05/20/1955
+                            </p>
+                          <p>
+                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, Albright-Knox Art Gallery, Buffalo, 05/08/1967 - 06/11/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Jusepe de Ribera lo Spagnoletto, 1591-1652</em>, Kimbell Art Museum, 12/04/1982 - 02/06/1983
+                            </p>
+                          <p>
+                              <em>Ideal [Dis-] Placements: Old Masters at the Pulitzer</em>, Pulitzer Arts Foundation, St. Louis, 10/24/2008 - 10/03/2009
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/345423">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.5930</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Jusepe de Ribera</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "St. Jerome"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251711_dynmc?width=200&height=200" alt="Saint Jerome">
+                <span class="popup__artwork-info-id">1920.7</span>
+        <span class="popup__artwork-info-author">
+                                    Jusepe de Ribera
+                              </span>
+        <span class="popup__artwork-info-title">Saint Jerome</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20232093%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F232093">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F232093" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Saint+Jerome+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F232093" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/232093" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_f0be70bb5c6847ddf0fcfaa8eec6ec46" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

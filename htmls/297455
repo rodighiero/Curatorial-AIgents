@@ -1,0 +1,1115 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Sketchbook </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Sketchbook" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297455"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:78543_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Sketchbook" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18204755" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:78543_dynmc?width=3000&height=3000" data-initial-image-id="18204755" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">front cover</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297455" data-behavior="add_to_collection tooltip" data-artwork="297455" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297455&amp;image_id=78543" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297455/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="78543">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:78543_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="18204755" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78543_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="46715">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS46715_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20681428" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS46715_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="46716">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS46716_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20681429" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS46716_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="46717">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS46717_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20681430" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS46717_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="46720">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS46720_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20681431" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS46720_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="78544">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:78544_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="inside front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="18204756" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78544_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="78545">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:78545_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="18204757" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78545_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="78546">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:78546_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Frederic Leighton"  title="Sketchbook" data-object-caption="inside back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="18204758" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78546_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1946.35.1-62</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27133>Frederic Leighton</a>, British                                                                                                                                                                                                                                                                          (Scarborough England 1830 - 1896 London England)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Sketchbook</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sketchbook                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1872-1873</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297455">https://hvrd.art/o/297455</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ribbed-leather covers, remains of strap, stylus sleeve; fifty-eight pages of prepared paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>7.2 x 12.3 cm (2 13/16 x 4 13/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          label: inside back cover, printed: HENRY PENNY'S / PATENT / Improved Metallic / Books / BEST PREPARED PAPER / WARRENTED [  ] WRITTEN ON WITH HIS / PREPARED PENCILS / TO BE AS PLAIN & DURABLE AS INK / They will be found as great advantage / to Travellers and all persons who wish / to preserve their Writing / No. 5
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Geoffrey Steele's Bookshop, Mahopac, NY], sold; to Fogg Art Museum 1946<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Friends of the Fogg Art Museum Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1946</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1946.35.1-62</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                            <dt>Commentary</dt>
+                <dd>Philippa Martin, Leighton House Museum, London, and Charlotte Gere provided invaluable assistance in the cataloguing of this sketchbook.<br />
+</dd>
+                                         </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Under Cover: Artists' Sketchbooks</em>, website, Harvard University Art Museums, 2006, www.artmuseums.harvard.edu/sketchbooks
+                             </p>
+                                                      <p>
+                                              Thea Burns, <em>The Luminous Trace: Drawing and Writing in Metalpoint</em>, Archetype Publications (London, 2012), pp. 171-173
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Under Cover: Artists' Sketchbooks</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 08/01/2006 - 10/22/2006
+                            </p>
+                      </dd>
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/29992">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78578_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Hanging Basket">
+                                    <span class="related-artwork__obj">1946.35.21</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Hanging Basket</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30468">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78610_dynmc?width=3000&height=3000" alt="Architectural Sketches And Figure Studies; Verso: Figure Studies">
+                                    <span class="related-artwork__obj">1946.35.48</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Architectural Sketches and Figure Studies; verso: Figure Studies</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30469">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78603_dynmc?width=3000&height=3000" alt="Inscription (Recto And Verso)">
+                                    <span class="related-artwork__obj">1946.35.44</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30470">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78600_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Garden Landscape">
+                                    <span class="related-artwork__obj">1946.35.41</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Garden Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30471">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78599_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Garden Arch">
+                                    <span class="related-artwork__obj">1946.35.40</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Garden Arch</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30472">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78587_dynmc?width=3000&height=3000" alt="Figure Study; Verso: Landscape With Tree">
+                                    <span class="related-artwork__obj">1946.35.27</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Figure Study; verso: Landscape with Tree</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30473">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78589_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.28</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30712">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78633_dynmc?width=3000&height=3000" alt="Porch With Columns, Tangiers, Morocco(?)">
+                                    <span class="related-artwork__obj">1946.35.61</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Porch with Columns, Tangiers, Morocco(?)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30713">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78626_dynmc?width=3000&height=3000" alt="Inscription (Recto And Verso)">
+                                    <span class="related-artwork__obj">1946.35.57</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30714">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78631_dynmc?width=3000&height=3000" alt="Rooftop View, Tangiers, Morocco(?)">
+                                    <span class="related-artwork__obj">1946.35.60</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Rooftop View, Tangiers, Morocco(?)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30715">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78615_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.51</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30716">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78618_dynmc?width=3000&height=3000" alt="Inscription; Verso: Architectural Profile And Inscription">
+                                    <span class="related-artwork__obj">1946.35.53</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Architectural Profile and Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30717">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78608_dynmc?width=3000&height=3000" alt="Architectural Study; Verso: Sketches Of Vessels">
+                                    <span class="related-artwork__obj">1946.35.47</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Architectural Study; verso: Sketches of Vessels</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30718">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78598_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Study Of A Seated Woman">
+                                    <span class="related-artwork__obj">1946.35.38</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Study of a Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30719">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78606_dynmc?width=3000&height=3000" alt="Inscription; Verso: Clouds(?)">
+                                    <span class="related-artwork__obj">1946.35.46</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Clouds(?)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30720">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78602_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.43</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30722">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78592_dynmc?width=3000&height=3000" alt="Two Female Figures; Verso: Blank Page">
+                                    <span class="related-artwork__obj">1946.35.30</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Two Female Figures; verso: blank page</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30723">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78605_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.45</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30724">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78594_dynmc?width=3000&height=3000" alt="Inscription; Verso: Blank Page">
+                                    <span class="related-artwork__obj">1946.35.32</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Blank page</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30751">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78547_dynmc?width=3000&height=3000" alt="Endpaper; Verso: Inscription With Sketches">
+                                    <span class="related-artwork__obj">1946.35.1</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Endpaper; verso: Inscription with Sketches</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30752">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78620_dynmc?width=3000&height=3000" alt="Architectural And Ornament Studies; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.54</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Architectural and Ornament Studies; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30753">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78601_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Garden Arch">
+                                    <span class="related-artwork__obj">1946.35.42</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Garden Arch</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30755">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78595_dynmc?width=3000&height=3000" alt="Inscription; Verso: Sketch">
+                                    <span class="related-artwork__obj">1946.35.33</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Sketch</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30756">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78596_dynmc?width=3000&height=3000" alt="Inscription; Verso: Blank Page">
+                                    <span class="related-artwork__obj">1946.35.34</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Blank page</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/30757">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78554_dynmc?width=3000&height=3000" alt="Inscription (Recto And Verso)">
+                                    <span class="related-artwork__obj">1946.35.5</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31006">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78584_dynmc?width=3000&height=3000" alt="Ruins; Verso: Study Of A Tree">
+                                    <span class="related-artwork__obj">1946.35.25</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Ruins; verso: Study of a Tree</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31007">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78577_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Sketches Of A Centerpiece(?)">
+                                    <span class="related-artwork__obj">1946.35.20</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Sketches of a Centerpiece(?)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31008">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78590_dynmc?width=3000&height=3000" alt="Inscription; Verso: Studies Of Ceramics">
+                                    <span class="related-artwork__obj">1946.35.29</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Studies of Ceramics</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31009">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78569_dynmc?width=3000&height=3000" alt="Sketches Of Female Figures With Baskets Or Jugs;  Verso: Sketches Of Female Figures">
+                                    <span class="related-artwork__obj">1946.35.16</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Female Figures with Baskets or Jugs;  verso: Sketches of Female Figures</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31010">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78566_dynmc?width=3000&height=3000" alt="Faint Sketch Of Mountains; Verso: Olive Leaves">
+                                    <span class="related-artwork__obj">1946.35.14</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Faint Sketch of Mountains; verso: Olive Leaves</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31011">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78559_dynmc?width=3000&height=3000" alt="Architectural Decoration; Verso: Monumental Gate">
+                                    <span class="related-artwork__obj">1946.35.8</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Architectural Decoration; verso: Monumental Gate</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31012">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78558_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Figure Sketches">
+                                    <span class="related-artwork__obj">1946.35.7</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Figure Sketches</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31013">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78635_dynmc?width=3000&height=3000" alt="Figures In Doorway, Tangiers, Morocco(?)">
+                                    <span class="related-artwork__obj">1946.35.62</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Figures in Doorway, Tangiers, Morocco(?)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31014">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78616_dynmc?width=3000&height=3000" alt="Inscription (Recto And Verso)">
+                                    <span class="related-artwork__obj">1946.35.52</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31015">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78612_dynmc?width=3000&height=3000" alt="Figure Studies; Verso: Sketch">
+                                    <span class="related-artwork__obj">1946.35.49</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Figure Studies; verso: Sketch</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31016">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78614_dynmc?width=3000&height=3000" alt="Sketches And Inscription ("the Arts Of Industry Applied To Peace"?); Verso: Blank Page">
+                                    <span class="related-artwork__obj">1946.35.50</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Sketches and Inscription ("The Arts of Industry Applied to Peace"?); verso: blank page</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47193">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78593_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.31</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47194">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78581_dynmc?width=3000&height=3000" alt="Figure Studies; Verso: Sketch Of Flowers And Leaves(?)">
+                                    <span class="related-artwork__obj">1946.35.23</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Figure Studies; verso: Sketch of Flowers and Leaves(?)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47195">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78575_dynmc?width=3000&height=3000" alt="Sketches Of Trees And Figures Carrying Baskets; Verso: Interior Staircase">
+                                    <span class="related-artwork__obj">1946.35.19</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Trees and Figures Carrying Baskets; verso: Interior Staircase</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47196">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78573_dynmc?width=3000&height=3000" alt="Faint Sketch Of A Landscape; Verso: Sketches Of Figures Carrying Baskets On Their Backs">
+                                    <span class="related-artwork__obj">1946.35.18</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Faint Sketch of a Landscape; verso: Sketches of Figures Carrying Baskets on their Backs</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47197">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78562_dynmc?width=3000&height=3000" alt="Street In Assisi; Verso: Landscape/townscape (Continues On Page 13 Recto)">
+                                    <span class="related-artwork__obj">1946.35.12</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Street in Assisi; verso: Landscape/Townscape (continues on page 13 recto)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47198">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78553_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.4</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47199">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78549_dynmc?width=3000&height=3000" alt="Inscription; Verso: Inscription, With Sketch Of Head And Shoulders Of A Woman">
+                                    <span class="related-artwork__obj">1946.35.2</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Inscription, with Sketch of Head and Shoulders of a Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47200">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78551_dynmc?width=3000&height=3000" alt="Inscription With Sketch; Verso: Figure Sketches">
+                                    <span class="related-artwork__obj">1946.35.3</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription with Sketch; verso: Figure Sketches</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47662">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78586_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Female Figure">
+                                    <span class="related-artwork__obj">1946.35.26</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Female Figure</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47663">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78583_dynmc?width=3000&height=3000" alt="Studies Of Trees, Villa Albani; Verso: Blank Page">
+                                    <span class="related-artwork__obj">1946.35.24</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Studies of Trees, Villa Albani; verso: blank page</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47664">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78568_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Sketches Of Trees And Female Figures With Baskets Or Jugs">
+                                    <span class="related-artwork__obj">1946.35.15</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Sketches of Trees and Female Figures with Baskets or Jugs</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47665">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78556_dynmc?width=3000&height=3000" alt="Inscription; Verso: Outline In Lunette Shape">
+                                    <span class="related-artwork__obj">1946.35.6</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Outline in lunette shape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47668">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78571_dynmc?width=3000&height=3000" alt="Seated, Dancing, And Reaching Female Figures; Verso: Standing Female Figure">
+                                    <span class="related-artwork__obj">1946.35.17</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Seated, Dancing, and Reaching Female Figures; verso: Standing Female Figure</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47670">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78564_dynmc?width=3000&height=3000" alt="Landscape/townscape (Continued From Page 12 Verso); Verso: Landscape With Mountains">
+                                    <span class="related-artwork__obj">1946.35.13</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Landscape/Townscape (continued from page 12 verso); verso: Landscape with Mountains</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47672">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78561_dynmc?width=3000&height=3000" alt="Shield In The Bargello; Verso: Blank Page">
+                                    <span class="related-artwork__obj">1946.35.9</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Shield in the Bargello; verso: blank page</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47673">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78597_dynmc?width=3000&height=3000" alt="Blank Page; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.35</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47678">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78629_dynmc?width=3000&height=3000" alt="Harbor, Tangiers, Morocco(?)">
+                                    <span class="related-artwork__obj">1946.35.59</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Harbor, Tangiers, Morocco(?)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47679">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78628_dynmc?width=3000&height=3000" alt="Inscription; Verso: Endpaper">
+                                    <span class="related-artwork__obj">1946.35.58</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Endpaper</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47680">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78624_dynmc?width=3000&height=3000" alt="Inscription (Recto And Verso)">
+                                    <span class="related-artwork__obj">1946.35.56</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47681">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78622_dynmc?width=3000&height=3000" alt="Inscription (Recto And Verso)">
+                                    <span class="related-artwork__obj">1946.35.55</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Inscription (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47981">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:78579_dynmc?width=3000&height=3000" alt="Studies Of Baskets; Verso: Inscription">
+                                    <span class="related-artwork__obj">1946.35.22</span>
+                                      <h4 class="related-artwork__artist">Frederic Leighton</h4>
+                                                        <h3 class="related-artwork__title">Studies of Baskets; verso: Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:78543_dynmc?width=200&height=200" alt="Sketchbook">
+                <span class="popup__artwork-info-id">1946.35.1-62</span>
+        <span class="popup__artwork-info-author">
+                                    Frederic Leighton
+                              </span>
+        <span class="popup__artwork-info-title">Sketchbook</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297455%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297455">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297455" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Sketchbook+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297455" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297455" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_10041a564ef9d909ddc8c99a9f5c2d79" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

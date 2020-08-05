@@ -1,0 +1,1303 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Volume 8: Architecture and Perspectives, Various Works, Grotesques, Prisons, Views of Triumphal Arches, Trophies of Octavian Augustus, part I </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Volume 8: Architecture and Perspectives, Various Works, Grotesques, Prisons, Views of Triumphal Arches, Trophies of Octavian Augustus, part I" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/56688"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Volume 8: Architecture and Perspectives, Various Works, Grotesques, Prisons, Views of Triumphal Arches, Trophies of Octavian Augustus, part I" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?56688" data-behavior="add_to_collection tooltip" data-artwork="56688" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=56688" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/56688/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>M2869.8</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28089>Giovanni Battista Piranesi</a>, Italian                                                                                                                                                                                                                                                                          (Mogliano Veneto, Italy 1720 - 1778 Rome, Italy)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Volume 8: Architecture and Perspectives, Various Works, Grotesques, Prisons, Views of Triumphal Arches, Trophies of Octavian Augustus, part I</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Volume 8: Architecture and Perspectives, Various Works, Grotesques, Prisons, Views of Triumphal Arches, Trophies of Octavian Augustus, part I                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            book                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>18th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>Italian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/56688">https://hvrd.art/o/56688</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Etching</dd>
+           
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+            
+                          <dt>Edition</dt>
+              <dd>2nd Italian</dd>
+            
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Mrs. Henry Osborne Taylor in memory of her father, William Bradley Isham</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1925</dd>
+            
+            <dt>Object Number</dt>
+            <dd>M2869.8</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/57198">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.A</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Title page: Part I of Architecture and Perspectives (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59433">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.3</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ruins of an ancient tomb</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59434">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.2</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Remains of ancient buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59435">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.16.2</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Porticos surrounding a forum with a royal palace</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59853">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.1</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Group of columns</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59854">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.14.2</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Entrance to an ancient gymnasium</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59855">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.17.2</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Triumphal bridge (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59856">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.18.2</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ruins of Egyptian and Greek monuments</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59876">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.4</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ancient altar</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/59877">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.15.2</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">View of one of the ancient circuses (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69432">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.5</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Magnificent bridge</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69680">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.47</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Arch of Titus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69681">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.39</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Pier with a Lamp</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69682">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.36</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Sawhorse</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69683">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.44</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Transcription of ancient Latin inscriptions and index</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69684">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.37</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Well</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69685">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.27</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Round Tower</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69686">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.25</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Title page: Imaginary Prisons of G. Battista Piranesi (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69687">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.22</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Triumphal Arch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69688">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.21</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Skeletons</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69689">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.19</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Plan of a spacious and magnificent college</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69690">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.11</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ancient Roman forum</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69691">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.7</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ancient Capitol</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69708">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.51</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Temple of Janus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69709">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.50</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ruins of the temple of Jupiter Stator</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69710">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.43</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Transcription of various ancient Latin inscriptions</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69711">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.42</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Dedication to Giovanni Bottari</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69712">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.38</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Gothic Arch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69713">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.35</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Arch with a Shell Ornament</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69714">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.29</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Lion Bas-Reliefs</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69715">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.28</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Grand Piazza</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69716">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.16.1</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ancient school built in Egyptian and Greek styles</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69717">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.15.1</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ancient baths</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69718">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.13</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Sepulchral chamber</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69719">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.12</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ancient temple</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69730">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.34</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Prisoners on a Projecting Platform</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69731">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.24</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Monumental Tablet</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69732">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.20</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Part of a spacious and magnificent harbor</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69733">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.18.1</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Imaginary reconstruction of a royal atrium</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69734">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.17.1</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Portion of a hanging city approachable by sea (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69735">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.10</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Vestibule of an ancient temple</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69736">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.6</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Hall according to the custom of the ancient Romans</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69935">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.77</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Enlarged section of the Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69936">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.78</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Enlarged section of the Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69937">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.80</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Fragments of friezes and capitals</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69938">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.83</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Various capitals and fragments of columns</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69959">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.76</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Enlarged section of the Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69967">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.79</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Fragments of frieze, columns and capitals</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69968">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.82</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Various capitals and fragments of columns</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69980">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.72</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69981">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.64</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Amphitheater of Verona</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69982">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.60</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Temple of Pola in Istria</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69983">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.57</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Tomb of the Scipios</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/69984">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.53</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Arch of Septimius Severus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70000">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.75</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70001">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.81</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Various ornamental fragments</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70007">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.71</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">View of the remains of the castle beside the Acqua Giulia</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70014">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.73</span>
+                                      <h4 class="related-artwork__artist">Francesco Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Enlarged section of the Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70015">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.67</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Tomb of Cecilia Metella called Capo di Bove</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70016">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.65</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Temple of Clitumnus between Foligno and Spoleto...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70017">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.62</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Amphitheater of Pola in Istria</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70029">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.74</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Enlarged section of the Trophy of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70030">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.69</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Temple of Minerva Medica</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70031">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.68</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Arch of Gallienus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70032">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.61</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Rear view of the temple of Pola in Istria</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70033">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.56</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Title page: Roman Antiquities outside Rome (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70034">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.52</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Flavian amphitheater, called the Colosseum</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70087">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.70</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Title page: Trophies of Octavian Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70088">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.66</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Tomb of the Three Curiatii brothers in Albano</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70089">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.63</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Arch of Pola in Istria</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70090">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.59</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The arch of Rimini</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70091">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.58</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Arch of Drusus at the Porta Sebastiano</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70092">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.55</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Forum of Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70093">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.54</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Ponte Senatorio, today called the Ponte Rotto</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70134">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.49</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Arch of Constantine in Rome</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70135">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.48</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Temple of Jupiter Tonans</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70152">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.46</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Part of the forum of Nerva</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70153">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.45</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">View of the arch built in honor of Augustus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70154">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.41</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Some views of triumphal arches</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70155">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.40</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Pier with Chains</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70156">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.33</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Giant Wheel</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70157">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.32</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Staircase with Trophies</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70158">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.31</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Drawbridge</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70159">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.30</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Smoking Fire</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70160">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.26</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Man in the Rack</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70161">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.23</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">The Tomb of Nero</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70162">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.14.1</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Intersection of the Via Appia and the Via Ardeantina (2nd state)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70163">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.9</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Royal courtyard</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/70164">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M2869.8.8</span>
+                                      <h4 class="related-artwork__artist">Giovanni Battista Piranesi</h4>
+                                                        <h3 class="related-artwork__title">Stairways</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">M2869.8</span>
+        <span class="popup__artwork-info-author">
+                                    Giovanni Battista Piranesi
+                              </span>
+        <span class="popup__artwork-info-title">Volume 8: Architecture and Perspectives, Various Works, Grotesques, Prisons, Views of Triumphal Arches, Trophies of Octavian Augustus, part I</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2056688%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F56688">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F56688" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Volume+8%3A+Architecture+and+Perspectives%2C+Various+Works%2C+Grotesques%2C+Prisons%2C+Views+of+Triumphal+Arches%2C+Trophies+of+Octavian+Augustus%2C+part+I+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F56688" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/56688" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_8f2f36441d0f173d8c9442c6adc9e27e" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

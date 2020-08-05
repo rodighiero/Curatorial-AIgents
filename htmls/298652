@@ -1,0 +1,784 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections An Alpine Landscape </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections An Alpine Landscape" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/298652"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71773_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" An Alpine Landscape" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481303" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71773_dynmc?width=3000&height=3000" data-initial-image-id="18481303" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?298652" data-behavior="add_to_collection tooltip" data-artwork="298652" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=298652&amp;image_id=71773" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/298652/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1932.369</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                Attributed to <a href=https://www.harvardartmuseums.org/collections/person/28507>Roelant Savery</a>, Flemish                                                                                                                                                                                                                                                                          (Kortrijk, Netherlands 1576 - 1639 Utrecht, Netherlands)
+                                            <br>
+                                                                Previously attributed to <a href=https://www.harvardartmuseums.org/collections/person/30001>Pieter Bruegel, the Elder</a>, Netherlandish                                                                                                                                                                                                                                                                          (Breda (?), Belgium 1526/30 - 1569 Brussels, Belgium)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>An Alpine Landscape</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>16th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>Flemish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/298652">https://hvrd.art/o/298652</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink over black chalk on cream antique laid paper, the whole sheet later retouched with light brown-gray wash; framing line in brown ink, mounted overall</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>30.2 x 45.6 cm (11 7/8 x 17 15/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: mount, verso, upper left, graphite: 10 [encircled] / Dominigo Camfanialo
+                        </li>
+                                              <li data-a="2">
+                          watermark: Grapes.  Related to Briquet 13192 (without monogram; Brabant, 1580)
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, verso, upper right, brown ink: No. 72
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower right, red chalk: 1
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Charles A. Loeser, Florence; bequest of Charles A. Loeser, 1932.369.</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 81 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>In his biography of Pieter Bruegel the Elder in <em>Het Schilderboeck</em> (The Painter’s Book) of 1604, Karel van Mander formulated an earthy, and later frequently quoted, image to underscore the verisimilitude of the artist’s paintings of mountains. “On his travels he drew many views from life, so that it is said that when he was in the Alps he swallowed all those mountains and rocks which, upon returning home, he spat out again onto canvases and panels, so faithfully was he able, in this respect and others, to follow Nature.”<sup class="footnote" id="fnrev14339546805ef6642d62a57-1"><a href="#fn14339546805ef6642d62a57-1">1</a></sup></p>
+
+<p>The Harvard <em>Alpine Landscape</em> belongs to a group of some twenty drawings, nearly all of mountainous scenery, which scholars long believed to be the type of study from nature that Van Mander had in mind.<sup class="footnote" id="fnrev14339546805ef6642d62a57-2"><a href="#fn14339546805ef6642d62a57-2">2</a></sup> However, as Hans Mielke demonstrated in two articles published in 1991 and reiterated in his 1996 catalogue raisonné of Bruegel’s drawings, the attribution of these alpine scenes cannot be sustained—a conclusion he initially reached after learning that the watermarks in two of the sheets date from at least fifteen years after the artist’s death.<sup class="footnote" id="fnrev14339546805ef6642d62a57-3"><a href="#fn14339546805ef6642d62a57-3">3</a></sup> The mountain landscapes constitute a coherent group, but none are signed, and differences in technique and spatial composition distinguish them from incontrovertibly autograph works by the artist (e.g., <a href="https://www.harvardartmuseums.org/collections/object/191990?position=0">1999.132</a>) .<sup class="footnote" id="fnrev14339546805ef6642d62a57-4"><a href="#fn14339546805ef6642d62a57-4">4</a></sup> Details in several of the drawings correspond to passages in four of the etchings after Bruegel’s designs known as the Large Landscapes, which were published in Antwerp about 1555.<sup class="footnote" id="fnrev14339546805ef6642d62a57-5"><a href="#fn14339546805ef6642d62a57-5">5</a></sup> Earlier scholars supposed that Bruegel consulted the drawings when composing the prints, but Mielke showed that, on the contrary, the draftsman of the mountain views copied those details from the Large Landscapes.<sup class="footnote" id="fnrev14339546805ef6642d62a57-6"><a href="#fn14339546805ef6642d62a57-6">6</a></sup> Additionally, the outline of a massif in one of the mountain landscapes was traced from an etching published nearly three decades after Bruegel died.<sup class="footnote" id="fnrev14339546805ef6642d62a57-7"><a href="#fn14339546805ef6642d62a57-7">7</a></sup> Bruegel’s autograph models for two of the Large Landscapes have survived, and their pen work and representation of space differ from those of the Harvard work and others in the group.<sup class="footnote" id="fnrev14339546805ef6642d62a57-8"><a href="#fn14339546805ef6642d62a57-8">8</a></sup></p>
+
+<p>The draftsman of the <em>Alpine Landscape</em> completed the drawing in two campaigns. For the mountains and sky that occupy most of the sheet he drew minute, closely spaced, delicate lines in a reddish-brown ink, while he executed the figures, trees, and church in the foreground with fewer and more forceful strokes in a darker, grayish-brown ink. The handling of the foreground is closely comparable to the technique of a village scene in Berlin, the only landscape in the group that does not represent an alpine panorama (Fig. 1).<sup class="footnote" id="fnrev14339546805ef6642d62a57-9"><a href="#fn14339546805ef6642d62a57-9">9</a></sup> The additive compositional process—development of the design in stages distinguishable by their different inks—was followed in other works in the group of mountain landscapes. In several of them, including the Harvard example, the draftsman left the immediate foreground incomplete.<sup class="footnote" id="fnrev14339546805ef6642d62a57-10"><a href="#fn14339546805ef6642d62a57-10">10</a></sup> The pen work in the Harvard sheet, in both foreground and distance, is over an incomplete preliminary sketch in black chalk that outlines prominent features of the landscape. Traces of the sketch remain visible beneath the contours of some of the distant mountain ridges and the steeple of the chapel at lower left.</p>
+
+<p>Mielke dated the mountain landscapes to the end of the sixteenth century and tentatively ascribed them to Roelant Savery.<sup class="footnote" id="fnrev14339546805ef6642d62a57-11"><a href="#fn14339546805ef6642d62a57-11">11</a></sup> In the 1590s, Roelant’s brother Jacob produced an extensive group of drawings of alpine and village views, most of which he “signed” with Bruegel’s name and supplied with dates from 1559 to 1562. These passed as Bruegel originals until 1986, when Mielke exposed them, on the basis of their technique and style, as forgeries by Jacob.<sup class="footnote" id="fnrev14339546805ef6642d62a57-12"><a href="#fn14339546805ef6642d62a57-12">12</a></sup> That one of the Savery brothers was also responsible for the mountain landscapes seems plausible.<sup class="footnote" id="fnrev14339546805ef6642d62a57-13"><a href="#fn14339546805ef6642d62a57-13">13</a></sup> Not only did Jacob produce a group of brilliant Bruegel imitations, but Roelant proved to be the author of an extensive group of figure studies—the so-called <em>naer het leven</em> (“from life”) drawings—that were ascribed to Bruegel until 1970.<sup class="footnote" id="fnrev14339546805ef6642d62a57-14"><a href="#fn14339546805ef6642d62a57-14">14</a></sup> Additionally, the pen work in original drawings by both of these versatile masters purposefully emulates Bruegel’s technique and closely resembles the handling of the mountain landscapes.<sup class="footnote" id="fnrev14339546805ef6642d62a57-15"><a href="#fn14339546805ef6642d62a57-15">15</a></sup> In any event, no consensus has developed regarding the attribution of these impressive drawings. When a selection of them was shown in the 2001 exhibition <em>Pieter Bruegel the Elder: Drawings and Prints</em>, they were given to an unidentified Master of the Mountain Landscapes.<sup class="footnote" id="fnrev14339546805ef6642d62a57-16"><a href="#fn14339546805ef6642d62a57-16">16</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-1"><sup><a href="#fnrev14339546805ef6642d62a57-1">1</a></sup> Nadine M. Orenstein, ed., <em>Pieter Bruegel the Elder: Drawings and Prints</em> (Rotterdam: Museum Boijmans Van Beuningen; New York: Metropolitan Museum of Art, 2001), p. 166; Karel van Mander and Hessel Miedema, ed., <em>The Lives of the Illustrious Netherlandish and German Painters, from the First Edition of the Schilder-boeck (1603–04)</em> (Doornspijk, Netherlands, 1994–99), vol. 1, p. 190.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-2"><sup><a href="#fnrev14339546805ef6642d62a57-2">2</a></sup> For example, Ludwig Münz, <em>Bruegel: The Drawings</em> (London, 1961), pp. 15–16; Matthias Winner in Hans Mielke, <em>Pieter Bruegel d. Ä. als Zeichner</em> (Berlin: Staatliche Museen zu Berlin, Preussischer Kulturbesitz, 1975), p. 6; Walter S. Gibson, <em>Mirror of the Earth: The World Landscape in Sixteenth‑Century Flemish Painting</em> (Princeton, New Jersey, 1989), p. 64. For the group of mountain landscapes, see Hans Mielke, <em>Pieter Bruegel: Die Zeichnungen</em> (Turnhout, Netherlands, 1996), cats. A1–A20, pp. 74–80; and Orenstein, pp. 266–67 and cats. 120–25, pp. 268–76.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-3"><sup><a href="#fnrev14339546805ef6642d62a57-3">3</a></sup> Hans Mielke, “Noch einmal zum Problem von Pieter Bruegels Landschaftszeichnungen: Eigene Studien oder Ableitungen?” <em>Münchner Jahrbuch der bildenden Kunst</em>, series 3, vol. 42 (1991): 137–47, and Hans Mielke, “Pieter Bruegel d. Ä.: Probleme seines zeichnerischen Oeuvres,” <em>Jahrbuch der Berliner Museen</em>, n.s., vol. 33 (1991): 129–34., and Mielke (1996), pp. 74–80.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-4"><sup><a href="#fnrev14339546805ef6642d62a57-4">4</a></sup> Compare also other authentic landscapes of Bruegel’s Italian period (Mielke, 1996, cats. 1–17, 21, and 22), as well as the two autograph models for etchings in the group of Large Landscapes (ibid., cats. 23 and 24).</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-5"><sup><a href="#fnrev14339546805ef6642d62a57-5">5</a></sup> Mielke (1991a), pp. 137–42; Orenstein, pp. 266–67, and cats. 22–35, pp. 120–36.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-6"><sup><a href="#fnrev14339546805ef6642d62a57-6">6</a></sup> Mielke (1991a), pp. 137–42, and 1996, p. 74; Orenstein, pp. 266–67.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-7"><sup><a href="#fnrev14339546805ef6642d62a57-7">7</a></sup> Mielke (1991a), pp. 142–43, and 144, figs. 8 and 9.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-8"><sup><a href="#fnrev14339546805ef6642d62a57-8">8</a></sup> Autograph models for prints in the Large Landscapes group are Mielke (1996), cats. 23 and 24, p. 44. Mielke’s cat. 25, which he believed to be the model for one of the Large Landscapes, has since been attributed to the group of mountain landscapes; Martin Royalton-Kisch, “[Review] Pieter Bruegel: Die Zeichnungen,” <em>The Burlington Magazine</em>, vol. 140, no. 1140 (March 1998): 207–8, p. 208, and Orenstein, p. 266, and cat. 125, pp. 274–75.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-9"><sup><a href="#fnrev14339546805ef6642d62a57-9">9</a></sup> Attributed to Roelant Savery, <em>Path through a Village</em> (Fig. 1). Brown ink. 154 × 216 mm. Berlin, Staatliche Museen zu Berlin, Kupferstichkabinett, KdZ 4468. Mielke (1996), cat. A16, p. 79, repr. p. 207; Orenstein, cat. 124, p. 274.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-10"><sup><a href="#fnrev14339546805ef6642d62a57-10">10</a></sup> Other drawings in the group of mountain landscapes were completed in different inks or left incomplete in the foreground; Mielke (1996), cat. A1, pp. 74–75; cats. A6– A8, pp. 76–77; cat. A11, p. 78 (different inks); cat. A2, p. 75; and cats. A13–15, pp. 78–79 (incomplete foregrounds). See also Orenstein, under cat. 120, p. 268, and under cat. 123, p. 272.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-11"><sup><a href="#fnrev14339546805ef6642d62a57-11">11</a></sup> Mielke (1991a), pp. 142 and 146; 1991b, pp. 133–34; and 1996, p. 74.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-12"><sup><a href="#fnrev14339546805ef6642d62a57-12">12</a></sup> Hans Mielke, “[Review] <em>L’époque de Lucas de Leyde et Pierre Bruegel: Dessins des Anciens Pays-Bas: Collection Frits Lugt</em>. Exh. cat. by Karel G. Boon, Paris, Fondation Custodia, Frits Lugt Collection,” <em>Master Drawings</em>, vol. 23/24, no. 1 (1985–86): 75–90, pp. 76–81; and Mielke (1996), cats. A21–A45, pp. 80–85.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-13"><sup><a href="#fnrev14339546805ef6642d62a57-13">13</a></sup> In his review of Mielke’s catalogue raisonné, Martin Royalton-Kisch suggested that Jacob Savery could be the author of the mountain landscapes; Royalton-Kisch, p. 208, n. 2.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-14"><sup><a href="#fnrev14339546805ef6642d62a57-14">14</a></sup> Manfred Sellink in Orenstein, pp. 282–88.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-15"><sup><a href="#fnrev14339546805ef6642d62a57-15">15</a></sup> Mielke (1991b), p. 133; and 1996, p. 74, and under cats. A8–A9, p. 75. Bertram Kaschek, “Bruegel in Prag: Anmerkungen zur Rezeption Pieter Bruegels d. Ä. um 1600,” in <em>Studia Rudolphina (Bulletin of the Research Center for Visual Arts and Culture in the Age of Rudolph II)</em>, vol. 7 (2007): 44–58, pp. 51–52; Stefan Bartilla in Isabelle De Jaegere and Olga Kotková, eds., <em>Roelandt Savery, 1576–1639: A Painter in the Services of Emperor Rudolf II</em> (Prague: Národní Galerie v Praze; Kortrijk, Belgium: Broelmuseum, 2010), pp. 128–29.</p>
+
+<p class="footnote" id="fn14339546805ef6642d62a57-16"><sup><a href="#fnrev14339546805ef6642d62a57-16">16</a></sup> Orenstein, pp. 266–67, and cats. 120–25, pp. 268–76.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/298652/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Attributed to Roelant Savery, <em>Path through a Village</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Charles A. Loeser</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1932</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1932.369</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Charles de Tolnay, "Beiträge zu Bruegels Zeichnungen", <em>Jahrbuch der Preussischen Kunstsammlungen</em> (1929), vol. 50, pp. 195-216, p. 199, repr. pl. 1 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Charles de Tolnay, <em>Pierre Bruegel l'ancien</em> (Brussels, Belgium, 1935), vol. 1, supp. cat. no. 4, pp. 101-2, p. 15 and 64 (n. 29), vol. 2, p. 18, repr. pl. CIV, no. 174 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Agnes Mongan and Paul J. Sachs, <em>Drawings in the Fogg Museum of Art</em>, Harvard University Press (Cambridge, 1940), vol. 1, cat. no. 459, p. 237, repr.  vol. 2, fig. 234 (as Pieter Brueghel the Elder)
+                             </p>
+                                                      <p>
+                                              <em>A Thousand Years of Landscape East and West (Paintings, Drawings, Prints)</em>, exh. cat., Museum of Fine Arts, Boston (Boston, 1945), p. 2 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Hans Tietze, <em>European Master Drawings in the United States</em>, J. J. Augustin, Inc. (New York, 1947), cat. no. 42, pp. 84-5, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Arthur Pope, <em>The Language of Drawing and Painting</em>, Oxford University Press (UK) (London, 1949), p. 63, repr. plate XV (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Charles de Tolnay, <em>Drawings of Pieter Bruegel the Elder</em>, The Twin Editions (New York, New York, 1952), cat. no. 17, p. 59, repr. pl. X, fig. 17 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Felice Stampfle, <em>Landscape Drawings & Water-colors</em>, exh. cat., Pierpont Morgan Library (New York, 1953), cat. no. 47, p. 23 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 4, p. 1 (as Peter Brueghel the Elder)
+                             </p>
+                                                      <p>
+                                              Benjamin Rowland, Jr., <em>Art in East and West: An Introduction through Comparisons</em>, Harvard University Press (Cambridge, Massachusetts, 1954), pp. 80-81 and 84, repr. p. 82, fig. 33 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              F. Grossman, The Drawings of Pieter Bruegel the Elder in the Museum Boymans and Some Problems of Attribution, <em>Bulletin Museum Boymans</em>, Museum Boymans (Rotterdam, July 1954), vol. 5, no. 2, pp. pp. 34-63, pp. 53-54 (Dutch translation, p. 37; as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "The Fogg Art Museum's Collection of Drawings", <em>Harvard Library Bulletin</em>, Harvard University (Cambridge, 1958), vol. 3, no. 2, March, pp. 5-9, p. 201 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Charles de Tolnay, “Remarques sur quelques dessins de Bruegel l’Ancien et sur un dessin de Bosch récemment réapparus", <em>Bulletin (Musées Royaux des Beaux-Arts de Belgique)</em> (1960), vol. ix, nos. 1-2, pp. 3-28, p. 17 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Ludwig Münz, <em>Bruegel The Drawings</em>, Phaidon Press (London, 1961), cat. no. 18, p. 210, repr. pl. 17 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Los Angeles County Museum and Ebria Feinblatt, <em>Prints and Drawings of Pieter Bruegel the Elder</em>, exh. cat. (Los Angeles, California, March 22 - May 7 1961), cat. no. 104, pp.62-63 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Otto Benesch, Jan Gerrit van Gelder, and Egbert Haverkamp-Begemann, <em>Great Drawings of All Time [vol. 2: German, Flemish and Dutch]</em>, ed. Ira Moskowitz, Shorewood Publishers Inc. (New York, 1962), cat. no. 498, n.p., repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Creighton Gilbert, <em>Major Masters of the Renaissance</em>, exh. cat., Brandeis University (Waltham, Massachusetts, 1963), cat. no 15, pp. 22-23, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967), n.p., repr. (as Pieter Brueghel the Elder)
+                             </p>
+                                                      <p>
+                                              Heinrich Gerhard Franz, <em>Niederländische Landschaftsmalerei im Zeitalter Manierismus</em>, Akademische Druck- u. Verlagsanstalt (Graz, 1969), repr. vol. 2, p. 107, fig. 200 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Bob Claessens and Jeanne Rousseau, <em>Notre Bruegel</em>, Fonds Mercator (Anvers, Belgium, 1969), section not paginated under "table synoptique/1558" (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Staatliche Museen Berlin, Preussischer Kulturbesitz, <em>Pieter Bruegel d. Ä. als Zeichner</em>, exh. cat., Verlag Gebr. Mann (Berlin, 1975), cat. no. 58, pp. 53-54, repr. fig. 84 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, "Charles Loeser as a Collector of Drawings", <em>Apollo</em> (June 1978), vol. CVII, no. 196, pp. 464-469, p. 468, repr. p. 467, fig. 6 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Justus Müller Hofstede, “Zur Interpretation von Pieter Bruegels Landschaft Ästhetischer Lansdschaftsbegriff und Stoische Weltbetrachtung", <em>Pieter Bruegel und Seine Welt</em>, ed. Otto von Simson and Matthias Winner, Gebr. Mann Verlag (Berlin, 1979), pp. 94, 99, 111, 125, and 139 (n. 263) (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Tokyo, 1979), cat. no. 29, n.p., pl. 29, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, ed., <em>Old Master Drawings: Selections from the Charles A. Loeser Bequest</em>, Fogg Art Museum (Cambridge, MA, 1979), pp. 102-103, cat. no. 45, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Philippe Roberts-Jones, "Les Brueghel, l'homme et la nature", <em>L'oeil</em> (Lausanne, October 1980), No. 303, pp. 74-81, p. 74, repr. fig. 1 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              <em>Bruegel, Une dynastie de peintres</em>, exh. cat. (Brussels, 1980), cat. no. 8, p. 62-65 and 73, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, "Bruegel's Early Landscape Drawings", <em>Master Drawings</em>, Master Drawings Association (New York, Summer 1981), vol. 19, no. 2, pp. 146-156, pp. 146-150 and 154 (n. 5), repr. pl. 18, detail pl. 19 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Reinhard Liess, "Die Kleinen Landschaften Pieter Bruegels D.A. im Lichte seines Gesamtwerk", <em>Kunsthistorisches Jahrbuch Graz</em>, Akademische Druck- u. Verlagsanstalt (Graz, Austria, 1982), vol. XVIII, no. 3, p. 159 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Herman Liebaers, ed., <em>Flemish Art, from the Beginning till Now</em>, Mercatorfonds (Antwerp, 1985), p. 276, repr. (as Pieter Brueghel the Elder)
+                             </p>
+                                                      <p>
+                                              David P. Becker, <em>Old Master Drawings at Bowdoin College</em>, exh. cat., Bowdoin College Museum of Art (Brunswick, ME, 1985), under cat. no. 8, p. 22 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), cat. no. 263, p. 225, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              John Oliver Hand, J. R. Judson, and William W. Robinson, <em>The Age of Bruegel: Netherlandish Drawings in the Sixteenth Century</em>, exh. cat., National Gallery of Art/Cambridge University Press (Washington, D.C. and Cambridge, England, 1986), under cat. no. 25, p. 94
+                             </p>
+                                                      <p>
+                                              Roger H. Marijnissen, P. Ruyffelaere, and P. van Calster, <em>Bruegel Tout l'euvre peint et dessiné</em>, Fonds Mercator (Anvers, France, 1988), p. 72, repr. (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Walter S. Gibson, <em>Mirror of the Earth: The World Landscape in Sixteenth-Century Flemish Painting</em>, Princeton University Press (Princeton, New Jersey, 1989), p. 62 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Walter S. Gibson, "La glorification de la Montagne: le paysage alpestre dans l'art de Pieter Bruegel l'ancien", <em>La Montagne et ses images du peintre d'Akrésilas à Thomas Cole</em>, ed. Actes du 116e Congrès National des Sociétés Savantes, C.T.H.S. (Paris, 1991), pp 176-200, pp. 178, 181 and 185, repr. p. 191, fig. 6 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Felice Stampfle, <em>Netherlandish Drawings of the Fifteenth and Sixteenth Centuries and Flemish Drawings of the Seventeenth and Eighteenth Centuries in the Pierpont Morgan Library</em>, Pierpont Morgan Library (New York, 1991), under cat. no. 43, p. 26 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Marian Bisanz-Prakken, <em>Die Landschaft im Jahrhundert Rembrandts</em>, exh. cat., Albertina (Vienna, 1993), under cat. no. 9, p. 30 (n. 3)
+                             </p>
+                                                      <p>
+                                              Hans Mielke, <em>Pieter Bruegel: Die Zeichnungen</em>, Brepols (Turnhout, 1996), pp. 74, 77, cat. no. A9, repr. p. 204 (as probably Roelant Savery)
+                             </p>
+                                                      <p>
+                                              Philippe Roberts-Jones and Françoise Roberts-Jones, <em>Pierre Bruegel l'Ancien</em>, Flammarion (Paris, France, 1997), pp. 67, 329, and 334 (notes 23-27), repr. p. 66, fig. 78 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Nina Eugenia Serebrennikov, "Hans Mielke 'Pieter Bruegel: Die Zeichnungen'" [Review], <em>The Art Bulletin</em>, College Art Association of America (New York, March 1998), vol. 80, no. 1, pp. 176-180, p. 177 (as not by Bruegel)
+                             </p>
+                                                      <p>
+                                              Jan Simane, Wolfgang Behringer, and Bernd Roeck, "Die Welt im Bild -- Städte- und Landschaftsdarstellungen im 16. und 17. Jahrhundert", <em>Das Bild der Stadt in der Neuzeit 1400-1800</em>, Verlag C.H. Beck (Munich, 1999), pp. 61 and 432 (n. .25), repr. p. 62, fig. 18 (as Pieter Bruegel the Elder)
+                             </p>
+                                                      <p>
+                                              Carlo Francini, "L'inventario della collezione Loeser alla Villa Gattaia", <em>Bollettino della Società di Studi Fiorentini</em> (2000), no. 6, p. 122 ("Cartella C.L."), p. 13
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 14; cat. no. 81, pp. 272-274, repr. p. 273
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>A Thousand Years of Landscape East and West</em>, Museum of Fine Arts, Boston, Boston, 10/24/1945 - 12/09/1945
+                            </p>
+                          <p>
+                              <em>Landscape Drawings and Watercolors</em>, Pierpont Morgan Library, New York, 01/01/1953 - 12/31/1953
+                            </p>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>Art in East and West</em>, Addison Gallery of American Art, Andover, 02/04/1955 - 02/28/1955
+                            </p>
+                          <p>
+                              <em>Prints and Drawings of Pieter Bruegel the Elder</em>, Los Angeles County Museum, 03/22/1961 - 05/07/1961
+                            </p>
+                          <p>
+                              <em>Major Masters of the Renaissance</em>, Rose Art Museum, Brandeis University, Waltham, 05/03/1963 - 06/09/1963
+                            </p>
+                          <p>
+                              <em>Art of the Northern Renaissance</em>, Busch-Reisinger Museum, 02/13/1967 - 04/01/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Pieter Bruegel d. Ä. als Zeichner</em>, Staatliche Museen Berlin, Preussischer Kulturbesitz, 09/19/1975 - 11/16/1975
+                            </p>
+                          <p>
+                              <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 11/03/1979 - 12/16/1979
+                            </p>
+                          <p>
+                              <em>Northern Renaissance Art: Selected Works</em>, Busch-Reisinger Museum, Cambridge, 02/28/1984 - 04/08/1984
+                            </p>
+                          <p>
+                              <em>Prints and Drawings from the Time of Holbein and Breugel</em>, Busch-Reisinger Museum, Cambridge, 11/21/1985 - 01/12/1986
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/351156">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8757</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Attributed to Roelant Savery</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "An Alpine Landscape"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71773_dynmc?width=200&height=200" alt="An Alpine Landscape">
+                <span class="popup__artwork-info-id">1932.369</span>
+        <span class="popup__artwork-info-author">
+                                    Attributed to Roelant Savery
+                          Previously attributed to Pieter Bruegel, the Elder
+                              </span>
+        <span class="popup__artwork-info-title">An Alpine Landscape</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20298652%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298652">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298652" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=An+Alpine+Landscape+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298652" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/298652" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_236e6ed2d6c0c636b40f03d781ecfac0" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

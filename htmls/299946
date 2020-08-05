@@ -1,0 +1,731 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Thomas Boylston II (1721-1798) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Thomas Boylston II (1721-1798)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299946"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:huam:INV230300_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Thomas Boylston II (1721-1798)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_42752769" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:huam:INV230300_dynmc?width=3000&height=3000" data-initial-image-id="42752769" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption  hidden ">
+                                                    </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299946" data-behavior="add_to_collection tooltip" data-artwork="299946" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299946&amp;image_id=INV230300" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299946/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="INV230300">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:INV230300_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="John Singleton Copley"  title="Thomas Boylston Ii (1721-1798)" data-object-caption="" data-object-copyright="" data-image-id="42752769" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:INV230300_dynmc?width=125&height=125" alt="Thomas Boylston Ii (1721-1798)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="82289">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS82289_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="John Singleton Copley"  title="Thomas Boylston Ii (1721-1798)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20684810" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS82289_dynmc?width=125&height=125" alt="Thomas Boylston Ii (1721-1798)">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>John Singleton Copley was among the most prominent portraitists in colonial Boston. In 1766, he was commissioned to paint three portraits of the Boylston family, which had amassed a fortune sending enslaved Africans and foreign goods to the Americas. Like many of his Boston portraits, Copley’s likenesses are a blend of fact and fiction. He combined detailed renderings of the sitters’ faces and garments with invented settings to convey the family’s wealth and status.</p>
+<p>Copley portrayed the Boylstons in extravagant imported clothing. Sarah (1696–1774), seen in the portrait nearby, wears a sumptuous satin dress, while her sons are draped in richly textured dressing gowns, or “banyans,” exotic attire that conveyed their cosmopolitan identity and global power. Other elements in the portraits, like the large ledgers and the ship in this portrait of Nicholas (1716–1771), suggest the family’s mercantile identity without showing what—or whom— they traded.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>H29</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/33430>John Singleton Copley</a>, American                                                                                                                                                                                                                                                                          (Boston, MA 1738 - 1815 London, England)
+                                            <br>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/10891>Thomas Boylston, Jr.</a>                                                                                                                                                                      (1721 - 1798)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Thomas Boylston II (1721-1798)</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1767-1769</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: North America, United States, Massachusetts, Boston                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299946">https://hvrd.art/o/299946</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2240, European and American Art, 17th–19th century, The Arts in the Eighteenth–Century Atlantic World<br>
+            <a href="/visit/floor-plan/2?gallery=2240" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>126.9 x 102 cm (49 15/16 x 40 3/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>The sitter; to Moses Gill (the sitter's brother-in-law); to Ward Nicholas Boylston (the sitter's nephew), bequest; to Harvard College, 1828.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard University Portrait Collection, Bequest of Ward Nicholas Boylston to Harvard College, 1828</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>H29</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Catalogue of the Second Exhibition of Paintings in the Athenaeum Gallery</em>, exh. cat., Boston Athenaeum (Boston, MA, 1828), p. 39, cat. 7
+                             </p>
+                                                      <p>
+                                              Henry T. Tuckerman, <em>Book of the Artists: American Artist Life, Comprising Biographical and Critical Sketches of American Artists, Preceded by an Historical Account of the Rise and Progress of Art in America</em>, Putnam (New York, NY, 1867), p. 72
+                             </p>
+                                                      <p>
+                                              Augustus Thorndyke Perkins, <em>A Sketch of the Life and a List of Some of the Works of John Singleton Copley</em>, J. R. Osgood & Company (Boston, MA, 1873), p. 38
+                             </p>
+                                                      <p>
+                                              Susan Nichols Carter, "Paintings at the Centennial Exhibition", <em>Art Journal</em> (1876), vol. 2. pp. 283-285, p. 284
+                             </p>
+                                                      <p>
+                                              Clarence Cook, "The Fine Art Department. American Pictures: Second Notice", <em>New York Daily Tribune</em> (June 3, 1876), p. 2, p. 2
+                             </p>
+                                                      <p>
+                                              "The Fine Arts: United States Section--Painting in Oil", <em>Philadelphia Evening Bulletin</em> (Philadelphia, PA, June 23, 1876), p. 1, p. 1
+                             </p>
+                                                      <p>
+                                              United States Centennial Commission, <em>International Exhibition, 1876, Official Catalogue, Art Gallery and Annexes</em>, exh. cat., John R. Nagle & Co. (Philadelphia, PA, 1876), p. 19, cat. 91
+                             </p>
+                                                      <p>
+                                              Boston Art Club, <em>Massachusetts Centennial Art Exhibition</em>, exh. cat. (Boston, MA, 1876), cat. 121
+                             </p>
+                                                      <p>
+                                              William Howe Downes, "Boston Painters and Paintings, Part I: The Pre-Copleyites, Copley, Trumbull", <em>The Atlantic Monthly</em> (Boston, MA, July 1888), vol. 62 no. 369, pp. 89-98., pp. 93-94
+                             </p>
+                                                      <p>
+                                              William Garrott Brown, <em>A List of Portraits in the Various Buildings of Harvard University</em>, Harvard University Library (Cambridge, MA, 1898), p. 9
+                             </p>
+                                                      <p>
+                                              Frank William Bayley, <em>A Sketch of the Life and a List of Some of the Works of John Singleton Copley</em>, The Garden Press, W. B. Libby (Boston, MA, 1910), p. 16
+                             </p>
+                                                      <p>
+                                              Frank William Bayley, <em>The Life and Works of John Singleton Copley: Founded on the Work of Augustus Thorndike Perkins</em>, The Taylor Press (Boston, MA, 1915), p. 65
+                             </p>
+                                                      <p>
+                                              Cuthbert Lee, <em>Early American Portrait Painters: The Fourteen Principal Earliest Native-born Painters</em>, Yale University Press (New Haven, CT, 1929), p. 74
+                             </p>
+                                                      <p>
+                                              Theodore Bolton and Henry Lorin Binsse, "John Singleton Copley", <em>The Antiquarian</em> (New York, NY, December 1930), pp. 116-118., p. 116
+                             </p>
+                                                      <p>
+                                              Royal Cortissoz, "The Art of Copley at the Metropolitan", <em>New York Herald Tribune</em> (New York, NY, December 27, 1936), sec. 7, p. 8, p. 8
+                             </p>
+                                                      <p>
+                                              Laura M. Huntsinger, <em>Harvard Portraits: A Catalogue of Portrait Paintings at Harvard University</em>, ed. Alan Burroughs, Harvard University Press (Cambridge, MA, 1936), p. 24
+                             </p>
+                                                      <p>
+                                              <em>Paintings of John Singleton Copley</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1936), fig. 20
+                             </p>
+                                                      <p>
+                                              Barbara N. Parker and Anne Bolling Wheeler, <em>John Singleton Copley: American Portraits in Oil, Pastel and Miniature</em>, Museum of Fine Arts, Boston (Boston, MA, 1938), p. 46, pl. 77
+                             </p>
+                                                      <p>
+                                              Oskar Hagen, <em>The Birth of the American Tradition in Art</em>, Charles Scribner's Sons (New York, NY, 1940), pp. 103-104, pl. 92
+                             </p>
+                                                      <p>
+                                              James Truslow Adams, <em>Album of American History</em>, Charles Scribner's Sons (New York, NY, 1944), ill. p. 305
+                             </p>
+                                                      <p>
+                                              Patrick J. Kelleher and Ross E. Taggart, <em>The Century of Mozart</em>, brochure, William Rockhill Nelson Gallery of Art (now Nelson-Atkins) (Kansas City, 1956), cat. no. 13, pp. 14, 26, 67, fig. 36, repr.
+                             </p>
+                                                      <p>
+                                              <em>Face of America: The History of Portraiture in the United States</em>, exh. cat., Brooklyn Museum (Brooklyn, NY, 1957), cat. 15, fig. 22
+                             </p>
+                                                      <p>
+                                              H.C. Warwick and Henry C. Pitz, <em>Early American Dress</em>, B. Blom (New York, NY, 1965), pl. 35B
+                             </p>
+                                                      <p>
+                                              Jules David Prown, <em>John Singleton Copley</em>, Harvard University Press (Cambridge, MA, 1966), vol. 1, pp. 54-55, 66, 104, 210, pl. 183
+                             </p>
+                                                      <p>
+                                              Elizabeth Ripley, <em>Copley: A Biography</em>, J. B. Lippincott (Philadelphia, PA, 1967), pp. 28-29, ill.
+                             </p>
+                                                      <p>
+                                              Louise Todd Ambler and Kenyon Castle Bolton, III, "American Painting at Harvard", <em>Antiques</em> (New York, NY, November 1972), vol. 102, no. 5, pp. 876-883, p. 876
+                             </p>
+                                                      <p>
+                                              <em>American Portraits by John Singleton Copley: An Exhibition Organized for the Benefit of the Skowhegan School of Painting and Sculpture</em>, exh. cat., Hirschl & Adler Galleries (New York, 1975), cat. 25, ill.
+                             </p>
+                                                      <p>
+                                              Robert F. Perkins, Jr. and William J. Gavin, III, <em>Boston Athenaeum Art Exhibition Index, 1827-1874</em>, The Library of the Boston Athenaeum (Boston, MA, 1980), p. 39
+                             </p>
+                                                      <p>
+                                              Carol Troyen, <em>The Boston Tradition: American Paintings from the Museum of Fine Arts, Boston</em>, exh. cat., American Federation of Arts (New York, NY, 1980), p. 64
+                             </p>
+                                                      <p>
+                                              Anne H. Vogel, <em>American Colonial Portraits from the Fogg Art Museum and Harvard University</em>, exh. cat., Milwaukee Art Museum (Mikwaukee, WI, 1983), cover, ill. n.p.
+                             </p>
+                                                      <p>
+                                              Sandra Grindlay, "Harvard's Portraits: An American Treasure", <em>Harvard University Art Museums Review</em> (Fall 1992), vol. II, no. 1, pp. 6-7, p. 6
+                             </p>
+                                                      <p>
+                                              Karin Calvert and Cary Carson, "The Function of Fashion in Eighteenth-Century America", <em>Of Consuming Interests: The Style of Life in the Eighteenth Century</em>, The University Press of Virginia (Charlottesville, VA, 1994), pp. 267-268, fig. 5
+                             </p>
+                                                      <p>
+                                              Carrie Rebora and Paul J. Staiti, <em>John Singleton Copley in America</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1995), pp. 222, 228, ill. p. 225
+                             </p>
+                                                      <p>
+                                              John C. Eastberg and Eric Vogel, <em>Layton's Legacy: A Historic American Art Collection, 1888-2013</em>, University of Wisconsin, Madison (Milwaukee and Madison, 2013), p. 384, ill. p. 387
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr. and Melissa Renn, <em>American Paintings at Harvard, Volume One: Paintings, Watercolors, and Pastels by Artists Born before 1826</em>, Yale University Press (U.S.) and Harvard Art Museums (Cambridge and New Haven, 2014), pp. 141-142, 463, cat. 88, ill.
+                             </p>
+                                                      <p>
+                                              Jonathan Eacott, <em>Selling Empire: India and the Making of Britain and America, 1600-1830</em>, The University of North Carolina Press (Chapel Hill, 2016), p. 175, repr.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Boston Athenaeum Second Exhibition of Paintings, 1828</em>, Boston Athenaeum, Boston, 05/01/1828 - 12/31/1828
+                            </p>
+                          <p>
+                              <em>Massachusetts Centennial Art Exhibition</em>, Boston Art Club, Boston, 04/01/1876 - 04/30/1876
+                            </p>
+                          <p>
+                              <em>International Exhibition, Philadelphia, 1876</em>, Philadelphia, PA, 05/10/1876 - 11/10/1876
+                            </p>
+                          <p>
+                              <em>The Paintings of John Singleton Copley</em>, The Metropolitan Museum of Art, New York, 12/22/1936 - 02/14/1937
+                            </p>
+                          <p>
+                              <em>The Century of Mozart</em>, William Rockhill Nelson Gallery of Art (now Nelson-Atkins), Kansas City, 01/15/1956 - 03/04/1956
+                            </p>
+                          <p>
+                              <em>The Face of America</em>, Brooklyn Museum of Art, Brooklyn, 11/15/1957 - 01/26/1958
+                            </p>
+                          <p>
+                              <em>Paul Revere's Boston 1735-1818</em>, Museum of Fine Arts, Boston, Boston, 04/18/1975 - 10/12/1975
+                            </p>
+                          <p>
+                              <em>American Works of John Singleton Copley</em>, Hirschl & Adler Galleries, New York, 12/03/1975 - 01/03/1976
+                            </p>
+                          <p>
+                              <em>American Colonial Portraits from the Fogg Art Museum and Harvard University</em>, Milwaukee Art Museum, Milwaukee, 06/01/1983 - 06/30/1983
+                            </p>
+                          <p>
+                              <em>32Q: 2240 18th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/299800">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG257034?width=3000&height=3000" alt="Nicholas Boylston (1716-1771)">
+                                    <span class="related-artwork__obj">H20</span>
+                                      <h4 class="related-artwork__artist">John Singleton Copley</h4>
+                                                        <h3 class="related-artwork__title">Nicholas Boylston (1716-1771)</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/299944">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC238912_dynmc?width=3000&height=3000" alt="Sarah Morecock Boylston (Mrs. Thomas Boylston) (1696-1774)">
+                                    <span class="related-artwork__obj">H16</span>
+                                      <h4 class="related-artwork__artist">John Singleton Copley</h4>
+                                                        <h3 class="related-artwork__title">Sarah Morecock Boylston (Mrs. Thomas Boylston) (1696-1774)</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/299949">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104940_dynmc?width=3000&height=3000" alt="Nicholas Boylston (1716-1771)">
+                                    <span class="related-artwork__obj">H90</span>
+                                      <h4 class="related-artwork__artist">John Singleton Copley</h4>
+                                                        <h3 class="related-artwork__title">Nicholas Boylston (1716-1771)</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/346642">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR005980_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "thomas Boylston"">
+                                    <span class="related-artwork__obj">Straus.7149</span>
+                                      <h4 class="related-artwork__artist">Artist of original: John Singleton Copley</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Thomas Boylston"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:huam:INV230300_dynmc?width=200&height=200" alt="Thomas Boylston Ii (1721-1798)">
+                <span class="popup__artwork-info-id">H29</span>
+        <span class="popup__artwork-info-author">
+                                    John Singleton Copley
+                          Thomas Boylston, Jr.
+                              </span>
+        <span class="popup__artwork-info-title">Thomas Boylston II (1721-1798)</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299946%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299946">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299946" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Thomas+Boylston+II+%281721-1798%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299946" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299946" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_e0578977ae652305d6a231920683c547" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

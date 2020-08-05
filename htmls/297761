@@ -1,0 +1,632 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Genius of Liberty and Wisdom </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Genius of Liberty and Wisdom" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297761"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:50737_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Genius of Liberty and Wisdom" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17358140" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:50737_dynmc?width=3000&height=3000" data-initial-image-id="17358140" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297761" data-behavior="add_to_collection tooltip" data-artwork="297761" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297761&amp;image_id=50737" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297761/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="50737">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50737_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Paul Prud'hon"  title="The Genius Of Liberty And Wisdom" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17358140" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50737_dynmc?width=125&height=125" alt="The Genius Of Liberty And Wisdom">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="47654">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:47654_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Paul Prud'hon"  title="The Genius Of Liberty And Wisdom" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182961" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:47654_dynmc?width=125&height=125" alt="The Genius Of Liberty And Wisdom">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.890</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28171>Pierre-Paul Prud'hon</a>, French                                                                                                                                                                                                                                                                          (Cluny 1758 - 1823 Paris)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Genius of Liberty and Wisdom</dd>
+            
+                                                                                                                                                                                                                                                                                                                                                              <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Le Génie de la Liberté et la Sagesse<br>                                                                                                              Alternate Title: L'Amour et la Sagesse<br>                                                                                                              Alternate Title: Love and Wisdom                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing series                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1791</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297761">https://hvrd.art/o/297761</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black crayon, graphite and white gouache on cream antique laid paper mounted to commercially prepared board</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>32 x 17 cm (12 5/8 x 6 11/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Duc de Rivoli; his sale, Me Petit Laneuville, "expert," Paris, April 18-19, 1834, no. 60 (as "L'Amour admirant le buste de la Sagesse"); M.G. . . (per illegible inscription on back of cardboard support); Pierre-Jules Mène, by 1872; his son-in-law Auguste Nicholas Cain, by 1884; his son Georges Cain, Paris, by 1900; Mme Georges Can, by 1922; Cain sale, Hôtel Drouot, Paris, March 9-10, 1939, no. 68 (as "Le Génie de la Liberté ou La Sagesse"); acquired through Martin Birnbaum by Grenville L. Winthrop, April 1939 (Fr 20,000); his bequest to the Fogg Art Museum, 1943.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.890</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Anonymous, <em>Explicatiön et critique impartiale de toutes les peintures, sculptures, gravures, dessins, etc ...</em>, du Croissant (Paris, 1791), pg. 54 (wrongly attributed to the painter Chéry)
+                             </p>
+                                                      <p>
+                                              Anonymous, <em>La Béquille de Voltaire au salon, première promenade :</em> (Paris, 1791 (year III)), pg. 25
+                             </p>
+                                                      <p>
+                                              J. Renouvier, <em>Histoire de l'art pendant la révolution considéré principalement dans les estampes (2 vols.)</em>, Vve. J. Renouard (Paris, 1863), pp. 11, 98
+                             </p>
+                                                      <p>
+                                              Charles Clément, <em>Prud'hon; sa vie, ses oeuvres et sa correspondance</em>, Didier et cie. (Paris, 1872), pp. 206, 209 n. 1, 214-15
+                             </p>
+                                                      <p>
+                                              Edmond de Goncourt, <em>Catalogue raisonné de l'oeuvre peint, dessine et grave de P. P. Prud'hon</em>, Rapilly (Paris, France, 1876), pp. 151-52
+                             </p>
+                                                      <p>
+                                              <em>Les maîtres du dessin</em> (1900-1902), vol. 2 (1901), pl. 87 (photogravure by J. Chauvet  "Sophia")
+                             </p>
+                                                      <p>
+                                              Jean Guiffrey, <em>L'oeuvre de P. P. Prud'hon</em>, A. Colin (Paris, France, 1924), pg. 139, no. 378
+                             </p>
+                                                      <p>
+                                              Samuel Sachs II, "Prud'hon's 'L'Union de l'Amour et de l'Amitié: A Neo-Classical Allegory", <em>Minneapolis Institute of Art Bulletin</em> (Minneapolis, 1965), 54, pg. 13, fig. 1, facing pg. 5
+                             </p>
+                                                      <p>
+                                              James H. Slayman, "The Drawings of Pierre-Paul Prud'hon: A Critical Study" (1970), University of Wisconsin, Madison, pp. 18-21, 283, pl. 10
+                             </p>
+                                                      <p>
+                                              Nicole Levis-Godechot, "Prud'hon Jacobin", <em>Bulletin d'Histoire de la Revolution Française; Années 1982-83</em> (Paris, 1985), pp. 92-94, repr.
+                             </p>
+                                                      <p>
+                                              Jean-François Heim, Claire Béraud, and Phillipe Heim, <em>Les Salons de Peinture de la Révolution française (1789-1799)</em>, C.A.C. S.A.R.L. Edition (Paris, France, 1989), pp. 314-15, repr.
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>David to Corot: French Drawings in the Fogg Art Museum</em>, Harvard University Press (Cambridge, MA, 1996), cat. no. 294, repr.
+                             </p>
+                                                      <p>
+                                              John Elderfield and Robert Gordon, <em>The Language of the Body: Drawings by Pierre-Paul Prud'hon</em>, Harry N. Abrams, Inc. (New York, NY, 1996), repr. p. 14; pp. 17, 21
+                             </p>
+                                                      <p>
+                                              Elizabeth Menon, "Pierre-Paul Prud'hon's Union of Love and Friendship Reconsidered", <em>Gazette des Beaux-Arts</em> (November 1997), p. 158-159, repr. fig. 3
+                             </p>
+                                                      <p>
+                                              Elizabeth Guffey, "Prud'hon et le cercle bourguignon à Rome", <em>Pierre-Paul Prud'hon: actes du colloque organisé au musée du Louvre par le service culturel, le 17 novembre 1997</em>, ed. Sylvain Laveissière, Documentation Française (Paris, (1997) 2001), pp. 87, 90, 107, fig. 15
+                             </p>
+                                                      <p>
+                                              Nicole Levis-Godechot, <em>La Jeunesse de Pierre-Paul Prud'hon (1758-1796): Recherches d'iconographie et de symbolique</em>, Léonce Laget (Paris, France, 1997), p. 109, repr. fig. 47
+                             </p>
+                                                      <p>
+                                              John Elderfield, <em>La poésie du corps: dessins de Pierre-Paul Prud'hon</em>, Editions de La Martinière (Paris, France, 1997), repr. p. 14; pp. 17, 21
+                             </p>
+                                                      <p>
+                                              Sylvain Laveissière, <em>Pierre-Paul Prud'hon [Prud'hon ou le rêve du bonheur]</em>, exh. cat., Metropolitan Museum of Art / Harry N. Abrams, Inc. [Réunion des Musées Nationaux] (New York, NY and Paris, France, 1997), under no. 23, fig. 23a
+                             </p>
+                                                      <p>
+                                              Sylvain Laveissière, <em>Prud'hon ou le rêve du bonheur</em>, exh. cat., Réunion des Musées Nationaux (Paris, France, 1997), under no. 23, fig. 23a
+                             </p>
+                                                      <p>
+                                              Sylvain Laveissière, <em>Prud'hon: Le Cabinet des Dessins</em>, Flammarion (Paris, France, 1997), p. 22 and color repr. p. 23
+                             </p>
+                                                      <p>
+                                              Alvin L. Clark, Jr., "Un grand collectionneur américain de dessins français: Grenville L. Winthrop et les oeuvres de Pierre-Paul Prud'hon au Fogg Art Museum", <em>Pierre-Paul Prud'hon: actes du colloque organisé au musée du Louvre par le service culturel, le 17 novembre 1997</em>, La documentation française, Musée du Louvre (Paris, 2001), pp. 177-202, p. 182, fig. 8, repr.
+                             </p>
+                                                      <p>
+                                              Elizabeth Guffey, <em>Drawing an Elusive Line: The Art of Pierre-Paul Prud'hon</em>, University of Delaware Press/ Associated University Presses (Newark (DE) and London, 2001), pp. 59, 131, 191, fig. 35
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, exh. cat., The Metropolitan Museum of Art and Yale University Press (U.S.) (New York, 2003), cat. no. 100, repr. (color), p. 30
+                             </p>
+                                                      <p>
+                                              Petra ten-Doesschate Chu, <em>Nineteenth-Century European Art</em>, Prentice-Hall/Harry N. Abrams, Inc. (New York, NY, 2003), p. 103, fig. 4-10
+                             </p>
+                                                      <p>
+                                              Louis-Antoine Prat, <em>Le dessin français au XIXe siècle</em>, Somogy Éditions d'Art (Paris, 2011), p. 108, repr. p. 108 as fig. 222
+                             </p>
+                                                      <p>
+                                              Petra ten-Doesschate Chu, <em>Nineteenth-Century European Art</em>, Pearson Prentice Hall (Upper Saddle River, NJ, 2012), pp. 108-109, fig. 4-9
+                             </p>
+                                                      <p>
+                                              Ewa Lajer-Burcharth and Elizabeth M. Rudy, ed., <em>Drawing: The Invention of a Modern Medium</em>, exh. cat., Harvard Art Museums (Cambridge, 2017), pp. 196-197, 285, repr. p. 196 as fig. 2
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Ouvrages de peinture, sculpture, et architecture, gravures, dessins, modèles, etc, exposés au Louvre par ordre de l'Assemblée nationale, au mois de septembre 1791, l'an Ille de la Liberté</em>, Musée du Louvre, Paris  Cedex 01, 09/01/1791 - 09/30/1791
+                            </p>
+                          <p>
+                              <em>Exposition des oeuvres de Prud'hon au profit de sa fille</em>, Ecole des Beaux-Arts, Paris, 05/04/1874 - 07/04/1874
+                            </p>
+                          <p>
+                              <em>Dessins de l'école moderne exposés a l'École Nationale des Beaux-Arts au profit de la Caisse de Secours de l'Association</em>, École Nationale des Beaux-Arts, Paris, 02/01/1884 - 02/28/1884
+                            </p>
+                          <p>
+                              <em>Exposition Universelle de 1900</em>, Exposition de Paris, Paris, 04/15/1900 - 11/12/1900
+                            </p>
+                          <p>
+                              <em>Exposition P.-P. Prud'hon</em>, Petit Palais, Paris, Paris, 05/01/1922 - 06/05/1922
+                            </p>
+                          <p>
+                              <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, The Metropolitan Museum of Art, New York, 10/23/2003 - 01/25/2004
+                            </p>
+                          <p>
+                              <em>HAA 271x The Origins of Modernity: The "New" 18th Century Rotation #2: Large Niche (S426A) Spring 2011</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 03/11/2011 - 06/18/2011
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5114"><em>Drawing: The Invention of a Modern Medium</em>, Harvard Art Museums, Cambridge, 01/21/2017 - 05/07/2017</a>
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:50737_dynmc?width=200&height=200" alt="The Genius Of Liberty And Wisdom">
+                <span class="popup__artwork-info-id">1943.890</span>
+        <span class="popup__artwork-info-author">
+                                    Pierre-Paul Prud'hon
+                              </span>
+        <span class="popup__artwork-info-title">The Genius of Liberty and Wisdom</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297761%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297761">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297761" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Genius+of+Liberty+and+Wisdom+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297761" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297761" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_ffd2f203c92f552a4b0d3e472e11fb7c" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

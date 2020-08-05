@@ -1,0 +1,676 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Belgica Offered Help </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Belgica Offered Help" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/212400"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71930_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Belgica Offered Help" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481435" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71930_dynmc?width=3000&height=3000" data-initial-image-id="18481435" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?212400" data-behavior="add_to_collection tooltip" data-artwork="212400" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=212400&amp;image_id=71930" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/212400/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71930">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71930_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Joachim Wtewael"  title="Belgica Offered Help" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18481435" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71930_dynmc?width=125&height=125" alt="Belgica Offered Help">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011409">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011409_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Joachim Wtewael"  title="Belgica Offered Help" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435532274" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011409_dynmc?width=125&height=125" alt="Belgica Offered Help">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011410">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR011410?width=3000&height=3000" data-zoom-enabled="1" data-people="Joachim Wtewael"  title="Belgica Offered Help" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="483660471" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR011410?width=125&height=125" alt="Belgica Offered Help">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1999.183</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29150>Joachim Wtewael</a>, Dutch                                                                                                                                                                                                                                                                          (Utrecht, Netherlands 1566 - 1638 Utrecht, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Belgica Offered Help</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1612</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/212400">https://hvrd.art/o/212400</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black ink, gray wash, and white opaque watercolor over black chalk on off-white antique laid paper, framing line in black ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>19.3 x 25 cm (7 5/8 x 9 13/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: lower left, black ink: Jo W[a?]e [deleted with gray wash] and lower center, black ink: Jo. Wte Wael
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, upper center, graphite: 151 [encircled, upside down]
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower center, black ink, in the artist's hand: 5
+                        </li>
+                                              <li data-a="2">
+                          watermark: Coat of arms with a rampant lion with 4 and PAP below; variant of Heawood 3135 (Schieland, 1633)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Einar Perman, Stockholm, by descent; to his son, Einar Perman, Stockholm, sold; to [Robert M. Light & Co., Santa Barbara, CA], sold; to Maida and George Abrams, Boston (L.3306, verso, lower left), 1988; The Maida and George Abrams Collection, 1999<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 100 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p><em>Belgica Offered Help</em> belongs to a suite of thirteen designs by Joachim Wtewael that recapitulate the military and political vicissitudes of the Low Countries from the origins of the Eighty Years’ War in the 1550s and 1560s to the armistice of 1609. The principal protagonist of each composition is the maidenly figure of Belgica, who personifies the Netherlands. We follow her from an uneasy courtship by her Spanish overlords, through her violent subjugation by forces under the Duke of Alba, to the liberation by the armies of Prince William of Orange and his son Prince Maurice. In the foregrounds of Wtewael’s drawings, Belgica and the military and political leaders on both sides of the Dutch Revolt enact stages of the struggle, although not always specific events. The neatly delineated scenes in the landscapes beyond clarify and amplify the foreground action.<sup class="footnote" id="fnrev4755791285ef66442c952a-1"><a href="#fn4755791285ef66442c952a-1">1</a></sup></p>
+
+<p>Twelve of Wtewael’s original drawings have come to light, and one composition is known only through a copy. The copy and nine of the original designs, including the Harvard sheet, are signed or inscribed with the artist’s name and numbered in a sequence that corresponds to the chronology of the events represented.<sup class="footnote" id="fnrev4755791285ef66442c952a-2"><a href="#fn4755791285ef66442c952a-2">2</a></sup> Three originals are signed but unnumbered.<sup class="footnote" id="fnrev4755791285ef66442c952a-3"><a href="#fn4755791285ef66442c952a-3">3</a></sup></p>
+
+<p><em>Belgica Offered Help</em> is the fifth composition in the series. As Elizabeth McGrath noted in her authoritative 1975 interpretation of the drawings, the preceding (fourth) scene depicts the triumphant Duke of Alba trampling the maiden, while soldiers tear at her already tattered clothing (Fig. 1).<sup class="footnote" id="fnrev4755791285ef66442c952a-4"><a href="#fn4755791285ef66442c952a-4">4</a></sup> Belgica still struggles to free herself from Alba’s domination in Harvard’s work, but here the swaggering, overconfident duke turns away from her and engages the viewer with a condescending glance. With Alba distracted, Belgica reaches out to a group of noblemen that includes William and the young Maurice. McGrath suggests that the ship approaching a walled city in the background of <em>Belgica Offered Help</em> may allude to the Dutch rebels’ capture of Den Briel in 1572, but the significance of the two merchants discussing cargo at the lower right remains unclear.<sup class="footnote" id="fnrev4755791285ef66442c952a-5"><a href="#fn4755791285ef66442c952a-5">5</a></sup></p>
+
+<p>Until recently, scholars could only speculate about the function and date of the series. The drawings had been dated from around 1610 to the early 1620s and tentatively identified as finished, independent works of art or models for paintings or prints.<sup class="footnote" id="fnrev4755791285ef66442c952a-6"><a href="#fn4755791285ef66442c952a-6">6</a></sup> The appearance of the original of a composition previously known only through a copy resolved one of these questions: <em>The Truce</em> came to light in a British private collection and was acquired in 2000 by Maida and George Abrams (Fig. 2).<sup class="footnote" id="fnrev4755791285ef66442c952a-7"><a href="#fn4755791285ef66442c952a-7">7</a></sup> The sole dated sheet in the series, it bears the autograph inscription <em>Ao 1612</em>.</p>
+
+<p>Thanks to recent research, we now know that Wtewael’s designs served as models for glass paintings in the <em>vroedschapskamer</em> (aldermen’s chamber) in the town hall of Woerden. The States General commissioned the windows to commemorate negotiations that took place in that room in March 1610.<sup class="footnote" id="fnrev4755791285ef66442c952a-8"><a href="#fn4755791285ef66442c952a-8">8</a></sup> The negotiators hoped to resolve a stalemate between the States of Utrecht (province) and dissidents who had seized control of the government of the city of Utrecht. Wtewael participated in the coup and sat on the insurrectionist city council. His prowar and conservative Calvinist convictions inform the designs he produced for the windows, most conspicuously in <em>The Truce</em> (see Fig. 2), which McGrath interpreted as an admonition against making peace with the treacherous Spanish.<sup class="footnote" id="fnrev4755791285ef66442c952a-9"><a href="#fn4755791285ef66442c952a-9">9</a></sup> The windows do not survive, but they are described in manuscript notes by the Utrecht antiquary and connoisseur Arnoldus Buchelius (Aernout van Buchel, 1565–1641). He recorded that the decoration comprised twelve windows, so one of the thirteen subjects was omitted, and they were in place in 1612, the year that Wtewael inscribed on the design for <em>The Truce</em>. Presumably painted on clear glass on the scale of the drawings, the narrative scenes occupied the lower row of the sash windows. Painted on glass in the upper register were the arms of France, England, Prince Maurice, the Dutch Republic, and the Republic’s seven provinces, and probably a twelve-line verse inscription commemorating the meetings.<sup class="footnote" id="fnrev4755791285ef66442c952a-10"><a href="#fn4755791285ef66442c952a-10">10</a></sup></p>
+
+<p>A copy of the Harvard drawing is in the Courtauld Institute Galleries, London.<sup class="footnote" id="fnrev4755791285ef66442c952a-11"><a href="#fn4755791285ef66442c952a-11">11</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-1"><sup><a href="#fnrev4755791285ef66442c952a-1">1</a></sup> On this series and its interpretation, see Elizabeth McGrath, “A Netherlandish History by Joachim Wtewael,” <em>Journal of the Warburg and Courtauld Institutes</em>, vol. 38 (1975): 182–237, and Zsuzsanna van Ruyven-Zeman, et al., eds., <em>De cartons van de Sint‐Janskerk in Gouda/The Cartoons of the Sint Janskerk in Gouda</em> (Delft, 2011), part 1, pp. 248–61.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-2"><sup><a href="#fnrev4755791285ef66442c952a-2">2</a></sup> Six sheets from the series are in the Graphische Sammlung Albertina, Vienna; Otto Benesch, <em>Die Zeichnungen der niederländischen Schulen des XV. und <span class="caps">XVL</span>. Jahrhunderts</em> (Vienna, 1928), cats. 412–17, pp. 39–40. Of the three drawings cited by McGrath in the Perman collection, Stockholm, one is now in the National Gallery of Canada (Joaneath Spicer in Joaneath Spicer, Odilia Bonebakker, and David Franklin, <em>Dutch and Flemish Drawings from the National Gallery of Canada, Ottawa</em>, Ottawa: National Gallery of Canada; Cambridge: Harvard University Art Museums, Arthur M. Sackler Museum; Fredericton, New Brunswick: Beaverbrook Art Gallery, 2004, cat. 29, pp. 80–81), one is in the J. Paul Getty Museum (George R. Goldner, <em>European Drawings, Vol. 1: Catalogue of the Collections</em>, The J. Paul Getty Museum. Los Angeles, 1988, cat. 125), and one is the Harvard drawing discussed here. The two works formerly in the Daniels collection, New York, were sold at Sotheby’s, London, 25 April 1978, lots 49 and 50, and are now in the Centraal Museum, Utrecht, inv. nos. 20845 and 20846. <em>The Truce</em> (Fig. 2), 1612, the only dated work in the series, belongs to the Maida and George Abrams Collection, Boston; William Robinson in William W. Robinson, <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em> (London: British Museum; Paris: Institut Néerlandais; Cambridge: Harvard University Art Museums, Fogg Art Museum, 2002), cat. 27, pp. 78–79. One composition in the series is known only through a copy; McGrath, pp. 189–92, pl. 26a.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-3"><sup><a href="#fnrev4755791285ef66442c952a-3">3</a></sup> Most of the original drawings are signed and ten are consecutively numbered. <em>The City Delivered</em>, <em>The Truce</em>, and <em>The Indian Homage</em>, the latest subjects chronologically in the sequence, do not bear numbers; McGrath, p. 184.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-4"><sup><a href="#fnrev4755791285ef66442c952a-4">4</a></sup> Joachim Wtewael, <em>The Maid Trampled</em> (Fig. 1), 1612. Black ink, gray wash, heightened with white opaque watercolor, over black chalk. 190 × 245 mm. Utrecht, Centraal Museum, 20846. McGrath, pp. 185–88, and repr. pl. 26b.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-5"><sup><a href="#fnrev4755791285ef66442c952a-5">5</a></sup> Ibid., pp. 188–89 and 195. The building at the right edge of the composition is a bakery, as attested by the loaf on a shelf. The sign over this building shows an object in the shape of a crescent. Medals in the shape of a half moon were worn by the “sea beggars” (<em>watergeuzen</em>), the rebels who captured Den Briel in 1572; see <a href="http://en.wikipedia.org/wiki/Geuzen_medals">http://en.wikipedia.org/wiki/Geuzen_medals</a> (consulted 12 September 2013); see Gerard van Loon, <em>Beschryving der Nederlandsche historipenningen: Of beknopt verhaal van’t gene sedert de overdracht der heerschappye van Keyzer Karel den Vyfden op Koning Philips Zynen Zoon, tot het fluyten van den Utrechtschen vreede, in de seventien Nederlandsche gewesten is voorgevallen</em> (The Hague, 1723–31), vol. 1, p. 190; and the example in the Rijksmuseum, Amsterdam: <a href="http://hdl.handle.net/10934/RM0001.COLLECT.57547">http://hdl.handle.net/10934/RM0001.COLLECT.57547</a> (consulted 12 September 2013). However, the object on the sign is probably a bakery product, not a token of the revolt.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-6"><sup><a href="#fnrev4755791285ef66442c952a-6">6</a></sup> McGrath, pp. 216–17, suggested they were models for prints, while Anne W. Lowenthal, “Wtewael’s Netherlandish History Reconsidered,” in <em>Was getekend . . . Tekenkunst door de eeuwen heen: Liber Amicorum prof. dr. E. K. J. Reznicek. Nederlands Kunsthistorisch Jaarboek</em>, no. 38 (1987): 215–25, pp. 222–23, thought they could be models for paintings or prints. On the date of the series, see Robinson, cat. 27, pp. 78–79.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-7"><sup><a href="#fnrev4755791285ef66442c952a-7">7</a></sup> Joachim Wtewael, <em>The Truce</em> (Fig. 2), 1612. Black ink, gray wash, and white opaque watercolor, 190 × 249 mm. Boston, Maida and George Abrams Collection; Robinson, cat. 27, pp. 78–79; Zsuzsanna van Ruyven-Zeeman, <em>Stained Glass in the Netherlands before 1795</em>, vol. 4, in 2 parts, of <em>The Netherlands in the Corpus vitrearum series</em>, <span class="caps">UNESCO</span>–ICOMOS, Corpus Vitrearum Medii Aevi project, 1953–[ongoing] (Amsterdam, 2011), part 1, pp. 251–52.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-8"><sup><a href="#fnrev4755791285ef66442c952a-8">8</a></sup> Van Ruyven-Zeeman, part 1, pp. 248–61.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-9"><sup><a href="#fnrev4755791285ef66442c952a-9">9</a></sup> McGrath, pp. 205–12; Van Ruyven-Zeeman, part 1, pp. 251–52.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-10"><sup><a href="#fnrev4755791285ef66442c952a-10">10</a></sup> Van Ruyven-Zeeman, part 1, pp. 248–49.</p>
+
+<p class="footnote" id="fn4755791285ef66442c952a-11"><sup><a href="#fnrev4755791285ef66442c952a-11">11</a></sup> Courtauld Institute of Art, D.1952.RW.2821; see <a href="http://www.artandarchitecture.org.uk/images/gallery/85c4e1a2.html">http://www.artandarchitecture.org.uk/images/gallery/85c4e1a2.html</a> (consulted 12 September 2013).</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212400/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Joachim Wtewael, <em>The Maid Trampled</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212400/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Joachim Wtewael, <em>The Truce</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1999</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1999.183</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Nils Lindhagen and Per Bjurström, <em>Dutch and Flemish Drawings in the Nationalmuseum and other Swedish Collections</em>, exh. cat., National Museum Stockholm (Stockholm, Sweden, 1953), cat. no. 83, p. 34, repr. pl. 15
+                             </p>
+                                                      <p>
+                                              Einar Perman, <em>Oude Tekeningen uit de Nederlanden. Verzameling Prof. E. Perman, Stockholm</em>, exh. cat., Singer Museum (Laren, The Netherlands, 1962), cat. no. 151, p. 27, repr. pl. 27
+                             </p>
+                                                      <p>
+                                              Elizabeth McGrath, "A Netherlandish History by Joachim Wtewael", <em>Journal of the Warburg and Courtauld Institutes</em>, The Warburg Institute (London, England, 1975), vol. 38, pp. 182-217, pp. 182 (n. 2), 183, 188-89, 194-95, 200, and 207 (n. 98), repr. pl. 27a
+                             </p>
+                                                      <p>
+                                              Mimi Cazort, <em>Master Drawings from the National Gallery of Canada</em>, exh. cat., National Gallery of Art (Washington, D.C, 1988), under cat. no. 33, p. 108
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 2, pp. 22-23, repr.
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2002), under cat. no. 27, p. 251 (n.1)
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp, "[Review] Bruegel to Rembrandt. Dutch and Flemish Drawings from the Maida and George Abrams Collection.", <em>Oud Holland</em> (2004), vol. 117, no. 1/2, pp. 99-102, under cat. no. 27, p. 251 (n. 1)
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp and Eric Domela Nieuwenhuis, <em>De verzamelingen van het Centraal Museum Utrecht. 7. Werken op papier tot 1850</em>, ed. Liesbeth M. Helmus, Centraal Museum Utrecht (Utrecht, 2004), under cat. nos. 4A and 4B, p. 56
+                             </p>
+                                                      <p>
+                                              Zsuzsanna van Ruyven-Zeman, <em>Stained Glass in the Netherlands before 1795</em>, Amsterdam University Press and Royal Netherlands Academy of Arts and Sciences (Amsterdam, 2011), part 1, pp. 249 and 260 (n. 296)
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, p. 532
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 19; cat. no. 100, pp. 327-329, repr. p. 328; watermark p. 383
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Oude Tekeningen uit de Nederlanden: Verzameling Prof. E. Perman, Stockholm</em>, Singer Museum, Laren, 06/09/1962 - 09/16/1962
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, Harvard University Art Museums, Cambridge, 03/22/2003 - 07/06/2003
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71930_dynmc?width=200&height=200" alt="Belgica Offered Help">
+                <span class="popup__artwork-info-id">1999.183</span>
+        <span class="popup__artwork-info-author">
+                                    Joachim Wtewael
+                              </span>
+        <span class="popup__artwork-info-title">Belgica Offered Help</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20212400%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212400">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212400" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Belgica+Offered+Help+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212400" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/212400" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_dc2981a19a749596f833cc4ca8f5e48f" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

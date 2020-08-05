@@ -1,0 +1,661 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A Kneeling Youth; verso: A Seated Man holding a Glass </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A Kneeling Youth; verso: A Seated Man holding a Glass" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/286241"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71839_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A Kneeling Youth; verso: A Seated Man holding a Glass" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481349" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71839_dynmc?width=3000&height=3000" data-initial-image-id="18481349" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">recto</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?286241" data-behavior="add_to_collection tooltip" data-artwork="286241" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=286241&amp;image_id=71839" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/286241/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71839">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71839_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Govert Flinck"  title="A Kneeling Youth; Verso: A Seated Man Holding A Glass" data-object-caption="recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18481349" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71839_dynmc?width=125&height=125" alt="A Kneeling Youth; Verso: A Seated Man Holding A Glass">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="72148">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:72148_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Govert Flinck"  title="A Kneeling Youth; Verso: A Seated Man Holding A Glass" data-object-caption="verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="17810807" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:72148_dynmc?width=125&height=125" alt="A Kneeling Youth; Verso: A Seated Man Holding A Glass">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1999.140</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20409>Govert Flinck</a>, Dutch                                                                                                                                                                                                                                                                          (Cleves 1615 - 1660 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A Kneeling Youth; verso: A Seated Man holding a Glass</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1647</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/286241">https://hvrd.art/o/286241</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black and white chalk, squared in graphite, on faded blue antique laid paper; verso: black and white chalk counterproof with touches of ochre, with squaring transferred from recto</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>24.8 x 18.1 cm (9 3/4 x 7 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: top edge, graphite: 1 2 3 4 5 6 7 8 9
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, black ink stamp: [double M, encircled, Kurt Meissner, not in Lugt]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, left edge, graphite: Govaert [?] Flinck f … [illegible words and numbers] … X
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, black chalk: 200… [illegible numbers] / f 19… [illegible numbers]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, blue ink: L. 3306 (Maida and George Abrams)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[C. G. Boerner, Düsseldorf.] Kurt Meissner, Zurich (verso, lower left, not in Lugt), sold; to Maida and George Abrams, Boston, 1981 (L. 3306, verso, lower left); The Maida and George Abrams Collection, 1999.140.</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 35 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Govert Flinck first studied with the history painter Lambert Jacobsz. in Leeuwarden, where he met Jacob Backer (<a href="https://www.harvardartmuseums.org/collections/object/286334?position=0">2013.170</a>), then a senior pupil or assistant in Jacobsz.’s workshop. Around 1635–36, Flinck completed his training with Rembrandt, learning to imitate his master’s brushwork and color so skillfully that his pictures passed as originals by Rembrandt himself.<sup class="footnote" id="fnrev20796672995ef6642c874ad-1"><a href="#fn20796672995ef6642c874ad-1">1</a></sup> Eventually, wrote Arnold Houbraken, “with great effort and difficulty he turned away from [Rembrandt’s] way of painting.”<sup class="footnote" id="fnrev20796672995ef6642c874ad-2"><a href="#fn20796672995ef6642c874ad-2">2</a></sup> He developed a lighter, more Italianate style based on the work of Peter Paul Rubens and Anthony van Dyck. During the 1640s and 1650s, Flinck attracted ever more prestigious commissions for portraits and history paintings, reaching the apogee of his career with the monumental canvases he produced for the Amsterdam Town Hall.<sup class="footnote" id="fnrev20796672995ef6642c874ad-3"><a href="#fn20796672995ef6642c874ad-3">3</a></sup></p>
+
+<p>A black-chalk composition of 1638 in the “Abrams Album” (see <a href="https://www.harvardartmuseums.org/collections/object/187470?position=0">1999.123.46</a> )<sup class="footnote" id="fnrev20796672995ef6642c874ad-4"><a href="#fn20796672995ef6642c874ad-4">4</a></sup> is Flinck’s earliest dated drawing. However, many of his Rembrandtesque ink-and-wash sketches must date from 1635–40; at that time, his style adhered closely to the master’s, as evident in his early figure studies in red and black chalk.<sup class="footnote" id="fnrev20796672995ef6642c874ad-5"><a href="#fn20796672995ef6642c874ad-5">5</a></sup> During the 1640s, Flinck, Backer, and other Amsterdam artists (<a href="https://www.harvardartmuseums.org/collections/object/286334?position=0">2013.170</a>, <a href="https://www.harvardartmuseums.org/collections/object/292630?position=0">1996.303</a>) adopted the practice of drawing from nude and clothed models in black and white chalk on blue paper. In addition to improving their abilities to represent the human body, they studied figures in specific poses to prepare for the execution of paintings. Flinck’s works of this type are well documented; several bear his signature, and others relate directly to pictures by him.<sup class="footnote" id="fnrev20796672995ef6642c874ad-6"><a href="#fn20796672995ef6642c874ad-6">6</a></sup></p>
+
+<p>Although it is neither signed nor, to our knowledge, preparatory for a painting, Harvard’s study of a kneeling youth with his hands raised in prayer can be attributed to Flinck on the basis of its technique. The undulating contours of the costume, deeply scalloped folds of the sleeves, evocation of shadows with parallel diagonal strokes of black chalk, and flashy, scattered highlights recur in signed figure drawings by the artist. See, for example, his study of a seated, gesticulating youth in the Teylers Museum, Haarlem (Fig. 1).<sup class="footnote" id="fnrev20796672995ef6642c874ad-7"><a href="#fn20796672995ef6642c874ad-7">7</a></sup> It is possible that the same model posed for both the Harvard and the Teylers studies. If so, they must have originated about the same time, and scholars have dated both drawings to the second half of the 1640s.<sup class="footnote" id="fnrev20796672995ef6642c874ad-8"><a href="#fn20796672995ef6642c874ad-8">8</a></sup> Peter Schatborn has recently suggested that a drawing by Jacob Backer may depict the same young man.<sup class="footnote" id="fnrev20796672995ef6642c874ad-9"><a href="#fn20796672995ef6642c874ad-9">9</a></sup></p>
+
+<p>The Harvard sheet was neatly squared in graphite and the cells in the top row of the grid were numbered from <em>1</em> through <em>9</em>, implying the artist’s intention to reproduce the figure on another support and a larger scale. If Flinck translated the study of a kneeling boy into a painted composition, the picture remains unidentified. Although the application of a grid to a finished study of a single figure is unusual in the work of a Dutch artist and—as far as we know—unique in Flinck’s oeuvre, Italian Renaissance painters such as Raphael, Fra Bartolommeo, and Tintoretto used this expedient, as did the seventeenth-century French master Simon Vouet.<sup class="footnote" id="fnrev20796672995ef6642c874ad-10"><a href="#fn20796672995ef6642c874ad-10">10</a></sup></p>
+
+<p>The lost drawing recorded by the counterproof on the verso of this sheet (Fig. 2), formerly regarded as by an unidentified hand, might well have been by Flinck.<sup class="footnote" id="fnrev20796672995ef6642c874ad-11"><a href="#fn20796672995ef6642c874ad-11">11</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-1"><sup><a href="#fnrev20796672995ef6642c874ad-1">1</a></sup> Arnold Houbraken, <em>De groote Schouburgh der Nederlantsche Konstschilders en Schilderessen</em> (First ed. 1718–21; reprint Amsterdam, 1943), vol. 2, pp. 20–21; Jaap van der Veen in Friso Lammertse and Jaap van der Veen, <em>Uylenburgh &amp; Son: Art and Commerce from Rembrandt to De Lairesse 1625–1675</em> (London: Dulwich Picture Gallery; Amsterdam: Museum Het Rembrandthuis, 2006), pp. 160–69.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-2"><sup><a href="#fnrev20796672995ef6642c874ad-2">2</a></sup> Houbraken, vol. 2, p. 21.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-3"><sup><a href="#fnrev20796672995ef6642c874ad-3">3</a></sup> Werner Sumowski, <em>Gemälde der Rembrandt‑Schüler in vier Bänden</em> (Landau, Germany, 1983), vol. 2, pp. 999–1001. Sumowski’s equivocal opinion of Flinck’s later work does not reflect the views of the artist’s elite patrons, who commissioned portraits and history paintings from him.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-4"><sup><a href="#fnrev20796672995ef6642c874ad-4">4</a></sup> Govert Flinck, <em>Man in Middle Eastern Costume Standing in a Landscape</em>, 1638. Peter Schatborn, “The Early Rembrandtesque Drawings of Govert Flinck,” <em>Master Drawings</em>, vol. 48, no. 1 (Spring 2010): 4–38, pp. 7 and 13, repr. p. 4, fig. 1; William Robinson in Peter C. Sutton and William W. Robinson, <em>Drawings by Rembrandt, His Students and Circle, from the Maida and George Abrams Collection</em>, (Greenwich, Connecticut: Bruce Museum of Arts and Science; Houston: Museum of Fine Arts, 2011), cat. 23, pp. 84‑85.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-5"><sup><a href="#fnrev20796672995ef6642c874ad-5">5</a></sup> On Flinck’s early Rembrandtesque drawings, see Schatborn, pp. 4–38. Schatborn discusses the figure studies in red and black chalk on pp. 7–10.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-6"><sup><a href="#fnrev20796672995ef6642c874ad-6">6</a></sup> Werner Sumowski, <em>Drawings of the Rembrandt School</em> (New York, 1979), vol. 4, cats. 873, 876–82, 884–86, 892–94, 897, and 899–901.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-7"><sup><a href="#fnrev20796672995ef6642c874ad-7">7</a></sup> Govert Flinck, <em>Seated Youth</em> (Fig. 1). Black and white chalk on blue paper; 299 × 235 mm. Signed, lower center, black chalk, <em>G flinck</em>. Haarlem, Teylers Museum, P+ 007. Michiel Plomp, <em>The Dutch Drawings in the Teylers Museum</em> (Ghent and Doornspijk, 1997), cat. 156, p. 159. For another drawing comparable in technique to the Harvard study, although not signed or connected to a painting, see Sumowski (1979), vol. 4, cat. 925x.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-8"><sup><a href="#fnrev20796672995ef6642c874ad-8">8</a></sup> Sumowski (1979), vol. 4, cats. 884 and 924x. The connection of the Teylers drawing to Flinck’s Crucifixion painting of 1647 (Sumowski, 1983, vol. 2, cat. 630), which is usually cited to support the date of the drawing, is not compelling, but the date in the later 1640s for the Teylers sheet is very likely correct.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-9"><sup><a href="#fnrev20796672995ef6642c874ad-9">9</a></sup> Peter Schatborn, <em>Rembrandt and His Circle: Drawings in the Frits Lugt Collection</em> (Bussum, Netherlands, 2010), vol. 1, p. 103.</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-10"><sup><a href="#fnrev20796672995ef6642c874ad-10">10</a></sup> See, for example, Chris Fischer, <em>Fra Bartolommeo, Master Draughtsman of the High Renaissance: A selection from the Rotterdam Albums and Landscape Drawings from Various Collections</em> (Rotterdam: Museum Boijmans Van Beuningen; New York: Pierpont Morgan Library; Chicago: Art Institute of Chicago; Boston: Museum of Fine Arts; Copenhagen: Statens Museum for Kunst; Fort Worth, TX: Kimbell Art Museum, 1990), cats. 47 and 48, pp. 180–83, cat. 54, pp. 208–9, cat. 62, pp. 232–33, and cat. 93, pp. 337–38 (Fra Bartolommeo); Miguel Falomir, <em>Tintoretto</em> (Madrid: Museo Nacional del Prado, 2007), cats. 59–65, pp. 408–15 (Tintoretto); Barbara Brejon de Lavergnée, <em>Musée du Louvre, Cabinet des Dessins, Inventaire Général des Dessins, École Française: Dessins de Simon Vouet 1590–1649</em> (Paris, 1987), cat. 4, p. 45, cat. IV, pp. 46–47, cat. 66, pp. 88–89, cat. <span class="caps">LIV</span>, p. 96, cat. 73, p. 97, cat. 75, p. 98, cat. LV, p. 99, cat. 76, pp. 100–101, and cat. <span class="caps">CXV</span>, p. 151 (Vouet).</p>
+
+<p class="footnote" id="fn20796672995ef6642c874ad-11"><sup><a href="#fnrev20796672995ef6642c874ad-11">11</a></sup> Govert Flinck(?), <em>A Seated Man Holding a Glass</em> (Fig. 2). Sumowski (1979), vol. 4, under cat. 924x, p. 2014, described the counterproof as after an anonymous drawing. Peter Schatborn, in email correspondence with the author in November 2013, suggested that the lost drawing recorded in the counterproof should be attributed to Flinck.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/286241/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Govert Flinck, <em>Seated Youth</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/286241/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047" title="verso of _A Kneeling Youth_">Govert Flinck(?), <em>A Seated Man Holding a Glass</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1999</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1999.140</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Ausgewählte Handzeichnungen aus vier Jahrhunderten</em>, auct. cat., C. G. Boerner (Düsseldorf, 1964), cat. no. 60, n.p., repr. pl. 22, fig. 60
+                             </p>
+                                                      <p>
+                                              J. W. von Moltke, <em>Govaert Flinck</em>, Menno Hertzberger & Co. (Amsterdam, 1965), cat. no. D112, p. 194, repr. p. 193, fig. D112
+                             </p>
+                                                      <p>
+                                              Werner Sumowski, <em>Handzeichnungen Alter Meister aus Schweizer Privatbesitz</em>, exh. cat., Kunsthaus Zürich (Zürich, 1967), cat. no. 176, p. 83, repr. pl. 176
+                             </p>
+                                                      <p>
+                                              Werner Sumowski, <em>Drawings of the Rembrandt School</em>, ed. Walter Strauss, Abaris Books (New York, NY, 1979), vol. 4, cat. no. 924x, pp. 2014-15, repr.
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 52, pp. 122-3, repr.
+                             </p>
+                                                      <p>
+                                              Peter Schatborn, <em>Rembrandt and his Circle: Drawings in the Frits Lugt Collection</em>, Thoth Publishers and Fondation Custodia (2010), vol. 1, under cat. no. 31, p. 103 (n. 7)
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton and William W. Robinson, <em>Drawings by Rembrandt, his Students and Circle from the Maida and George Abrams Collection</em>, exh. cat., Bruce Museum and Yale University Press (U.S.) (New Haven and London, 2011), cat. no. 21, pp. 26 and 78-79, repr., and under cat. no. 20, p. 76
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 20; cat. no. 354, pp. 130-132, repr. p. 131 (recto), repr. p. 132 (verso) as fig. 2
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Handzeichnungen Alter Meister aus Schweizer Privatbesitz</em>, Kunsthalle Bremen, Bremen, 04/16/1967 - 05/21/1967; Kunsthaus Zürich, Zurich, 10/01/1967 - 12/01/1967
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Drawings by Rembrandt, his Students and Circle from the Collection of Maida and George Abrams</em>, Bruce Museum, Greenwich, 09/24/2011 - 01/08/2012; The Museum of Fine Arts, Houston, Houston, 04/15/2012 - 07/08/2012
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71839_dynmc?width=200&height=200" alt="A Kneeling Youth; Verso: A Seated Man Holding A Glass">
+                <span class="popup__artwork-info-id">1999.140</span>
+        <span class="popup__artwork-info-author">
+                                    Govert Flinck
+                              </span>
+        <span class="popup__artwork-info-title">A Kneeling Youth; verso: A Seated Man holding a Glass</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20286241%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F286241">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F286241" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+Kneeling+Youth%3B+verso%3A+A+Seated+Man+holding+a+Glass+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F286241" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/286241" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_91fb68da5a4cf06d287bbe4854755357" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

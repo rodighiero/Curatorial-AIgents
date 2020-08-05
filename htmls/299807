@@ -1,0 +1,1054 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Raphael and the Fornarina </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Raphael and the Fornarina" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299807"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:756693?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Raphael and the Fornarina" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_400139111" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:756693?width=3000&height=3000" data-initial-image-id="400139111" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299807" data-behavior="add_to_collection tooltip" data-artwork="299807" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299807&amp;image_id=756693" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299807/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="756693">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:756693?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Auguste-Dominique Ingres"  title="Raphael And The Fornarina" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400139111" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756693?width=125&height=125" alt="Raphael And The Fornarina">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="756679">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:756679?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Auguste-Dominique Ingres"  title="Raphael And The Fornarina" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400948383" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756679?width=125&height=125" alt="Raphael And The Fornarina">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30488">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:30488_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Auguste-Dominique Ingres"  title="Raphael And The Fornarina" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="44645409" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:30488_dynmc?width=125&height=125" alt="Raphael And The Fornarina">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This composition, the first of six versions, articulates Ingres’s conception of the art of painting. For him, the oeuvre of the Renaissance artist Raphael was the pinnacle of artistic achievement. Here Ingres draws on Raphael’s relationship with the woman known as “La Fornarina” (the Little Baker), which, according to the biographer Giorgio Vasari, led to the young artist’s death from an excess of lovemaking. Raphael has just sketched the famous portrait of her, and his beloved subject sits on his knee. But Raphael has eyes only for his own creation, which, like Ingres’s representation of its model, meets the viewer’s gaze. This triangle of glances is complicated by the presence of the Virgin in Raphael’s Madonna of the Chair, seen against the back wall, where she resembles the artist’s lover.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.252</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/26693>Jean-Auguste-Dominique Ingres</a>, French                                                                                                                                                                                                                                                                          (Montauban 1780 - 1867 Paris)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Raphael and the Fornarina</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1814</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299807">https://hvrd.art/o/299807</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2200, European and American Art, 17th–19th century, The Emergence of Romanticism in Early Nineteenth-Century France<br>
+            <a href="/visit/floor-plan/2?gallery=2200" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>64.8 x 53.3 cm (25 1/2 x 21 in.)<br />
+frame: 88.6 x 76.8 x 9.5 cm (34 7/8 x 30 1/4 x 3 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l.: Ingres	
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: Inscribed in black paint at right:...A[ROMA].
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Count de Pourtalès-Gorgier (1814-1865), sold; [his sale March 27 - April 4, 1865, Paris,no. 271] sold ; [through Charles Pillet?]; to Baron Nathaniel de Rothschild; by descent to his daughter-in-law Baroness James de Rothschild; by descent to her son Baron Henri de Rothschild, sold; [through Martin Birnbaum]; to Grenville L. Winthrop, 1931, bequest; to Fogg Art Museum, 1943. <br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.252</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                               Jean-Baptiste Bon Boutard, "Beaux-Arts Salon de 1814", <em>Journal des Débats</em> (December 12, 1814)
+                                            </p>
+                                                      <p>
+                                              François Séraphin Delpech, <em>Examen raisonné des ouvrages de peinture, sculpture, et gravure exposés au Salon du Louvre en 1814</em> (Paris, France, 1814), pp. 210-211
+                             </p>
+                                                      <p>
+                               <em>Registre d'inscription des productions des artistes vivans presentées à l'exposition, Salon de 1814</em>, checklist, Musée Royal des Arts (Paris, France, 1814)
+                                            </p>
+                                                      <p>
+                               Edme Miel, "Beaux-Arts Salon de 1814", <em>Journal Général de France</em> (February 5, 1815)
+                                            </p>
+                                                      <p>
+                               "Salon de 1814", <em>Journal Royal</em> (January 14, 1815)
+                                            </p>
+                                                      <p>
+                               A. V., [Lettres] sur la Salon de 1814, <em>Le Moniteur Universel</em> (February 13, 1815), LI-LII
+                                            </p>
+                                                      <p>
+                                              Léon-Jean-Joseph Dubois, <em>Description des tableaux faisant partie des collections de M. le Comte de Pourtalès-Gorgier</em> (Paris, France, 1841), no. 208
+                             </p>
+                                                      <p>
+                                              Frederic de Mercey Lagenevais, "Peintres et sculpteurs modernes: M. Ingres", <em>Revue des Deux Mondes</em> (1846), vol. XIV, p. 526
+                             </p>
+                                                      <p>
+                                              Albert Magimel, <em>Oeuvres de J. A. Ingres, gravées au trait sur acier par A. Réveil, 1800-1851</em>, Ambroise Firmin Didot (Paris, France, 1851), no. 20, repr. as line drawing
+                             </p>
+                                                      <p>
+                                              Paul ("Bibliophile Jacob") Lacroix, "M. Ingres à l'Exposition Universelle", <em>Revue Universelle des Arts</em> (October 1855 - March 1856), vol. II, p. 209
+                             </p>
+                                                      <p>
+                                              Théophile Silvestre, <em>Histoire des artistes vivants français et étrangers, études d'après nature</em> (Paris, France, 1856), p. 34
+                             </p>
+                                                      <p>
+                                              Edmond Saglio, "Un Nouveau Tableau de M. Ingres, liste complète de ses oeuvres", <em>La Correspondence Litteraire</em> (February 5, 1857), p. 77
+                             </p>
+                                                      <p>
+                                              Theophile Gautier, "Louis XIV et Molière - tableau de M. Ingres", <em>L'Artiste</em> (Paris, France, January 10, 1858), p. 21
+                             </p>
+                                                      <p>
+                                              Emile Galichon, "Descriptions des dessins de M. Ingres exposés au Salon des Arts-Unis", <em>Gazette des Beaux-Arts</em> (March 15, 1861), vol. IX, no. 6, p. 349
+                             </p>
+                                                      <p>
+                                              "Exposition des Oeuvres d'Ingres", <em>La Chronique des Arts et de la Curiosité</em> (April 7 1867), vol. V, p. 109
+                             </p>
+                                                      <p>
+                                              Léon Lagrange, "Ingres", <em>Le Correspondant</em> (1867), vol. LXXI, pp. 51, 72
+                             </p>
+                                                      <p>
+                                              "Mouvement des Arts et de la Curiosité. Tableaux et Dessins d'Ingres", <em>La Chronique des Arts et de la Curiosité</em> (May 5 and 12, 1867), vol. V, p. 137
+                             </p>
+                                                      <p>
+                                              Emile Bellier de la Chavignerie, "Notes sur l'oeuvre de M. Ingres", <em>La Chronique des Arts et de la Curiosité</em> (1867), vol. V, p. 51
+                             </p>
+                                                      <p>
+                                              <em>Catalogue des tableaux, études peintes, dessins et croquis de J.A.D. Ingres exposé dans les galeries de l'Ecole impériale des Beaux-Arts</em>, exh. cat., Ad. Laine et J. Havard (Paris, France, 1867), no. 62
+                             </p>
+                                                      <p>
+                                              Olivier Merson and Emile Bellier de la Chavignerie, <em>Ingres, sa Vie et ses Oeuvres</em>, J. Hetzel (Paris, France, 1867), pp. 17, 18, no. 30
+                             </p>
+                                                      <p>
+                                              Théophile Thoré, <em>Salons de T. Thoré</em>, Librairie internationale (Paris, France, 1868), p. 241
+                             </p>
+                                                      <p>
+                                              Charles Blanc, <em>Ingres, sa vie et ses ouvrages</em>, Vve. J. Renouard (Paris, France, 1870), pp. 46-47
+                             </p>
+                                                      <p>
+                                              Henri, Vicomte Delaborde, <em>Ingres, sa vie, ses travaux, sa doctrine, d'apres les notices manuscrites et les lettres du maitre</em>, H. Plon (Paris, France, 1870), no. 53, p. 334
+                             </p>
+                                                      <p>
+                                              Pierre Petroz, <em>L'Art et la critique en France depuis 1822</em> (Paris, France, 1875), p. 88
+                             </p>
+                                                      <p>
+                                              Victor Fournel, <em>Les Artistes Français contemporains</em>, A. Mame et fils (Tours, France, 1884), p. 52
+                             </p>
+                                                      <p>
+                                              Henry Lapauze, <em>Les dessins de J.-A.-D. Ingres du Musée de Montauban</em>, J. E. Bulloz (Paris, France, 1901), pp. 235, 248
+                             </p>
+                                                      <p>
+                                              Augustine Boyer d'Agen (Jean-Auguste Boye), <em>Ingres d'apres une correspondence inédit</em>, H. Daragon (Paris, France, 1909), pp. 101, 106, 128
+                             </p>
+                                                      <p>
+                                              Albert Dreyfus, "Jean-Auguste-Dominique Ingres", <em>Die Kunst</em> (December 1911), p. 128
+                             </p>
+                                                      <p>
+                                              <em>Exposition Ingres</em>, exh. cat., Galerie Georges Petit (Paris, France, 1911), no. 61
+                             </p>
+                                                      <p>
+                                              Henry Lapauze, <em>Ingres, sa vie & son oeuvre</em>, G. Petit (Paris, France, 1911), pp. 137, 146, 148-150, 247, repro p. 137
+                             </p>
+                                                      <p>
+                                              Louis Hourticq, <em>Ingres: l'oeuvre du maitre</em>, Hachette (Paris, France, 1928), p. iv, repro pp. 36, 116
+                             </p>
+                                                      <p>
+                                              <em>David and Ingres: Paintings and Drawings</em>, exh. cat., Springfield Museum of Fine Arts (Springfield, MA, 1939), under no. 22
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "Drawings by Ingres in the Winthrop Collection", <em>Gazette des Beaux-Arts</em> (July-December 1944), ser. 6, 26, p. 388 no. 1
+                             </p>
+                                                      <p>
+                                              Claude Roger-Marx, <em>Ingres</em>, J. Marguerat (Lausanne, Switzerland, 1949), pl. 19
+                             </p>
+                                                      <p>
+                                              Karl Scheffler, <em>Ingres</em>, A. Scherz (Bern, Switzerland, 1949), p. 19
+                             </p>
+                                                      <p>
+                                              Jean Alazard, <em>Ingres et l'Ingrisme</em>, Michel (Paris, France, 1950), pp. 54, 146 n. 30, pl. XXVII
+                             </p>
+                                                      <p>
+                                              Frank Elgar, <em>Ingres</em>, Les Editions du Chene (Paris, France, 1951), p. 6
+                             </p>
+                                                      <p>
+                                              Georges Wildenstein, <em>Ingres</em>, Phaidon Press (London, England, 1954), no. 88, pl. 36
+                             </p>
+                                                      <p>
+                                              James Parker, <em>Jean-Auguste-Dominique Ingres, 1780-1867</em>, The Metropolitan Museum of Art (New York, NY, 1955), no. 10
+                             </p>
+                                                      <p>
+                                              Pontus Grate, <em>Deux critiques d'art de l'epoque Romantique: Gustave Planche et Theophile Thore</em>, Almqvist & Wiksell (Stockholm, Sweden, 1959), p. 164
+                             </p>
+                                                      <p>
+                                              Martin Birnbaum, <em>The Last Romantic</em> (New York, NY, 1960), p. 191
+                             </p>
+                                                      <p>
+                                              <em>Kindlers Malerei Lexicon</em>, Kindler Verlag (Zurich, Switzerland, 1964 - 1966), vol. III, p. 384
+                             </p>
+                                                      <p>
+                                              <em>Ingres</em>, exh. cat., Réunion des Musées Nationaux (Paris, France, 1967), under no. 190
+                             </p>
+                                                      <p>
+                                              <em>Ingres: Centennial Exhibition, 1867-1967.  Drawings, Watercolors and Oil Sketches from American Collections</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1967), p. x, under no. 25, fig. 5
+                             </p>
+                                                      <p>
+                                              Robert Rosenblum, <em>Jean-Auguste-Dominique Ingres</em>, Harry N. Abrams, Inc. (New York, NY, 1967), pp. 62, 98-99, repr. as pl. 22 (frontispiece)
+                             </p>
+                                                      <p>
+                                              <em>Paintings from the Bequest of Grenville L. Winthrop shown in conjunction with the Ingres Centennial Exhibition</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1967), no. I
+                             </p>
+                                                      <p>
+                                              George Levitine, "Marguerite Gerard and her Stylistic Significance", <em>Annual III</em>, Baltimore Museum of Art (Baltimore, MD, 1968), pp. 21-31, ill. as fig. 10 on p. 30.
+                             </p>
+                                                      <p>
+                                              Emilio Radius and Ettore Camesasca, <em>L'opera completa di Ingres</em>, Rizzoli (Milan, Italy, 1968), no. 72b
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "Ingres as a Great Portrait Draughtsman", <em>Colloque Ingres</em>, ed. Mathieu Méras and Alan Godeau, Amis du Musée Ingres (Montauban, 1969), pp. 134-50, p. 144
+                             </p>
+                                                      <p>
+                                              Pierre Angrand and Hans Naef, "Ingres et la famille de Pastoret, correspondence inedite. II", <em>Bulletin du Musée Ingres</em>, Amis du Musée Ingres (Montauban, France, July 1970), p. 13 n. 79
+                             </p>
+                                                      <p>
+                                              Ms. Susan Haskell, <em>[Unidentified book]</em> (1971), p. 64 fig. 6
+                             </p>
+                                                      <p>
+                                              Daniel Ternois and Ettore Camesasca, <em>Tout l'oeuvre peint d'Ingres</em> (Paris, France, 1971), no. 73b
+                             </p>
+                                                      <p>
+                                              <em>Ossian</em>, exh. cat., Grand Palais (Paris, France, 1974), p. 13
+                             </p>
+                                                      <p>
+                                              Pierre Barousse, "L' 'idée' chez Monsieur Ingres", <em>Bulletin du Musée Ingres</em>, Amis du Musée Ingres (Montauban, France, 1975), p. 166 n. 14
+                             </p>
+                                                      <p>
+                                              <em>Search for Innocence: Primitive and Primitivistic Art of the 19th Century</em>, exh. cat., University of Maryland (College Park, MD, 1975), pp. 40, 89
+                             </p>
+                                                      <p>
+                                              Jon Whiteley, <em>Ingres</em>, Oresko Books Ltd. (London, England, 1977), pp. 11-12, no. 33
+                             </p>
+                                                      <p>
+                                              Hans Naef, <em>Die Bildniszeichnungen von J.-A.-D. Ingres</em> (Bern, Switzerland, 1978), vol. II, p. 470
+                             </p>
+                                                      <p>
+                                              Hugh Honour, <em>Romanticism</em>, Harper & Row (New York, NY, 1979), p. 303
+                             </p>
+                                                      <p>
+                                              William Crawford, <em>The Keepers of Light: A History and Working Guide to Early Photographic Processes</em>, Morgan & Morgan (Dobbs Ferry, NY, 1979), repr., p. 33
+                             </p>
+                                                      <p>
+                                              Gaetan Picon, <em>Jean-Auguste-Dominique Ingres</em>, Quai des Celestins, 4 (New York, NY, 1980), p. 48; repr. in color p. 49
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn and Susan L. Siegfried, <em>Works by J. A. D. Ingres in the Collection of the Fogg Art Museum</em>, Fogg Art Museum (Cambridge, MA, 1980), no. 15, pps. 54-57; repr. in b/w p. 55; color, detail on cover, text p. 11
+                             </p>
+                                                      <p>
+                                              Eldon N. Van Liere, "Ingres 'Raphael and the Fornarina': Reverence and Testimony", <em>Arts magazine</em> (December 1981), vol. LVI, no. 4, pp. 108-115, repr.
+                             </p>
+                                                      <p>
+                                              <em>25 Great Masters of Modern Art: Ingres</em>, Kodansha (Tokyo, Japan, 1981), repr. in color no. 24
+                             </p>
+                                                      <p>
+                                              <em>Pablo Picasso: Das Spatwerk</em>, exh. cat., Kunstmuseum Düsseldorf (Basel, Switzerland, 1981), repr. in b/w abb. 7, p. 18
+                             </p>
+                                                      <p>
+                                              Hans Ebert, <em>Jean-Auguste-Dominique Ingres</em>, Hanschelverlag Kunst und Gesellschaft (Berlin, Germany, 1982), repr. in b/w for entry no. 22
+                             </p>
+                                                      <p>
+                                              Patricia Condon, <em>Ingres, In Pursuit of Perfection: the Art of J.-A.-D. Ingres</em>, exh. cat., Speed Art Museum (Louisville, KY, 1983), repr. b/w p. 24
+                             </p>
+                                                      <p>
+                                              Gert Schiff, <em>Picasso: the Last Years, 1963-1973</em>, George Braziller, Inc. (New York, NY, 1983), repr. in b/w p. 49; text p. 49-50
+                             </p>
+                                                      <p>
+                                              David Thompson, <em>Raphael, the Life and the Legacy</em>, British Broadcasting Corporation (London, England, 1983), repr. in color p. 237, fig 141
+                             </p>
+                                                      <p>
+                                              Richard Shiff, "Representation, Copying and the Technique of Originality", <em>New Literary History</em> (Winter 1984), vol. XV, no. 2, pp. 333-363, repr. in b/w p. 339
+                             </p>
+                                                      <p>
+                                              <em>Raffaello: Elementi di un Mito</em>, exh. cat., Biblioteca Medicea Laurenziana (Florence, Italy, 1984), repr. in b/w p. 182, text p. 183
+                             </p>
+                                                      <p>
+                               Hélène Toussaint, "Ingres et la Fornarina", <em>Bulletin du Musée Ingres</em>, Amis du Musée Ingres (Montauban, France, September 1986)
+                                            </p>
+                                                      <p>
+                                              Rosalind E. Krauss, "Originality as Repetition: Introduction", <em>October</em>, Massachusetts Institute of Technology (Cambridge, MA, Summer 1986), no. 37, repr. in b/w p. 39
+                             </p>
+                                                      <p>
+                                              Jefferson C. Harrison, <em>French Paintings from the Chrysler Museum</em>, exh. cat., Chrysler Museum of Art (Norfolk, VA, 1986), text and repr. in b/w p. 33
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 198, p. 174, repr. in color
+                             </p>
+                                                      <p>
+                                              Jurgen Harten, ed., <em>James Lee Byars: the Philosophical Palace</em>, exh. cat., Städtische Kunsthalle Düsseldorf (Düsseldorf, Germany, 1986), repr. in color, pl. VIII
+                             </p>
+                                                      <p>
+                                              Robert E. McVaugh, "Turner and Rome, Raphael and the Fornarina", <em>Studies in Romanticism</em> (Fall 1987), vol. 26, no. 3, pp. 365-398, repr. in b/w fig. 5, p. 381
+                             </p>
+                                                      <p>
+                                              Pierre Georgel and Anne-Marie Lecoq, <em>La Peinture dans la Peinture</em>, Editions Adam Biro (Paris, France, 1987), repr. in color pl. X, opposite p. 81
+                             </p>
+                                                      <p>
+                                              Francis Haskell, <em>Past and Present in Art and Taste</em>, Yale University Press (New Haven, CT and London, England, 1987), pp. 96-98, repr. in b/w p. 97
+                             </p>
+                                                      <p>
+                                              Richard Shiff, "Phototropism (Figuring the Proper)", <em>Retaining the Original: Multiple Originals, Copies, and Reproductions</em>, ed. Kathleen Preciado, National Gallery of Art (Washington, D.C., 1989), pp. 161-179, pp. 168-169, repr. fig. 3
+                             </p>
+                                                      <p>
+                                              Rosalind E. Krauss, "You Irreplaceable You", <em>Retaining the Original: Multiple Originals, Copies, and Reproductions</em>, ed. Kathleen Preciado (Washington, D.C., 1989), pp. 151-159, pp. 153-158; repr. in color on cover, in b/w p. 156 as fig. 6
+                             </p>
+                                                      <p>
+                                              Nora M. Heimann, "The Road to Thebes, a Consideration of Ingres' Antiochus and Stratonice", <em>The Rutgers Art Review</em> (1990), vol. II, repr. fig. 5, p. 12, text pp. 10-13
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 65, color plate; pp. 112, 223, repr. b/w cat. no. 266
+                             </p>
+                                                      <p>
+                                              Annalisa Zanni, <em>Ingres: catalogo completo dei dipinti</em>, Cantini Editore (Florence, Italy, 1990), cat. 44; color repr. p. 61
+                             </p>
+                                                      <p>
+                                              France Borel, <em>Le Modèle ou l'Artiste Seduit</em>, Skira (Geneva, Switzerland, 1990), repr. in color p. 33
+                             </p>
+                                                      <p>
+                                              Moshe Baruch, <em>Modern Theories of Art</em>, New York University Press (New York, NY, 1990), vol. I, repr.
+                             </p>
+                                                      <p>
+                                              Dirk Pauwels, "Raphael en de Fornarina (1842), een historisch genrestuk van Nicaise de Keyser (1813-1887), Kanttekeningen, theoretische en kristische reflecties bij een der 'parels' van het Antwerpse Salon van 1843", <em>Jaarboek, Koninkijk Museum voor Schone Kunsten Antwerpen</em> (Antwerp, Belgium, 1991), repr. in b/w fig. 15, p. 252
+                             </p>
+                                                      <p>
+                                              Sylvain Laveissière and Régis Michel, <em>Gericault</em>, exh. cat., Editions de la Réunion des Musées Nationaux (Paris, France, 1991), repr. in b/w as fig. 107
+                             </p>
+                                                      <p>
+                                              Gaetan Picon, <em>Ingres</em>, Skira Rizzoli (Geneva, Switzerland/New York NY, 1991), repr. in color, p. 35
+                             </p>
+                                                      <p>
+                                              Poppi Castelnuovo, <em>La Pittura in Italia: L'Ottocento, Volume II</em>, Electa (Milan, Italy, 1991), pp. 542-543,  fig. 779
+                             </p>
+                                                      <p>
+                                              [Eugéne-Emmanuel Pineu-Duval] Amaury-Duval, <em>L'Atelier d'Ingres: Edition critique de l'ouvrage publié à Paris en 1878</em>, ed. Daniel Ternois, Arthena (Paris, France, 1993), repr. in b/w fig. 75, p. 105
+                             </p>
+                                                      <p>
+                                              Marie-Hélène Huet, <em>Monstrous Imagination</em>, Harvard University Press (Cambridge, MA, 1993), repr. in b/w p. 164
+                             </p>
+                                                      <p>
+                                              Dr. Ruth Westheimer, <em>The Art of Arousal</em>, Abbeville Press (New York, NY, 1993), repr. in color p. 58
+                             </p>
+                                                      <p>
+                                              <em>Urban Utopia: 19th century II</em>, Kodansha (Tokyo, Japan, 1993), repr. in color fig. 1-22, p. 27
+                             </p>
+                                                      <p>
+                                              [Reproduction only], <em>Studies in Romanticism</em>, The Graduate School, Boston University (Boston, MA, Summer 1994 - Winter 1994)., repr. on cover, b/w
+                             </p>
+                                                      <p>
+                                              Barbara Maria Stafford, <em>Artful Science: Enlightenment, Entertainment,and the Eclipse of Visual Education</em>, MIT Press (Cambridge, MA, 1994), repr. in b/w p. 112, fig. 85
+                             </p>
+                                                      <p>
+                                              Daniel Ternois, "De bon usage des correspondances d'artistes: les lettres d'Ingres Marcotte et à Gilbert", <em>Bulletin de la Societe de l'Histoire de l'Art francais</em> (1995), p. 219, fig. 4
+                             </p>
+                                                      <p>
+                                              Georges Vigne, <em>Dessins d'Ingres: Catalogue raisonné des dessins du musée de Montauban</em>, Gallimard/Reunion des Musées Nationaux (Paris, France, 1995), pp. 168-173, repro. p. 169
+                             </p>
+                                                      <p>
+                                              Georges Vigne, <em>Ingres</em>, Citadelles & Mazenod and Abbeville Press (Paris, France; New York, NY, 1995), p. 122, repr. p. 124
+                             </p>
+                                                      <p>
+                                              <em>Romantic Soul</em>, Watano Matsuzaki Communications (Tokyo, Japan, 1995?), repr. in color, fig. 4-23, p. 90
+                             </p>
+                                                      <p>
+                                              Aileen Ribeiro, <em>The Art of Dress: Fashion in England and France 1750 to 1820</em>, Yale University Press (New Haven, CT and London, England, 1995), pp. 179-180, repr. in color fig. 187
+                             </p>
+                                                      <p>
+                                              James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), pp. 182-3
+                             </p>
+                                                      <p>
+                                              Nadia Tscherny and Guy Stair Sainty, <em>Romance and Chivalry: History and Literature Reflected in Early Nineteenth-Century French Painting</em>, exh. cat., Mathiesen Fine Art Ltd / Stair Sainty Matthiesen Inc. (London, England and New York, NY, 1996), p. 162, fig. 122
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Joanna Woodall, <em>Portraiture: Facing the Subject</em>, Manchester University Press (Manchester, England, 1997), repr. front cover
+                             </p>
+                                                      <p>
+                                              Hans Belting, <em>Das Unsichtbare Meisterwerk</em>, Verlag C.H. Beck (Munich, Germany, 1998), pp. 108-110, repr. as fig. 28; detail repr. as fig. 29
+                             </p>
+                                                      <p>
+                                              Hinrich Sieveking, <em>Fuseli to Menzel: drawings and watercolors in the age of Goethe from a German private collection</em>, exh. cat., Prestel Verlag (Munich, Germany, 1998), pp. 122-123
+                             </p>
+                                                      <p>
+                                              Valérie Bajou, <em>Monsieur Ingres</em>, Editions Adam Biro (Paris, France, 1999), pp. 143 -146; repr. in color fig. 96
+                             </p>
+                                                      <p>
+                                              Gary Tinterow and Philip Conisbee, <em>Portraits by Ingres: Image of an Epoch</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1999), pp. 12, 13, 150-153; repr. as fig. 127
+                             </p>
+                                                      <p>
+                                              <em>Seiyo Bijutsukan [The History of Western Art]</em>, Shogakukan Inc. (Tokyo, Japan, 1999), p. 780, repr. in color
+                             </p>
+                                                      <p>
+                                              Antoon Erftemeijer, <em>De aap van Rembrandt: kunstenaarsanekdotes van de klassiek oudheid tot heden</em>, Becht (Haarlem, Netherlands, 2000), repr. as frontispiece
+                             </p>
+                                                      <p>
+                                              Adrian Rifkin, <em>Ingres, Then and Now</em>, Routledge (London and New York, NY, 2000), p. 39; detail repr. in b/w as fig. 14, p. 30
+                             </p>
+                                                      <p>
+                                              Uwe Fleckner, <em>Jean-Auguste-Dominique Ingres 1780-1867</em>, Könemann Verlagsgesellschaft (Cologne, Germany, 2000), pp. 65-66; repr. in color p. 70 as no. 66; detail repr. p. 71
+                             </p>
+                                                      <p>
+                                              Jill Berk Jimenez, ed., <em>Dictionary of Artists' Models</em>, Fitzroy Dearborn Publishers (London and Chicago, 2001), p. 332; repr. on cover
+                             </p>
+                                                      <p>
+                                              Alexandra Wettlaufer, <em>Pen vs. Paintbrush: Girodet, Balzac, and the myth of Pygmalion in post-revolutionary France</em>, Palgrave (New York, NY, 2001), repr. as fig. 6.1, p. 213
+                             </p>
+                                                      <p>
+                                              Hans Belting, <em>The Invisible Masterpiece</em>, Reaktion Books (London, 2001), pp. 78-79, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Sabrina Draï, "Le Modèle ou la Femme oubliée dans Manette Salomon, L'oeuvre, et 'Le chef d'oeuvre inconnu'", <em>Florida Atlantic Comparative Studies</em>, FACS, Dept. of Languages and Linguistics, Florida Atlantic University (Boca Raton, FL, 2002), Vol. 5, p. 46, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Sabine Poeschel, "Raphael und die Fornarina: Ein Bild wird Biographie", <em>Westfalen und Italien: Festschrift für Karl Noehles</em>, Michael Imhof-Verlag (Petersberg, Germany, 2002), pp. 285-298, p. 295; repr. p. 293 as abb. 3
+                             </p>
+                                                      <p>
+                                              Chikashi Kitazaki and Mina Oya, ed., <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Ueno, 2002), pp. 192-193, cat. #55, color repr.
+                             </p>
+                                                      <p>
+                                              Philip Hardie, <em>Ovid's Poetics of Illusion</em>, Cambridge University Press (Cambridge, U.K., 2002), pp. 209-212, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Richard R. Brettell, <em>The Robert Lehman Collection, vol. 9: Nineteenth- and twentieth-century European Drawings</em>, Ms. Susan R. Stein (New York, NY / Princeton, NJ, 2002), under no. 21, repr. p. 44 as fig. 21.1
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, exh. cat., The Metropolitan Museum of Art and Yale University Press (U.S.) (New York, 2003), no. 53, pp. 157-159, repr. in color
+                             </p>
+                                                      <p>
+                                              Christopher Riopelle, <em>Harvard's Winthrop Collection: Nineteenth-Century Paintings and Drawings from the Grenville L. Winthrop Collection</em>, exh. cat., National Gallery Company Limited (London, 2003), p. 26, cat. 13, ill.
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, <em>Ingres, Burne-Jones, Whistler, Renoir... La Collection Grenville L. Winthrop</em>, exh. cat., Musée des Beaux-Arts de Lyon and Réunion des Musées Nationaux (Paris, France, 2003), no. 53, pp. 164-166, repr. in color
+                             </p>
+                                                      <p>
+                                              Barry Venning, <em>Turner</em>, Phaidon (London and New York, NY, 2003), repr. p. 167 as fig. 98
+                             </p>
+                                                      <p>
+                                              Gail S. Weinberg, "D. G. Rossetti's Ownership of Botticelli's 'Smeralda Brandini'", <em>The Burlington Magazine</em> (January 2004), vol. CXLVI, no. 1210, pp. 20-26, p. 21
+                             </p>
+                                                      <p>
+                                              Laurence Madeline, ed., <em>Picasso Ingres</em>, exh. cat., Réunion des Musées Nationaux and Librairie Arthème Fayard (Paris, 2004), under no. 85
+                             </p>
+                                                      <p>
+                                              Mia Fineman, "Raphael's Other Woman: Who is the mystery lady in 'La Fornarina'?", <em>Slate</em> (February 2 2005), repr. in color
+                             </p>
+                                                      <p>
+                                              Michael Cole, ed., <em>Inventions of the Studio: Renaissance to Romanticism</em>, The University of North Carolina Press (Chapel Hill, NC, 2005), pp. 27-28,  fig. 1.16
+                             </p>
+                                                      <p>
+                                              David Alan Brown and Jane Van Nimmen, <em>Raphael & the Beautiful Banker: The Story of the Bindo Altoviti Portrait</em>, Yale University Press (New Haven CT and London, 2005), pp. 98-101, repr. as fig. 66
+                             </p>
+                                                      <p>
+                                              Laurent Langer, "Les Tableaux Italiens de James-Alexandre Comte de Pourtales-Gorgier", <em>Le gout pour la peinture italienne autour de 1800. Predecesseurs, modeles et concurrents du Cardinal Fesch</em>, Musée Fesch (Ajaccio, France, 2006), pp. 261-275, repr. as Fig. 1 on p. 262.
+                             </p>
+                                                      <p>
+                                              Vincent Pomarède, Stéphane Guégan, Louis-Antoine Prat, and Eric Bertin, <em>Ingres 1780-1867</em>, exh. cat., Editions Gallimard (Paris, France, 2006), pp. 71-72; repr. pp. 73 as ill. 45, p. 218 as ill. 160
+                             </p>
+                                                      <p>
+                                              Karin H. Grimme, <em>Jean-Auguste-Dominique Ingres, 1780-1867</em>, Taschen GmbH (Cologne, Germany, 2006), p. 26, repr. in color
+                             </p>
+                                                      <p>
+                                              Laurie Adams, <em>The Making and Meaning of Art</em>, Pearson Education, U.S. (Upper Saddle River, NJ, 2006), p. 134; repr. in color as fig. 7.8, p. 135
+                             </p>
+                                                      <p>
+                                              Marina Wallace, Martin Kemp, and Joanne Bernstein, <em>Seduced: Art and Sex from Antiquity to Now</em>, Merrell Publishers Ltd. (London, 2007), p. 160 and p. 248, repr. in color p. 160
+                             </p>
+                                                      <p>
+                                              Elizabeth Cowling and Michael Fitzgerald, <em>Picasso's Marie-Therese</em>, exh. cat., Acquavella Galleries (New York, 2008), pp. 37-38; repr. in color on p. 38.
+                             </p>
+                                                      <p>
+                                              Susan L. Siegfried, <em>Ingres: Painting Reimagined</em>, Yale University Press (U.S.) (New Haven, 2009), pp. 115, 148,177-191 , repr. in color p. 178 as fig. 95, detail repr. in color p. 115 as fig. 60 and p. 190
+                             </p>
+                                                      <p>
+                                              David Solkin, ed., <em>Turner and the Masters</em>, exh. cat., Tate Gallery Publishing Limited (London, 2009), p. 169, fig. 62
+                             </p>
+                                                      <p>
+                                              Robert Cozzolino, ed., <em>Narcissus in the Studio: Artist Portraits and Self-Portraits</em>, exh. cat., Pennsylvania Academy of the Fine Arts (Philadelphia, 2010), p. 22, repr. p. 20 as fig. 10
+                             </p>
+                                                      <p>
+                                              Andreas Henning and Jürgen Müller, "Die multiplen Leben des Raffael. Aspekte der Rezeption von Werk und Persönlichkeit dieses Künstlers, <em>Jahrbuch der Staatlichen Kunstsammlungen Dresden</em> (2012), 38, pp. 119-134, p. 122, repr. p. 121 as fig. 3
+                             </p>
+                                                      <p>
+                                              Sebastian Smee, "Frame by Frame: Hero Worship, with Nerve", <em>The Boston Globe</em> (Boston, June 12, 2012), section G, p. 3, repr.
+                             </p>
+                                                      <p>
+                                              <em>Cinematic Subjects:  The Art of Sun Smith-Foret and Jamie Adams</em>, brochure (2012), p. 5, repr.
+                             </p>
+                                                      <p>
+                                              William H. Robinson, <em>Picasso and the Mysteries of Life: La Vie</em>, exh. cat., Cleveland Museum of Art and D. Giles (Cleveland,OH and London, 2012), p. 42, fig. 25, ill. (color)
+                             </p>
+                                                      <p>
+                                              Mary Vaccaro, "True Beauties", <em>Apollo</em> (December 2013), vol. 178, no. 615, pp. 66-71, pp.. 69-71, repr. as fig. 5
+                             </p>
+                                                      <p>
+                                              James Hall, "Worn out by love, or work?" [review of Antonio Forcellino,"Raphael: A Passionate Life"], <em>The Times Literary Supplement</em> (January 11, 2013), no. 5728, pp. 5, 7, p. 5, repr. on cover
+                             </p>
+                                                      <p>
+                                              Sarah Betzer, Artist as Lover: Rereading Ingres's Raphael and the Fornarina, <em>Oxford Art Journal</em>, Oxford University Press (UK) (Oxford, 2015), vol. 38, no. 3, pp. 313-341, pp. 315-316 + 327-328 + 332 + 339, fig. 1, repr. p. 316
+                             </p>
+                                                      <p>
+                                              "A Clearer View of the Collections", <em>Index Magazine</em>, Harvard Art Museums (December 5, 2017), https://www.harvardartmuseums.org/article/a-clearer-view-of-the-collections, accessed December 12, 2017
+                             </p>
+                                                      <p>
+                                              James Hall, "The Two Duchamps", <em>Tate Etc.</em> (Summer 2017), No. 40, pp. 86-91, pp. 88-89, repr. p. 88
+                             </p>
+                                                      <p>
+                                              Emmanuelle Brugerolles, <em>Ingres et ses élèves</em>, exh. cat., Beaux-arts de Paris éditions (Paris, 2017), p. 35, repr. p. 36 as ill. 1
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Annual Exhibition, 1814</em>, Musée Royal des Arts, Paris, 11/01/1814 - 12/31/1814
+                            </p>
+                          <p>
+                              <em>Tableaux, etudes peintes, dessins et croquis de J.-A.-D. Ingres peintre d'histoire, sénateur, membre de l'Institut</em>, École Impériale des Beaux-Arts, Paris, 04/10/1867 - 12/31/1867
+                            </p>
+                          <p>
+                              <em>Exposition Ingres</em>, Galerie Georges Petit, Paris, 04/26/1911 - 05/14/1911
+                            </p>
+                          <p>
+                              <em>Paintings from the Bequest of Grenville L. Winthrop shown in conjunction with the Ingres Centennial Exhibition</em>, Fogg Art Museum, Cambridge, 02/12/1967 - 04/09/1967
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Works by J.-A.-D. Ingres in the Collection of the Fogg Art Museum</em>, Fogg Art Museum, Cambridge, 10/17/1980 - 12/07/1980
+                            </p>
+                          <p>
+                              <em>Masterpieces of European Art</em>, Busch-Reisinger Museum, Cambridge, 06/22/1985 - 09/15/1985
+                            </p>
+                          <p>
+                              <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 09/14/2002 - 12/08/2002
+                            </p>
+                          <p>
+                              <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, Musée des Beaux-Arts de Lyon, Lyon, 03/15/2003 - 05/26/2003; National Gallery, London, 06/25/2003 - 09/14/2003; The Metropolitan Museum of Art, New York, 10/23/2003 - 01/25/2004
+                            </p>
+                          <p>
+                              <em>For Students of Art and Lovers of Beauty: Highlights from the Collection of Grenville L. Winthrop</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 04/16/2004
+                            </p>
+                          <p>
+                              <em>Re-View: S424-426  Western Art from 1560 to 1900</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/16/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013
+                            </p>
+                          <p>
+                              <em>32Q: 2200 19th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Iconic Works</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:756693?width=200&height=200" alt="Raphael And The Fornarina">
+                <span class="popup__artwork-info-id">1943.252</span>
+        <span class="popup__artwork-info-author">
+                                    Jean-Auguste-Dominique Ingres
+                              </span>
+        <span class="popup__artwork-info-title">Raphael and the Fornarina</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299807%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299807">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299807" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Raphael+and+the+Fornarina+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299807" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299807" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_22e5001cf80187cedb40c10eb5aaa755" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,564 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Earrings </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Earrings" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/291421"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:LEG251306_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Earrings" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_46473698" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:LEG251306_dynmc?width=3000&height=3000" data-initial-image-id="46473698" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">Left: 1958.49.B; Right: 1958.49.A</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?291421" data-behavior="add_to_collection tooltip" data-artwork="291421" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=291421&amp;image_id=LEG251306" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/291421/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="LEG251306">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG251306_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Earrings" data-object-caption="Left: 1958.49.B; Right: 1958.49.A" data-object-copyright="President and Fellows of Harvard College" data-image-id="46473698" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG251306_dynmc?width=125&height=125" alt="Earrings">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="40035">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:40035_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Earrings" data-object-caption="Left: 1958.49.B; Right: 1958.49.A" data-object-copyright="President and Fellows of Harvard College" data-image-id="17358006" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:40035_dynmc?width=125&height=125" alt="Earrings">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1958.49.A-B</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Earrings</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Jewelry</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            earring                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>11th-12th century</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Asia                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Byzantine period, Middle</dd>
+                                        <dt>Culture</dt>
+                <dd>Byzantine</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/291421">https://hvrd.art/o/291421</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Mixed copper alloy and gold</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>Each element: 4.8 x 3.8 cm (1 7/8 x 1 1/2 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: ICP-MS/AAA data from sample, Mixed Copper Alloy:<br />
+1958.49.A: Cu, 69.81; Sn, 3.95; Pb, 16.9; Zn, 7.94; Fe, 0.17; Ni, 0.12; Ag, 0.1; Sb, 0.34; As, 0.66; Bi, less than 0.025; Co, 0.019; Au, less than 0.01; Cd, less than 0.001<br />
+<br />
+1958.49.B: Cu, 73; Sn, 15.24; Pb, 6.74; Zn, 4.27; Fe, 0.21; Ni, 0.07; Ag, 0.06; Sb, 0.11; As, 0.25; Bi, less than 0.025; Co, 0.051; Au, less than 0.01; Cd, less than 0.001<br />
+<br />
+J. Riederer</p>
+                                      <p class="divider">Technical Observations: The patina consists of various greens, red cuprite, and brown encrustations. Pendant B has large cubic crystals of cuprite over a black layer. In terms of the condition, the earrings are structurally sound, but the surface is poorly preserved. Only the pendants are ancient, as the wire loops and rosettes are all modern. Both earrings were cast and, while they are similar, the two are not an exact match.<br />
+ <br />
+ <br />
+Carol Snow  (submitted 2002)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. Edward Waters</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1958</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1958.49.A-B</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>Although currently mounted to serve as earrings, these pendants were produced separately, as evinced by their distinctly different metallurgic compositions and slightly varying shapes (1). Pendant B is also thicker and heavier than A. The modern date of their identical gold ear wires and copper alloy rosette-shaped fittings suggests that they were only recently united. Each earring is composed of a circular pendant with a round opening in the lower half. The resulting shape resembles a crescent, turned on its side. <br />
+ <br />
+A recessed tendril pattern, obscured by severe corrosion, decorates the obverse of pendant A. This ornament may imitate similar patterns found in enamel plaques set in comparably shaped gold pendants (2). The reverse of pendant A is undecorated. A small, solid tab protrudes from the bottom, and a small suspension loop projects from the top.<br />
+ <br />
+Both the front and back surfaces of pendant B are obscured by corrosion, and no decoration is visible. Like pendant A, pendant B has a tab protruding from the bottom, but the tab is pierced. A second hole is visible just above the circular opening. These piercings suggest that B may originally have had smaller pendants suspended within the circular opening and hung from the tab. A loop projects from the top of pendant B.<br />
+ <br />
+Comparably shaped, but more elaborately worked, crescent pendants in gold and enamel have been dated to the eleventh century and ascribed to both Fatimid Egyptian and Byzantine origins (3). A bronze crescent pendant that resembles the Harvard pendants but lacks the lower tab was excavated at Corinth and dated not later than the twelfth century (4). An undated bronze pendant from Egypt currently in the Awad Collection, Cairo, has a round opening like pendant B and is decorated with a relief design similar to pendant A (5).<br />
+ <br />
+NOTES:<br />
+ <br />
+1. The oval opening in the lower half of pendant A measures 1.4 by 1.8 cm; that of pendant B is round, with a diameter of 1.7 cm. <br />
+ <br />
+2. A pair of ninth- or tenth-century Byzantine copper alloy earrings inlaid with enamel illustrates that base metal jewelry mimicked the technique of gold types. Compare L. Wamser and G. Zahlhaas, Rom und Byzanz: Archäologische Kostbarkeiten aus Bayern (Munich, 1998) 177-78, no. 236.<br />
+ <br />
+3. It is possible that the Harvard pendants are Islamic as well. Compare M. C. Ross, Catalogue of the Byzantine and Early Mediaeval Antiquities in the Dumbarton Oaks Collection 2: Jewelry, Enamels, and Art of the Migration Period (Washington, DC, 1965) 114, no. 163, pl. 77; J. W. Nesbitt, Byzantium: The Light in the Age of Darkness, exh. cat., Ariadne Galleries (New York, 1989) 36 and 59, no. 48, for a pendant previously identified as eleventh-century Byzantine but now identified as eleventh-century Fatimid and currently in the collection of the Royal Ontario Museum, Toronto, Canada (inv. no. 994.220.44); M. Jenkins and M. Keene, Islamic Jewelry in the Metropolitan Museum of Art (New York, 1983) 80-81 and 83, nos. 47 and 49a; R. Hasson, Early Islamic Jewelry (Jerusalem, 1987) 61 and 84, no. 111, fig. 51; H. C. Evans and W. D. Wixom. The Glory of Byzantium: Art and Culture of the Middle Byzantine Era, A.D. 843-1261, exh. cat., Metropolitan Museum of Art (New York, 1997) 420, no. 278; and D. Evgenidou and J. Albani, eds., Byzantium: An Oecumenical Empire, exh. cat., Byzantine and Christian Museum (Athens, 2002) 291, no. 157.<br />
+ <br />
+4. See G. R. Davidson, Corinth 12: Minor Objects (Princeton, 1952) 261, no. 2117, pl. 111. The Corinth piece is broken, but the crescent appears originally to have formed a complete circle. See also R. M. Harrison, Excavations at Saraçhane in Istanbul 1: The Excavations, Structures, Architectural Decoration, Small Finds, Coins, Bones, and Molluscs (Princeton, 1986) no. 619, pl. 419 for a crescent-shaped bronze pendant dated to the mid-twelfth century from excavations at the Church of Hagios Polyeuktos, Istanbul.<br />
+ <br />
+5. J. L. Bacharach, ed., Fustat Finds: Beads, Coins, Medical Instruments, Textiles, and Other Artifacts from the Awad Collection (Cairo, 2002) 199, figs. 8 and 18.<br />
+ <br />
+ <br />
+Jennifer Floyd and Alicia Walker</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG251306_dynmc?width=200&height=200" alt="Earrings">
+                <span class="popup__artwork-info-id">1958.49.A-B</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Earrings</span>
+        <span class="popup__artwork-info-class">Jewelry</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20291421%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F291421">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F291421" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Earrings+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F291421" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/291421" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_5fa2421a39b07535a9deb0fe58bb6ae6" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

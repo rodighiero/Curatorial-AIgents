@@ -1,0 +1,513 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Artist's documents: information on collectors and collections, 1974-89 </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Artist&#039;s documents: information on collectors and collections, 1974-89" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/95594"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Artist&#039;s documents: information on collectors and collections, 1974-89" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?95594" data-behavior="add_to_collection tooltip" data-artwork="95594" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=95594" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/95594/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>CW2001.1704</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29410>Christopher Wilmarth</a>, American                                                                                                                                                                                                                                                                          (Sonoma, CA 1943 - 1987 New York, NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Artist's documents: information on collectors and collections, 1974-89</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Archival Material</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            archival material                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1974-1989</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/95594">https://hvrd.art/o/95594</a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, The Christopher Wilmarth Archive, Gift of Susan Wilmarth-Rabineau</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© Estate of Christopher Wilmarth / Susan Wilmarth-Rabineau</dd>
+            
+                          <dt>Accession Year</dt>
+              <dd>2001</dd>
+            
+            <dt>Object Number</dt>
+            <dd>CW2001.1704</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>The original file folder was labeled "Enclosed material is not in the AAA  1/1989."<br />
+<br />
+1) Folded piece of white paper with Wilmarth's handwriting in black felt-tip. A "Waiting List," which includes 8 names, some with phone numbers. Next to 6 of the names is indicated "wall piece," next to 1 of them "large outdoor."<br />
+<br />
+2) Strip of cream laid paper (the top segment of a sheet of letterhead stationery) sent from the McCrory Corporation to Wilmarth on August 8, 1974. Wilmarth has written in black ink: "owns Memory of Barcelona" and "David Boyce / registrar." There is also a round red sticker in the upper left corner, like those used to mark a work as sold.<br />
+<br />
+3-6) 3 small white sheets of Paula Cooper gallery letterhead notecards, the first one-sided, the other three double-sided, all written on in graphite in Wilmarth's hand: mostly names of works paired with names of collectors or collections, often with addresses. A few notes added in blue or black ball-point. 5 of the entries are marked with small round blue stickers, one with a red sticker.<br />
+<br />
+7) 2 one-sided xeroxed typed pages from Robert McDonald, Director of Daniel Weinberg Gallery in San Francisco, listing names and addresses of the people who have purchased Wilmarth's work through the gallery, including the title of the work they now owned. Before xeroxing, Wilmarth added the name and address of the purchaser of Hesitating Drawing (1972) and McDonald wrote a personal note to Wilmarth at the bottom of the second page. Dated 12/27/1974.<br />
+<br />
+8) 2 one-sided typed sheets stored back to back, listing drawings from <br />
+1976-77 with dimensions, materials, and prices. Many are marked with a half or whole red dot sticker. Perhaps a gallery price list, though faintly and inexpertly typed.<br />
+<br />
+9) 3 identical typed sheets of sculptures from 1974-77 with prices, one marked as SOLD. Some sort of price list, surely.<br />
+<br />
+10) Receipt from The Copy Store of Katonah Inc. in Katonah, New York. <br />
+Dated 1/31/1989. No idea to what it relates, but perhaps some archive sheets that were copied at that time.<br />
+<br />
+11) Torn strip of white paper. Written in black ink in Wilmarth's hand: "9 Clearings W/C, Watercolor for Number 1 reserved by" and in another's hand, the name and address of Kay Hoffman, for whom Wilmarth was holding the above watercolor. A red dot sticker is in the upper left. Along the right margin are fragments of sketches or doodles from the original sheet before this piece was torn off.<br />
+<br />
+12) 9 one-sided sheets with Wilmarth's handwriting in blue ball-point. At top of first page Wilmarth starts with a list of gallery acronyms to be used below, as well as explainng that a star next to any listing indicates "a good person (especially) to have worked with." The list is a series of collectors' names, contact information, the piece they own, the date of the piece (dates range from 1969 to 1975), and the gallery that might have been involved. On the last page Wilmarth writes that he's still missing some addresses from Shandy Fenton and Paula Cooper.<br />
+<br />
+13) 2 one-sided typed sheets on Rosa Esman Gallery letterhead, listing collectors, addresses, and the work they own, though none of the works are dated. They appear to me to be from the early 1970s. Some of the entries are marked with a red or blue sticker, and it seems that Wilmarth has added a few notes in graphite and black ink.<br />
+<br />
+14) 3 one-sided sheets typed on the verso of Paula Cooper letterhead. Another list of works with collectors attached, many entries altered or added to by Wilmarth in graphite, black ink, and blue ball-point. Most of the entries also have a black checkmark to their right. A handful are marked additionally with a blue or red dot sticker. Works listed date from 1969 to 1973.<br />
+<br />
+15) 2 one-sided typed sheets from Daniel Weinberg gallery with additions and a note from the gallery director in graphite and black ink. The originals of item 7 above,<br />
+<br />
+16) 11 one-sided typed sheets listing names and addresses of collectors and contacts (with no artworks indicated) in alphabetical order. Some check marks were made in blue and black ink.<br />
+<br />
+17) 5 stapled one-sided xeroxed typed pages, a further (but seemingly unorganized) list of collectors/collections with addresses. Most bear one or two asterisks by hand near their names. The fifth page is purely a list of "Supportive dealers." A post-it note is attached to the first page, written on in graphite (in Susan Wilmarth's hand?): "Laura + Linda have copies of this list 1/18/89."<br />
+<br />
+18) Typed letter of thanks to Susan Wilmarth and signed Deed of Gift (1 of 2) in original envelope from The Archives of American Art. Postmarked 25 January 1989. Deed signed 7 February 1989.<br />
+<br />
+19) Typed letter of thanks to Susan Wilmarth and pink carbon copy of loan agreement for a study for Days on Blue in original envelope from The Neuberger Museum at SUNY Purchase. Postmarked January 27, 1989.</dd>
+                                                       </dl>
+          </dd>
+        
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Wilmarth</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">CW2001.1704</span>
+        <span class="popup__artwork-info-author">
+                                    Christopher Wilmarth
+                              </span>
+        <span class="popup__artwork-info-title">Artist's documents: information on collectors and collections, 1974-89</span>
+        <span class="popup__artwork-info-class">Archival Material</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2095594%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F95594">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F95594" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Artist%27s+documents%3A+information+on+collectors+and+collections%2C+1974-89+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F95594" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/95594" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_c1727e93014ccac80c9819a7fb012d2b" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

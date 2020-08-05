@@ -1,0 +1,752 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Voyage of the Cardinal Infante Ferdinand of Spain from Barcelona to Genoa in April 1633, with Neptune Calming the Tempest </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Voyage of the Cardinal Infante Ferdinand of Spain from Barcelona to Genoa in April 1633, with Neptune Calming the Tempest" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299966"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:huam:DDC112827_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Voyage of the Cardinal Infante Ferdinand of Spain from Barcelona to Genoa in April 1633, with Neptune Calming the Tempest" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_40415548" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:huam:DDC112827_dynmc?width=3000&height=3000" data-initial-image-id="40415548" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption  hidden ">
+                                                    </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299966" data-behavior="add_to_collection tooltip" data-artwork="299966" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299966&amp;image_id=DDC112827" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299966/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC112827">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:DDC112827_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="The Voyage Of The Cardinal Infante Ferdinand Of Spain From Barcelona To Genoa In April 1633, With Neptune Calming The Tempest" data-object-caption="" data-object-copyright="" data-image-id="40415548" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:DDC112827_dynmc?width=125&height=125" alt="The Voyage Of The Cardinal Infante Ferdinand Of Spain From Barcelona To Genoa In April 1633, With Neptune Calming The Tempest">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="10634">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:10634_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="The Voyage Of The Cardinal Infante Ferdinand Of Spain From Barcelona To Genoa In April 1633, With Neptune Calming The Tempest" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181278" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:10634_dynmc?width=125&height=125" alt="The Voyage Of The Cardinal Infante Ferdinand Of Spain From Barcelona To Genoa In April 1633, With Neptune Calming The Tempest">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This elaborate oil sketch, or modello, was created for the “triumphal entry” of Cardinal Infante Ferdinand into Antwerp, a spectacular procession featuring music, theater, and enormous painted tableaus enlarged from Rubens’s sketches. Cities in the Netherlands traditionally staged these events as a formal welcome for a new ruler. Ferdinand, Archbishop of Toledo and brother of King Philip IV of Spain, succeeded his late aunt, the Archduchess Isabella, as governor of the southern Netherlands. The Antwerp magistrates turned to Rubens to plan the elaborate pageant that welcomed Ferdinand into their city in January 1635. His protracted journey from Spain was delayed by storms when his fleet attempted to sail from Barcelona to Genoa. Rubens’s modello celebrates Ferdinand’s safe crossing by drawing a flattering comparison between this incident and a passage in Virgil’s Aeneid, in which Neptune rises from the sea to calm the winds threatening Aeneas’s fleet.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1942.174</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28402>Peter Paul Rubens</a>, Flemish                                                                                                                                                                                                                                                                          (Siegen, Westphalia 1577 - 1640 Antwerp, Belgium)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Voyage of the Cardinal Infante Ferdinand of Spain from Barcelona to Genoa in April 1633, with Neptune Calming the Tempest</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Quos Ego<br>                                                                                                              Former Title: A Sketch                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1635</dd>
+                                                                <dt>Culture</dt>
+                <dd>Flemish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299966">https://hvrd.art/o/299966</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2300, European Art, 17th–19th century, Seventeenth–Century Dutch and Flemish Art<br>
+            <a href="/visit/floor-plan/2?gallery=2300" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on panel</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>48.9 x 64.1 cm (19 1/4 x 25 1/4 in.)<br />
+frame: 65.5 x 81 cm (25 13/16 x 31 7/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          label: verso, upper write, cream with printed text and black ink: [printed:] MUSÉES ROYAUX des BEAUX-ARTS de BLGIQUE / 9, RUE DU MUSÉE - BRUXELLES / EXPOSITION ESQUISSES DE RUBENS / Titre: [handwritten:] La colère de Neptune "Quos Ego" / [printed:] Propriétaire: [handwritten:] Monsieur S. Kramarsky / [printed:] Adresse: [handwritten:] 29 Prins Hendriklaan Amsterdam
+                        </li>
+                                              <li data-a="2">
+                          label: verso, lower left, square with printed text: RUBENS / Tentoonstelling / Kunsthandel / J. GOUDSTIKKER N. V. / Amsterdam / 5 Aug. t/m 1 Oct. 1933 / No. [handwritten, black ink:] 39
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso of frame, upper left, white chalk: HR
+                        </li>
+                                              <li data-a="2">
+                          label: verso of frame, lower left, blue oval with black printed text: Neumann & Vettin / AMSTERDAM SINGEL 3 [or 5]72 / Emballage et transport / les tableaux et des objets / d'art
+                        </li>
+                                              <li data-a="2">
+                          label: verso of frame, lower right, white with blue border and serrated edges, brown ink: S. KRamarsky / Amsderdam / [illegible text] Rubens [illegible text] / [illegible text] / L9 6 4
+                        </li>
+                                              <li data-a="2">
+                          inscription: upper left, black stencil: G05DS [Christie's number]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper left, red chalk: 68 / ST
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper left, graphite : WXNW [?]
+                        </li>
+                                              <li data-a="2">
+                          label: verso, upper center, cream with black printed text and black ink: [printed:] N.B. This Label to be affixed to the back of the frame (not the canvas) of the Picture. / ROYAL ACADEMY EXHIBITION OF THE WORKS OF THE OLD MASTERS, 188[handwritten:]2 / [printed:] Name of Artist [handwritten:] Rubens / [printed:] Title of Work [handwritten:] A sketch / [printed:] (Please correct if not properly given.) / Name and Address / of Proprietor. [handwritten:] The Duke of Grafton / 4 Grosvenor Place S.W.
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso of frame, upper right, white paint: TRHDL / OHSS
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso of frame, upper right, white chalk: 91
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso of frame, upper left, white paint: 3014
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Unidentified collector, sold; [his sale, Prestage and Hobbs, London, February 20, 1761, lot 73]. Duke of Grafton, (by 1882-1923) sold; [his sale, Christie's, London, July 13, 1923, lot 141]; to Martin Sternberg, Amsterdam (1923-1932), sold; [through Frederik Muller, Amsterdam, October 25, 1932, lot 512]; to [Paul Cassirer]. Siegfried Kramarsky (by 1933-1942), Amsterdam sold; to Fogg Art Museum 1942.<br />
+<br />
+NOTES:<br />
+1. Per exhibition label on the verso of the painting, exhibited at the Royal Academy in 1882 as property of the Duke of Grafton.<br />
+2. Exhibited as property of Kramarsky in 1933.<br />
+3. 1937 Pantheon article cites the work as collection of Kramarsky</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Alpheus Hyatt Purchasing Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1942</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1942.174</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Exhibition of Works by the Old Masters, and by Deceased Masters of the British School. Winter Exhibition</em>, exh. cat., Royal Academy of Arts (London, 1882), p. 45, no. 217 as "A Sketch"
+                             </p>
+                                                      <p>
+                                              <em>Catalogus der Rubens-Tentoonstelling ten bate van de Vereeniging "Rembrandt"</em>, exh. cat., Kunsthandel J. Goudstikker (Amsterdam, 1933), cat. no. 39, repr.
+                             </p>
+                                                      <p>
+                                              Leo van Puyvelde, "Ausstellung von Rubens-Skizzen in Brüssel", <em>Pantheon</em> (July 1937), Vol. 20, pp. 325-328, repr. p. 327
+                             </p>
+                                                      <p>
+                                              Jakob Rosenberg, "Rubens' Sketch for "The Wrath of Neptune"", <em>Bulletin of the Fogg Art Museum</em> (November 1937), Vol. 10, No. 1, pp. 5-12, 14, pp. 5-12, 14, repr. pp. 6, 10, 11, as figs. 1, 4, and 5
+                             </p>
+                                                      <p>
+                                              <em>Catalogue de L'Exposition Esquisses de Rubens</em>, exh. cat., Musées Royaux des Beaux-Arts de Belgique (Brussels, 1937), pp. 92-93, repr. as planche XIV
+                             </p>
+                                                      <p>
+                                              Leo van Puyvelde, <em>Les Esquisses de Rubens</em>, Les Éditions Holbein (Basel, 1940), pp.38, 90-91, cat. no. 90, repr.
+                             </p>
+                                                      <p>
+                                              Jan-Albert Goris and Julius S. Held, <em>Rubens in America</em>, Pantheon Books (New York and Antwerp, 1947), cat. no. 87, p. 40, repr. pl. 93-95
+                             </p>
+                                                      <p>
+                                              Jacob Burckhardt, <em>Recollections of Rubens</em>, Phaidon Publishers (London, 1950), repr. as fig. 98
+                             </p>
+                                                      <p>
+                                              <em>A Loan Exhibition of Rubens under the Patronage of His Excellency Baron Robert Silvercruys, Ambassador of Belgium</em>, exh. cat., Wildenstein & Company (New York, 1951), p. 24, 50, cat. no. 28, repr. p. 50
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>Drawings & Oil Sketches: Rubens from American Collections</em>, exh. cat., President and Fellows of Harvard College (Cambridge, MA, 1956), pp. 37-38, cat. no. 43, repr. as plate XXIX
+                             </p>
+                                                      <p>
+                                              S. Lane Faison, Jr., <em>A Guide to the Art Museums of New England</em>, Harcourt, Brace and Co. (New York, 1958), p. 115, repr. as fig. 9
+                             </p>
+                                                      <p>
+                                              Michael Jaffé, Rubens in Italy: Rediscovered Works, <em>The Burlington Magazine</em> (December 1958), Vol. 100, no. 669, pp. 411-422, 425, pp. 422, 425, detail repr. p. 425 as fig. 13
+                             </p>
+                                                      <p>
+                                              Reginald H. Wilenski, <em>Flemish Painters, 1430 - 1830</em>, Viking Press (New York, 1960), Vol. I, p. 639; Vol. II, repr. as plate 631
+                             </p>
+                                                      <p>
+                                              Eunice Williams, <em>Gods & Heroes: Baroque Images of Antiquity</em>, Wildenstein Gallery, New York (New York, NY, 1968), no. 46, repr. as pl. 2
+                             </p>
+                                                      <p>
+                                              <em>Edward Waldo Forbes, Yankee Visionary</em>, Fogg Art Museum (Cambridge, MA, 1971), p. 4
+                             </p>
+                                                      <p>
+                                              Reuben Arthur Brower, "Visual and Verbal Translation of Myth: Neptune in Virgil, Rubens, Dryden", <em>Daedalus</em> (Winter 1972), Vol. 101, No. 1, pp. 155-182, pp. 155-179, repr. p. 156 as fig. 1
+                             </p>
+                                                      <p>
+                                              John Rupert Martin, <em>The Decorations for the Pompa Introitus Ferdinandi</em>, Phaidon (London, 1972), pp. 55-56, cat. no. 3a, repr. as fig. 8 and 9 (detail) as "The Voyage of the Prince from Barcelona to Genoa: Oil Sketch"
+                             </p>
+                                                      <p>
+                                              Millard Meiss, "Rapahel's Mechanized Seashell, Notes on a Myth, Technology and Iconographic Tradition", <em>Gatherings in Honor of Dorothy E. Miner</em> (1974), p. 330, repr. as fig. 22
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), p. 47, cat. 8, ill.
+                             </p>
+                                                      <p>
+                                              Julius S. Held, <em>The Oil Sketches of Peter Paul Rubens</em>, Princeton University Press (Princeton, NJ, 1980), Vol. 2, repr. as b&w plate 156 and color plate 20
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 187, p. 164, repr.
+                             </p>
+                                                      <p>
+                                              Christopher White, <em>Peter Paul Rubens: Man and Artist</em>, Yale University Press (U.S.) (New Haven and London, 1987), pp. 261-264, repr. p. 261 as fig. 283
+                             </p>
+                                                      <p>
+                                              Michael Jaffé, <em>Rubens: Catalogo Completo</em>, Rizzoli (Milan, Italy, 1989), p. 338, cat. no. 1117, repr.
+                             </p>
+                                                      <p>
+                                              Louisa Wood Ruby, "Sebastiaen Vrancx as Illustrator of Virgil's Aeneid", <em>Master Drawings</em> (Spring 1990), 28, p. 69
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 48, color plate; pp. 128, 196, repr. b/w cat. no. 183
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton, <em>The Age of Rubens</em>, exh. cat., Museum of Fine Arts, Boston and Ludion Press Ghent (Boston, 1993), pp. 313-315, cat. no. 33, repr. p. 314
+                             </p>
+                                                      <p>
+                                              Michael Jaffé, "Two Rediscovered Antwerp Drawings from Crozat's Collection", <em>Master Drawings</em> (Spring 1994), Vol. 32, No. 1, pp. 54-59, p. 54
+                             </p>
+                                                      <p>
+                                              James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), pp. 170-1
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Ivan Gaskell, "Being True to Artists", <em>"The Journal of Aesthetics and Art Criticism"</em> (February 2003), vol. 61, no. 1, pp. 53-60, pp. 54-55, repr. as fig. 1
+                             </p>
+                                                      <p>
+                                              <em>Rubens</em>, exh. cat. (Lille, France, 2004), p. 109, repr. as fig. 1
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 95, repr.
+                             </p>
+                                                      <p>
+                                              Nancy Kay, "Art, Music and Spectacle in the Age of Rubens", <em>CODART Courant</em> (Spring 2011), pp. 16-17, repr. p. 16
+                             </p>
+                                                      <p>
+                                              Ivan Gaskell, "Being True to Rubens", <em>Art, Music, and Spectacle in the Age of Rubens: the Pompa Introitus Ferdinandi</em>, ed. Anna Knaap and Michael Putnam, Harvey Miller Publishers (London, 2013), pp. 241-260, pp. 241-260, plate 7
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of Works by The Old Masters, and by Deceased Masters of the British School: Winter Exhibition</em>, Royal Academy of Arts, 01/02/1882 - 03/18/1882
+                            </p>
+                          <p>
+                              <em>Rubens-Tentoonstelling ten bate van de Vereeniging "Rembrandt"</em>, Kunsthandel J. Goudstikker, 08/01/1933 - 09/01/1933
+                            </p>
+                          <p>
+                              <em>Esquisses de Rubens</em>, Musées Royaux des Beaux-Arts de Belgique, 08/01/1937 - 09/01/1937
+                            </p>
+                          <p>
+                              <em>A Loan Exhibition of Rubens</em>, Wildenstein & Company, 02/20/1951 - 03/31/1951
+                            </p>
+                          <p>
+                              <em>Drawings & Oil Sketches by P. P. Rubens from American Collections</em>, Fogg Art Museum, Cambridge, 01/14/1956 - 02/29/1956; Pierpont Morgan Library, New York, 03/20/1956 - 04/28/1956
+                            </p>
+                          <p>
+                              <em>European Sources of German Baroque Art</em>, Busch-Reisinger Museum, Cambridge, 02/26/1968 - 03/30/1968
+                            </p>
+                          <p>
+                              <em>Gods & Heroes: Baroque Images of Antiquity</em>, Wildenstein Gallery, New York, New York, 10/29/1968 - 01/04/1969
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Tiepolo in Madrid: The Fogg "Aeneas" Sketch Investigated</em>, Harvard University Art Museums, Cambridge, 06/06/1992 - 08/30/1992
+                            </p>
+                          <p>
+                              <em>The Age of Rubens</em>, Museum of Fine Arts, Boston, 09/22/1993 - 01/02/1994
+                            </p>
+                          <p>
+                              <em>Calming the Tempest with Peter Paul Rubens</em>, Harvard University Art Museums, Cambridge, 12/22/2001 - 03/17/2002
+                            </p>
+                          <p>
+                              <em>Re-View: S424-426  Western Art from 1560 to 1900</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/16/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>Re-View: S426A (Large Niche)  Rubens and the Baroque Festival</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 03/19/2010 - 08/28/2010
+                            </p>
+                          <p>
+                              <em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013
+                            </p>
+                          <p>
+                              <em>32Q: 2400 French/Italian/Spanish</em>, Harvard Art Museums, Cambridge, 09/14/2017 - 01/10/2018
+                            </p>
+                          <p>
+                              <em>32Q: 2300 Dutch & Flemish</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 09/08/2017; Harvard Art Museums, Cambridge, 01/17/2018 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:huam:DDC112827_dynmc?width=200&height=200" alt="The Voyage Of The Cardinal Infante Ferdinand Of Spain From Barcelona To Genoa In April 1633, With Neptune Calming The Tempest">
+                <span class="popup__artwork-info-id">1942.174</span>
+        <span class="popup__artwork-info-author">
+                                    Peter Paul Rubens
+                              </span>
+        <span class="popup__artwork-info-title">The Voyage of the Cardinal Infante Ferdinand of Spain from Barcelona to Genoa in April 1633, with Neptune Calming the Tempest</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299966%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299966">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299966" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Voyage+of+the+Cardinal+Infante+Ferdinand+of+Spain+from+Barcelona+to+Genoa+in+April+1633%2C+with+Neptune+Calming+the+Tempest+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299966" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299966" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_bf88fd9bbb53a1fc41e6303141378556" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

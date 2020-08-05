@@ -1,0 +1,810 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections At the Milliner's </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections At the Milliner&#039;s" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/230941"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC251892_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" At the Milliner&#039;s" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47174872" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC251892_dynmc?width=3000&height=3000" data-initial-image-id="47174872" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?230941" data-behavior="add_to_collection tooltip" data-artwork="230941" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=230941&amp;image_id=DDC251892" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/230941/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC251892">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251892_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="At The Milliner's" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47174872" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251892_dynmc?width=125&height=125" alt="At The Milliner's">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="245059">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS245059?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="At The Milliner's" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="425332509" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS245059?width=125&height=125" alt="At The Milliner's">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251904">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251904_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="At The Milliner's" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47174876" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251904_dynmc?width=125&height=125" alt="At The Milliner's">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="10623">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:10623_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="At The Milliner's" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181276" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:10623_dynmc?width=125&height=125" alt="At The Milliner's">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="13270">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS13270_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="At The Milliner's" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20669834" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS13270_dynmc?width=125&height=125" alt="At The Milliner's">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1934.31</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28249>Pierre-Auguste Renoir</a>, French                                                                                                                                                                                                                                                                          (Limoges 1841 - 1919 Cagnes)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>At the Milliner's</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Chez la Modiste                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1878</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/230941">https://hvrd.art/o/230941</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>32.9 x 24.8 cm (12 15/16 x 9 3/4 in.)<br />
+framed: 53.5 x 45.2 x 7.6 cm (21 1/16 x 17 13/16 x 3 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l.: Renoir
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          exhibition label: on backing board, printed in black: University of Chicago Gallery / Color in Art cat. no. 43 / TR54/43
+                        </li>
+                                              <li data-a="2">
+                          inscription: on backing board, in blue crayon: 55-576
+                        </li>
+                                              <li data-a="2">
+                          inscription: on backing board, in black ink: 226[5?]
+                        </li>
+                                              <li data-a="2">
+                          inscription: on backing board, in green felt-tip: top / B. M. BX6
+                        </li>
+                                              <li data-a="2">
+                          label: on back of frame: Yamato Transport Co.
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on back of frame, printed in black: [Modern Art at Harvard exhibition, 1999-2000]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on reverse, printed: [Color in Art exhibition]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on backing board, printed in black: [Exhibit of Paintings by Pierre Auguste Renoir, 1937] X.L. #2721
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on back of frame, printed in black: [1944 exhibition]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on backing board, printed in black: [Renoir exhibition, March 23 - April 29, 1950] no. 20
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on back of frame, printed in black: [San Francisco Museum of Art, 1955]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: on backing board, printed in black: [Renoir-- Master Impressionist, 1994-95 travelling exhibition, Australia] cat. no. 12
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Edmund Renoir (brother of the artist), Paris. [Paul Rosenberg and Co., Paris]. [Georges Bernheim, Paris]. [Howard Young, New York]. Annie Swan Coburn, Chicago, bequest; to Fogg Art Museum, 1931. <br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Annie Swan Coburn</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1934</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1934.31</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Julius Meier-Graefe, <em>Renoir</em>, Klinkhardt & Biermann (Leipzig, Germany, 1929), p. 92, repr. fig. 75
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of The Mrs. L. L. Coburn Collection Modern Paintings and Watercolors</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1932), p. 22, repr. p. 50, no. 29
+                             </p>
+                                                      <p>
+                                              <em>Independent Painters of Nineteenth Century Paris</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1935), no. 44
+                             </p>
+                                                      <p>
+                                              A. C. Barnes and Violette de Mazia, <em>The Art of Renoir</em> (New York, NY, 1935), no. 64, p. 249
+                             </p>
+                                                      <p>
+                                              <em>Fogg Art Museum Handbook</em>, Fogg Art Museum (Cambridge, MA, 1936), ill. p. 101
+                             </p>
+                                                      <p>
+                                              <em>Renoir: His Paintings</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1937), repr. p. 18
+                             </p>
+                                                      <p>
+                                              Reginald H. Wilenski, <em>Modern French Painters</em> (New York, NY, 1940), p. 337
+                             </p>
+                                                      <p>
+                                              <em>Centennial Loan Exhibition, 1841-1941, Renoir, for the benefit of the Free French Relief Committee</em>, exh. cat., W. Bradford Press (New York, NY, 1941), no. 24, p. 46, repr.
+                             </p>
+                                                      <p>
+                                              <em>Paintings by Auguste Renoir</em>, exh. cat., California Palace of the Legion of Honor (San Francisco, CA, 1944), p. 22
+                             </p>
+                                                      <p>
+                                              Rosamund Frost, <em>Pierre Auguste Renoir</em>, Hyperion Press (New York, NY, 1944), repr. p. 27
+                             </p>
+                                                      <p>
+                                              Michel Drucker, <em>Renoir</em>, P. Tisne (Paris, France, 1944), repr. pl. 29
+                             </p>
+                                                      <p>
+                                              Wildenstein Galleries, <em>Comprehensive Exhibition of Renoir</em>, exh. cat., Wildenstein Galleries (New York, NY, 1950), no. 20, repr. p. 50
+                             </p>
+                                                      <p>
+                                              <em>Pierre Auguste Renoir, 1841-1919 : paintings, drawings, prints and sculpture</em>, exh. cat., Los Angeles County Museum of Art (Los Angeles, CA, 1955), no. 18, repr.
+                             </p>
+                                                      <p>
+                                              Mount Holyoke College, <em>French and American Expressionism</em>, exh. cat., Mount Holyoke College (South Hadley, MA, 1956), no. 21
+                             </p>
+                                                      <p>
+                                              Pierre Courthion, <em>Paris in Our Time</em>, Skira (Lausanne, Switzerland, 1957), p. 26, repr. no. 25
+                             </p>
+                                                      <p>
+                                              <em>Highlights from the Collections of the Fogg Museum and Harvard Alumni of St. Louis</em>, exh. cat., City Art Museum of St. Louis (St. Louis, 1964), cat. 38
+                             </p>
+                                                      <p>
+                               <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967)
+                                            </p>
+                                                      <p>
+                                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, exh. cat., Albright-Knox Art Gallery (Buffalo, NY, 1967), cat. 39
+                             </p>
+                                                      <p>
+                                              François Daulte, <em>Renoir, a loan exhibition for the benefit of the American Association of Museums in commemoration of the fiftieth anniversary of Renoir's death</em>, exh. cat., Wildenstein Galleries (New York, NY, 1969), no. 27, repr.
+                             </p>
+                                                      <p>
+                                              François Daulte, <em>Auguste Renoir: catalogue raisonné de l'oeuvre peint</em>, Editions Durand-Ruel (Lausanne, Switzerland, 1971), vol. 1, no. 274, repr.
+                             </p>
+                                                      <p>
+                                              <em>French Impressionists Influence American Artists</em>, exh. cat., Lowe Art Museum, University of Miami (Coral Gables, FL, 1971), repr. p. 83
+                             </p>
+                                                      <p>
+                                              Elda Fezzi, <em>L'Opera Completa di Renoir nel periodo impressionista, 1869-1883</em>, Rizzoli Editore (Milan, Italy, 1972), p. 102, no. 316, repr. p. 103
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), p. 85, cat. 43, ill. p. 86
+                             </p>
+                                                      <p>
+                                              Joel Isaacson, <em>The Crisis of Impressionism 1878-1882</em>, exh. cat., University of Michigan Museum of Art (Ann Arbor, MI, 1979), no. 46, p. 177
+                             </p>
+                                                      <p>
+                                              Nicholas Wadley, ed., <em>Renoir: A Retrospective</em>, Hugh Lauter Levin Associates, Inc. (New York, NY, 1987), p. 173, color plate no. 59; text p. 361
+                             </p>
+                                                      <p>
+                                              Jean C. Harris and Stephen Kern, <em>Lasting Impressions: French and American Impressionism from New England Museums</em>, exh. cat., Museum of Fine Arts, Boston (Springfield, MA, 1988), repr. in color, no. 21, p. 39
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), pp. 127, 254, repr. b/w cat. no. 380
+                             </p>
+                                                      <p>
+                                              Hollis Clayson, <em>Painted Love: Prostitution in French Art of the Impressionist Era</em>, Yale University Press (New Haven, CT and London, England, 1991), repr. in color p. 123, text p. 121-122
+                             </p>
+                                                      <p>
+                                              John House, <em>Renoir: Master Impressionist</em>, exh. cat., Art Exhibitions Australia Limited (Sydney, Australia, 1994), no. 12, pp. 74-75
+                             </p>
+                                                      <p>
+                                              "Auguste Renoir: Maler Glücklicher Momente", <em>Art [Das Kunstmagazin]</em> (February 1996), no. 2, p. 8 repro in b&w
+                             </p>
+                                                      <p>
+                                              Von Irma Schlagheck, "Rubens Wurde Wieder Vorbild", <em>Art [Das Kunstmagazin]</em> (February 1996), p. 8
+                             </p>
+                                                      <p>
+                                              Götz Adriani, <em>Renoir</em>, exh. cat., Dumont/Yale University Press (Cologne and New Haven CT, 1999), no. 48, repr.
+                             </p>
+                                                      <p>
+                                              Richard R. Brettell, <em>Impressionism: Painting Quickly in France, 1860-1890</em>, exh. cat., Yale University Press/Sterling and Francine Clark Art Instiitute (New Haven, 2000), p. 169, repr. in color as pl. 114
+                             </p>
+                                                      <p>
+                                              Gilles Néret, <em>Renoir:  Painter of Happiness</em>, Taschen (Köln, Germany, 2001), repr. in color, p. 117
+                             </p>
+                                                      <p>
+                                              Ann Dumas and John Collins, <em>Renoir's Women</em>, exh. cat., Columbus Museum of Art (Columbus OH, 2005), repr. in color as fig. 5, p. 15
+                             </p>
+                                                      <p>
+                                              Kyoko Kagawa, <em>Pierre-Auguste Renoir</em>, Shogakukan Inc. (Tokyo, Japan, 2006), p. 14, repr. in color
+                             </p>
+                                                      <p>
+                                              <em>Impressionist and Modern Art Day Sale</em>, auct. cat. (New York, 11/7/2007), p.34
+                             </p>
+                                                      <p>
+                                              Guy-Patrice Dauberville and Michel Dauberville, <em>Renoir 1858-1881</em>, Editions Bernheim-Jeune (Paris, 2007), pp. 280-281, ill. p. 281 as no. 237
+                             </p>
+                                                      <p>
+                                              Simon Kelly and Esther Bell, <em>Degas, Impressionism, and the Paris Millinery Trade</em>, exh. cat., California Palace of the Legion of Honor, Fine Arts Museums of San Francisco, and DelMonico Books Prestel (San Francisco, 2017), pp. 114-115, cat. no. 8, repr. p. 115
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of the Mrs. L.L. Coburn Collection, Modern Paintings and Watercolors</em>, The Art Institute of Chicago, Chicago, 04/06/1932 - 10/09/1932
+                            </p>
+                          <p>
+                              <em>A Century of Progress Art Exhibition</em>, The Art Institute of Chicago, Chicago, 06/01/1933 - 11/01/1933
+                            </p>
+                          <p>
+                              <em>Independent Painters of 19th Century Paris</em>, Museum of Fine Arts, Boston, Boston, 03/15/1935 - 04/28/1935
+                            </p>
+                          <p>
+                              <em>Renoir</em>, The Metropolitan Museum of Art, New York, 05/18/1937 - 09/12/1937
+                            </p>
+                          <p>
+                              <em>Centennial Loan Exhibition, 1841-1941, Renoir, for the benefit of the Free Frenc</em>, Duveen Galleries, New York, 11/08/1941 - 12/06/1941
+                            </p>
+                          <p>
+                              <em>France Forever</em>, Institute of Modern Art (now Institute of Contemporary Art), Boston, 11/01/1943 - 11/30/1943
+                            </p>
+                          <p>
+                              <em>Paintings by Auguste Renoir</em>, California Palace of the Legion of Honor, San Francisco, 11/01/1944 - 11/30/1944
+                            </p>
+                          <p>
+                              <em>Fifty Year Retrospective</em>, Addison Gallery of American Art, Andover, 01/03/1945 - 02/16/1945
+                            </p>
+                          <p>
+                              <em>Comprehensive Exhibition of Renoir</em>, Wildenstein Gallery, New York, New York, 03/23/1950 - 04/29/1950
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Brookline Public Library, 1951</em>, Brookline Public Library, Brookline, 05/01/1951 - 06/30/1951
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Busch-Reisinger Museum, 1954</em>, Busch-Reisinger Museum, Cambridge, 01/01/1954 - 12/31/1954
+                            </p>
+                          <p>
+                              <em>19th Century French Paintings</em>, Colby College Museum of Art, Waterville, 04/06/1954 - 04/27/1954
+                            </p>
+                          <p>
+                              <em>Pierre Auguste Renoir</em>, Los Angeles County Museum of Art, Los Angeles, 07/14/1955 - 08/21/1955; San Francisco Museum of Modern Art, San Francisco, 09/01/1955 - 10/02/1955
+                            </p>
+                          <p>
+                              <em>French and American Impressionism</em>, Mount Holyoke College Art Museum, South Hadley, 10/05/1956 - 11/04/1956
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, University of Georgia, 1958</em>, University of Georgia, Athens, 01/01/1958 - 03/15/1958
+                            </p>
+                          <p>
+                              <em>Harvard Day "Auction"</em>, Fogg Art Museum, Cambridge, 03/28/1958 - 03/28/1958
+                            </p>
+                          <p>
+                              <em>Highlights from the Collection of the Fogg Art Museum and Harvard Alumni of St. Louis</em>, City Art Museum of St. Louis, St. Louis, 01/30/1964 - 03/01/1964
+                            </p>
+                          <p>
+                              <em>University Possessions of Historical Interest</em>, Harvard Club of New York City, New York, 05/10/1965 - 06/06/1965
+                            </p>
+                          <p>
+                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, Albright-Knox Art Gallery, Buffalo, 05/08/1967 - 06/11/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Benefit Commemorating the 50th Anniversary of Renoir's Death</em>, Wildenstein Gallery, New York, New York, 03/26/1969 - 05/03/1969
+                            </p>
+                          <p>
+                              <em>French Impressionists Influence American Artists</em>, Lowe Art Museum, University of Miami, Coral Gables, 03/19/1971 - 04/25/1971
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>The Crisis of Impressionism 1878-1882</em>, University of Michigan Museum of Art, Ann Arbor, 11/02/1979 - 01/06/1980
+                            </p>
+                          <p>
+                              <em>Lasting Impressions: French and American Impressionism from New England Museums</em>, Museum of Fine Arts, Springfield, Springfield, 09/25/1988 - 11/27/1988
+                            </p>
+                          <p>
+                              <em>Renoir: Master Impressionist</em>, Queensland Art Gallery, Brisbane, 07/30/1994 - 09/11/1994; National Gallery of Victoria, Melbourne, Melbourne, 09/18/1994 - 10/30/1994; Art Gallery of New South Wales, Sydney, 11/05/1994 - 01/15/1995
+                            </p>
+                          <p>
+                              <em>Renoir, Gemälde 1860-1917</em>, Kunsthalle Tübingen, Tübingen, 01/20/1996 - 05/27/1996
+                            </p>
+                          <p>
+                              <em>Modern Art at Harvard</em>, Bunkamura Museum of Art, Tokyo, 07/31/1999 - 09/26/1999; Takamatsu City Museum of Art, Kagawa, 10/09/1999 - 11/14/1999; Matsuzakaya Art Museum, Nagoya, 12/02/1999 - 12/27/1999; Oita City Museum, Oita, 01/06/2000 - 02/06/2000; Museum of Modern Art, Ibaraki, Ibaraki, 02/11/2000 - 03/26/2000
+                            </p>
+                          <p>
+                              <em>Impressionism: Painting Quickly in France, 1860-1890</em>, National Gallery, London, 11/01/2000 - 01/08/2001; Van Gogh Museum, Amsterdam, 03/02/2001 - 05/20/2001
+                            </p>
+                          <p>
+                              <em>32Q: 2700 Impressionism</em>, Harvard Art Museums, Cambridge, 04/12/2016 - 10/11/2016
+                            </p>
+                          <p>
+                              <em>Degas, Impressionism, and the Paris Millinery Trade</em>, Saint Louis Art Museum, St. Louis, 02/12/2017 - 05/07/2017; Fine Arts Museums of San Francisco, San Francisco, 06/24/2017 - 09/25/2017
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251892_dynmc?width=200&height=200" alt="At The Milliner's">
+                <span class="popup__artwork-info-id">1934.31</span>
+        <span class="popup__artwork-info-author">
+                                    Pierre-Auguste Renoir
+                              </span>
+        <span class="popup__artwork-info-title">At the Milliner's</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20230941%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230941">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230941" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=At+the+Milliner%27s+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230941" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/230941" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_f41de4d812e2975c3dbb289f50845383" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

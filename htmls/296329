@@ -1,0 +1,797 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Study for "Julie Burtey" </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Study for &quot;Julie Burtey&quot;" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/296329"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:76980_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Study for &quot;Julie Burtey&quot;" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17916459" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:76980_dynmc?width=3000&height=3000" data-initial-image-id="17916459" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?296329" data-behavior="add_to_collection tooltip" data-artwork="296329" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=296329&amp;image_id=76980" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/296329/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1965.254</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/35055>Hilaire-Germain-Edgar Degas</a>, French                                                                                                                                                                                                                                                                          (Paris, France 1834 - 1917 Paris, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Study for "Julie Burtey"</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1867</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/296329">https://hvrd.art/o/296329</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Hard and soft graphite with touches of white chalk on off-white wove paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>36.1 x 27.2 cm (14 3/16 x 10 11/16 in.)<br />
+framed: 54 x 41.3 x 1.6 cm (21 1/4 x 16 1/4 x 5/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          stamp: l.l.: Vente signature stamp [L. 658] in red
+                        </li>
+                                              <li data-a="2">
+                          stamp: on verso: Atelier stamp [L. 657]
+                        </li>
+                                              <li data-a="2">
+                          watermark: A tree within a circle
+                        </li>
+                                              <li data-a="2">
+                          inscription: u.r., black crayon, in artist's hand: Mme Julie Burtey
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Hilarie-Germain-Edgar Degas atelier [Vente II, Galerie Georges Petite, December 11-13, 1918, no. 347 as “Femme assise dans un fateueil. Étude pour le portrait de Mme Julie Burtin"], sold to Reginald Davis, Paris. Mme Demotte, Paris, 1924, sold; to Paul J. Sachs, Cambridge, 1928, bequest; to Fogg Art Museum, 1965.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Meta and Paul J. Sachs</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1965</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1965.254</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Henri Rivière, ed., <em>Les Dessins de Degas</em>, Demotte (Paris, France, 1922 - 1923), no. 26, pl. 56
+                             </p>
+                                                      <p>
+                                              Galerie Georges Petit, <em>Exposition Degas au profit de la ligue Franco-Anglo-Américaine contre le cancer</em>, exh. cat., G. Petit (Paris, France, 1924), no. 81
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of French Painting of the Nineteenth and Twentieth Centuries</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1929), no. 32
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "Portrait Studies by Degas in American Collections", <em>Bulletin of the Fogg Art Museum</em>, Fogg Art Museum (Cambridge, MA, May 1932), vol. 1, no. 4, pp. 64-65, repr. on cover
+                             </p>
+                                                      <p>
+                                              <em>Independent Painters of Nineteenth Century Paris</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1935), no. 119
+                             </p>
+                                                      <p>
+                                              <em>Master Drawings, Selected from the Museums and Private Collections of America</em>, exh. cat., Buffalo Fine Arts Academy/Albright Art Gallery (Buffalo, NY, 1935), no. 114, repr.
+                             </p>
+                                                      <p>
+                                              <em>Degas, 1834-1917</em>, exh. cat., Pennsylvania Museum of Art (Philadelphia, PA, 1936), no. 64, repr.
+                             </p>
+                                                      <p>
+                                              Jacqueline Bouchot-Saupique and Marie Delaroche-Vernet, <em>Degas</em>, exh. cat., Musée de l'Orangerie (Paris, France, 1937), no. 69
+                             </p>
+                                                      <p>
+                                              "Sachs Drawings on View at Brooklyn Museum", <em>Art Digest</em> (March 1 1939), vol. 13, no. 11, p. 24
+                             </p>
+                                                      <p>
+                                              Agnes Mongan and Paul J. Sachs, <em>Drawings in the Fogg Museum of Art</em>, Harvard University Press (Cambridge, 1940), vol. 1, cat. no. 663, fig. 339
+                             </p>
+                                                      <p>
+                                              <em>Masterpieces of 19th and 20th Century French Drawing from the Fogg Museum...</em>, brochure, Detroit Institute of Arts (Detroit, MI, 1941), checklist no. 16
+                             </p>
+                                                      <p>
+                                              Jacques Lassaigne, <em>Edgar Degas</em>, Hypérion (Paris, France, 1945), p. 6, repr.
+                             </p>
+                                                      <p>
+                                              Camille Mauclair, <em>Edgar Degas</em>, Hyperion Press (New York, NY, 1945), p. 2, repr.
+                             </p>
+                                                      <p>
+                                              Paul André Lemoisne, <em>Degas et son Oeuvre</em>, Paul Brame and Cesar M. de Hauke (Paris, France, 1946-1949), vol. II, no. 108
+                             </p>
+                                                      <p>
+                                              California Palace of the Legion of Honor, <em>19th century French drawings, March 8-April 6, 1947</em>, exh. cat., California Palace of the Legion of Honor (San Francisco, CA, 1947), no. 87 p. 55
+                             </p>
+                                                      <p>
+                                              Randolph Schwabe, <em>Degas: the draughtsman</em>, The Art Trade Press (London, England, 1948), p. 8, repr.
+                             </p>
+                                                      <p>
+                                              Hilaire-Germain-Edgar Degas, <em>Letters</em>, ed. Marcel Guérin, Bruno Cassirer (Oxford, England, 1948), ill. 6 (as Mme Julie Burtin)
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>French Drawings of Five Centuries from the Collection of the Fogg Art Museum, Harvard University</em>, exh. cat., Detroit Institute of Arts (Detroit, 1951), cat. no. 33, n.p., repr.
+                             </p>
+                                                      <p>
+                                              James Watrous, <em>The Craft of Old-Master Drawings</em>, University of Wisconsin Press (Madison, WI, 1957), p. 144, repr. p. 141
+                             </p>
+                                                      <p>
+                                              <em>An exhibition of works by Edgar Hilaire Germain Degas</em>, exh. cat., Los Angeles County Museum (Los Angeles, CA, 1958), no. 13, repr.
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>De Clouet a Matisse: Dessins français des collections américaines</em>, exh. cat., Musée de l'Orangerie (Paris, 1958), no. 160, pl. 155
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>Van Clouet tot Matisse: tentoonstelling van franse tekeningen uit amerikaanse collecties</em>, exh. cat., Museum Boymans (Rotterdam, 1958), no. 160, pl. 141
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>French Drawings from American Collections: Clouet to Matisse</em>, exh. cat., The Metropolitan Museum of Art (New York, 1959), cat. no. 160, pp. 107-108, pl. 141, repr.
+                             </p>
+                                                      <p>
+                                              Jakob Rosenberg, <em>Great Draughtsmen from Pisanello to Picasso</em>, Harvard University Press (Cambridge, MA, 1959), pp. 108-109, xxii, repr.
+                             </p>
+                                                      <p>
+                                              <em>Ingres and Degas: Two Classical Draughtsmen</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1961), no. 4
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs, <em>Portraits by Degas</em>, University of California Press (Berkeley, CA, 1962), pl. 35
+                             </p>
+                                                      <p>
+                                              Egbert Haverkamp-Begemann and Standish D. Lawder, <em>Drawings from the Clark Art Institute: a catalogue raisonné</em>, Yale University Press (New Haven, CT, 1964), vol. 1, p. 80, fig. 62
+                             </p>
+                                                      <p>
+                                              Stephen Longstreet, <em>The Drawings of Degas</em>, Janet Borden Inc. (Los Angeles, CA, 1964), repr.
+                             </p>
+                                                      <p>
+                                              Theodore Reff, "The Chronology of Degas's Notebooks", <em>The Burlington Magazine</em> (December 1965), vol. CVII, no. 753, p. 613, note 88
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>Memorial Exhibition: Works of Art from the Collection of Paul J. Sachs [1878-1965]: given and bequeathed to the Fogg Art Museum, Harvard University, Cambridge, Massachusetts</em>, exh. cat., Harvard University (Cambridge, MA, 1965), cat. no. 55, repr.
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs, <em>Drawings by Degas</em>, exh. cat., City Art Museum of St. Louis (St. Louis, MO, 1966), no. 47, repr.
+                             </p>
+                                                      <p>
+                                              Mount Holyoke Friends of Art, <em>The legacy of David and Ingres to nineteenth century art</em>, exh. cat. (South Hadley, MA, 1966), no. 14
+                             </p>
+                                                      <p>
+                                              Daniel M. Mendelowitz, <em>Drawing</em>, Holt, Rinehart & Winston (New York, NY, 1967), p. 343, pl. 15
+                             </p>
+                                                      <p>
+                                              Keith Roberts, <em>Edgar Degas</em>, Purnell (Paulton, North Bristol, England, 1967), fig. 2, p. 5
+                             </p>
+                                                      <p>
+                                              <em>An exhibition of the works of Edgar Degas at the Sterling and Francine Clark Art Institute, with selected loans from other collections</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, MA, 1970), no. 17, repr.
+                             </p>
+                                                      <p>
+                                              <em>Degas' drawings</em>, Dover Publications Inc. (New York, NY, 1973), pl. 15
+                             </p>
+                                                      <p>
+                                              Barbara S. Shapiro, <em>Edgar Degas: the Reluctant Impressionist</em>, exh. cat., Boston Museum of Fine Arts (Boston, MA, 1974), no. 73
+                             </p>
+                                                      <p>
+                                              Jakob Rosenberg, <em>Great Draughtsmen from Pisanello to Picasso [rev. ed.]</em>, Harper & Row (New York, NY, 1974), pp. 146-147, pl. 265
+                             </p>
+                                                      <p>
+                                              Ian Dunlop, <em>Degas</em>, Harper & Row (New York, NY, 1979), pl. 41
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Tokyo, 1979), cat. no. 89, n.p., pl. 89, repr.
+                             </p>
+                                                      <p>
+                                              Gabriel P. Weisberg and Petra ten-Doesschate Chu, <em>The Realist Tradition: French Painting and Drawing, 1830-1900</em>, exh. cat., Cleveland Museum of Art (Cleveland, OH, 1980), p. 30, fig. 50
+                             </p>
+                                                      <p>
+                                              Ronald Pickvance, "Tübingen and Berlin, Degas - Works on Paper", <em>The Burlington Magazine</em> (August 1984), vol. 126, p. 523
+                             </p>
+                                                      <p>
+                                              Götz Adriani, <em>Edgar Degas: Pastelle, Ölskizzen, Zeichnungen</em>, exh. cat., DuMont Buchverlag (Köln, Germany, 1984), cat. 55; p. 349
+                             </p>
+                                                      <p>
+                                              Pinkney L. Near, <em>French Paintings: The Collection of Mr. and Mrs. Paul Mellon in the Virginia Museum of Fine Arts</em>, Virginia Museum of Fine Arts (Richmond, VA, 1985), p. 28, fig. 2 under cat. 12
+                             </p>
+                                                      <p>
+                                              Denys Sutton, <em>Edgar Degas, Life and Work</em>, Rizzoli (New York, NY, 1986), fig. 54, p. 68
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 289, p. 247, repr.
+                             </p>
+                                                      <p>
+                                              Rafael Fernandez and Alexandra R. Murphy, <em>Degas in the Clark Collection</em>, Sterling and Francine Clark Art Institute (Williamstown, MA, 1987), fig. 17a
+                             </p>
+                                                      <p>
+                                              Denys Sutton, "Edgar Degas: Tradition and Innovation", <em>Gazette des Beaux-Arts</em> (April 1988), vol. 111, p. 257, fig. 5
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs, <em>Degas</em>, exh. cat., Metropolitan Museum of Art / National Gallery of Canada (New York, NY and Ottawa, Canada, 1988), cat. 76
+                             </p>
+                                                      <p>
+                                              Nicholas Wadley, <em>Impressionist and Post-Impressionist Drawing</em>, Dutton Studio Books, New York (New York, NY, 1991), p. 100, pl. 9b
+                             </p>
+                                                      <p>
+                                              Felix Baumann and Marianne Karabelnik, <em>Degas: Die Portraits</em>, exh. cat., Merrell Holberton / Kunsthaus Zurich (London, England and Zürich, Switzerland, 1994), cat. 90
+                             </p>
+                                                      <p>
+                                              Jürgen Baurmann and Otto Ludwig, "Schreiben: Texte und Formulierungen überarbeiten", <em>Praxis Deutsch: Zeitschrift für den Deutschunterricht</em> (May 1996), vol. 137, repr. p. 13
+                             </p>
+                                                      <p>
+                                              Edward Saywell, "Guide to Drawing Terms and Techniques", <em>Harvard University Art Museums Bulletin</em>, Harvard University Art Museums (Cambridge, MA, 1998), vol. VI, no. 2, pp. 30-39, p. 32 under "Graphite"
+                             </p>
+                                                      <p>
+                                              Holland Cotter, "Degas, Director: An Easel Becomes a Stage", <em>The New York Times</em> (August 5 2005), pp. B25, B27, p. B27
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn and Jean Sutherland Boggs, <em>Degas at Harvard</em>, exh. cat., Harvard University Art Museums/Yale University Press (Cambridge and New Haven, 2005), cat. no. 39, fig. 38 (color), p. 80
+                             </p>
+                                                      <p>
+                                              <em>Catalogue des tableaux, pastels et dessins par Edgar Degas et provenant de son atelier
+2e vente, December 11-13, 1918</em>, auct. cat., Galerie Georges Petit (Paris, France, December 11 - December 13, 1918), no. 347, repr.
+                             </p>
+                                                      <p>
+                                              Louis-Antoine Prat, <em>Le dessin français au XIXe siècle</em>, Somogy Éditions d'Art (Paris, 2011), p. 528
+                             </p>
+                                                      <p>
+                                              Jay A. Clarke, ed., <em>The Impressionist Line from Degas to Toulouse-Lautrec: Drawings and Prints from the Clark</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, Massachusetts, 2013), p. 66 and p. 81 in n. 8
+                             </p>
+                                                      <p>
+                                              Henri Loyrette, <em>Degas: A New Vision</em>, exh. cat., National Gallery of Victoria, Melbourne and The Museum of Fine Arts, Houston (Melbourne/Houston, 2016), repr. p. 82
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exposition Degas au profit de la ligue Franco-Anglo-Américaine contre le cancer</em>, Galerie Georges Petit, Paris, 04/12/1924 - 05/02/1924
+                            </p>
+                          <p>
+                              <em>French Painting of the 19th and 20th Centuries</em>, Fogg Art Museum, Cambridge, 03/06/1929 - 04/06/1929
+                            </p>
+                          <p>
+                              <em>Exhibition of Drawings by Degas</em>, Jacques Seligmann & Co., New York, 10/27/1930 - 11/15/1930
+                            </p>
+                          <p>
+                              <em>Master Drawings, Selected from the Museums and Private Collections of America</em>, Buffalo Fine Arts Academy, Buffalo, 01/01/1935 - 01/31/1935
+                            </p>
+                          <p>
+                              <em>Independent Painters of 19th Century Paris</em>, Museum of Fine Arts, Boston, Boston, 03/15/1935 - 04/28/1935
+                            </p>
+                          <p>
+                              <em>Degas, 1834-1917</em>, Pennsylvania Museum of Art, Philadelphia, 11/01/1936 - 11/30/1936
+                            </p>
+                          <p>
+                              <em>Degas</em>, Musée de l'Orangerie, Paris, 03/01/1937 - 05/20/1937
+                            </p>
+                          <p>
+                              <em>Great Modern French Drawings</em>, Brooklyn Institute of Arts and Sciences Museum, Brooklyn, 01/01/1939 - 03/12/1939
+                            </p>
+                          <p>
+                              <em>Great Modern Drawings</em>, Phillips Memorial Gallery, Washington, 04/07/1940 - 05/01/1940
+                            </p>
+                          <p>
+                              <em>Masterpieces of 19th and 20th Century French Drawing from the Fogg Museum of Art at Harvard University and the Museum of Modern Art of New York City</em>, Detroit Institute of Arts, Detroit, 05/01/1941 - 06/01/1941
+                            </p>
+                          <p>
+                              <em>Untitled exhibition of French drawings</em>, Baltimore Museum of Art, Baltimore, 10/08/1943 - 11/21/1943
+                            </p>
+                          <p>
+                              <em>Edgar Degas Bronzes, Drawings, Pastels</em>, Buchholz Gallery, New York, 01/03/1945 - 01/27/1945
+                            </p>
+                          <p>
+                              <em>Drawings by Degas</em>, Farnsworth Art Museum (now Davis Museum and Cultural Center), Wellesley, 02/16/1946 - 03/10/1946
+                            </p>
+                          <p>
+                              <em>19th century French drawings</em>, California Palace of the Legion of Honor, San Francisco, 03/08/1947 - 04/06/1947
+                            </p>
+                          <p>
+                              <em>Drawings from the Fogg Museum of Art, Harvard University (Collected by Paul J. Sachs)</em>, Century Club, New York, 05/12/1947 - 09/25/1947
+                            </p>
+                          <p>
+                              <em>Degas' Portraits of his Family and Friends</em>, Minneapolis Institute of Arts, Minneapolis, 03/06/1948 - 03/28/1948
+                            </p>
+                          <p>
+                              <em>French Drawings of Five Centuries from the Collection of the Fogg Museum of Art, Harvard University</em>, Detroit Institute of Arts, Detroit, 05/15/1951 - 09/30/1951
+                            </p>
+                          <p>
+                              <em>French Drawings from the Fogg Art Museum</em>, Virginia Museum of Fine Arts, Richmond, 03/28/1952 - 04/28/1952
+                            </p>
+                          <p>
+                              <em>An Exhibition of Drawings</em>, Colby College, Miller Library, Waterville, 04/27/1956 - 05/23/1956
+                            </p>
+                          <p>
+                              <em>An Exhibition of Works by Edgar Hilaire Germain Degas, 1834-1917</em>, Los Angeles County Museum of Art, Los Angeles, 03/04/1958 - 04/06/1958
+                            </p>
+                          <p>
+                              <em>French Drawings from American Collections: Clouet to Matisse</em>, Museum Boymans, Rotterdam, 07/31/1958 - 09/28/1958; Musée de l'Orangerie, Paris, 10/24/1958 - 01/02/1959; The Metropolitan Museum of Art, New York, 02/03/1959 - 03/15/1959
+                            </p>
+                          <p>
+                              <em>Ingres and Degas: Two Classical Draughtsmen</em>, Fogg Art Museum, Cambridge, 04/24/1961 - 05/20/1961
+                            </p>
+                          <p>
+                              <em>Memorial Exhibition: Works of Art from the Collection of Paul J. Sachs [1878-1965] Given and Bequeathed to the Fogg Art Museum Harvard University Cambridge, Massachusetts</em>, Fogg Art Museum, Cambridge, 11/15/1965 - 01/15/1966; Museum of Modern Art, New York, New York, 12/19/1966 - 02/26/1967
+                            </p>
+                          <p>
+                              <em>The Legacy of David and Ingres to Nineteenth Century Art</em>, Dwight Art Memorial, South Hadley, 10/12/1966 - 11/13/1966
+                            </p>
+                          <p>
+                              <em>Drawings by Degas</em>, City Art Museum of St. Louis, St. Louis, 01/20/1967 - 02/26/1967; Philadelphia Museum of Art, Philadelphia, 03/10/1967 - 04/30/1967; Minneapolis Institute of Arts, Minneapolis, 05/16/1967 - 06/25/1967
+                            </p>
+                          <p>
+                              <em>Edgar Degas: the Reluctant Impressionist</em>, Museum of Fine Arts, Boston, Boston, 06/19/1974 - 09/15/1974
+                            </p>
+                          <p>
+                              <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 11/03/1979 - 12/16/1979
+                            </p>
+                          <p>
+                              <em>Degas: Pastelle, Ölskizzen, Zeichnungen</em>, Kunsthalle Tübingen, Tübingen, 01/14/1984 - 03/25/1984
+                            </p>
+                          <p>
+                              <em>Degas</em>, Galeries Nationales du Grand Palais, Paris, 02/09/1988 - 05/16/1988; National Gallery of Canada, Ottawa, 06/16/1988 - 08/28/1988; The Metropolitan Museum of Art, New York, 09/27/1988 - 01/08/1989
+                            </p>
+                          <p>
+                              <em>Degas: the Portraits</em>, Kunsthaus Zürich, Zurich, 12/02/1994 - 03/05/1995; Kunsthalle Tübingen, Tübingen, 03/18/1995 - 06/18/1995
+                            </p>
+                          <p>
+                              <em>Degas at Harvard</em>, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 08/01/2005 - 11/27/2005
+                            </p>
+                          <p>
+                              <em>Degas: A New Vision</em>, National Gallery of Victoria, Melbourne, Melbourne, 06/24/2016 - 09/18/2016; The Museum of Fine Arts, Houston, Houston, 10/16/2016 - 01/16/2017
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:76980_dynmc?width=200&height=200" alt="Study For "julie Burtey"">
+                <span class="popup__artwork-info-id">1965.254</span>
+        <span class="popup__artwork-info-author">
+                                    Hilaire-Germain-Edgar Degas
+                              </span>
+        <span class="popup__artwork-info-title">Study for "Julie Burtey"</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20296329%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296329">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296329" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Study+for+%22Julie+Burtey%22+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296329" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/296329" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_eb02f11cbba9424afc19f451a21ed542" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

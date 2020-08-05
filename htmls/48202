@@ -1,0 +1,1434 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Methode pour apprendre le dessein, by Jombert (1775) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Methode pour apprendre le dessein, by Jombert (1775)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/48202"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV208185_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Methode pour apprendre le dessein, by Jombert (1775)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_12729526" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV208185_dynmc?width=3000&height=3000" data-initial-image-id="12729526" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?48202" data-behavior="add_to_collection tooltip" data-artwork="48202" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=48202&amp;image_id=INV208185" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/48202/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="INV208185">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV208185_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Various Artists"  title="Methode Pour Apprendre Le Dessein, By Jombert (1775)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12729526" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV208185_dynmc?width=125&height=125" alt="Methode Pour Apprendre Le Dessein, By Jombert (1775)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV208183">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV208183_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Various Artists"  title="Methode Pour Apprendre Le Dessein, By Jombert (1775)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12729524" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV208183_dynmc?width=125&height=125" alt="Methode Pour Apprendre Le Dessein, By Jombert (1775)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV208184">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV208184_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Various Artists"  title="Methode Pour Apprendre Le Dessein, By Jombert (1775)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12729525" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV208184_dynmc?width=125&height=125" alt="Methode Pour Apprendre Le Dessein, By Jombert (1775)">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>M21860.1-103</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/22444>Various Artists</a>                                            <br>
+                                                                Author: <a href=https://www.harvardartmuseums.org/collections/person/54039>Charles-Antoine Jombert</a>                                                                                                                                                                      (1712 - 1784)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Methode pour apprendre le dessein, by Jombert (1775)</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Methode pour apprendre le dessein, by Jombert (1775)                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            book                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1775</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/48202">https://hvrd.art/o/48202</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Bound volume</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Etching</dd>
+           
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Jean Massengale in honor of Agnes Mongan</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1991</dd>
+            
+            <dt>Object Number</dt>
+            <dd>M21860.1-103</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/58009">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.38</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Study of Two Hands and a Foot</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/58010">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.82.1</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Minerva</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250246">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.70</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Faun, front and back views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250247">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.71</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Faun, side views, and views of feet</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250248">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.75</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Dying Gaul</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250249">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.76</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Ludovisi Faun, front and side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250250">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.80</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Mattei Horse, front, back, and side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250251">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.91</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Ship in a Storm</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250383">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.72</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Faun's Infant</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250384">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.73</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Young Faun, front and back views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250385">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.74.1</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Hand of the Faun, Hand of the Dying Gladiator, and Hand of the Young Laöcoon</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250386">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.74.2</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Young Faun, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250387">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.78.2</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Ludovisi Satyr, front and side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250388">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.79</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Vatican Nile</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250389">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.83.2</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Women with Scientific Instruments</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250539">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.59.2</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Venus de Medici, head views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250540">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.60</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Apollo Belvederi, front views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250541">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.63</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Mercury (Antonious) Belvederi, side views and views of feet</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250542">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.64</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Comparison Plate of Venus, Apollo, and Antonius, side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250543">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.67</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Gladiator</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250612">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.61</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Apollo Belvederi, back and side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250613">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.62</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Mercury (Antonious) Belvederi, front and back views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250614">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.65</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Laocoon</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250699">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.66</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Gladiator</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250732">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.68</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Gladiator, head views and front view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250733">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.69.1</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Gladiator, view of feet</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250734">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.69.2</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Antique Statue</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250747">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.77</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Borghese Hermaphrodite</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250748">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.78.1</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Capitoline Egyptian, front and side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250753">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.7</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250754">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.9</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Study of Two Feet and a Hand</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250755">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.54</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Farnese Hercules, front and back views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250756">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.55</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Farnese Hercules, skeletal and side views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250757">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.56</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Hercules Commodus, back, side, and front views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250758">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.57</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Venus de Medici, back and front views</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250759">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.58</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Venus de Medici, side views and views of feet</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/250760">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.59.1</span>
+                                      <h4 class="related-artwork__artist">Unidentified Artist</h4>
+                                                        <h3 class="related-artwork__title">Flora Antique</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/251056">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.103</span>
+                                      <h4 class="related-artwork__artist">Maurice Baquoy</h4>
+                                                        <h3 class="related-artwork__title">Vignette Apollo Giving the Three Arts the Tools of Painting, Architecture, and Sculpture</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/262837">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.5</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Flayed Figure, back view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/262838">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.6</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Flayed Figure, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/262839">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.15</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Study of the lower part of the head seen full-face</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/262840">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.8</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Five Views of Heads</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/262841">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.25</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Man with a Beard, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263034">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.17</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Study of a Head in profile</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263035">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.14</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Study of a Profile, the lower part of the head</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263036">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.12</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Studies of Ears</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263037">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.13</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Studies of Ears</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263038">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.10</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Studies of Eyes</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263039">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.81.2</span>
+                                      <h4 class="related-artwork__artist">Charles Bellichard</h4>
+                                                        <h3 class="related-artwork__title">Apotheosis of the Bourbon Coat-of-Arms</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263040">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.29</span>
+                                      <h4 class="related-artwork__artist">Nicolas Gabriel Dupuis</h4>
+                                                        <h3 class="related-artwork__title">Head of a Youth, front view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263041">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.34</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Hand</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263042">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.35</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Hand</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263043">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.41</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Seated Male Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263044">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.42</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Two Seated Male Figures</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263045">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.47</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Seated Male Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263046">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.48</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Standing Male Figure, back view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263047">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.19</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Three Heads of Women</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263048">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.22</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Man with a Beard, front view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263049">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.26</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Man with a Beard, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263050">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.30</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Woman, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263051">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.31</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Young Man, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263052">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.21</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Monk</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263053">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.28</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of an Old Man, side view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263075">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.82.2</span>
+                                      <h4 class="related-artwork__artist">François Antoine Aveline</h4>
+                                                        <h3 class="related-artwork__title">Mars</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263076">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.20</span>
+                                      <h4 class="related-artwork__artist">Nicolas Gabriel Dupuis</h4>
+                                                        <h3 class="related-artwork__title">Head of a Dead Woman</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263077">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.43</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Seated Male Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263078">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.44</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Standing Male Figure, front view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263079">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.51</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Standing Male Figure, back view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263080">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.52</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Seated Male Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263081">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.1</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Standing Skeletal Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263082">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.2</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Standing Skeletal Figure, back view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263083">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.16</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Study of a Young Woman's Head</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263084">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.18</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Study of a Young Man's Head</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263085">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.102</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Tail-piece, Putti in the Clouds Playing a Pen and a Divider</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263086">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.101</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Vignette of the Virgin and Child Surrounded by a Globe, a Cannon, Books, Flags, etc.</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263158">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.98</span>
+                                      <h4 class="related-artwork__artist">Pierre Laurent</h4>
+                                                        <h3 class="related-artwork__title">Landscape with a Stone Bridge</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263159">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.90</span>
+                                      <h4 class="related-artwork__artist">Pierre Le Pautre</h4>
+                                                        <h3 class="related-artwork__title">Dogs Mauling a Boar</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263160">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.89</span>
+                                      <h4 class="related-artwork__artist">Pierre Le Pautre</h4>
+                                                        <h3 class="related-artwork__title">Two Dogs</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263161">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.33</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Hand</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263162">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.45</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Seated Male Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263163">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.46</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Crouched Male Figure, back view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263164">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.49</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Seated Male Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263165">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.50</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Standing Male Figure, front view</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263166">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.53</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Reclining and Kneeling Male Figures</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263167">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.36</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Study of Praying Hands</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263168">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.11</span>
+                                      <h4 class="related-artwork__artist">J. F. Poletnich</h4>
+                                                        <h3 class="related-artwork__title">Studies of Eyes</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263169">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.87</span>
+                                      <h4 class="related-artwork__artist">Pierre-Edme Babel</h4>
+                                                        <h3 class="related-artwork__title">Two Ornaments with Caprices of Antique Ruins and Flowers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263170">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.88</span>
+                                      <h4 class="related-artwork__artist">Pierre-Edme Babel</h4>
+                                                        <h3 class="related-artwork__title">Two Ornaments with Captrices of Antique Ruins and Flowers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263171">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.83.1</span>
+                                      <h4 class="related-artwork__artist">Claude Olivier Gallimard</h4>
+                                                        <h3 class="related-artwork__title">An Apotheosis</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263320">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.39</span>
+                                      <h4 class="related-artwork__artist">Nicolas-Dauphin de Beauvais</h4>
+                                                        <h3 class="related-artwork__title">Academy of a Standing Man</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263321">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.40</span>
+                                      <h4 class="related-artwork__artist">Nicolas-Dauphin de Beauvais</h4>
+                                                        <h3 class="related-artwork__title">Academy of a Crouching Man</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263322">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.85</span>
+                                      <h4 class="related-artwork__artist">Pierre-Edme Babel</h4>
+                                                        <h3 class="related-artwork__title">Two Ornaments with Caprices of Antique Ruins and Flowers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263323">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.86</span>
+                                      <h4 class="related-artwork__artist">Pierre-Edme Babel</h4>
+                                                        <h3 class="related-artwork__title">Two Ornaments with Caprices of Antique Ruins and Flowers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263324">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.23</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head a Soldier</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263325">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.24</span>
+                                      <h4 class="related-artwork__artist">Charles-Nicolas Cochin le jeune</h4>
+                                                        <h3 class="related-artwork__title">Head of a Man with a Beard</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263623">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.99</span>
+                                      <h4 class="related-artwork__artist">Adam Perelle</h4>
+                                                        <h3 class="related-artwork__title">Landscape with a Cathedral Town</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263624">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.96</span>
+                                      <h4 class="related-artwork__artist">Pierre Laurent</h4>
+                                                        <h3 class="related-artwork__title">Landscape with a Herdsman</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263625">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.95</span>
+                                      <h4 class="related-artwork__artist">Pierre-Quentin Chedel</h4>
+                                                        <h3 class="related-artwork__title">Deerpark</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263626">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.92</span>
+                                      <h4 class="related-artwork__artist">Pierre-Quentin Chedel</h4>
+                                                        <h3 class="related-artwork__title">Farmhouse by a Roadside Cross</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263627">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M21860.94</span>
+                                      <h4 class="related-artwork__artist">Pierre-Quentin Chedel</h4>
+                                                        <h3 class="related-artwork__title">Travelers in a Wild Landscape</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV208185_dynmc?width=200&height=200" alt="Methode Pour Apprendre Le Dessein, By Jombert (1775)">
+                <span class="popup__artwork-info-id">M21860.1-103</span>
+        <span class="popup__artwork-info-author">
+                                    Various Artists
+                          Author: Charles-Antoine Jombert
+                              </span>
+        <span class="popup__artwork-info-title">Methode pour apprendre le dessein, by Jombert (1775)</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2048202%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F48202">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F48202" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Methode+pour+apprendre+le+dessein%2C+by+Jombert+%281775%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F48202" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/48202" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_75cc74cd5be75a2306c1badfe291134a" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

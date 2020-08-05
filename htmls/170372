@@ -1,0 +1,873 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Sketchbook: New England and Hudson Valley Landscapes </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Sketchbook: New England and Hudson Valley Landscapes" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/170372"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:755491?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Sketchbook: New England and Hudson Valley Landscapes" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_418276985" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:755491?width=3000&height=3000" data-initial-image-id="418276985" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">front cover</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?170372" data-behavior="add_to_collection tooltip" data-artwork="170372" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=170372&amp;image_id=755491" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/170372/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="755491">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:755491?width=3000&height=3000" data-zoom-enabled="1" data-people="Sanford Robinson Gifford"  title="Sketchbook: New England And Hudson Valley Landscapes" data-object-caption="front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="418276985" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755491?width=125&height=125" alt="Sketchbook: New England And Hudson Valley Landscapes">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="755492">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:755492?width=3000&height=3000" data-zoom-enabled="1" data-people="Sanford Robinson Gifford"  title="Sketchbook: New England And Hudson Valley Landscapes" data-object-caption="Left: inside front cover (2001.165.1-38); Right: (2001.165.1) recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="418276986" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755492?width=125&height=125" alt="Sketchbook: New England And Hudson Valley Landscapes">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="755530">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:755530?width=3000&height=3000" data-zoom-enabled="1" data-people="Sanford Robinson Gifford"  title="Sketchbook: New England And Hudson Valley Landscapes" data-object-caption="Left: (2001.165.38) verso; Right: inside back cover (2001.165.1-38)" data-object-copyright="President and Fellows of Harvard College" data-image-id="418277024" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755530?width=125&height=125" alt="Sketchbook: New England And Hudson Valley Landscapes">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="755531">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:755531?width=3000&height=3000" data-zoom-enabled="1" data-people="Sanford Robinson Gifford"  title="Sketchbook: New England And Hudson Valley Landscapes" data-object-caption="back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="418277025" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755531?width=125&height=125" alt="Sketchbook: New England And Hudson Valley Landscapes">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV038099">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV038099_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Sanford Robinson Gifford"  title="Sketchbook: New England And Hudson Valley Landscapes" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18820687" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV038099_dynmc?width=125&height=125" alt="Sketchbook: New England And Hudson Valley Landscapes">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2001.165.1-38</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/22251>Sanford Robinson Gifford</a>, American                                                                                                                                                                                                                                                                          (Greenfield, NY 1823 - 1880 New York, NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Sketchbook: New England and Hudson Valley Landscapes</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sketchbook                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1860-1863</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/170372">https://hvrd.art/o/170372</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Sketchbook with brown fabric-covered cardboard covers</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>15 x 23.5 x 1.4 cm (5 7/8 x 9 1/4 x 9/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: graphite, front pastedown: S R Gifford / 15 10th St. New York
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: u.l. of front pastedown, graphite: 5 1/2 x 9 / [SS ¢?]
+                        </li>
+                                              <li data-a="2">
+                          inscription: left edge of front pastedown, graphite, in artist's hand: [written with page oriented vertically:] Sutherland Pond, 5 miles from Cornwall / [small sketches, landscape] / Coat from Mr. G. Smith Homans / to be left for Mr. Fitz Hugh Ludlow / at the office of The Evening Post.
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>By descent through artist's family, 1880; Alice Carter Gifford, Cambridge, MA; bequeathed to her son Sanford Gifford, Cambridge, MA; his gift to the Harvard University Art Museums, 2001.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Sanford Gifford</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2001</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2001.165.1-38</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>Brown fabric-covered cardboard covers with torn pencil sleeve.  Sewn page block.  Binding completely broken.  Pages of buff wove paper, each 14.2 x 22.8 cm.  Rounded corners.  Drawings in graphite, one with white chalk.  Thirty-one pages of drawings; pp. 32 through 37 are blank. The front pastedown has small landscape sketches which may relate to the inscription there. The rear pastedown has a drawing of a landscape with a figure.</dd>
+                                                       </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Ila Weiss, <em>Poetic Landscape: The Art and Experience of Sanford R. Gifford</em>, University of Delaware Press (Newark, DE, 1987), pp. 90, 99, 332
+                             </p>
+                                                      <p>
+                                              Harvard University Art Museums, <em>Harvard University Art Museums Annual Report 2001-2002</em> (Cambridge, MA, 2003), p. 23
+                             </p>
+                                                      <p>
+                                              Sandra Kelberlau, "How One Landscape-Painter Paints: The Technique of Sanford Robinson Gifford" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, June 2006), Unpublished, pp. 1-8 passim
+                             </p>
+                                                      <p>
+                                              Kevin J. Avery, <em>Sanford R. Gifford in the Catskills</em>, exh. cat., Thomas Cole National Historic Site (Catskill, New York, 2017), p. 12, 2001.165.11 repr. as fig 8
+                             </p>
+                                    </dd>
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147360">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755516?width=3000&height=3000" alt="Ausable Pond Landscape With Cabin; Verso: Mt. Mcintyre From Lake Placid-Sept 27Th 1863">
+                                    <span class="related-artwork__obj">2001.165.25</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Ausable Pond Landscape with Cabin; verso: Mt. McIntyre from Lake Placid-Sept 27th 1863</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147361">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755502?width=3000&height=3000" alt="Three Landscape Sketches; Verso: Landscape And Portrait Study Of Worthington Whittredge">
+                                    <span class="related-artwork__obj">2001.165.11</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Three Landscape Sketches; verso: Landscape and Portrait Study of Worthington Whittredge</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147362">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755500?width=3000&height=3000" alt="Rocky Landscape With Three Figures; Verso: Rocky Landscape With Seated Figure And Small Landscape">
+                                    <span class="related-artwork__obj">2001.165.9</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Rocky Landscape with Three Figures; verso: Rocky Landscape with Seated Figure and Small Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147363">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755492?width=3000&height=3000" alt="Head Of A Young Woman In A Bonnet; Verso: Two Small Landscapes">
+                                    <span class="related-artwork__obj">2001.165.1</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Head of a Young Woman in a Bonnet; verso: Two Small Landscapes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147539">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755499?width=3000&height=3000" alt="Landscape (Recto And Verso)">
+                                    <span class="related-artwork__obj">2001.165.8</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147540">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755497?width=3000&height=3000" alt="Bear Trap; Verso: Tree Trunk And Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.6</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Bear Trap; verso: Tree Trunk and Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147541">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755494?width=3000&height=3000" alt="New Hampshire Highlands; Verso: Landscape">
+                                    <span class="related-artwork__obj">2001.165.3</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">New Hampshire Highlands; verso: Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147542">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755493?width=3000&height=3000" alt="New Hampshire Highlands; Verso: Lake Sunapee, New Hampshire">
+                                    <span class="related-artwork__obj">2001.165.2</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">New Hampshire Highlands; verso: Lake Sunapee, New Hampshire</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147729">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755519?width=3000&height=3000" alt="Partial View Of Lake Placid, New York; Verso: Landscape And Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.28</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Partial View of Lake Placid, New York; verso: Landscape and Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147730">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755512?width=3000&height=3000" alt="Landscape With Lake; Verso: Partial Landscape With Lake">
+                                    <span class="related-artwork__obj">2001.165.21</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Lake; verso: Partial Landscape with Lake</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147731">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755513?width=3000&height=3000" alt="Landscape With Lake; Verso: Four Small Landscapes">
+                                    <span class="related-artwork__obj">2001.165.22</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Lake; verso: Four Small Landscapes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147856">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755529?width=3000&height=3000" alt="Three Small Landscapes; Verso: Four Small Landscapes And Figure Sketch">
+                                    <span class="related-artwork__obj">2001.165.38</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Three Small Landscapes; verso: Four Small Landscapes and Figure Sketch</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147884">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755522?width=3000&height=3000" alt="Partial Adirondack Landscape">
+                                    <span class="related-artwork__obj">2001.165.31</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Partial Adirondack Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147888">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755517?width=3000&height=3000" alt="Lake Scene With Rocks">
+                                    <span class="related-artwork__obj">2001.165.26</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Lake Scene with Rocks</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147889">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755514?width=3000&height=3000" alt="Landscape With Lake; Verso: Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.23</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Lake; verso: Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147890">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755511?width=3000&height=3000" alt="Lake Champlain; Verso: Partial Landscape With Lake">
+                                    <span class="related-artwork__obj">2001.165.20</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Lake Champlain; verso: Partial Landscape with Lake</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147891">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755508?width=3000&height=3000" alt="Shawangunk Mountains; Verso: Shawangunk Mountains; Tree With Oxcart">
+                                    <span class="related-artwork__obj">2001.165.17</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Shawangunk Mountains; verso: Shawangunk Mountains; Tree with Oxcart</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147892">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755509?width=3000&height=3000" alt="Claverack Creek, New York; Verso: Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.18</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Claverack Creek, New York; verso: Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147893">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755507?width=3000&height=3000" alt="Two Landscapes; Verso: Cliff Scene With Figure">
+                                    <span class="related-artwork__obj">2001.165.16</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Two Landscapes; verso: Cliff Scene with Figure</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147894">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755505?width=3000&height=3000" alt="Shawangunk Mountains Landscape; Verso: Landscape And Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.14</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Shawangunk Mountains Landscape; verso: Landscape and Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147895">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755504?width=3000&height=3000" alt="Bush Farm, Rondout Creek, New York; Verso: Two Shawangunk Mountains Landscapes">
+                                    <span class="related-artwork__obj">2001.165.13</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Bush Farm, Rondout Creek, New York; verso: Two Shawangunk Mountains Landscapes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147943">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755518?width=3000&height=3000" alt="Whiteface Mountain, New York; Verso: Partial View Of Lake Placid, New York">
+                                    <span class="related-artwork__obj">2001.165.27</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Whiteface Mountain, New York; verso: Partial View of Lake Placid, New York</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147944">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61821_dynmc?width=3000&height=3000" alt="Landscape With Lake; Verso: Partial Ausable Pond Landscape With Cabin">
+                                    <span class="related-artwork__obj">2001.165.24</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Lake; verso: Partial Ausable Pond Landscape with Cabin</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147945">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755510?width=3000&height=3000" alt="Landscape; Verso: Campsite, Crane Mountain, New York">
+                                    <span class="related-artwork__obj">2001.165.19</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape; verso: Campsite, Crane Mountain, New York</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147946">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755503?width=3000&height=3000" alt="Faint Landscape; Verso: Landscape And Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.12</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Faint Landscape; verso: Landscape and Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147947">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755496?width=3000&height=3000" alt="Landscape; Verso: Sailboat Near Cliff">
+                                    <span class="related-artwork__obj">2001.165.5</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape; verso: Sailboat near Cliff</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147948">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755506?width=3000&height=3000" alt="Shawangunk Lake, New York (Recto And Verso)">
+                                    <span class="related-artwork__obj">2001.165.15</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Shawangunk Lake, New York (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147949">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755498?width=3000&height=3000" alt="Kauterskill Clove July 31St, 1861; Verso: Landscape And Partial Landscape">
+                                    <span class="related-artwork__obj">2001.165.7</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Kauterskill Clove July 31st, 1861; verso: Landscape and Partial Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147950">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755495?width=3000&height=3000" alt="Breakneck, Highlands, New Hampshire">
+                                    <span class="related-artwork__obj">2001.165.4</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Breakneck, Highlands, New Hampshire</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147951">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755501?width=3000&height=3000" alt="Landscape With Rocky Stream; Verso: Landscape With Log Cabin And Small Landscape">
+                                    <span class="related-artwork__obj">2001.165.10</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Rocky Stream; verso: Landscape with Log Cabin and Small Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148195">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755521?width=3000&height=3000" alt="Rocky Cliff; Verso: Partial Adirondack Landscape">
+                                    <span class="related-artwork__obj">2001.165.30</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Rocky Cliff; verso: Partial Adirondack Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148196">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755520?width=3000&height=3000" alt="Partial Mountain Landscape; Verso: Rocky Outcropping, Whiteface Mountain">
+                                    <span class="related-artwork__obj">2001.165.29</span>
+                                      <h4 class="related-artwork__artist">Sanford Robinson Gifford</h4>
+                                                        <h3 class="related-artwork__title">Partial Mountain Landscape; verso: Rocky Outcropping, Whiteface Mountain</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:755491?width=200&height=200" alt="Sketchbook: New England And Hudson Valley Landscapes">
+                <span class="popup__artwork-info-id">2001.165.1-38</span>
+        <span class="popup__artwork-info-author">
+                                    Sanford Robinson Gifford
+                              </span>
+        <span class="popup__artwork-info-title">Sketchbook: New England and Hudson Valley Landscapes</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20170372%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F170372">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F170372" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Sketchbook%3A+New+England+and+Hudson+Valley+Landscapes+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F170372" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/170372" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b43722b8515f4c41dd7ec9214dc3b661" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

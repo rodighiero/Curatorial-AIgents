@@ -1,0 +1,694 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Spring </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Spring" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/212649"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:70318_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Spring" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17803852" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:70318_dynmc?width=3000&height=3000" data-initial-image-id="17803852" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?212649" data-behavior="add_to_collection tooltip" data-artwork="212649" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=212649&amp;image_id=70318" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/212649/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="70318">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:70318_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Adriaen van de Venne"  title="Spring" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17803852" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:70318_dynmc?width=125&height=125" alt="Spring">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011625">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011625_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Adriaen van de Venne"  title="Spring" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618250" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011625_dynmc?width=125&height=125" alt="Spring">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Adriaen van de Venne was one of the most talented book illustrators working in the Dutch Republic. This smallscale, jewel-like drawing served as a preliminary study for an illustration to Jacob Cats’s sensationally popular poem Houwelick (Marriage). Published in 1625, Cats’s volume was a kind of domestic treatise, outlining the principles of appropriate female behavior, from courtship to widowhood. In the text and the illustrations, both Cats and Van de Venne drew analogies between different stages of a woman’s life and the seasons of the year. Entitled Spring, this drawing depicts an elegant young lady presenting her companion with a fragrant bloom during a walk in the Dutch countryside. While on the one hand the sheet celebrates female powers of seduction and the enchantments of young love, the inclusion in the foreground of symbols of fidelity—a pair of dogs and a thistle plant—underscores the more didactic aspects of Cats’s poem.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1999.178</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29193>Adriaen van de Venne</a>, Dutch                                                                                                                                                                                                                                                                          (Delft 1589 - 1662 The Hague)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Spring</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1622</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/212649">https://hvrd.art/o/212649</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink, gray wash, and white opaque watercolor, incised, on off-white antique laid paper, framing line in black ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>10.5 x 14 cm (4 1/8 x 5 1/2 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Lower left, brown ink: Av [in ligature] venne 1622.
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: upper center, brown ink, in artist's hand: Ver.
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, brown ink: No 417
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 4 stuks N 2130.-.-,
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, brown ink: Adrian van der Venne / geb: 1589. zu Delft / gest: 1662 im Haag
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower center, graphite: L / a: 15307
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink, stamp: L. 1659 (Adalbert van Lanna)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower right, black ink stamp with accompanying graphite inscription: L. 2773 (Adalbert van Lanna) / 564
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower center, brown ink stamp: L. 561 (Cornelis Hofstede de Groot)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower center, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: Veiling Lanna / 574 / f [or 4?] junij
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Probably J. F. van Oordt, probably sold; [Rotterdam, Lamme, 11 December 1856 and following days, omslag 2, lot 62.] Jacob de Vos, Amsterdam (L. 1450, without his mark, according to Von Lanna and Hofstede de Groot sales and Hannema 1955). Adalbert, Freiherr von Lanna, Prague (L. 1659, verso, lower left and L. 2773, verso, lower right, with accompanying graphite inscription, 564), sold; [Gutekunst, Stuttgart, 11-16 May 1910, lot 574.] Cornelis Hofstede de Groot, The Hague (L.  561, verso, lower center), sold; [Boerner, Leipzig, 4 November 1931, lot 260]; to Elte. Hubertus Egbertus ten Cate, Oldenzaal. [C.G.  Boerner, Düsseldorf.] Adolph Schwarz, Amsterdam and Amstelveen. [R.M. Light & Co., Santa Barbara], sold; to Maida and George Abrams, Boston, 1990 (L. 3306, verso, lower center); The Maida and George Abrams Collection, 1999.178<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 92 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Poet, propagandist, and painter in oil and watercolor, Adriaen van de Venne was also seventeenth-century Holland’s outstanding designer of book illustrations. His inexhaustible talent for presenting original, vernacular imagery in a compact, vivid composition distinguishes both his illustrations and the satirical grisaille paintings in which he also specialized. His most successful and enduring illustrations were those for Jacob Cats’s sensationally popular <em>Houwelick</em> (Marriage), a long, didactic poem, published in 1625 in Middelburg by Adriaen’s brother Jan, that prescribes a code of behavior for women in courtship, marriage, and family life.<sup class="footnote" id="fnrev1409781895ef6643e9248c-1"><a href="#fn1409781895ef6643e9248c-1">1</a></sup> In a foreword to the first edition of <em>Houwelick</em>, “Adriaen van de Venne, Painter and Draftsman,” explained “to the art-loving reader” that he drew the illustrations “from the author’s mouth,” and was “completely informed of the author’s intentions.”<sup class="footnote" id="fnrev1409781895ef6643e9248c-2"><a href="#fn1409781895ef6643e9248c-2">2</a></sup> Most of Van de Venne’s designs are dated 1622, so their discussions must have occurred before Cats left Middelburg in 1623.<sup class="footnote" id="fnrev1409781895ef6643e9248c-3"><a href="#fn1409781895ef6643e9248c-3">3</a></sup></p>
+
+<p>Cats initially organized the text of <em>Houwelick</em> in four sections: “Bruyt” (Bride), “Vrouwe” (Wife), “Moeder” (Mother), and “Weduwe” (Widow). In these he analogized the stages of a woman’s married life to the seasons of the year, with spring corresponding to the bride, summer to the wife, autumn to the mother, and winter to the widow. Following Cats’s original scheme, in 1622 Van de Venne designed engravings to head these sections. Each shows a couple at one of the four stages of life, standing before a seasonal landscape. His meticulously finished drawings for all four plates have survived. The studies for Winter (Fig. 1),<sup class="footnote" id="fnrev1409781895ef6643e9248c-4"><a href="#fn1409781895ef6643e9248c-4">4</a></sup> <em>Summer</em>, and <em>Autumn</em> belong to the Kupferstichkabinett, Staatliche Museen zu Berlin, and the Harvard work served as the model for the print representing <em>Spring</em>. All are signed and dated 1622, are identical in size, and are executed in the same media, and all correspond precisely to engravings by an unidentified printmaker that reproduce the compositions in reverse. Prior to the 1625 publication of <em>Houwelick</em>, Cats augmented the four-part text with two more chapters, one devoted to the conduct of the “Maeght” (Maiden) and one to the “Vryster” (Sweetheart). Van de Venne’s illustrations that introduce those sections differ in conception and format from the four discussed above.<sup class="footnote" id="fnrev1409781895ef6643e9248c-5"><a href="#fn1409781895ef6643e9248c-5">5</a></sup></p>
+
+<p>In the Harvard drawing, a young couple strolls in a vernal landscape. The woman holds an aromatic bloom—probably a rose, a symbol of love—beneath her companion’s nose.<sup class="footnote" id="fnrev1409781895ef6643e9248c-6"><a href="#fn1409781895ef6643e9248c-6">6</a></sup> Van de Venne adapted the figures and one of the dogs, changing only the decoration of the woman’s skirt, from a painting dated 1620 that depicts the Five Senses, personified by servants and celebrants at an outdoor banquet (Fig. 2).<sup class="footnote" id="fnrev1409781895ef6643e9248c-7"><a href="#fn1409781895ef6643e9248c-7">7</a></sup> Planted conspicuously in the right foreground of the drawing is a thistle, which, like the dogs, stands for fidelity. In the distance, fishermen and a boating party ply the moat of a castle, identifiable as Kasteel Ter Hooge, near Koudekerke, Zeeland.<sup class="footnote" id="fnrev1409781895ef6643e9248c-8"><a href="#fn1409781895ef6643e9248c-8">8</a></sup> The similarly composed design for <em>Winter</em> features, in the place of <em>Spring</em>’s flirting lovers, an elderly couple warming their hands over a brazier in an icy landscape. In poignant ruins, the castle Honingen looms in the distance, while skaters, sleighs, and ice fishermen make their way across its frozen moat (see Fig. 1).<sup class="footnote" id="fnrev1409781895ef6643e9248c-9"><a href="#fn1409781895ef6643e9248c-9">9</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-1"><sup><a href="#fnrev1409781895ef6643e9248c-1">1</a></sup> Jacob Cats, <em>Houwelick, dat is het gansch beleyt des echten-staets</em>, Middelburg, 1625. On the popularity of Cats’s book, see E. de Jongh, “Grape Symbolism in Paintings of the Sixteenth and Seventeenth Centuries,” <em>Simiolus</em>, vol. 7, no. 4 (1974): 166–91, p. 173, and Wayne E. Franits, <em>Paragons of Virtue: Women and Domesticity in Seventeenth-Century Dutch Art</em> (Cambridge, UK, and New York, 1993), pp. 5–6.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-2"><sup><a href="#fnrev1409781895ef6643e9248c-2">2</a></sup> “Nadien ick, gunstige Leser, den Titel hier voren gestelt, mitsgaders oock de andere Printen door het werck verdeelt, uyt den mont des Auteurs, selfs hebbe geteyckent, ende mitsdien ten vollen ben onderrecht wat hy daer mede voor heeft. . . .” “Adriaen van de Venne Schilder en Teyckenaer Aenden Kunst-lievenden Leser,” in J. Cats, <em>Houwelick</em>, n.p.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-3"><sup><a href="#fnrev1409781895ef6643e9248c-3">3</a></sup> Laurens J. Bol, <em>Adriaen Pietersz. van de Venne: Painter and Draughtsman</em> (Doornspijk, Netherlands, 1989), pp. 122–24.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-4"><sup><a href="#fnrev1409781895ef6643e9248c-4">4</a></sup> Adriaen van de Venne, <em>Winter</em> (Fig. 1), 1622. Brown and gray ink, with brown and gray wash, 104 × 138 mm. Inscribed <em>hijems</em>. Berlin, Staatliche Museen zu Berlin, Kupferstichkabinett, KdZ 2675. For the studies of <em>Autumn</em> and <em>Summer</em>, see Elfried Bock and Jakob Rosenberg, <em>Die niederländische meister: Beschreibendes verzeichnis sämtlicher Zeichnungen</em> (Berlin, 1930), KdZ 2670 and 4510.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-5"><sup><a href="#fnrev1409781895ef6643e9248c-5">5</a></sup> Bol, p. 123.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-6"><sup><a href="#fnrev1409781895ef6643e9248c-6">6</a></sup> Laurens J. Bol, “Adriaen Pietersz. van de Venne, Schilder en Teyckenaer,” <em>Tableau</em>, vol. 6, no. 4 (Feb. 1984): 49–57, p. 54, identifies the flower as a rose. In the 1620 painting, the flower the woman holds is clearly a rose; see note 7 below.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-7"><sup><a href="#fnrev1409781895ef6643e9248c-7">7</a></sup> Adriaen van de Venne, <em>The Five Senses</em> (Fig. 2), 1620. Oil on panel, 40 × 60.3 cm. Signed <em>Av</em> [in ligature] <em>Venne F.</em> and dated 1620. With Galerie Sanct Lucas, Vienna, 1991.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-8"><sup><a href="#fnrev1409781895ef6643e9248c-8">8</a></sup> T. Stenger, formerly of the Topographical Department, Rijksbureau voor Kunsthistorische Documentatie, identified this as Kasteel Ter Hoge, near Koudekerke on the erstwhile island (now peninsula) of Walcheren, Zeeland. See Peter Schatborn, with intro. by Karel G. Boon, <em>Dutch Genre Drawings of the Seventeenth Century: A loan exhibition from Dutch museums, foundations, and private collections</em> (International Exhibitions Foundation; Amsterdam: Rijksmuseum, Rijksprentenkabinet; New York: Pierpont Morgan Library; Boston: Museum of Fine Arts; Chicago: Art Institute of Chicago, 1972), cat. 102, p. 62. A painting by Van de Venne of circa 1615–20 includes the same elements as the drawing—castle, moat, “May boat,” and a fashionably dressed couple on the bank—in a very different composition. It is likely that this painting, too, once represented <em>Spring</em> in a series of Seasons. Bol (1989), p. 25, fig. 12.</p>
+
+<p class="footnote" id="fn1409781895ef6643e9248c-9"><sup><a href="#fnrev1409781895ef6643e9248c-9">9</a></sup> For the identification of the castle as Honingen, see Ariane van Suchtelen, “New Evidence on a series of Landscape Paintings by Adrian van de Venne,” <em>The J. Paul Getty Museum Journal</em>, vol. 18 (1990): 99–112, p. 107.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212649/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Adriaen van de Venne, <em>Winter</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212649/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Adriaen van de Venne, <em>The Five Senses</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1999</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1999.178</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Tentoonstelling van Teekeningen van Oud-Hollandsche Meesters Uit de Verzameling van Dr. C. Hofstede de Groot</em>, exh. cat., Stedelijk Museum de Lakenhal (Leiden, 8 March - 7 April 1916), cat. no. 96, n.p.
+                             </p>
+                                                      <p>
+                                              <em>Verzameling Dr. C. Hofstede de Groot</em>, exh. cat., Gemeentemuseum (The Hague, 16 August - 16 September 1930), cat. no. 131, p. 20
+                             </p>
+                                                      <p>
+                                              D. Hannema, <em>Catalogue of the H.E. ten Cate Collection</em>, A. Donker (Rotterdam, The Netherlands, 1955), vol. 1, cat. no. 305, p. 170, repr. vol. 2, pl. 90
+                             </p>
+                                                      <p>
+                                              <em>Ausgewählte Handzeichnungen aus vier Jahrhunderten</em>, auct. cat., C. G. Boerner (Düsseldorf, 1964), cat. no. 104, n.p., repr. fig. 104
+                             </p>
+                                                      <p>
+                                              J. W. Niemeijer, <em>De Verzameling van A. Schwarz</em>, exh. cat., Rijksmuseum Amsterdam (Amsterdam, The Netherlands, 1968), cat. no. 103, pp. 33-34, repr. fig. 6
+                             </p>
+                                                      <p>
+                                              Peter Schatborn and Karel G. Boon, <em>Dutch Genre Drawings of the Seventeenth Century</em>, exh. cat., Meriden Gravure Co. (Meriden, CT, 1972), cat. no. 102, p. 62, repr.
+                             </p>
+                                                      <p>
+                                              Laurens Bol, "Adriaen Pietersz. van de Venne, Schilder en Teyckenaer", <em>Tableau</em> (February 1984), vol. 6, no. 4, pp. 49-57, pp. 54 and 56, repr. p. 55, fig. 115
+                             </p>
+                                                      <p>
+                                              Laurens Bol, <em>Adriaen Pietersz. van de Venne Painter and Draughtsman</em>, Davaco Publishers (Doornspijk, The Netherlands, 1989), p. 125, repr. p. 123, fig. 112
+                             </p>
+                                                      <p>
+                                              A. van Suchtelen, "New Evidence on a series of Landscape Paintings by Adrian van de Venne", <em>The J. Paul Getty Museum Journal</em> (1990), vol. 18, pp. 99-112, p. 107; repr. p. 108, fig. 12
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 17, pp. 52-53, repr.
+                             </p>
+                                                      <p>
+                                              Yvette Bruijnen and Paul Huys Janssen, <em>De Vier Jaargetijden in de kunst van de Nederlanden 1500-1750</em>, exh. cat., Waanders Uitgevers, Noordbrabants Museum, and Stedelijk Museum Vander Kelen-Mertens (Zwolle, 2002), under cat. nos. 79-82, p. 154
+                             </p>
+                                                      <p>
+                                              Michael Kammen, <em>A Time to Every Purpose: the Four Seasons in American Culture</em>, The University of North Carolina Press (Chapel Hill and London, 2004), pp. 54 and 290 (n. 43), repr. p. 56, fig. 20
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 92, pp. 304-306, repr. p. 305
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>De Verzameling van A. Schwarz</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 09/01/1968 - 12/31/1968
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5604"><em>The Art of Drawing in the Early Dutch Golden Age, 1590–1630: Selected Works from the Abrams Collection</em>, Harvard Art Museums, Cambridge, 09/09/2017 - 01/14/2018</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:70318_dynmc?width=200&height=200" alt="Spring">
+                <span class="popup__artwork-info-id">1999.178</span>
+        <span class="popup__artwork-info-author">
+                                    Adriaen van de Venne
+                              </span>
+        <span class="popup__artwork-info-title">Spring</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20212649%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212649">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212649" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Spring+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212649" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/212649" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_61c32ceb0500465bffebe9f76c0dbb82" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

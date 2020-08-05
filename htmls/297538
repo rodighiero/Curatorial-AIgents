@@ -1,0 +1,691 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Salutation of Beatrice </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Salutation of Beatrice" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297538"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:70070_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Salutation of Beatrice" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17805108" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:70070_dynmc?width=3000&height=3000" data-initial-image-id="17805108" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297538" data-behavior="add_to_collection tooltip" data-artwork="297538" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297538&amp;image_id=70070" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297538/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.739</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28374>Dante Gabriel Rossetti</a>, British                                                                                                                                                                                                                                                                          (London, England 1828 - 1882 Birchington-on-Sea, England)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Salutation of Beatrice</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Il Saluto di Beatrice                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1849-1850</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297538">https://hvrd.art/o/297538</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black ink, gray wash, and graphite on cream wove paper, darkened</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>39.5 x 67.7 cm (15 9/16 x 26 5/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          watermark: None
+                        </li>
+                                              <li data-a="2">
+                          inscription: above figure of Amor, black ink over graphite, in artist's hand: ITA N'E BEATRICE IN ALTO CIELO / 9 GIUGNO 1290
+                        </li>
+                                              <li data-a="2">
+                          inscription: below figure of Amor, black ink over graphite, in artist's hand: ED HA LASCIATO AMOR MECO DOLENTE
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower left, black ink over graphite, in artist's hand: E CUI SALUTA, FA TREMAR LO CORE
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower center, black ink over graphite, in artist's hand: IL SALUTO DI BEATRICE
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower right, black ink over graphite, in artist's hand: GUARDAMI BEN; BEN SON, BEN SON BEATRICE
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower right of left panel, brown ink, in artist's hand: DGR (monogram) 1849
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower right of right panel, brown ink, in artist's hand: DGR (monogram) 1850
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>George Rae, Birkenhead; Viscount Leverhulme, 1917; his sale, Anderson Galleries, New York, March 4, 1926, no. 272, Scott and Fowles, New York; acquired from them by Grenville L. Winthrop; his bequest to the Fogg Art Museum, 1943</dd>
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+            
+            
+                          <dt>Standard Reference Number</dt>
+              <dd>Surtees 116A</dd>
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.739</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              William Sharp, <em>Dante Gabriel Rossetti</em>, Macmillan and Co. (London, England, 1882), pp. 136, 182, 226, chronology, no. 5
+                             </p>
+                                                      <p>
+                                              Frederic George Stephens, "The Earlier Works of Rossetti" (2 parts), <em>Portfolio</em>, Portfolio (London, England, 1883), pt. 1, part 1, pg. 87, n. 1, part 2, pg. 118
+                             </p>
+                                                      <p>
+                                              Oliver G. Destrée, <em>Les Pré-Raphaélites: Notes sur l'Art Decoratif</em> (Brussels, Belgium, 1894), chronology, no. 13
+                             </p>
+                                                      <p>
+                                              Ulisse Ortensi, "I Artisti Contemporanei: Dante Gabriele Rossetti", <em>Emporium</em>, Istituto Italiano d'Arti Grafiche (Bergamo, Italy, 1896), vol. IV, illus. pg. 7
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, "The Salutation of Beatrice; as Treated Pictorially by D. G. Rossetti", <em>Art Journal</em> (London, December 1899), 61, pp. 353-357
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Dante Gabriel Rossetti: An Illustrated Memorial of His Art and Life</em>, George Bell & Sons (London, 1899), pp. 24, 25, 86, 87, no. 15, repr. p. 24
+                             </p>
+                                                      <p>
+                                              Elisabeth Luther Cary, <em>The Rossettis: Dante Gabriel and Christina</em>, G. P. Putnam's Sons (London, England, 1900), chronology, no. 217
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Dante Gabriel Rossetti, an illustrated memorial of his art and life</em>, George Bell and Sons, Ltd. (London, England, 1904), pp. 25, 87, chronology no. 15, illus. pg. 24
+                             </p>
+                                                      <p>
+                                              Paget Toynbee, <em>Chronological List with Notes of Paintings and Drawings from Dante by Dante Gabriel Rossetti</em> (Torino, 1912), no. 6
+                             </p>
+                                                      <p>
+                                              Henri Dupré, <em>Un Italien d’Angleterre : la poète-peintre Dante Gabriel Rossetti</em>, J. M. Dent (Paris, 1921), pp. 66, 67
+                             </p>
+                                                      <p>
+                                              John L. Sweeney, "Imaginative Design: Blake to Pre-Raphaelites", <em>Art News</em> (January 1, 1944), 42, illus. pg. 18
+                             </p>
+                                                      <p>
+                                              <em>Blake to Beardsley: A Century of English Illustrators</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1944), no. 69
+                             </p>
+                                                      <p>
+                                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1946), no. 63, repr.
+                             </p>
+                                                      <p>
+                                              Robin Ironside and John A. Gere, <em>Pre-Raphaelite Painters</em>, Phaidon Press (London, 1948), pp. 34, 37
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "The Fogg Art Museum's Collection of Drawings", <em>Harvard Library Bulletin</em>, Harvard University (Cambridge, 1958), vol. 3, no. 2, March, pp. 5-9, p. 203
+                             </p>
+                                                      <p>
+                                              Millard F. Rogers, Jr., "The Salutation of Beatrice, by Dante Gabriel Rossetti", <em>Connisseur</em> (July 1963), 153, pp. 180-181
+                             </p>
+                                                      <p>
+                                              Dante Gabriel Rossetti, <em>Letters</em>, ed. Oswald Doughty and John Robert Wahl, The Clarendon Press (Oxford, 1965-1967), vol. 1, pp. 48, 49; vol 2, pp. 490-491
+                             </p>
+                                                      <p>
+                                              Dorothy W. Gillerman, ed., <em>Grenville L. Winthrop: Retrospective for a Collector</em>, exh. cat., Fogg Art Museum (Cambridge, 1969), cat. no. 110, repr.
+                             </p>
+                                                      <p>
+                                              Virginia Surtees, <em>The Paintings and Drawings of Dante Gabriel Rossetti (1828-1882): A Catalogue Raisonné</em>, The Clarendon Press (Oxford, England, 1971), pg. 71, no. 116A, pl. 173
+                             </p>
+                                                      <p>
+                                              Marina Henderson, <em>D. G. Rossetti</em>, Academy Editions/St. Martin's Press (London, England and New York, NY, 1973), illus. p. 54
+                             </p>
+                                                      <p>
+                                              Denys Sutton, "The Pursuit of Beauty", <em>Apollo</em> (June 1978), vol. CVII, no. 196, pp. 446-452, pg. 449, fig. 9
+                             </p>
+                                                      <p>
+                                              Alastair Grieve, <em>The Art of Dante Gabriel Rossetti: The Watercolours and Drawings of 1850-1855</em>, Real World (Norwich, 1978), pp. 9-11, fig. 7
+                             </p>
+                                                      <p>
+                                              Herbert L. Sussman, <em>Fact into Figure: Typology in Carlyle, Ruskin, and the Pre-Raphaelite Brotherhood</em>, Ohio State University Press (Columbus, OH, 1979), pl. 33, p. 122; see also pp. 121, 123
+                             </p>
+                                                      <p>
+                                              Dr. Maryan W. Ainsworth, "Dante Gabriel Rossetti's "'Dantis Amor'", <em>Journal of Pre-Raphaelite Studies</em> (November 1980), I, no. 1, facing pg. 72, fig. 6
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti: Disegni</em>, Nuova Italia (Florence, 1982), no. 7, repr.
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti</em>, Casa Editrice G. C. Sansoni (Florence, Italy, 1984), no. 22, repr. p. 168
+                             </p>
+                                                      <p>
+                                              Corrado Gizzi, <em>Dante Gabriel Rossetti</em>, exh. cat., Mazzotta (Milan, 1984), no. 45, repr. pp. 150, 183
+                             </p>
+                                                      <p>
+                                              Mary Bennett, <em>Artists of the Pre-Raphaelite Circle: The First Generation</em> (London, 1988), pg. 199
+                             </p>
+                                                      <p>
+                                              Alicia Craig Faxon, <em>Dante Gabriel Rossetti</em>, Abbeville Press (New York, NY, 1989), pg. 59, pl. 41
+                             </p>
+                                                      <p>
+                                              Kirsten Hoving Powell, "Object, Symbol, and Metaphor: Rossetti's Musical Imagery", <em>Journal of Pre-Raphaelite Studies</em> (Spring 1993), n.s., 2, pp. 16-29, p. 18
+                             </p>
+                                                      <p>
+                                              Andrew Wilton and Robert Upstone, <em>The Age of Rossetti, Burne-Jones and Watts: Symbolism in Britain 1860-1910</em>, exh. cat., Flammarion (Paris, France and New York, NY, 1997), pg. 136, under no. 31
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti</em>, Charta (Milan, 1998), no. 22, repr. p. 168
+                             </p>
+                                                      <p>
+                                              Gail S. Weinberg, "Dante Gabriel Rossetti's 'Salutation of Beatrice' and Camille Bonnard's 'Costumes Historiques'", <em>The Burlington Magazine</em> (October 1999), vol. XVLI, no. 1159, pp. 622-623, pp. 622-623, repr.
+                             </p>
+                                                      <p>
+                                              Eriko Yamaguchi, "Rossetti's Use of Bonnard's 'Costumes Historiques': A Further Examination, <em>The Journal of Pre-Raphaelite Studies</em> (Fall 2000), vol. 9, p. 11 (R9)
+                             </p>
+                                                      <p>
+                                              Chikashi Kitazaki and Mina Oya, ed., <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Ueno, 2002), p. 60, fig. 16
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, exh. cat., The Metropolitan Museum of Art and Yale University Press (U.S.) (New York, 2003), cat. no. 181, repr. (color)
+                             </p>
+                                                      <p>
+                                              Julian Treuherz and Elizabeth Prettejohn, <em>Dante Gabriel Rossetti</em>, exh. cat., Thames & Hudson (London, 2003), fig. 5 (color)
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, <em>Ingres, Burne-Jones, Whistler, Renoir... La Collection Grenville L. Winthrop</em>, exh. cat., Musée des Beaux-Arts de Lyon and Réunion des Musées Nationaux (Paris, France, 2003), no. 181, repr.
+                             </p>
+                                                      <p>
+                                              Gail S. Weinberg, "D. G. Rossetti's Ownership of Botticelli's 'Smeralda Brandini'", <em>The Burlington Magazine</em> (January 2004), vol. CXLVI, no. 1210, pp. 20-26, p. 14, n. 16
+                             </p>
+                                                      <p>
+                                              Martina John, <em>Rossettis Dante: Bild-Text-Relationen und Literaturrezeption bei Dante Gabriel Rossetti</em>, Verlag Ludwig (Kiel, 2015), pp. 129-148, pl. 3
+                             </p>
+                                                      <p>
+                                              Alastair Grieve, <em>The Best Years of Rossetti's Art, 1846 to 1862</em>, Real World (Norwich, 2017), pp. 170-173, 499
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Pictures, Drawings, Designs and Studies by the Late Dante Gabriel Rossetti</em>, Burlington Fine Arts Club, London, 01/01/1883 - 12/31/1883
+                            </p>
+                          <p>
+                              <em>Blake to Beardsley: A Century of English Illustrators</em>, Fogg Art Museum, Cambridge, 06/01/1944 - 06/30/1944
+                            </p>
+                          <p>
+                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, Fogg Art Museum, Cambridge, 04/08/1946 - 06/01/1946
+                            </p>
+                          <p>
+                              <em>Grenville L. Winthrop: Retrospective for a Collector</em>, Fogg Art Museum, Cambridge, 01/23/1969 - 03/31/1969
+                            </p>
+                          <p>
+                              <em>Portrait, Prospect and Poetry: British Drawings from the Grenville L. Winthrop Bequest</em>, Harvard University Art Museums, Cambridge, 09/11/1993 - 11/07/1993
+                            </p>
+                          <p>
+                              <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, Musée des Beaux-Arts de Lyon, Lyon, 03/15/2003 - 05/26/2003; National Gallery, London, 06/25/2003 - 09/14/2003; The Metropolitan Museum of Art, New York, 10/23/2003 - 01/25/2004
+                            </p>
+                          <p>
+                              <em>32Q: 2130 19th Century</em>, Harvard Art Museums, Cambridge, 11/10/2015 - 05/03/2016
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:70070_dynmc?width=200&height=200" alt="The Salutation Of Beatrice">
+                <span class="popup__artwork-info-id">1943.739</span>
+        <span class="popup__artwork-info-author">
+                                    Dante Gabriel Rossetti
+                              </span>
+        <span class="popup__artwork-info-title">The Salutation of Beatrice</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297538%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297538">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297538" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Salutation+of+Beatrice+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297538" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297538" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_992c225148f57b4a089b3e7564d8e89d" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

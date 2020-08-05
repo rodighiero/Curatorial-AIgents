@@ -1,0 +1,686 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Rocky Mountains, "Lander's Peak" </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Rocky Mountains, &quot;Lander&#039;s Peak&quot;" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/303976"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:52101_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Rocky Mountains, &quot;Lander&#039;s Peak&quot;" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17388032" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:52101_dynmc?width=3000&height=3000" data-initial-image-id="17388032" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?303976" data-behavior="add_to_collection tooltip" data-artwork="303976" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=303976&amp;image_id=52101" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/303976/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="52101">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:52101_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Albert Bierstadt"  title="Rocky Mountains, "lander's Peak"" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17388032" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:52101_dynmc?width=125&height=125" alt="Rocky Mountains, "lander's Peak"">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30350">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:30350_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Albert Bierstadt"  title="Rocky Mountains, "lander's Peak"" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43188446" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:30350_dynmc?width=125&height=125" alt="Rocky Mountains, "lander's Peak"">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This painting is based on sketches and photographs that Bierstadt compiled in the summer of 1859, when he joined a government survey expedition led by Frederic W. Lander. But the work is an imagined view rather than an accurate topographical rendering. Painted and exhibited in Bierstadt’s New York studio, it is geared to the sensibility of urban East Coast viewers. With its dramatic sunlit mountain range and verdant, uncultivated valley, the painting portrays the American West as an edenic landscape filled with hope and opportunity. It signals the promise of new beginnings, a resonant theme for a nation torn apart by civil war.</p>
+<p>Bierstadt, one of the first American painters to explore the West, journeyed as far as the Wind River Mountains of Wyoming. Though he encountered and sketched many Native Americans on his travels, this work does not include any signs of the indigenous population.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1895.698</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27993>Albert Bierstadt</a>, American                                                                                                                                                                                                                                                                          (Solingen (near Dusseldorf), Germany 1830 - 1902 New York, NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Rocky Mountains, "Lander's Peak"</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1863</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/303976">https://hvrd.art/o/303976</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2100, European and American Art, 17th–19th century, Centuries of Tradition, Changing Times: Art for an Uncertain Age<br>
+            <a href="/visit/floor-plan/2?gallery=2100" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on linen</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>110.8 x 90.2 cm (43 5/8 x 35 1/2 in.)<br />
+frame: 146.4 x 126.4 x 10.8 cm (57 5/8 x 49 3/4 x 4 1/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l.: A. Bierstadt 63 (AB in monogram)
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Acquired by William Hayes Fogg, New York; his bequest to his wife, Mrs. William Hayes Fogg, 1884; her bequest to Fogg Art Museum, 1895.<br />
+<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Mrs. William Hayes Fogg</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1895</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1895.698</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Fogg Art Museum and Benjamin Rowland, Jr., <em>Real and Ideal in American Art</em>, exh. cat. (Cambridge, MA, Summer 1948), cat. 22 as "Landscape in the Rockies"
+                             </p>
+                                                      <p>
+                                              Richard S. Trump, "Life and Works of Albert Bierstadt" (Thesis, Ohio State University, 1963), Unpublished and Ohio State University, 217
+                             </p>
+                                                      <p>
+                                              Gordon Hendricks, "The First Three Western Journeys of Albert Bierstadt", <em>The Art Bulletin</em>, College Art Association of America (September 1964), vol. XLVI, no. 3, pp. 333-65, pp. 333-365; reproduced fig. 5
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967), n.p.
+                             </p>
+                                                      <p>
+                                              Peter T. Harstad, "The Lander Trail", <em>Idaho Yesterdays</em>, Idaho State Historical Society (Boise, ID, Fall 1968), vol. XII, no. 3, cover
+                             </p>
+                                                      <p>
+                                              Barbara Novak, "American Landscape: The Nationalist Garden and the Holy Book", <em>Art In America</em> (January 1972 - February 1972), pp. 46-57, reproduced p. 47, color
+                             </p>
+                                                      <p>
+                                              Louise Todd Ambler and Kenyon Castle Bolton, III, "American Painting at Harvard", <em>Antiques</em> (New York, NY, November 1972), vol. 102, no. 5, pp. 876-883, p. 877, pl. 1
+                             </p>
+                                                      <p>
+                                              Kenyon Castle Bolton, III, Peter G. Huenink, Earl A. Powell III, Harry Z. Rand, and Nanette C. Sexton, <em>American Art at Harvard</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1972), cat. 74, ill.
+                             </p>
+                                                      <p>
+                                              Gordon Hendricks, <em>Albert Bierstadt: Painter of the American West</em>, exh. cat., Harry N. Abrams, Inc./Amon Carter Museum (Fort Worth, TX, 1974), cl-113
+                             </p>
+                                                      <p>
+                                              Jonathan L. Fairbanks, <em>Frontier America: The Far West</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1975), p. 63, cat. 72, ill.; p. 216; back cover, ill.
+                             </p>
+                                                      <p>
+                                              John Wilmerding, "Harvard and American Art", <em>Apollo</em> (June 1978), vol. CVII, no. 196, pp. 490-495, p. 491 ,pl. XXI
+                             </p>
+                                                      <p>
+                                              Celeste Marie Adams and Franklin Kelly, <em>America: Art and the West</em>, exh. cat., American-Australian Foundation for the Arts/Int'l Cultural Corp. of Aus. Ltd (New York, NY, 1986), p. 26 and footnote p. 29; reproduced, color, no. 19 and detail
+                             </p>
+                                                      <p>
+                                              Chris Bruce, ed., <em>Myth of the West</em>, Rizzoli/The Henry Art Gallery, Univ. of Washington (New York and Seattle, WA, 1990), p. 62; reproduced, color, p. 66
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn, "A Slow Start for American Art at the Fogg", <em>Harvard University Art Museums Review</em> (Fall 1992), vol. II, no. 1, p. 3, p. 3, fn. 6
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Jean Clair, ed., <em>Cosmos: From Romanticism to the Avant-Garde</em>, exh. cat., The Montreal Museum of Fine Arts (Montreal, Canada, 1999), pp. 82-3, illustr. in b/w
+                             </p>
+                                                      <p>
+                                              Andrew Wilton and Tim Barringer, <em>American Sublime: Landscape Painting in the United States, 1820-1880</em>, exh. cat., Tate Gallery Publishing Limited (London and Princeton, NJ, 2002), pp. 230-231, cat. 89, ill.
+                             </p>
+                                                      <p>
+                                              Gabriella Belli and Paola Giacomoni, <em>Montagna: Arte, scienza, mito da Durer a Warhol</em> (Milan, Italy, 2003), p. 196
+                             </p>
+                                                      <p>
+                                              John Updike, <em>Still Looking: Essays on American Art</em>, Alfred A. Knopf, Inc. (New York, 2005), pp. 41-43, ill. opp. p. 43
+                             </p>
+                                                      <p>
+                                              Kimberly Orcutt, "Personal Collecting Meets Institutional Vision: The Origins of Harvard's Fogg Art Museum", <em>Journal of the History of Collections</em> (2006), vol. 18, no. 2, pp. 267-284, p. 270;  p. 271, fig. 3; p. 274
+                             </p>
+                                                      <p>
+                                              Barbara Novak, <em>Nature and Culture: American Landscape and Painting, 1825-1875</em>, Oxford University Press (NY) (New York, NY, 2007), pl. 3, ill.
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr., Virginia Anderson, and Kimberly Orcutt, ed., <em>American Paintings at Harvard, Volume Two, Paintings, Drawings, Pastels and Stained Glass by Artists Born 1826-1856</em>, Harvard Art Museums and Yale University Press (U.S.) (Cambridge, MA and New Haven, CT, 2008), p. 44, cat. 21, ill. p. 46
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), ill. p. 156
+                             </p>
+                                                      <p>
+                                              Judy Murray and Ray Williams, <em>Engaging New Americans, Preparing for US Citizenship with the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2012), ill. p. 44
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr. and Melissa Renn, <em>American Paintings at Harvard, Volume One: Paintings, Watercolors, and Pastels by Artists Born before 1826</em>, Yale University Press (U.S.) and Harvard Art Museums (Cambridge and New Haven, 2014), p. 26
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Real and Ideal in American Art</em>, Fogg Art Museum, Cambridge, 06/01/1948 - 09/01/1948
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>The American Vision: Painting 1825-1875</em>, Rosenberg Gallery, New York, 10/08/1968 - 11/02/1968
+                            </p>
+                          <p>
+                              <em>American Art at Harvard</em>, Fogg Art Museum, Cambridge, 04/19/1972 - 06/18/1972
+                            </p>
+                          <p>
+                              <em>The American Landscape</em>, Arts Club of Chicago, Chicago, 11/15/1973 - 12/30/1973
+                            </p>
+                          <p>
+                              <em>Frontier American</em>, Museum of Fine Arts, Boston, Boston, 01/23/1975 - 03/16/1975; Denver Art Museum, Denver, 04/16/1975 - 06/01/1975; Fine Arts Gallery of San Diego, San Diego, 07/02/1975 - 08/17/1975; Rockhill Nelson Gallery of Art, Kansas City, 09/17/1975 - 11/02/1975; Milwaukee Art Museum, Milwaukee, 12/05/1975 - 01/18/1976
+                            </p>
+                          <p>
+                              <em>America: Art and the West</em>, Art Gallery of Western Australia, Perth, 12/11/1986 - 01/21/1987; Art Gallery of New South Wales, Sydney, 02/06/1987 - 04/05/1987
+                            </p>
+                          <p>
+                              <em>Myth of the West</em>, Henry Art Gallery, Seattle, 09/14/1990 - 11/25/1990
+                            </p>
+                          <p>
+                              <em>The Persistence of Memory: Continuity and Change in American Cultures</em>, Harvard University Art Museums, Cambridge, 07/29/1995 - 05/13/2001
+                            </p>
+                          <p>
+                              <em>American Sublime: Landscape Painting in the United States 1820-1880</em>, Tate Gallery, London, 02/21/2002 - 05/19/2002
+                            </p>
+                          <p>
+                              <em>32Q: 2100 19th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347809">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR009411_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "lander's Peak "">
+                                    <span class="related-artwork__obj">Straus.8316</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Albert Bierstadt</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Lander's Peak "</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:52101_dynmc?width=200&height=200" alt="Rocky Mountains, "lander's Peak"">
+                <span class="popup__artwork-info-id">1895.698</span>
+        <span class="popup__artwork-info-author">
+                                    Albert Bierstadt
+                              </span>
+        <span class="popup__artwork-info-title">Rocky Mountains, "Lander's Peak"</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20303976%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303976">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303976" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Rocky+Mountains%2C+%22Lander%27s+Peak%22+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303976" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/303976" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_c843622e9a81dbc07642211fa5f56fd6" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

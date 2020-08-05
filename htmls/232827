@@ -1,0 +1,710 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Detroit Queen </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Detroit Queen" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/232827"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51928_dynmc?width=256&amp;height=256" />
+<meta property="og:description" content=" Detroit Queen" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17387952" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51928_dynmc?width=256&height=256" data-initial-image-id="17387952" data-zoom-enabled="0"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption  hidden ">
+                                                    </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?232827" data-behavior="add_to_collection tooltip" data-artwork="232827" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=232827&amp;image_id=51928" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/232827/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="51928">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51928_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="David Smith"  title="Detroit Queen" data-object-caption="" data-object-copyright="" data-image-id="17387952" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:51928_dynmc?width=125&height=125" alt="Detroit Queen">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="46369">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:46369_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="David Smith"  title="Detroit Queen" data-object-caption="" data-object-copyright="" data-image-id="43182816" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:46369_dynmc?width=125&height=125" alt="Detroit Queen">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Detroit Queen is one of many sculptures by Smith that personify identifiable or imagined individuals. These range from the totemic suggestion of figures to compositions that more thoroughly embody the human form. Not simply a phase in the artist’s development, these figural works were preceded and followed by more abstract sculptures. This monumental figure demonstrates Smith’s unwillingness to be categorized by medium or technique; it includes both large welded elements and small casts of machine components, transformed by proximity into body parts and facial features. Like Picasso, whose career he emulated, Smith pursued a variety of stylistic approaches, repeatedly incorporating his earlier interests into successive works. Detroit Queen, whose title may refer to the primacy of the automobile industry, certain components of the sculpture, or the figure’s haughty pose, owes a debt to cubism’s fractured portraiture and the hybrid creatures of surrealism, even as it exemplifies the postwar focus on the human figure.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1994.15</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28750>David Smith</a>, American                                                                                                                                                                                                                                                                          (Decatur, IN 1906 - 1965 Bennington, VT)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Detroit Queen</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1957</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: North America, United States                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/232827">https://hvrd.art/o/232827</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 1, Room 1330, Modern and Contemporary Art, New Images<br>
+            <a href="/visit/floor-plan/1?gallery=1330" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Bronze</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>180.3 x 63.5 x 64.8 cm (71 x 25 x 25 1/2 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: On base: David Smith , Signed Date: 1957
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: on base: Det. Q.
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>David Smith, sold; to Lois Orswell, (1957-1994), gift; to Harvard University Art Museums, 1994.<br />
+</dd>
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+            
+            
+                          <dt>Standard Reference Number</dt>
+              <dd>Krauss 417</dd>
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Lois Orswell</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© 2020 The Estate of David Smith / Licensed by VAGA at Artists Rights Society (ARS), NY</dd>
+            
+                          <dt>Accession Year</dt>
+              <dd>1994</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1994.15</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Fairfield Porter, "David Smith: Steel into Sculpture", <em>Art News</em> (1957), vol. 56, no. 5, p. 55
+                             </p>
+                                                      <p>
+                                              Hilton Kramer, "Month in Review", <em>Arts</em> (1957), vol. 32, no. 1, pp. 49-51, pp. 49, 51, ill.
+                             </p>
+                                                      <p>
+                                              Dore Ashton, "Review of David Smith at the Museum of Modern Art, New York", <em>Arts and Architecture</em> (1957), vol. 74, p. 12, ill.
+                             </p>
+                                                      <p>
+                                              Robert M. Coates, "The Art Galleries: Double Retrospective", <em>The New Yorker</em> (New York, 1957), vol. 33, no. 13, pp. 123-126, p. 126
+                             </p>
+                                                      <p>
+                                              Kenneth Sawyer, "The Iron Forgings of David Smith", <em>The Baltimore Sun</em> (Baltimore, 1957), p. 14
+                             </p>
+                                                      <p>
+                                              Hilton Kramer, "Lachaise and Others: The Orswell Collection", <em>Arts Yearbook</em> (1961), vol. 4, p. 90, ill. (color)
+                             </p>
+                                                      <p>
+                                              Jane Harrison Cone, <em>David Smith 1906-1965: A Retrospective Exhibition</em>, exh. cat., Thomas Todd Co. (Cambridge, MA, 1966), p. 76, no. 322
+                             </p>
+                                                      <p>
+                                              David Smith, "Notes for David Smith Makes a Sculpture", <em>Art News</em> (1969), vol. 67, no. 9, p. 56, p. 46
+                             </p>
+                                                      <p>
+                                              C. R. Wasserman, "Fogg Presents Smith Sculpture", <em>The Boston Globe</em> (Boston, 1972), p. 18, p. 18, ill.
+                             </p>
+                                                      <p>
+                                              Leonard Sloane, "Valuing Artist's Estates: What is Fair?", <em>Art News</em> (1976), vol. 75, no. 9, p. 92, p. 92, ill.
+                             </p>
+                                                      <p>
+                                              Rosalind E. Krauss, <em>The Sculpture of David Smith, a Catalogue Raisonné</em>, Garland Publishing, Inc. (New York, NY, 1977), cat. no. 417
+                             </p>
+                                                      <p>
+                                              Katharine Nahum, "David Smith's Sculpture Poetic, Resourceful", <em>Newton Times</em> (Newton, MA, 1979), n.p., ill.
+                             </p>
+                                                      <p>
+                                              Ann Schecter, "Smith, Jade at Fogg Museum", <em>The Lowell Sun</em> (Lowell, MA, 1979), n.p., ill.
+                             </p>
+                                                      <p>
+                                              Miranda McClintic, <em>David Smith: The Hirshhorn Museum and Sculpture Garden Collection, Smithsonian Institution</em>, Hirshhorn Museum and Sculpture Garden (Washington D.C., 1979), p. 30
+                             </p>
+                                                      <p>
+                                              Edward F. Fry and Miranda McClintic, <em>David Smith: Painter, Sculptor, Draftsman</em>, Hirshhorn Museum and Sculpture Garden and George Braziller (New York and Washington D.C., 1982), p. 15
+                             </p>
+                                                      <p>
+                                              David Smith and Garnett McCoy, <em>From the Life of the Artist: A Documentary View of David Smith. An Exhibition Drawn from the David Smith Papers</em>, exh. cat., Smithsonian Institution (Washington D.C., 1982), p. 15, ill.
+                             </p>
+                                                      <p>
+                                              Miles Unger, "David Smith at Harvard", <em>Art New England</em> (1995), vol. 16, no. 6, cover, p. 3, 16, ill.
+                             </p>
+                                                      <p>
+                               Frank A. Pasquale, "David Smith's Abstract Identity", <em>The Harvard Crimson</em> (Cambridge, MA, 1995)
+                                            </p>
+                                                      <p>
+                                              Christine Temin, "Sculpture that won't let you stand still", <em>The Boston Globe</em> (Boston, 1995), p. 49
+                             </p>
+                                                      <p>
+                                              Jonathan Fineberg, <em>Art Since 1940: Strategies of Being</em>, Harry N. Abrams, Inc. (New York, 1995), pp. 115-125, p. 120, fig. 4.36, ill.
+                             </p>
+                                                      <p>
+                                              Sarah Kianovsky, <em>David Smith: This Work is My Identity</em>, brochure, Harvard University Art Museums (Cambridge, MA, 1995), reproduced in b/w cover, p. 3
+                             </p>
+                                                      <p>
+                               Christine Temin, "Artists Sit Still for Portraits on Film", <em>The Boston Globe</em> (Boston, 1997)
+                                            </p>
+                                                      <p>
+                                              Candida Smith and Irving Sandler, <em>The Fields of David Smith</em>, Thames and Hudson, Ltd. and Storm King Art Center (New York and Mountainville, NY, 1999), pp. 71, 81, 120, 141, ill. (color)
+                             </p>
+                                                      <p>
+                                              Brooke Rapaport and Kevin L. Stayton, <em>Vital Forms: American Art and Design in the Atomic Age, 1940-1960</em>, Harry N. Abrams, Inc. (2001), page 117
+                             </p>
+                                                      <p>
+                                              Christine Temin, "A Collector Who 'Bought with Her Guts and Her Heart'", <em>The Boston Globe</em> (Boston, 2002), n.p.
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn and Sarah Kianovsky, <em>Lois Orswell, David Smith, and Modern Art</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2002), cat. no. 212, figs. 84-87, pp. 206-211
+                             </p>
+                                                      <p>
+                                              James Panero, "Exhibition Notes: Lois Orswell, David Smith, and Modern Art", <em>New Criterion</em> (2003), vol. 21, no. 6, p. 50, p. 50
+                             </p>
+                                                      <p>
+                                              <em>Lois Orswell, David Smith, and Friends: Works from the Lois Orswell Collection, Harvard University</em>, exh. cat., Knoedler & Co. Inc. (New York, 2003), p. 15
+                             </p>
+                                                      <p>
+                                              Alexander Potts, <em>David Smith: Personage</em> (New York, 2006), p. 44, ill. (color)
+                             </p>
+                                                      <p>
+                                              Brooke Kamin Rapaport, ed., <em>The Sculpture of Louise Nevelson</em>, Yale University Press (U.S.) (New Haven and London, 2007), p. 9, fig. 8
+                             </p>
+                                                      <p>
+                                              Katy Siegel, <em>Abstract Expressionism</em>, Phaidon (New York, 2011), p.4, ill.
+                             </p>
+                                                      <p>
+                                              Susan Behrends Frank, Sarah Hamill, and Peter Stevens, <em>David Smith Invents</em>, The Phillips Collection (Washington D.C., 2011), p. 35
+                             </p>
+                                                      <p>
+                                              Joan Pachner, <em>David Smith</em>, Phaidon Press (London, 2013), p. 56, ill.
+                             </p>
+                                                      <p>
+                                              David Ekserdjian, <em>Casting Modernity: Bronze in the XXth Century</em>, exh. cat., Mnuchin Gallery, New York (New York, 2014), p. 128
+                             </p>
+                                                      <p>
+                                              Susan Cooke, ed., <em>David Smith: Collected Writings, Lectures, and Interviews</em>, brochure, University of California Press (Oakland, 2018), p. 141-142, fig. 37, ill.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>David Smith</em>, Museum of Modern Art, New York, 09/10/1957 - 10/20/1957
+                            </p>
+                          <p>
+                              <em>David Smith: 23 Related Sculptures, Drawings, Paintings</em>, Fogg Art Museum, 01/01/1972 - 02/29/1972
+                            </p>
+                          <p>
+                              <em>Terminal Iron Works: The Sculpture of David Smith</em>, Fogg Art Museum, 07/05/1972 - 09/15/1972
+                            </p>
+                          <p>
+                              <em>David Smith: Sculpture, Drawings, and Paintings</em>, Fogg Art Museum, 10/01/1979 - 11/25/1979
+                            </p>
+                          <p>
+                              <em>David Smith: Five Sculptures in the Courtyard</em>, Fogg Art Museum, 07/22/1981 - 09/20/1981
+                            </p>
+                          <p>
+                              <em>David Smith: "This work is my identity"</em>, Harvard University Art Museums, Cambridge, 06/03/1995 - 05/05/1996
+                            </p>
+                          <p>
+                              <em>The Fields of David Smith [Part II]</em>, Storm King Art Center, 05/18/1998 - 11/15/1998
+                            </p>
+                          <p>
+                              <em>Vital Forms: American Art and Design in the Atomic Age, 1940-1960</em>, Brooklyn Museum of Art, 10/12/2001 - 01/06/2002
+                            </p>
+                          <p>
+                              <em>Lois Orswell, David Smith, and Modern Art</em>, Harvard University Art Museums, Cambridge, 09/21/2002 - 02/16/2003
+                            </p>
+                          <p>
+                              <em>HAA 1 Survey Course: Landmarks of World Art and Architecture [Spring 2007]</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 02/26/2007 - 04/08/2007
+                            </p>
+                          <p>
+                              <em>HAA 1 Survey Course (S421): Landmarks of World Art and Architecture (Spring 2010)</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 02/05/2010 - 05/09/2010
+                            </p>
+                          <p>
+                              <em>32Q: 1330 Mid-Century Figurative</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:51928_dynmc?width=256&height=256" alt="Detroit Queen">
+                <span class="popup__artwork-info-id">1994.15</span>
+        <span class="popup__artwork-info-author">
+                                    David Smith
+                              </span>
+        <span class="popup__artwork-info-title">Detroit Queen</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20232827%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F232827">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F232827" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Detroit+Queen+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F232827" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_48eb37b1dcecb15a91d91d37cbf9e9f8" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

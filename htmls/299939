@@ -1,0 +1,764 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Harriet Leavens (1802-1830) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Harriet Leavens (1802-1830)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299939"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:huam:DDC111739_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Harriet Leavens (1802-1830)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_23074201" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:huam:DDC111739_dynmc?width=3000&height=3000" data-initial-image-id="23074201" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption  hidden ">
+                                                    </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299939" data-behavior="add_to_collection tooltip" data-artwork="299939" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299939&amp;image_id=DDC111739" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299939/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC111739">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:DDC111739_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Ammi Phillips"  title="Harriet Leavens (1802-1830)" data-object-caption="" data-object-copyright="" data-image-id="23074201" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:DDC111739_dynmc?width=125&height=125" alt="Harriet Leavens (1802-1830)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="10566">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:10566_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Ammi Phillips"  title="Harriet Leavens (1802-1830)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181263" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:10566_dynmc?width=125&height=125" alt="Harriet Leavens (1802-1830)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG347">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG347_dynmc_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Ammi Phillips"  title="Harriet Leavens (1802-1830)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43160984" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG347_dynmc_dynmc?width=125&height=125" alt="Harriet Leavens (1802-1830)">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Phillips was an itinerant, self-taught painter who spent much of his career traveling through small towns in the Berkshires and the Connecticut River Valley. An able marketer, he promoted his portraits in local newspapers as having been done “in a correct style” with “perfect shadows and elegant dresses in the prevailing fashion of the day.”</p>
+<p>This portrait, among the most celebrated and widely recognized works in Phillips’s oeuvre, depicts the eldest daughter of the Leavens family of Lansingburgh, New York. She is portrayed as a slender, stylish young woman dressed in a gown in the Empire style, which was adopted from France.</p>
+<p>With its simple geometries and pastel palette punctuated by flashes of blue, orange, and red, the portrait looks forward to the modernist abstractions of the early twentieth century. Phillips’s work held particular appeal for American painters of that era.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1945.27</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28054>Ammi Phillips</a>, American                                                                                                                                                                                                                                                                          (Colebrook, CT 1788 - 1865 Curtisville, MA)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Harriet Leavens (1802-1830)</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1815</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299939">https://hvrd.art/o/299939</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2220, European and American Art, 17th–19th century, Rococo and Neoclassicism in the Eighteenth Century<br>
+            <a href="/visit/floor-plan/2?gallery=2220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>144.8 x 71.1 cm (57 x 28 in.)<br />
+frame: 154.6 x 80.7 x 6 cm (60 7/8 x 31 3/4 x 2 3/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          label: Labels:  Whitney Museum (1980); Museum of American Folk Art (1994); Fogg Color in Art exhibit; City Library Association, Springfield; MFA Boston (4/1948); University of Chicago Smart Gallery.
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Descent through the family from the sitter's parents, Joseph and Waitstill Peck Leavens, Lansingburgh, NY; to their daughter, Anna Maullin Niel; to her granddaughter, Harriet Anna Niel; her gift to the Fogg Art Museum, 1945</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of the Estate of Harriet Anna Niel</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1945</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1945.27</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Jules David Prown and Barbara Rose, <em>American Painting: From the Colonial Period to the Present</em>, Skira Rizzoli (New York), pp. 70-73, ill. p. 70
+                             </p>
+                                                      <p>
+                                              <em>From Colony to Nation: Exhibition of American Painting, Silver, and Architecture from 1650 to the War of 1812</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1949), p. 15, ill. p. 65, no. 11
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>Magazine of Art</em> (April 1950), vol. 43, no. 4, p. 152
+                             </p>
+                                                      <p>
+                                              Agnes Halsey Jones, "Rediscovered Paintings of Upstate New York", <em>Art In America</em> (Summer 1958), vol. 46, no. 2, ill. p. 76
+                             </p>
+                                                      <p>
+                                              Agnes Halsey Jones, <em>Rediscovered Painters of Upstate New York, 1700-1875</em>, exh. cat., Munson-Williams-Proctor Arts Institute (Utica, NY, 1958), p. 21, no. 14
+                             </p>
+                                                      <p>
+                                              Barbara Holdridge and Lawrence B. Holdridge, "Ammi Phillips (1788-1865), a 'Rediscovery' ", <em>Art In America</em> (Summer 1960), vol. 48, no. 2, p. 98
+                             </p>
+                                                      <p>
+                                              Barbara Holdridge and Lawrence B. Holdridge, "Ammi Phillips, Limner Extraordinary", <em>The Magazine Antiques</em> (December 1961), fig. 2
+                             </p>
+                                                      <p>
+                                              <em>Highlights from the Collections of the Fogg Museum and Harvard Alumni of St. Louis</em>, exh. cat., City Art Museum of St. Louis (St. Louis, 1964), cat. 7
+                             </p>
+                                                      <p>
+                               "Catalogue of Ammi Phillips", <em>Connecticut Historical Society Bulletin</em> (Hartford, CT, October 1965)
+                                            </p>
+                                                      <p>
+                                              "American Folk Painting", <em>Art In America</em> (November 1966 - December 1966), vol. 54, no. 6, pp. 113-128, ill. p. 118
+                             </p>
+                                                      <p>
+                                              William Lawson Warren, "Ammi Phillips: A Critique", <em>Connecticut Historical Society Bulletin</em> (January 1966), vol. 31, no. 1, pp. 1-18, pp. 9, 13
+                             </p>
+                                                      <p>
+                                              Mary C. Black and Jean Lipman, <em>American Folk Painting</em> (New York, NY, 1966), p. 53, fig. 55
+                             </p>
+                                                      <p>
+                                              Anne Wood Murray, "Sunshades, Parasols and Umbrellas", <em>The Magazine Antiques</em> (April 1967), pp. 492-495, ill. p. 494
+                             </p>
+                                                      <p>
+                               <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967)
+                                            </p>
+                                                      <p>
+                                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, exh. cat., Albright-Knox Art Gallery (Buffalo, NY, 1967), cat. 8
+                             </p>
+                                                      <p>
+                                              The Editors of Art in America, ed., <em>The Artist in America</em>, W. W. Norton & Company (New York, 1967), ill. p. 96
+                             </p>
+                                                      <p>
+                                              <em>Ammi Phillips: Portrait Painter 1788-1865</em>, exh. cat., C. N. Potter (New York, NY, 1968), pp. 12, 22, cat. 23, ill.
+                             </p>
+                                                      <p>
+                                              Frances D. Broderick, "Harriet Leavens Maullin: Her Family and Portrait", <em>The American Genealogist</em> (October 1969), vol. XLV, no. 4, pp. 237-244, ill. p. 238
+                             </p>
+                                                      <p>
+                                              Jules David Prown, <em>American Painting: From Its Beginnings to the Armory Show</em>, Skira (New York, NY, 1969), pp. 74-76, ill. p. 74
+                             </p>
+                                                      <p>
+                                              James Thomas Flexner, <em>Nineteenth Century American Painting</em>, Chanticleer Press (New York, NY, 1970), ill. opp. p. 119
+                             </p>
+                                                      <p>
+                                              Jane Lord, <em>Lansingburgh New York 1771-1971</em>, brochure, Whitehurst Printing and Binding Co. (Lansingburgh, NY, 1971), ill. p. 13
+                             </p>
+                                                      <p>
+                                              <em>The Britannica Encyclopedia of American Art</em>, Simon & Schuster (New York, 1973), ill. p. 427
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), pp. 50-51, cat. 12
+                             </p>
+                                                      <p>
+                                              "Thomas Armstrong of the Whitney Museum of American Art, New York", <em>The Christian Science Monitor</em> (Thursday, February 13, 1975), n.p., ill.
+                             </p>
+                                                      <p>
+                                              John Wilmerding, <em>American Art</em>, Penguin Books (New York, 1976), pp. 101-102, pl. 113
+                             </p>
+                                                      <p>
+                                              Barbara Holdridge and Lawrence B. Holdridge, <em>"Ammi Phillips, limner extraordinary"</em>, ed. Ellen G. Miles, Main Street/Universe Books (New York, 1977), pp. 114, 117, fig. 2
+                             </p>
+                                                      <p>
+                                              Ross E. Taggart, <em>Kaleidoscope of American Painting: Eighteenth and Nineteenth Centuries</em>, exh. cat., William Rockhill Nelson Gallery of Art (now Nelson-Atkins) (Kansas City, MO, 1977), p. 23, cat. 20, ill
+                             </p>
+                                                      <p>
+                                              Jean Lipman and Tom Armstrong, <em>American Folk Painters of Three Centuries</em>, Hudson Hills Press / Whitney Museum of American Art (New York, NY, 1980), p. 142, ill. p. 141
+                             </p>
+                                                      <p>
+                                              Tom Armstrong, "Folk or Art? A Symposium", <em>The Magazine Antiques</em> (January 1989), pp. 282-283,  pl. E
+                             </p>
+                                                      <p>
+                                              Mary Jo Carpenter, "The Rescue of Harriet Campbell", <em>Berkshire Eagle</em> (Pittsfield, MA, May 25, 1990), n.p.
+                             </p>
+                                                      <p>
+                                              <em>American Country Folk Art, Imaginative Works from American Hands</em>, Time-Life Books, Inc. (Alexandria, VA, 1990), ill. p. 28
+                             </p>
+                                                      <p>
+                                              Colleen Cowles Heslip, <em>Between the Rivers: Itinerant Painters from the Connecticut to the Hudson</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, MA, 1990), p. 58
+                             </p>
+                                                      <p>
+                                              Robert Hobbs, <em>Milton Avery</em>, Hudson Hills Press (New York, NY, 1990), p. 81, fig. 6
+                             </p>
+                                                      <p>
+                                              Howard Rose, <em>Unexpected Eloquence: The Art in American Folk Art</em>, Raymond Saroff (Olive Bridge, NY, 1990), ill. p. 37
+                             </p>
+                                                      <p>
+                                              <em>Naive Art</em>, Gakken Publishing Co. (Tokyo, Japan, 1991), ill. p. 83
+                             </p>
+                                                      <p>
+                                              "Good Save", <em>Antique Monthly</em> (July / August 1992), vol. 25, no. 7, p. 14, p. 14
+                             </p>
+                                                      <p>
+                                              Virginia Bohlin, "A Showcase Exhibition for an Itinerant Artist", <em>The Boston Globe</em> (Boston, MA, March 6, 1994), ill. n.p.
+                             </p>
+                                                      <p>
+                                              Stacy C. Hollander, "Great Collections: Ammi Phillips Portraits", <em>Country Living</em> (March 1994), pp. 66-68, p. 68, ill. p. 66
+                             </p>
+                                                      <p>
+                               Stacy C. Hollander, "Revisiting Ammi Phillips", <em>The Magazine Antiques</em> (February 1994)
+                                            </p>
+                                                      <p>
+                                              Laura Beach, "Revisiting Ammi Phillips: Fifty Years of American Portraiture", <em>Antiques and the Arts Weekly</em> (March 18, 1994), p. 73, ill.
+                             </p>
+                                                      <p>
+                                              Wayne Craven, <em>American Art: History and Culture</em>, Brown & Benchmark Publishers (Madison, WI, 1994), p. 265, fig. 19.6
+                             </p>
+                                                      <p>
+                                              John Caldwell, Oswaldo Rodriguez Roque, and Dale T. Johnson, <em>American Paintings in the Metropolitan Museum of Art, Volume I: A Catalogue of Works by Artists Born by 1815</em>, ed. Kathleen Luhrs, The Metropolitan Museum of Art and Princeton University Press (New York, NY and Princeton, NJ, 1994), p. 368
+                             </p>
+                                                      <p>
+                                              Stacy C. Hollander and Howard P. Fertig, <em>Revisiting Ammi Phillips: Fifty Years of American Portraiture</em>, exh. cat., American Folk Art Museum (New York, NY, 1994), p. 50, pl. VIII
+                             </p>
+                                                      <p>
+                                              Jane Turner, <em>The Encyclopedia of American Art before 1914</em>, Macmillan Publishers Limited (London, England, 2000), p. 378, ill. p. 379
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), ill. p. 132
+                             </p>
+                                                      <p>
+                                              Stacy C. Hollander, <em>The Seduction of Light: Ammi Phillips, Mark Rothko, Compositions in Pink, Green and Red</em>, exh. cat., American Folk Art Museum (New York, NY, 2008), pp. 7, 29, ill. p. 21
+                             </p>
+                                                      <p>
+                                              Antonia Mattheou, "Change of Heart", <em>New York State Archives</em> (Summer 2011), vol. 11, no. 1, pp. 6-7, ill. p. 7
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr. and Melissa Renn, <em>American Paintings at Harvard, Volume One: Paintings, Watercolors, and Pastels by Artists Born before 1826</em>, Yale University Press (U.S.) and Harvard Art Museums (Cambridge and New Haven, 2014), pp. 33, 398-400, cat. 360, ill.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>From Colony to Nation</em>, The Art Institute of Chicago, Chicago, 04/20/1949 - 06/19/1949
+                            </p>
+                          <p>
+                              <em>Rediscovered Painters of Upstate New York</em>, New York State Historical Association, Cooperstown, 06/14/1958 - 09/15/1958
+                            </p>
+                          <p>
+                              <em>Highlights from the Collection of the Fogg Art Museum and Harvard Alumni of St. Louis</em>, City Art Museum of St. Louis, St. Louis, 01/30/1964 - 03/01/1964
+                            </p>
+                          <p>
+                              <em>Centennial Exhibition of the Works of Ammi Phillips</em>, Connecticut Historical Society, Hartford, 10/31/1965 - 03/01/1966
+                            </p>
+                          <p>
+                              <em>American Folk Art</em>, Museum of Early American Folk Art, New York, 10/19/1966 - 11/20/1966
+                            </p>
+                          <p>
+                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, Albright-Knox Art Gallery, Buffalo, 05/08/1967 - 06/11/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Travelling exhibition</em>, American Folk Art Museum, New York, 10/14/1968 - 12/02/1968; Albany Institute of History and Art, Albany, 12/09/1968 - 01/07/1969
+                            </p>
+                          <p>
+                              <em>Ammi Phillips: Portrait Painter, 1788-1865</em>, Museum of American Folk Art, 10/14/1968 - 12/01/1968; Albany Institute of History and Art, Albany, 12/09/1968 - 01/07/1969
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Kaleidoscope of American Painting: Eighteenth and Nineteenth Centuries</em>, Nelson-Atkins Museum of Art, Kansas City, 12/02/1977 - 01/22/1978
+                            </p>
+                          <p>
+                              <em>American Folk Painters of Three Centuries</em>, Whitney Museum of American Art, New York, 02/25/1980 - 05/18/1980
+                            </p>
+                          <p>
+                              <em>Revisiting Ammi Phillips: Fifty Years of American Portraiture</em>, American Folk Art Museum, New York, 02/05/1994 - 04/17/1994; San Diego Museum of Art, San Diego, 07/09/1994 - 09/04/1994; Terra Museum of American Art, Chicago, 10/08/1994 - 12/31/1994
+                            </p>
+                          <p>
+                              <em>The Persistence of Memory: Continuity and Change in American Cultures</em>, Harvard University Art Museums, Cambridge, 07/29/1995 - 05/13/2001
+                            </p>
+                          <p>
+                              <em>HAA 1 Survey Course (S421): Landmarks of World Art and Architecture [Spring 2009]</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 02/12/2009 - 05/10/2009
+                            </p>
+                          <p>
+                              <em>HAA 1 Survey Course (S421): Landmarks of World Art and Architecture (Spring 2010)</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 02/05/2010 - 05/09/2010
+                            </p>
+                          <p>
+                              <em>32Q: 2220 18th-19th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:huam:DDC111739_dynmc?width=200&height=200" alt="Harriet Leavens (1802-1830)">
+                <span class="popup__artwork-info-id">1945.27</span>
+        <span class="popup__artwork-info-author">
+                                    Ammi Phillips
+                              </span>
+        <span class="popup__artwork-info-title">Harriet Leavens (1802-1830)</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299939%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299939">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299939" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Harriet+Leavens+%281802-1830%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299939" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299939" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_792703cbda436c0ab8188e783aba587e" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

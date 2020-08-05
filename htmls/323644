@@ -1,0 +1,1001 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Partial Manuscript of a Qur'an </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Partial Manuscript of a Qur&#039;an" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/323644"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC101957_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Partial Manuscript of a Qur&#039;an" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18773556" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC101957_dynmc?width=3000&height=3000" data-initial-image-id="18773556" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">folio 1 recto</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?323644" data-behavior="add_to_collection tooltip" data-artwork="323644" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=323644&amp;image_id=DDC101957" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/323644/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1919.140</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/23184>Unknown Artist</a>                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Partial Manuscript of a Qur'an</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Manuscripts</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            manuscript                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>13th century</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Middle East, Syria or Egypt                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Mamluk period</dd>
+                                        <dt>Culture</dt>
+                <dd>Egyptian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/323644">https://hvrd.art/o/323644</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Ink, opaque watercolor and gold on paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>folio: 24.6 x 19.8 cm (9 11/16 x 7 13/16 in.)<br />
+text area: 15.4 x 13 cm (6 1/16 x 5 1/8 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Bequest of Hervey E. Wetzel</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1919</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1919.140</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323646">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101957_dynmc?width=3000&height=3000" alt="Folio 1 From A Fragment Of A Qur'an: Sura 4: 24 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.1</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 1 from a Fragment of a Qur'an: Sura 4: 24 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323647">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101958_dynmc?width=3000&height=3000" alt="Folio 2 From A Fragment Of A Qur'an: Sura 4: 24-25 (Recto), Sura 4: 25 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.2</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 2 from a Fragment of a Qur'an: Sura 4: 24-25 (recto), Sura 4: 25 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323648">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101956_dynmc?width=3000&height=3000" alt="Folio 3 From A Fragment Of A Qur'an: Sura 4: 25 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.3</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 3 from a Fragment of a Qur'an: Sura 4: 25 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323649">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101959_dynmc?width=3000&height=3000" alt="Folio 4 From A Fragment Of A Qur'an: Sura 4: 25 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.4</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 4 from a Fragment of a Qur'an: Sura 4: 25 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323650">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101955_dynmc?width=3000&height=3000" alt="Folio 5 From A Fragment Of A Qur'an: Sura 4: 25 (Recto), Sura 4: 25-26 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.5</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 5 from a Fragment of a Qur'an: Sura 4: 25 (recto), Sura 4: 25-26 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323651">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101960_dynmc?width=3000&height=3000" alt="Folio 6 From A Fragment Of A Qur'an: Sura 4: 26-27 (Recto), Sura 4: 27 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.6</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 6 from a Fragment of a Qur'an: Sura 4: 26-27 (recto), Sura 4: 27 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323652">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101953_dynmc?width=3000&height=3000" alt="Folio 7 From A Fragment Of A Qur'an: Sura 4: 27-End 28 (Recto), Sura 4: Begin 29 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.7</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 7 from a Fragment of a Qur'an: Sura 4: 27-end 28 (recto), Sura 4: begin 29 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323653">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101954_dynmc?width=3000&height=3000" alt="Folio 8 From A Fragment Of A Qur'an: Sura 4: End 29 (Recto), Sura 4: Begin 30 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.8</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 8 from a Fragment of a Qur'an: Sura 4: end 29 (recto), Sura 4: begin 30 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323654">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101961_dynmc?width=3000&height=3000" alt="Folio 9 From A Fragment Of A Qur'an: Sura 4: 30-31 (Recto), Sura 4: 31-32 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.9</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 9 from a Fragment of a Qur'an: Sura 4: 30-31 (recto), Sura 4: 31-32 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323655">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101962_dynmc?width=3000&height=3000" alt="Folio 10 From A Fragment Of A Qur'an: Sura 4: 32 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.10</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 10 from a Fragment of a Qur'an: Sura 4: 32 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323656">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101952_dynmc?width=3000&height=3000" alt="Folio 11 From A Fragment Of A Qur'an: Sura 4: 33 (Recto), Sura 4: 33-34 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.11</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 11 from a Fragment of a Qur'an: Sura 4: 33 (recto), Sura 4: 33-34 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323657">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101963_dynmc?width=3000&height=3000" alt="Folio 12 From A Fragment Of A Qur'an: Sura 4: 34 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.12</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 12 from a Fragment of a Qur'an: Sura 4: 34 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323658">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102046_dynmc?width=3000&height=3000" alt="Folio 13 From A Fragment Of A Qur'an: Sura 4: 102 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.13</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 13 from a Fragment of a Qur'an: Sura 4: 102 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323659">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102047_dynmc?width=3000&height=3000" alt="Folio 14 From A Fragment Of A Qur'an: Sura 4: 102 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.14</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 14 from a Fragment of a Qur'an: Sura 4: 102 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323660">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102048_dynmc?width=3000&height=3000" alt="Folio 15 From A Fragment Of A Qur'an: Sura 4: 102 (Recto), Sura 4: 102-103 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.15</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 15 from a Fragment of a Qur'an: Sura 4: 102 (recto), Sura 4: 102-103 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323661">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102049_dynmc?width=3000&height=3000" alt="Folio 16 From A Fragment Of A Qur'an: Sura 4: 103 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.16</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 16 from a Fragment of a Qur'an: Sura 4: 103 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323662">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102050_dynmc?width=3000&height=3000" alt="Folio 17 From A Fragment Of A Qur'an: Sura 4: 103-104 (Recto), Sura 4: 104 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.17</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 17 from a Fragment of a Qur'an: Sura 4: 103-104 (recto), Sura 4: 104 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323663">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102051_dynmc?width=3000&height=3000" alt="Folio 18 From A Fragment Of A Qur'an: Sura 4: 104-105 (Recto), Sura 4: End 105 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.18</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 18 from a Fragment of a Qur'an: Sura 4: 104-105 (recto), Sura 4: end 105 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323664">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102031_dynmc?width=3000&height=3000" alt="Folio 19 From A Fragment Of A Qur'an: Sura 4: 112 (Recto), Sura 4: 112-113 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.19</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 19 from a Fragment of a Qur'an: Sura 4: 112 (recto), Sura 4: 112-113 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323665">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102029_dynmc?width=3000&height=3000" alt="Folio 20 From A Fragment Of A Qur'an: Sura 4: 113 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.20</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 20 from a Fragment of a Qur'an: Sura 4: 113 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323666">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101966_dynmc?width=3000&height=3000" alt="Folio 21 From A Fragment Of A Qur'an: Sura 8: 74 (Recto), Sura 8: 74-75 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.21</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 21 from a Fragment of a Qur'an: Sura 8: 74 (recto), Sura 8: 74-75 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323667">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100817_dynmc?width=3000&height=3000" alt="Folio 22 From A Fragment Of A Qur'an: Sura 8: 75 (Recto), Sura 8: End 75, Title Of 76 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.22</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 22 from a Fragment of a Qur'an: Sura 8: 75 (recto), Sura 8: end 75, title of 76 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323668">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101951_dynmc?width=3000&height=3000" alt="Folio 23 From A Fragment Of A Qur'an: Sura 9: Begin 1-2 (Recto), Sura 9: End 2 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.23</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 23 from a Fragment of a Qur'an: Sura 9: begin 1-2 (recto), Sura 9: end 2 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323669">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101950_dynmc?width=3000&height=3000" alt="Folio 24 From A Fragment Of A Qur'an: Sura 9: 3 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.24</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 24 from a Fragment of a Qur'an: Sura 9: 3 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323670">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101965_dynmc?width=3000&height=3000" alt="Folio 25 From A Fragment Of A Qur'an: Sura 9: 3-4 (Recto), Sura 9: 4 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.25</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 25 from a Fragment of a Qur'an: Sura 9: 3-4 (recto), Sura 9: 4 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323671">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101964_dynmc?width=3000&height=3000" alt="Folio 26 From A Fragment Of A Qur'an: Sura 9: 4-5 (Recto), Sura 9: 5 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.26</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 26 from a Fragment of a Qur'an: Sura 9: 4-5 (recto), Sura 9: 5 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323672">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100816_dynmc?width=3000&height=3000" alt="Folio 27 From A Fragment Of A Qur'an: Sura 9: 5 (Recto), Sura 9: 5-6 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.27</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 27 from a Fragment of a Qur'an: Sura 9: 5 (recto), Sura 9: 5-6 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323673">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101947_dynmc?width=3000&height=3000" alt="Folio 28 From A Fragment Of A Qur'an: Sura 9: End 6 (Recto), Sura 9: Begin 7 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.28</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 28 from a Fragment of a Qur'an: Sura 9: end 6 (recto), Sura 9: begin 7 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323674">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101948_dynmc?width=3000&height=3000" alt="Folio 29 From A Fragment Of A Qur'an: Sura 9: 7 (Recto), Sura 9: 7-8 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.29</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 29 from a Fragment of a Qur'an: Sura 9: 7 (recto), Sura 9: 7-8 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323675">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101949_dynmc?width=3000&height=3000" alt="Folio 30 From A Fragment Of A Qur'an: Sura 9: 8-9 (Recto), Sura 9: End 9 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.30</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 30 from a Fragment of a Qur'an: Sura 9: 8-9 (recto), Sura 9: end 9 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323676">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101967_dynmc?width=3000&height=3000" alt="Folio 31 From A Fragment Of A Qur'an: Sura 9: 10 (Recto), Sura 9: Begin 11 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.31</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 31 from a Fragment of a Qur'an: Sura 9: 10 (recto), Sura 9: begin 11 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323677">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101968_dynmc?width=3000&height=3000" alt="Folio 32 From A Fragment Of A Qur'an: Sura 9: 11-12 (Recto), Sura 9: 12 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.32</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 32 from a Fragment of a Qur'an: Sura 9: 11-12 (recto), Sura 9: 12 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323678">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101969_dynmc?width=3000&height=3000" alt="Folio 33 From A Fragment Of A Qur'an: Sura 9: 12-13 (Recto), Sura 9: 13 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.33</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 33 from a Fragment of a Qur'an: Sura 9: 12-13 (recto), Sura 9: 13 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323679">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102044_dynmc?width=3000&height=3000" alt="Folio 34 From A Fragment Of A Qur'an: Sura 9: 15-16 (Recto), Sura 9: 16 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.34</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 34 from a Fragment of a Qur'an: Sura 9: 15-16 (recto), Sura 9: 16 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323680">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102045_dynmc?width=3000&height=3000" alt="Folio 35 From A Fragment Of A Qur'an: Sura 9: End 16 (Recto), Sura 9 Begin 17 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.35</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 35 from a Fragment of a Qur'an: Sura 9: end 16 (recto), Sura 9 begin 17 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323681">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102042_dynmc?width=3000&height=3000" alt="Folio 36 From A Fragment Of A Qur'an: Sura 9: 17-18 (Recto), Sura 9: 18 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.36</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 36 from a Fragment of a Qur'an: Sura 9: 17-18 (recto), Sura 9: 18 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323682">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102043_dynmc?width=3000&height=3000" alt="Folio 37 From A Fragment Of A Qur'an: Sura 9: 18 (Recto And Verso), End Of Hizb 19 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.37</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 37 from a Fragment of a Qur'an: Sura 9: 18 (recto and verso), End of Hizb 19 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323683">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV158780_dynmc?width=3000&height=3000" alt="Illuminated Folio (38)  From A Fragment Of A Qur'an: Sura 9: 41 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.38</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Illuminated Folio (38)  from a Fragment of a Qur'an: Sura 9: 41 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323684">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101999_dynmc?width=3000&height=3000" alt="Folio 39 From A Fragment Of A Qur'an: Sura 9: Begin 42 (Recto), Sura 9: 42 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.39</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 39 from a Fragment of a Qur'an: Sura 9: begin 42 (recto), Sura 9: 42 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323685">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102000_dynmc?width=3000&height=3000" alt="Folio 40 From A Fragment Of A Qur'an: Sura 9: 42-43 (Recto), Sura 9: 43-44 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.40</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 40 from a Fragment of a Qur'an: Sura 9: 42-43 (recto), Sura 9: 43-44 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323686">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102001_dynmc?width=3000&height=3000" alt="Folio 41 From A Fragment Of A Qur'an: Sura 9: 44 (Recto), Sura 9: 44-45 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.41</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 41 from a Fragment of a Qur'an: Sura 9: 44 (recto), Sura 9: 44-45 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323687">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102002_dynmc?width=3000&height=3000" alt="Folio 42 From A Fragment Of A Qur'an: Sura 9: 45-46 (Recto), Sura 9: 46 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.42</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 42 from a Fragment of a Qur'an: Sura 9: 45-46 (recto), Sura 9: 46 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323688">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102003_dynmc?width=3000&height=3000" alt="Folio 43 From A Fragment Of A Qur'an: Sura 9: 46-47 (Recto), Sura 9: 47 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.43</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 43 from a Fragment of a Qur'an: Sura 9: 46-47 (recto), Sura 9: 47 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323689">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102004_dynmc?width=3000&height=3000" alt="Folio 44 From A Fragment Of A Qur'an: Sura 9: 47-48 (Recto), Sura 9: 48-49 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.44</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 44 from a Fragment of a Qur'an: Sura 9: 47-48 (recto), Sura 9: 48-49 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323690">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102005_dynmc?width=3000&height=3000" alt="Folio 45 From A Fragment Of A Qur'an: Sura 9: 49 (Recto), Sura 9: 50 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.45</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 45 from a Fragment of a Qur'an: Sura 9: 49 (recto), Sura 9: 50 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323691">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102006_dynmc?width=3000&height=3000" alt="Folio 46 From A Fragment Of A Qur'an: Sura 9: 50-51 (Recto), Sura 9: 51-52 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.46</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 46 from a Fragment of a Qur'an: Sura 9: 50-51 (recto), Sura 9: 51-52 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323692">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102007_dynmc?width=3000&height=3000" alt="Folio 47 From A Fragment Of A Qur'an: Sura 9: 52 (Recto), Sura 9: 52-53 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.47</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 47 from a Fragment of a Qur'an: Sura 9: 52 (recto), Sura 9: 52-53 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323693">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102008_dynmc?width=3000&height=3000" alt="Folio 48 From A Fragment Of A Qur'an: Sura 9: 53-54 (Recto), Sura 9: 54 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.48</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 48 from a Fragment of a Qur'an: Sura 9: 53-54 (recto), Sura 9: 54 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323694">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102009_dynmc?width=3000&height=3000" alt="Folio 49 From A Fragment Of A Qur'an: Sura 9: 54-55 (Recto), Sura 9: 55 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.49</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 49 from a Fragment of a Qur'an: Sura 9: 54-55 (recto), Sura 9: 55 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323695">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101993_dynmc?width=3000&height=3000" alt="Folio 50 From A Fragment Of A Qur'an: Sura 9: 55-56 (Recto), Sura 9: 56-57 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.50</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 50 from a Fragment of a Qur'an: Sura 9: 55-56 (recto), Sura 9: 56-57 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323696">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101994_dynmc?width=3000&height=3000" alt="Folio 51 From A Fragment Of A Qur'an: Sura 9: 57-58 (Recto), Sura 9: End 58 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.51</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 51 from a Fragment of a Qur'an: Sura 9: 57-58 (recto), Sura 9: end 58 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323697">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101995_dynmc?width=3000&height=3000" alt="Folio 52 From A Fragment Of A Qur'an: Sura 9: Begin 59 (Recto), Sura 9: 59-60 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.52</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 52 from a Fragment of a Qur'an: Sura 9: begin 59 (recto), Sura 9: 59-60 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323698">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101996_dynmc?width=3000&height=3000" alt="Folio 53 From A Fragment Of A Qur'an: Sura 9: 60 (Recto And Verso)">
+                                    <span class="related-artwork__obj">1919.140.53</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 53 from a Fragment of a Qur'an: Sura 9: 60 (recto and verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323699">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101997_dynmc?width=3000&height=3000" alt="Folio 54 From A Fragment Of A Qur'an: Sura 9: 60-61 (Recto), Sura 9: 61 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.54</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 54 from a Fragment of a Qur'an: Sura 9: 60-61 (recto), Sura 9: 61 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/323700">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101998_dynmc?width=3000&height=3000" alt="Folio 55 From A Fragment Of A Qur'an: Sura 9: End 61 (Recto), Sura 9: Begin 62 (Verso)">
+                                    <span class="related-artwork__obj">1919.140.55</span>
+                                      <h4 class="related-artwork__artist">Unknown Artist</h4>
+                                                        <h3 class="related-artwork__title">Folio 55 from a Fragment of a Qur'an: Sura 9: end 61 (recto), Sura 9: begin 62 (verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101957_dynmc?width=200&height=200" alt="Partial Manuscript Of A Qur'an">
+                <span class="popup__artwork-info-id">1919.140</span>
+        <span class="popup__artwork-info-author">
+                                    Unknown Artist
+                              </span>
+        <span class="popup__artwork-info-title">Partial Manuscript of a Qur'an</span>
+        <span class="popup__artwork-info-class">Manuscripts</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20323644%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F323644">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F323644" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Partial+Manuscript+of+a+Qur%27an+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F323644" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/323644" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_3db518b0baa27b20c6056e4bf62c9d9b" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

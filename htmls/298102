@@ -1,0 +1,712 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Depths of the Sea </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Depths of the Sea" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/298102"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51664_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Depths of the Sea" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17387761" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51664_dynmc?width=3000&height=3000" data-initial-image-id="17387761" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?298102" data-behavior="add_to_collection tooltip" data-artwork="298102" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=298102&amp;image_id=51664" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/298102/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="51664">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51664_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Edward Burne-Jones"  title="The Depths Of The Sea" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17387761" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51664_dynmc?width=125&height=125" alt="The Depths Of The Sea">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30117">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:30117_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Edward Burne-Jones"  title="The Depths Of The Sea" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182107" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:30117_dynmc?width=125&height=125" alt="The Depths Of The Sea">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.462</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/30365>Edward Burne-Jones</a>, British                                                                                                                                                                                                                                                                          (Birmingham, England 1833 - 1898 London, England)
+                                            <br>
+                                                                Frame by <a href=https://www.harvardartmuseums.org/collections/person/11038>M. Grieve Co.</a>                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Depths of the Sea</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1887</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/298102">https://hvrd.art/o/298102</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Watercolor and gouache on wove paper mounted on panel</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>197 x 76 cm (77 9/16 x 29 15/16 in.)<br />
+primary support: 194.5 x 746 cm (76 9/16 x 293 11/16 in.)<br />
+frame: 214.3 x 94.6 x 8.3 cm (84 3/8 x 37 1/4 x 3 1/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l., gouache: EBJ / 1887
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: back of panel/frame, black ink: This picture belongs to / Honble Charles Lawrence-- / 23 Eaton Square-- / London--
+                        </li>
+                                              <li data-a="2">
+                          inscription: back of panel/frame, graphite: Liverpool
+                        </li>
+                                              <li data-a="2">
+                          label: back of panel/frame, printed: LIVERPOOL / 1897.
+                        </li>
+                                              <li data-a="2">
+                          label: back of panel/frame, printed label with inscriptions in black ink: GROSVENOR GALLERY / INTER-COLONIAL EXHIBITION / Title of Picture Depths of the Sea / Name of Artist Edward Burne-Jones A.R.A. / Address The Grange North End Road West[?] Kensington[?] [or Rottingdean?] Lanc[?] / Price £900.0.0
+                        </li>
+                                              <li data-a="2">
+                          stamp: back of panel/frame, incised: M. GRIEVE CO. / HAND CARVED / NEW YORK & LONDON [applied twice on back of frame]
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Lord Lawrence (the Honorable Charles Napier Lawrence, created first Baron Lawrence of Kingsgate, 1923);* Jacques Seligmann and Co., New York; acquired from them by Grenville L. Winthrop, October 3, 1935 ($3,500); his bequest to the Fogg Art Museum, 1943.<br />
+<br />
+*Footnote by Gail Weinberg: "I am grateful to Christopher Newall, who identified the owner as Lord Lawrence of Kingsgate, whose collection was sold at Christie's, London, on March 15, 1935. "The Depths of the Sea" does not appear in this sale and therefore must have been sold or bequeathed separately."</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.462</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>Drawing is executed on wove paper mounted to paper and attached to panel. The primary support is slightly smaller than the panel. The watercolor extends beyond the edges of the primary support, so the paper was mounted prior to execution.</dd>
+                                            <dt>Commentary</dt>
+                <dd>Replica of oil painting (private collection) finished in 1886 and exhibited at the Royal Academy that same year.</dd>
+                                         </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Malcolm Bell, <em>Edward Burne-Jones: A Record and Review</em>, George Bell and Sons, Ltd. (London, England, 1892), pp. 62, 110
+                             </p>
+                                                      <p>
+                                              Lady Georgiana Burne-Jones, <em>Memorials of Edward Burne-Jones (2 vols.)</em> (London, England, 1904), vol. II, pg. 30
+                             </p>
+                                                      <p>
+                                              Fortunée De Lisle, <em>Burne-Jones</em>, Methuen & Co. (London, England, 1906), p. 186, note
+                             </p>
+                                                      <p>
+                                              "Pre-Raphaelites", <em>Bulletin of the Fogg Art Museum</em>, Fogg Art Museum (Cambridge, MA, November 1943), vol. X, pp. 62-63, repr. in b/w, p. 62
+                             </p>
+                                                      <p>
+                                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1946), no. 32
+                             </p>
+                                                      <p>
+                                              Martin Harrison and Bill Waters, <em>Burne-Jones</em>, G. P. Putnam's Sons (New York, NY, 1973), fig. 207
+                             </p>
+                                                      <p>
+                                              John Christian, <em>Burne-Jones: The Paintings, Graphic and Decorative Work of Sir Edward Burne-Jones</em>, exh. cat., Arts Council of Great Britain, London (London, England, 1975), under no. 155, p. 57
+                             </p>
+                                                      <p>
+                                              Helmut Kreuzer and Gunnar Brandell, <em>Jahrhundertende, Jahrhundertwende</em>, Akademische Verlagsgesellschaft Athenaion (Wiesbaden, Germany, 1976), p. 375
+                             </p>
+                                                      <p>
+                                              Nina Auerbach, <em>Woman and the Demon: The Life of a Victorian Myth</em>, Harvard University Press (Cambridge, MA, 1982), p. 94, fig. 23
+                             </p>
+                                                      <p>
+                                              Virginia M. Allen, <em>The Femme Fatale: Erotic Icon</em>, Whitston Publishing Co (Troy, NY, 1983), no. 45
+                             </p>
+                                                      <p>
+                                              Robyn Cooper, "Arthur Hughes's 'La Belle Dame Sans Merci' and the Femme Fatale", <em>Art Bulletin of Victoria</em>, Council of the National Gallery of Victoria (Melbourne, Australia, 1986), no. 27, p. 10, fig. 6
+                             </p>
+                                                      <p>
+                                              David Young, <em>Troubled Mirror: A Study of Yeats's "The Tower"</em>, University of Iowa Press (Iowa City, IA, 1987), fig. 3
+                             </p>
+                                                      <p>
+                                              Lothar Honnighausen, <em>William Faulkner: The Art of Stylization</em>, Cambridge University Press (Cambridge, England, 1987), p. 90, fig. 86
+                             </p>
+                                                      <p>
+                                              Joseph A. Kestner, <em>Mythology & Misogyny: The Social Discourse of Nineteenth Century British Classical-Subject Painting</em>, University of Wisconsin Press (Madison, WI, 1989), pp. 97-98, fig. 2-27
+                             </p>
+                                                      <p>
+                                              "Thought: A Review of Culture and Idea", <em>Fordham University Quarterly</em>, Fordham University Press (New York, NY, December 1990), LXV, no. 259, repr. frontispiece
+                             </p>
+                                                      <p>
+                                              Lee Grove, <em>Drowning</em>, Viking Press (New York, NY, 1991), repr. on cover (color)
+                             </p>
+                                                      <p>
+                                              Alev Croutier, <em>Taking the Waters: Spirit Art Sensuality</em>, Abbeville Press (New York, NY, 1992), repr. p. 17 (color)
+                             </p>
+                                                      <p>
+                                              Elizabeth Butler Cullingford, <em>Gender and History in Yeats's Love Poetry</em>, Cambridge University Press (Cambridge, England, 1993), fig. 7, p. 175
+                             </p>
+                                                      <p>
+                                              <em>Impressions & Illusions (19th Century IV)</em>, Kodansha, Watano Matsuzaki Communicatjons(sic) (Tokyo, Japan, 1993), no. 3.13, repr. in color
+                             </p>
+                                                      <p>
+                                              Rudolph Binion, <em>Love Beyond Death: The Anatomy of a Myth in the Arts</em>, New York University Press (New York, NY, 1993), p. 41, fig. 23
+                             </p>
+                                                      <p>
+                                              George Heard Hamilton, <em>Painting and Sculpture in Europe 1880-1940</em>, Yale University Press (New Haven, CT and London, England, 1993), p. 147, fig. 71(color)
+                             </p>
+                                                      <p>
+                                              Russell Ash, <em>Sir Edward Burne-Jones</em>, Harry N. Abrams, Inc. (New York, NY, 1993), pl. 26 (color) + text opposite
+                             </p>
+                                                      <p>
+                                              Helen K. Gediman, <em>Fantasies of Love and Death in Life and Art: A Psychoanalytic Study of the Normal and the Pathological</em>, New York University Press (New York, NY, 1995), p. 59, fig. 4
+                             </p>
+                                                      <p>
+                                              Joseph A. Kestner, <em>Masculinities in Victorian Painting</em>, Scolar Press (Hants, England, 1995), p. 245, fig. 6-5
+                             </p>
+                                                      <p>
+                                              Stephen Kern, <em>Eyes of Love: The Gaze in English and French Paintings and Novels 1840-1900</em>, Reaktion Books (London, England, 1996), p. 176, illus. 94
+                             </p>
+                                                      <p>
+                                              <em>New History of World Art, vol. 24</em>, Shogakukan Inc. (Tokyo, Japan, 1996), fig. 311, p. 444
+                             </p>
+                                                      <p>
+                                              Debra N. Mancoff, <em>Burne-Jones</em>, Pomegranate (San Francisco, CA, 1998), pl. 38 (color), p. 88
+                             </p>
+                                                      <p>
+                                              Stephen Wildman and John Christian, <em>Edward Burne-Jones: Victorian Artist-Dreamer</em>, exh. cat., Metropolitan Museum of Art / Harry N. Abrams, Inc. (New York, NY, 1998), pp. 264 - 266, under no. 119
+                             </p>
+                                                      <p>
+                                              Helene E. Roberts, ed., <em>Encyclopedia of Comparative Iconography</em>, Fitzroy Dearborn Publishers (Chicago, 1998), vol. 1, p. 317, repr. p. 316; detail repr. p. 315
+                             </p>
+                                                      <p>
+                                              Chikashi Kitazaki and Mina Oya, ed., <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Ueno, 2002), cat. no. 46, repr. (color)
+                             </p>
+                                                      <p>
+                                              Vincent Pomarède, "La Collection Winthrop: A la recherche de la beauté pure", <em>L'Estampille/L'Objet d'art</em> (April 2003), no. 379, pp. 34-45, p. 44
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, exh. cat., The Metropolitan Museum of Art and Yale University Press (U.S.) (New York, 2003), cat. no. 170, repr. (color)
+                             </p>
+                                                      <p>
+                                              Catherine Keller, <em>Face of the Deep: A Theology of Becoming</em>, Routledge (London and New York, 2003), p. 32, fig. 3
+                             </p>
+                                                      <p>
+                                              Christopher Riopelle, <em>Harvard's Winthrop Collection: Nineteenth-Century Paintings and Drawings from the Grenville L. Winthrop Collection</em>, exh. cat., National Gallery Company Limited (London, 2003), p. 20, cat. 8, ill. p. 21
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, <em>Ingres, Burne-Jones, Whistler, Renoir... La Collection Grenville L. Winthrop</em>, exh. cat., Musée des Beaux-Arts de Lyon and Réunion des Musées Nationaux (Paris, France, 2003), no. 170, repr.
+                             </p>
+                                                      <p>
+                                              Suzanne Fagence Cooper, "The Liquefaction of Desire: Music, Water and Femininity in Victorian Aestheticism", <em>Women: A Cultural Review</em> (online journal, published online August 12, 2009), pp. 186, 188, 195, 196, repr. p. 188 as fig. 2
+                             </p>
+                                                      <p>
+                                              Keiko Kiriyama, <em>Philosophy's World or Desire to Transform the Boundary, A Victorian Fantasy Novel</em>, Sekaishishosha Co. Ltd (Kyoto, 2009), p. 159, fig. 2
+                             </p>
+                                                      <p>
+                                              Jessica Feather, <em>British Watercolours and Drawings: Lord Leverhulme's Collection in the Lady Lever Art Gallery</em>, Liverpool University Press (Liverpool, 2010), p. 33 note 118
+                             </p>
+                                                      <p>
+                                              Debra N. Mancoff and Lindsay J. Bosch, <em>Icons of Beauty: Art, Culture and the Image of Women</em>, Greenwood Press (Santa Barbara, 2010), pp. 367-369, repr. in b/w p. 368 as fig. 12.2
+                             </p>
+                                                      <p>
+                                              Karl Kilinski II, <em>Greek Myth and Western Art: The Presence of the Past</em>, Cambridge University Press (Cambridge, 2013), pp. 92-93, pl. XII
+                             </p>
+                                                      <p>
+                                              Colin Harrison, <em>Great British Drawings</em>, exh. cat., Ashmolean Museum of Art and Archaeology (Oxford, 2015), p. 212, fig. 74
+                             </p>
+                                                      <p>
+                                              Andrzej Szczerski, <em>Views of Albion: The Reception of British Art and Design in Central Europe, 1890-1918</em>, Peter Lang (Oxford, 2015), p. 139, pl. 15
+                             </p>
+                                                      <p>
+                                              Liana de Girolami Cheney, "Edward Burne-Jones' 'The Sirens:' Sea Muses of Enchanted Music", <em>Light and Obscurity in Symbolism</em>, ed. Rosina Neginsky and Deborah H. Cibelli, Cambridge Scholars Publishing (Newcastle-on-Tyne, 2016), pp. 132-155, pp. 139, 141
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Intercolonial Exhibition</em>, Grosvenor Gallery, London, 01/01/1889 - 12/31/1889
+                            </p>
+                          <p>
+                              <em>Twenty-seventh Autumn Exhibition of Modern Pictures in Oil and Water-Colours</em>, Walker Art Gallery, Liverpool, Liverpool, 08/30/1897 - 12/11/1897
+                            </p>
+                          <p>
+                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, Fogg Art Museum, Cambridge, 04/08/1946 - 06/01/1946
+                            </p>
+                          <p>
+                              <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 09/14/2002 - 12/08/2002
+                            </p>
+                          <p>
+                              <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, Musée des Beaux-Arts de Lyon, Lyon, 03/15/2003 - 05/26/2003; National Gallery, London, 06/25/2003 - 09/14/2003; The Metropolitan Museum of Art, New York, 10/23/2003 - 01/25/2004
+                            </p>
+                          <p>
+                              <em>32Q: 2130 19th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 04/07/2015
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:51664_dynmc?width=200&height=200" alt="The Depths Of The Sea">
+                <span class="popup__artwork-info-id">1943.462</span>
+        <span class="popup__artwork-info-author">
+                                    Edward Burne-Jones
+                          Frame by M. Grieve Co.
+                              </span>
+        <span class="popup__artwork-info-title">The Depths of the Sea</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20298102%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298102">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298102" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Depths+of+the+Sea+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298102" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/298102" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_bf6c5a3c1568bf54687b360da7ab3802" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,1389 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Group of 147 drawings </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Group of 147 drawings" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/222368"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Group of 147 drawings" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?222368" data-behavior="add_to_collection tooltip" data-artwork="222368" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=222368" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/222368/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>BR71.76-222</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28524>William Valentine Schevill</a>, American                                                                                                                                                                                                                                                                          (Cincinnati, Ohio, U.S.A. 1864 - 1951 Weston, Massachusetts)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Group of 147 drawings</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            portfolio                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>19th-20th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/222368">https://hvrd.art/o/222368</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>147 drawings</dd>
+            
+           
+           
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Busch-Reisinger Museum, Gift of William E. Schevill</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1971</dd>
+            
+            <dt>Object Number</dt>
+            <dd>BR71.76-222</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219250">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015371_dynmc?width=3000&height=3000" alt="Sketch Of A Woman Reading A Book">
+                                    <span class="related-artwork__obj">BR71.198</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman Reading a Book</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219251">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015365_dynmc?width=3000&height=3000" alt="Male Nude Figure Study; Verso: Studies Of Arms And Legs">
+                                    <span class="related-artwork__obj">BR71.201</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Male Nude Figure Study; verso: Studies of Arms and Legs</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219252">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015361_dynmc?width=3000&height=3000" alt="Sketches Of A Women`s Head">
+                                    <span class="related-artwork__obj">BR71.202</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Women`s Head</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219253">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015357_dynmc?width=3000&height=3000" alt="Studies Of Female Body Parts">
+                                    <span class="related-artwork__obj">BR71.203</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of Female Body Parts</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219254">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015353_dynmc?width=3000&height=3000" alt="Female Nude Figure Study">
+                                    <span class="related-artwork__obj">BR71.205</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Female Nude Figure Study</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219255">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015331_dynmc?width=3000&height=3000" alt="Male Nude Figure Study; Verso: Studies Of Arms">
+                                    <span class="related-artwork__obj">BR71.207</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Male Nude Figure Study; verso: Studies of Arms</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219256">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015586_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman And Woman And Child">
+                                    <span class="related-artwork__obj">BR71.212</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman and Woman and Child</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219257">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015585_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman Writing">
+                                    <span class="related-artwork__obj">BR71.213</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman Writing</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219258">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015575_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Man Reading; Verso: Technical Drawing">
+                                    <span class="related-artwork__obj">BR71.215</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Man Reading; verso: Technical Drawing</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219259">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015512_dynmc?width=3000&height=3000" alt="Female Nude Figure Study">
+                                    <span class="related-artwork__obj">BR71.218</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Female Nude Figure Study</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219260">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015495_dynmc?width=3000&height=3000" alt="Virgin And Child With The Magi">
+                                    <span class="related-artwork__obj">BR71.221</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Virgin and Child with the Magi</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219502">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015386_dynmc?width=3000&height=3000" alt="Sketch Of A Woman Reading A Book">
+                                    <span class="related-artwork__obj">BR71.195</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman Reading a Book</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219503">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015376_dynmc?width=3000&height=3000" alt="Sketches Of A Seated Man">
+                                    <span class="related-artwork__obj">BR71.196</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Seated Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219504">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015373_dynmc?width=3000&height=3000" alt="Sketches Of A Seated Woman; Verso: Sketches Of A Woman">
+                                    <span class="related-artwork__obj">BR71.197</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Seated Woman; verso: Sketches of a Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219505">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015367_dynmc?width=3000&height=3000" alt="Sketch Of A Seated, Male Nude; Verso: Sketches Of A Seated, Male Nude">
+                                    <span class="related-artwork__obj">BR71.199</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated, Male Nude; verso: Sketches of a Seated, Male Nude</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219506">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015366_dynmc?width=3000&height=3000" alt="Sketches Of A Seated, Male Nude">
+                                    <span class="related-artwork__obj">BR71.200</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Seated, Male Nude</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219510">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014906_dynmc?width=3000&height=3000" alt="Sketches Of A Girl's Head">
+                                    <span class="related-artwork__obj">BR71.99</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Girl's Head</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219511">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014896_dynmc?width=3000&height=3000" alt="Sketches Of Animals">
+                                    <span class="related-artwork__obj">BR71.101</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Animals</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219512">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014891_dynmc?width=3000&height=3000" alt="Landscape">
+                                    <span class="related-artwork__obj">BR71.104</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Landscape</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219513">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014878_dynmc?width=3000&height=3000" alt="Sketches Of A Reading Man And Of Animals">
+                                    <span class="related-artwork__obj">BR71.109</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Reading Man and of Animals</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219514">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014862_dynmc?width=3000&height=3000" alt="Sketches Of Hooves">
+                                    <span class="related-artwork__obj">BR71.112</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Hooves</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219515">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014798_dynmc?width=3000&height=3000" alt="Sketches Of Girls And A Man (Dr. Soft)">
+                                    <span class="related-artwork__obj">BR71.118</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Girls and a Man (Dr. Soft)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219516">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014729_dynmc?width=3000&height=3000" alt="Sketch Of A Bearded Man">
+                                    <span class="related-artwork__obj">BR71.126</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Bearded Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219517">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015137_dynmc?width=3000&height=3000" alt="Studies Of Facial Expressions And Poses; Verso: Sketches Of A Seated Man And Standing Women">
+                                    <span class="related-artwork__obj">BR71.155</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of Facial Expressions and Poses; verso: Sketches of a Seated Man and Standing Women</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219518">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015136_dynmc?width=3000&height=3000" alt="Studies Of Caricatures In Different Poses">
+                                    <span class="related-artwork__obj">BR71.156</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of Caricatures in Different Poses</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219519">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015134_dynmc?width=3000&height=3000" alt="Sketch Of A Girl And Caricature Studies; Verso: Sketch Of A Woman And Caricature Studies">
+                                    <span class="related-artwork__obj">BR71.157</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Girl and Caricature Studies; verso: Sketch of a Woman and Caricature Studies</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219520">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015147_dynmc?width=3000&height=3000" alt="Sketch Of A Woman With A Pen">
+                                    <span class="related-artwork__obj">BR71.165</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman with a Pen</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219521">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015722_dynmc?width=3000&height=3000" alt="Male Nude Figure Study">
+                                    <span class="related-artwork__obj">BR71.167</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Male Nude Figure Study</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219522">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015690_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Man">
+                                    <span class="related-artwork__obj">BR71.171</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219523">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015703_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman">
+                                    <span class="related-artwork__obj">BR71.175</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219524">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015689_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Male Nude And Standing Woman; Verso: Sketch Of Two Seated Woman">
+                                    <span class="related-artwork__obj">BR71.176</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Male Nude and Standing Woman; verso: Sketch of Two Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219543">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015023_dynmc?width=3000&height=3000" alt="Young Girl">
+                                    <span class="related-artwork__obj">BR71.78</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Young Girl</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219544">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015016_dynmc?width=3000&height=3000" alt="Seated Girl">
+                                    <span class="related-artwork__obj">BR71.80</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Seated Girl</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219545">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014971_dynmc?width=3000&height=3000" alt="Sketch Of A Man And A Woman">
+                                    <span class="related-artwork__obj">BR71.86</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Man and a Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219546">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014957_dynmc?width=3000&height=3000" alt="Sketches Of Standing Woman And Man; Verso: Sketch Of A Standing Woman">
+                                    <span class="related-artwork__obj">BR71.90</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Standing Woman and Man; verso: Sketch of a Standing Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219556">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015205_dynmc?width=3000&height=3000" alt="Sketch Of A Standing Man And A Seated Woman">
+                                    <span class="related-artwork__obj">BR71.141</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Standing Man and a Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219557">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015209_dynmc?width=3000&height=3000" alt="Sketch Of A Funeral Or Procession I">
+                                    <span class="related-artwork__obj">BR71.142</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a funeral or procession I</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219558">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015032_dynmc?width=3000&height=3000" alt="Sketch Of An Angel; Verso: Sketches Of Men`s Heads">
+                                    <span class="related-artwork__obj">BR71.152</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of an Angel; verso: Sketches of Men`s Heads</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219563">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014950_dynmc?width=3000&height=3000" alt="Sketches Of Parts Of The Human Body">
+                                    <span class="related-artwork__obj">BR71.95</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Parts of the Human Body</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219564">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014867_dynmc?width=3000&height=3000" alt="Sketches Of A Girl And A Man's Head">
+                                    <span class="related-artwork__obj">BR71.111</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Girl and a Man's Head</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219565">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014859_dynmc?width=3000&height=3000" alt="Sketch Of A Woman With A Tray; Verso: Sketch Of A Man With A Hat In His Right Hand">
+                                    <span class="related-artwork__obj">BR71.113</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman with a Tray; verso: Sketch of a Man with a Hat in his Right Hand</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219566">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014805_dynmc?width=3000&height=3000" alt="Village With A Church">
+                                    <span class="related-artwork__obj">BR71.114</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Village with a Church</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219567">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014797_dynmc?width=3000&height=3000" alt="Sketch For A Bookplate">
+                                    <span class="related-artwork__obj">BR71.119</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch for a Bookplate</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219568">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014759_dynmc?width=3000&height=3000" alt="Sketches Of Women And Men">
+                                    <span class="related-artwork__obj">BR71.121</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Women and Men</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219569">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014752_dynmc?width=3000&height=3000" alt="Sketches Of Flowers">
+                                    <span class="related-artwork__obj">BR71.123</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Flowers</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219570">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015152_dynmc?width=3000&height=3000" alt="Drawing Of A Women`s Head">
+                                    <span class="related-artwork__obj">BR71.164</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Drawing of a Women`s Head</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219571">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015712_dynmc?width=3000&height=3000" alt="Sketch Of An Interior">
+                                    <span class="related-artwork__obj">BR71.168</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of an Interior</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219572">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015697_dynmc?width=3000&height=3000" alt="Drawing Of A Boy">
+                                    <span class="related-artwork__obj">BR71.173</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Drawing of a Boy</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219573">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015687_dynmc?width=3000&height=3000" alt="Portrait Of A Man">
+                                    <span class="related-artwork__obj">BR71.178</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Portrait of a Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219574">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015662_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman">
+                                    <span class="related-artwork__obj">BR71.187</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219575">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015656_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman Reading A Book">
+                                    <span class="related-artwork__obj">BR71.188</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman Reading a Book</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219576">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015402_dynmc?width=3000&height=3000" alt="Studies Of A Man Reading A Book">
+                                    <span class="related-artwork__obj">BR71.189</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of a Man Reading a Book</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219630">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015680_dynmc?width=3000&height=3000" alt="Portrait Of An Older Man">
+                                    <span class="related-artwork__obj">BR71.183</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Portrait of an Older Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219631">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014699_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman; Verso: Sketch Of A House">
+                                    <span class="related-artwork__obj">BR71.129</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman; verso: Sketch of a House</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219632">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015138_dynmc?width=3000&height=3000" alt="Sketch Of A Road With A Farm; Verso: Sketches Of People And A Horse">
+                                    <span class="related-artwork__obj">BR71.134</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Road with a Farm; verso: Sketches of People and a Horse</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219633">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015184_dynmc?width=3000&height=3000" alt="Study Of A Seated Man And Women's Heads">
+                                    <span class="related-artwork__obj">BR71.137</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Study of a Seated Man and Women's Heads</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219642">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015387_dynmc?width=3000&height=3000" alt="Studies Of Hands Holding A Book">
+                                    <span class="related-artwork__obj">BR71.194</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of Hands Holding a Book</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219643">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015641_dynmc?width=3000&height=3000" alt="Studies Of A Girl">
+                                    <span class="related-artwork__obj">BR71.209</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of a Girl</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219644">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015583_dynmc?width=3000&height=3000" alt="Sketch Of A Woman With An Umbrella And Study Of Arms">
+                                    <span class="related-artwork__obj">BR71.214</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman with an Umbrella and Study of Arms</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219645">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015568_dynmc?width=3000&height=3000" alt="Male Nude Figure Study">
+                                    <span class="related-artwork__obj">BR71.217</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Male Nude Figure Study</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219646">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015405_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman">
+                                    <span class="related-artwork__obj">BR71.190</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219647">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014697_dynmc?width=3000&height=3000" alt="Sketch Of A Man And Sketch Of A Landscape">
+                                    <span class="related-artwork__obj">BR71.130</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Man and Sketch of a Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219648">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014694_dynmc?width=3000&height=3000" alt="Studies Of Heads And Landscapes">
+                                    <span class="related-artwork__obj">BR71.131</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of Heads and Landscapes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219649">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015197_dynmc?width=3000&height=3000" alt="Study Of Heads; Verso: Sketch Of A Landscape?">
+                                    <span class="related-artwork__obj">BR71.139</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Study of Heads; verso: Sketch of a Landscape?</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219650">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015200_dynmc?width=3000&height=3000" alt="Sketch Of A Man Playing A Lute">
+                                    <span class="related-artwork__obj">BR71.140</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Man Playing a Lute</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219659">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015390_dynmc?width=3000&height=3000" alt="Sketch Of A Man">
+                                    <span class="related-artwork__obj">BR71.193</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219660">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015328_dynmc?width=3000&height=3000" alt="Sketches Of The Three Kings; Verso: Sketches Of Male Figures">
+                                    <span class="related-artwork__obj">BR71.208</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of the Three Kings; verso: Sketches of Male Figures</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219661">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015609_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman; Verso: Sketch Of A Seated Man">
+                                    <span class="related-artwork__obj">BR71.210</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman; verso: Sketch of a Seated Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219662">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015504_dynmc?width=3000&height=3000" alt="Sketch Of A Woman">
+                                    <span class="related-artwork__obj">BR71.219</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219676">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015335_dynmc?width=3000&height=3000" alt="Sketch Of A Man">
+                                    <span class="related-artwork__obj">BR71.204</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219677">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015341_dynmc?width=3000&height=3000" alt="Sketches Of A Monk; Verso: Studies Of Hands">
+                                    <span class="related-artwork__obj">BR71.206</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Monk; verso: Studies of Hands</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219678">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015590_dynmc?width=3000&height=3000" alt="Sketch Of A Nude Girl">
+                                    <span class="related-artwork__obj">BR71.211</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Nude Girl</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219679">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015581_dynmc?width=3000&height=3000" alt="Male Nude Figure Studies">
+                                    <span class="related-artwork__obj">BR71.216</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Male Nude Figure Studies</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219680">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015498_dynmc?width=3000&height=3000" alt="Portrait Of A Man">
+                                    <span class="related-artwork__obj">BR71.222</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Portrait of a Man</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219690">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015491_dynmc?width=3000&height=3000" alt="People On Their Terrace (Unfinished Watercolor)">
+                                    <span class="related-artwork__obj">BR71.220</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">People on their Terrace (Unfinished Watercolor)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219718">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015189_dynmc?width=3000&height=3000" alt="Sketch Of A Praying Woman; Verso: Color Study Of A Landscape ?">
+                                    <span class="related-artwork__obj">BR71.136</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Praying Woman; verso: Color Study of a Landscape ?</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219719">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015192_dynmc?width=3000&height=3000" alt="Study Of A Procession Ii; Verso: Study Of Women`s Heads">
+                                    <span class="related-artwork__obj">BR71.138</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Study of a Procession II; verso: Study of Women`s Heads</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219832">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015018_dynmc?width=3000&height=3000" alt="Landscape With Two Men">
+                                    <span class="related-artwork__obj">BR71.81</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Landscape With Two Men</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219833">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014980_dynmc?width=3000&height=3000" alt="Sketches Of A Woman's Hands">
+                                    <span class="related-artwork__obj">BR71.84</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Woman's Hands</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219848">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015025_dynmc?width=3000&height=3000" alt="Sketches Of Animals">
+                                    <span class="related-artwork__obj">BR71.76</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Animals</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219849">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015028_dynmc?width=3000&height=3000" alt="Sketches Of Dressed Human Body">
+                                    <span class="related-artwork__obj">BR71.77</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Dressed Human Body</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219856">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015020_dynmc?width=3000&height=3000" alt="Sketches Of Parts Of The Human Body">
+                                    <span class="related-artwork__obj">BR71.79</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Parts of the Human Body</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219857">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015013_dynmc?width=3000&height=3000" alt="Sketches Of Parts Of The Human Body">
+                                    <span class="related-artwork__obj">BR71.82</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Parts of the Human Body</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219858">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014985_dynmc?width=3000&height=3000" alt="Seated Woman; Verso: Sketches Of Human Heads And Animals">
+                                    <span class="related-artwork__obj">BR71.83</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Seated Woman; verso: Sketches of Human Heads and Animals</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219859">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014963_dynmc?width=3000&height=3000" alt="Male Nude Figure Study">
+                                    <span class="related-artwork__obj">BR71.88</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Male Nude Figure Study</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219867">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014976_dynmc?width=3000&height=3000" alt="Sketches Of A Seated Woman">
+                                    <span class="related-artwork__obj">BR71.85</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of a Seated Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219868">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014968_dynmc?width=3000&height=3000" alt="Sketch Of A Reading Man">
+                                    <span class="related-artwork__obj">BR71.87</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Reading Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219869">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014961_dynmc?width=3000&height=3000" alt="Sketches Of The Human Body; Verso: Sketch Of Drapery">
+                                    <span class="related-artwork__obj">BR71.89</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of the Human Body; verso: Sketch of Drapery</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219873">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015237_dynmc?width=3000&height=3000" alt="Sketch Of A Landscape With A Tower  (October 6Th)">
+                                    <span class="related-artwork__obj">BR71.145</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a landscape with a Tower  (October 6th)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219874">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015364_dynmc?width=3000&height=3000" alt="Studies Of Cats">
+                                    <span class="related-artwork__obj">BR71.149</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Studies of Cats</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219892">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015240_dynmc?width=3000&height=3000" alt="Study Of A Woman">
+                                    <span class="related-artwork__obj">BR71.144</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Study of a Woman</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219893">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV015233_dynmc?width=3000&height=3000" alt="Sketch Of A Woman Holding A Plate; Verso: Sketch Of A Man Holding A Hat">
+                                    <span class="related-artwork__obj">BR71.146</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Woman Holding a Plate; verso: Sketch of a Man Holding a Hat</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219924">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014951_dynmc?width=3000&height=3000" alt="Sketch Of A Seated Woman; Verso: Sketch Of A Human Head">
+                                    <span class="related-artwork__obj">BR71.91</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Seated Woman; verso: Sketch of a Human Head</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219925">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014955_dynmc?width=3000&height=3000" alt="Sketches Of Ducks And A Goose">
+                                    <span class="related-artwork__obj">BR71.94</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of Ducks and a Goose</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219926">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014914_dynmc?width=3000&height=3000" alt="Sketch Of A Standing Woman; Verso: Sketch Of A Human Head">
+                                    <span class="related-artwork__obj">BR71.96</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Standing Woman; verso: Sketch of a Human Head</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219927">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014909_dynmc?width=3000&height=3000" alt="Sketch For A Bookplate">
+                                    <span class="related-artwork__obj">BR71.97</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch for a Bookplate</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219928">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">BR71.98</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketches of an Old Man</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219929">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014897_dynmc?width=3000&height=3000" alt="In The Meeting House">
+                                    <span class="related-artwork__obj">BR71.100</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">In the Meeting House</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219930">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014895_dynmc?width=3000&height=3000" alt="Sleeping Man On A Chair">
+                                    <span class="related-artwork__obj">BR71.102</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sleeping Man on a Chair</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/219931">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV014887_dynmc?width=3000&height=3000" alt="Sketch Of A Plant With Flowers">
+                                    <span class="related-artwork__obj">BR71.105</span>
+                                      <h4 class="related-artwork__artist">William Valentine Schevill</h4>
+                                                        <h3 class="related-artwork__title">Sketch of a Plant with Flowers</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">BR71.76-222</span>
+        <span class="popup__artwork-info-author">
+                                    William Valentine Schevill
+                              </span>
+        <span class="popup__artwork-info-title">Group of 147 drawings</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20222368%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F222368">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F222368" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Group+of+147+drawings+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F222368" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/222368" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_5602add49dede2592771d36fd3e569ca" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

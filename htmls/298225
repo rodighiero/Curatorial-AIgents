@@ -1,0 +1,775 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Studies for Apostles; verso: Study of Drapery </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Studies for Apostles; verso: Study of Drapery" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/298225"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:72109_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Studies for Apostles; verso: Study of Drapery" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17810784" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:72109_dynmc?width=3000&height=3000" data-initial-image-id="17810784" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">recto</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?298225" data-behavior="add_to_collection tooltip" data-artwork="298225" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=298225&amp;image_id=72109" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/298225/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="72109">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:72109_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="Studies For Apostles; Verso: Study Of Drapery" data-object-caption="recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="17810784" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:72109_dynmc?width=125&height=125" alt="Studies For Apostles; Verso: Study Of Drapery">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011559">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011559_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="Studies For Apostles; Verso: Study Of Drapery" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535256" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011559_dynmc?width=125&height=125" alt="Studies For Apostles; Verso: Study Of Drapery">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="35296">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS35296_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="Studies For Apostles; Verso: Study Of Drapery" data-object-caption="recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="20676054" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS35296_dynmc?width=125&height=125" alt="Studies For Apostles; Verso: Study Of Drapery">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="35297">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS35297_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="Studies For Apostles; Verso: Study Of Drapery" data-object-caption="verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="20676055" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS35297_dynmc?width=125&height=125" alt="Studies For Apostles; Verso: Study Of Drapery">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="71696">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71696_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Peter Paul Rubens"  title="Studies For Apostles; Verso: Study Of Drapery" data-object-caption="verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18481238" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71696_dynmc?width=125&height=125" alt="Studies For Apostles; Verso: Study Of Drapery">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1936.123</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28402>Peter Paul Rubens</a>, Flemish                                                                                                                                                                                                                                                                          (Siegen, Westphalia 1577 - 1640 Antwerp, Belgium)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Studies for Apostles; verso: Study of Drapery</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1611</dd>
+                                                                <dt>Culture</dt>
+                <dd>Flemish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/298225">https://hvrd.art/o/298225</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk on gray antique laid paper; verso: black chalk</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>35.2 x 25.9 cm (13 7/8 x 10 3/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          collector's mark: verso, lower right, black ink, stamp: L. 640 (Charles Sackville Bale)
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower right, brown ink over black chalk: P. P. RUBENS
+                        </li>
+                                              <li data-a="2">
+                          watermark: A hunting horn; unidentified
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower right and verso, lower center, black ink, stamp: L. 2090 (Prosper Henry Lankrink)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower right, black ink, stamp: L. 2184 (Jonathan Richardson, Sr.)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, black chalk (?): PPR
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower left, black ink, stamp: L. 2432 (Thomas Hudson)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower left, black ink, stamp: L. 2364 (Joshua Reynolds)
+                        </li>
+                                              <li data-a="2">
+                          blind stamp: lower left, blind stamp: L. 2445 (Thomas Lawrence)
+                        </li>
+                                              <li data-a="2">
+                          inscription: former mount, gold typeface: PETER PAUL RUBENS / 1577-1640 / 97
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Prosper Henry Lankrink, London (L. 2090, lower right and verso, lower center). Jonathan Richardson, Sr., London (L. 2184, lower right), sold; [Cock, London, 22 January 1747 and following days, twelfth night’s sale, probably part of lot 20]; Thomas Hudson, London (L. 2432, lower left). Joshua Reynolds, London (L. 2364, lower left). Thomas Lawrence, London (L. 2445, lower left). Charles Sackville Bale, London (L. 640, verso, lower right), sold; [Christie's, London, 9-14 June 1881, lot 2445). Henry Oppenheimer, London, sold; [Christie’s, London, 10, 13-14 July 1936, lot 303]; via [P&D Colnaghi, London] to Fogg Art Museum (purchased through the generosity of The Honorable and Mrs. Robert Woods Bliss); Gift of The Honorable and Mrs. Robert Woods Bliss, 1936.123<br />
+<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 75 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The studies on the recto of this sheet relate to the two standing apostles at the far right in Rubens’s <em>Assumption of the Virgin</em> in the Kunsthistorisches Museum, Vienna (Fig. 1).<sup class="footnote" id="fnrev10706121935ef6643fb6314-1"><a href="#fn10706121935ef6643fb6314-1">1</a></sup> In the large altarpiece, Rubens transformed the young models of this drawing into mature, bearded men reacting with awe and astonishment to Mary’s ascent into heaven on a cloud ringed by a host of little angels. The Harvard work is one of five surviving studies for the disciples and holy women who witness the event.<sup class="footnote" id="fnrev10706121935ef6643fb6314-2"><a href="#fn10706121935ef6643fb6314-2">2</a></sup> Rubens executed these detailed chalk drawings after he had established the composition of the group in the oil <em>modello</em> on which he based the lower register of the altarpiece (Fig. 2).<sup class="footnote" id="fnrev10706121935ef6643fb6314-3"><a href="#fn10706121935ef6643fb6314-3">3</a></sup></p>
+
+<p>Wielding the black chalk with broad, economical strokes, Rubens concentrated on the heads and on the arm and hand of the one model gently grasping the other youth’s shoulder. Only the face and forearm of this apostle appear in the altarpiece, where Rubens moved his hand to the right shoulder of his fellow disciple, instead of the left, as in the oil sketch and drawing. In the study for the apostle with raised arms at the upper left of the sheet, the model’s head is seen from behind and his face is nearly averted. At the lower left, Rubens drew the same head in full profile, as he would represent it in the painting.<sup class="footnote" id="fnrev10706121935ef6643fb6314-4"><a href="#fn10706121935ef6643fb6314-4">4</a></sup> Finally, the foreshortening of the figures in the drawing anticipates the perspective of the altarpiece, where the scene is depicted from a lower viewpoint than in the <em>modello</em>.</p>
+
+<p>On April 22, 1611, the chapter of Antwerp Cathedral reviewed two oil sketches by Rubens depicting variant compositions of the Assumption and Coronation of the Virgin, including the <em>modello</em> he would adapt for the lower half of the Vienna painting (see Fig. 2). Although the canons deferred their plan to commission a painting of the Assumption for the high altar, Rubens, perhaps expecting the project would go forward, proceeded to work on a full-scale altarpiece.<sup class="footnote" id="fnrev10706121935ef6643fb6314-5"><a href="#fn10706121935ef6643fb6314-5">5</a></sup> He could have undertaken the chalk studies of apostles and holy women shortly after the chapter meeting or some months later.<sup class="footnote" id="fnrev10706121935ef6643fb6314-6"><a href="#fn10706121935ef6643fb6314-6">6</a></sup> The watermark in the paper of the Harvard drawing provides some support for an early date. It is so nearly identical to the watermarks in Rubens’s <em>Study for Christ for “The Elevation of the Cross</em>” (<a href="https://www.harvardartmuseums.org/collections/object/297062?position=0">1949.3</a>) and two figure studies in Rotterdam that the four sheets must have been manufactured and purchased from the mill at the same time.<sup class="footnote" id="fnrev10706121935ef6643fb6314-7"><a href="#fn10706121935ef6643fb6314-7">7</a></sup> <em>Study for Christ</em> is datable between June 1610 and the spring of 1611, and both Rotterdam works relate to paintings of 1609. That <em>Studies for Apostles</em> is on paper from the same batch reinforces the case for dating it to 1611.</p>
+
+<p>Rubens finished the <em>Assumption</em> about 1612–14, but the commission for the high altar of the cathedral languished for several more years. He retained the painting until the early 1620s, when an Antwerp family acquired it for the altar of the Mary Chapel in the new Jesuit Church.</p>
+
+<p>The drapery study on the verso of the Harvard sheet may relate to the dress of the woman in the lower register of the altarpiece closest to the center of the composition, although the correspondence is not exact, and only part of the right side of the skirt is visible in the finished work.<sup class="footnote" id="fnrev10706121935ef6643fb6314-8"><a href="#fn10706121935ef6643fb6314-8">8</a></sup> Its technique is consistent with the rendering of the folds and textures of clothing in several of Rubens’s drawings, although, like the recto, it was not worked up with white chalk.<sup class="footnote" id="fnrev10706121935ef6643fb6314-9"><a href="#fn10706121935ef6643fb6314-9">9</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-1"><sup><a href="#fnrev10706121935ef6643fb6314-1">1</a></sup> Peter Paul Rubens, <em>Assumption of the Virgin</em> (Fig. 1). Oil on panel. 458 × 297 cm. Vienna, Kunsthistorisches Museum, 518. David Freedberg, <em>The Life of Christ after the Passion: Corpus Rubenianum Ludwig Burchard</em>, Vol. 7 (London and New York, 1984), cat. 37, pp. 149–53.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-2"><sup><a href="#fnrev10706121935ef6643fb6314-2">2</a></sup> If the drapery study on the verso of the Harvard sheet relates to the picture (see below and n. 9), the total number of studies associable with the painting is six. Two chalk studies (recto and verso of the same sheet) for figures in the <em>Assumption</em> are in the Albertina, Vienna, and a third is in the National Gallery of Art, Washington, D.C. A sheet in the Kupferstich-Kabinett, Dresden, bears detailed drawings for the arms and hands of the standing and kneeling apostles in the right center and foreground of the Vienna painting. The two Albertina drawings are executed in black, red, and white chalk; those in Washington and Dresden are in black and white chalk. Freedberg, cats. 37a–37c, pp. 153–55, and cat. 37f, p. 157; Anne-Marie Logan in Michiel C. Plomp and Anne‑Marie Logan, <em>Peter Paul Rubens: The Drawings</em> (New York: Metropolitan Museum of Art, 2005), cats. 41–42, pp. 155–59. A compositional sketch in ink and wash, also in the Albertina, probably relates to the upper register of the Vienna <em>Assumption</em>, but shares elements, too, with later paintings by Rubens of this subject; Freedberg, cat. 36, p. 148; Anne-Marie Logan in Plomp and Logan, cat. 43, pp. 155 and 159–60.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-3"><sup><a href="#fnrev10706121935ef6643fb6314-3">3</a></sup> Peter Paul Rubens, <em>Assumption and Coronation of the Virgin</em> (Fig. 2). Oil on canvas, transferred from panel, 106 × 78 cm. Saint Petersburg, Hermitage Museum, 1703. Freedberg, cat. 46, pp. 190–93; Julius S. Held, <em>The Oil Sketches of Peter Paul Rubens</em> (Princeton, New Jersey, 1980), vol. 1, cat. 374, pp. 209–10, repr. vol. 2, plate 365. Anne-Marie Logan (in Plomp and Logan, under cats. 41 and 42, pp. 158–59) details the revisions made in the other four drawings to figures in the oil sketch.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-4"><sup><a href="#fnrev10706121935ef6643fb6314-4">4</a></sup> Freedberg, under cat. 37d, p. 156, plausibly relates the head at the bottom of the Harvard sheet to the kneeling figure seen from behind in the foreground of the <em>Assumption</em>. However, in the oil sketch and in the study at the upper left of the Harvard sheet, the standing apostle opens his mouth in surprise. That the head at the bottom of the drawing also opens his mouth—and the kneeling apostle in the painting does not—confirms that it is a revision of the study for the standing apostle at the top of the sheet. Freedberg (under cat. 37d, p. 155) identifies a drawing formerly in the collection of Sir Robert Mond (Tancred Borenius and Rudolf Wittkower, <em>Catalogue of the Collection of Drawings by the Old Masters Formed by Sir Robert Mond</em>, London n.d. [1937], no. 369, p. 97, plate 66–A) as a partial copy of the two upper heads on the Harvard sheet, but the connection to the Harvard work is doubtful. The drawing was offered at Sotheby’s, New York, 13 January 1988, lot 114, and 26 January 2000, lot 31.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-5"><sup><a href="#fnrev10706121935ef6643fb6314-5">5</a></sup> For the aborted commission and eventual completion of the Vienna <em>Assumption</em>, see the accounts by Frans Baudouin in John Rupert Martin, ed., <em>Rubens before 1620</em> (Princeton, NJ: Princeton University Art Museum, 1972), pp. 64–72; Held, vol. 1, under cats. 374 and 375, pp. 509–12; and Freedberg, under cats. 36 and 37, pp. 148–57, and under cat. 46, pp. 190–93.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-6"><sup><a href="#fnrev10706121935ef6643fb6314-6">6</a></sup> Freedberg (cats. 37a– 37f, pp. 153–57) dates the chalk drawings to 1611–12, as does Anne-Marie Logan in Plomp and Logan, under cats. 41 and 42, pp. 155–59. I agree with Freedberg’s dating of the recto of the Harvard drawing to 1611 (under cat. no 37d, p. 154), but not with his assumption that it was executed before, rather than after, the Hermitage oil sketch.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-7"><sup><a href="#fnrev10706121935ef6643fb6314-7">7</a></sup> See <a href="https://www.harvardartmuseums.org/collections/object/297062?position=0">1949.3</a>. For the Rotterdam drawings, see A. W. F. M. Meij in  A. W. F. M. Meij, Maartje de Haan, et al., <em>Rubens, Jordaens, Van Dyck, and Their Circle: Flemish Master Drawings from the Museum Boijmans Van Beuningen</em> (Pittsburgh: Frick Art Museum, Frick Art &amp; Historical Center; Ocala, FL: Appleton Museum of Art; Nashville, TN: Frist Center for the Visual Arts, 2001), cats. 11 and 12, pp. 86–94. My thanks to Penley Knipe for imaging the watermarks in the two Harvard sheets and helping me to interpret their significance for the dating of the drawings. Thanks, too, to Albert J. Elen, senior curator of drawings and prints at the Museum Boijmans Van Beuningen, Rotterdam, for providing images and precise descriptions of the watermarks in the two Rotterdam drawings.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-8"><sup><a href="#fnrev10706121935ef6643fb6314-8">8</a></sup> Freedberg (under cat. 37e, p. 156) noted that Ludwig Burchard connected the drapery study with this figure in the Vienna <em>Assumption</em>, but Freedberg doubted it. However, Burchard’s observation is very likely correct.</p>
+
+<p class="footnote" id="fn10706121935ef6643fb6314-9"><sup><a href="#fnrev10706121935ef6643fb6314-9">9</a></sup> Compare, for example, the handling of <em>Young Man in an Ample Garment</em>, one of the studies in the Albertina for an apostle in the Vienna <em>Assumption</em>, and the Fitzwilliam Museum’s <em>Tartar Horseman</em>, of circa 1616–18; Plomp and Logan, cat. 41, verso, pp. 155–59, and cat. 61, pp. 196–97.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/298225/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Peter Paul Rubens, <em>Assumption of the Virgin</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/298225/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Peter Paul Rubens, <em>Assumption and Coronation of the Virgin</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of The Honorable and Mrs. Robert Woods Bliss</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1936</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1936.123</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>The Vasari Society for the Reproduction of Drawings by Old Masters</em>, Oxford University Press (NY) and Oxford University Press (UK) (Oxford, England, 1905 - 1935), second series, part II, no. 13, pp. 25 (small brochure) and 9 (large brochure), repr. pl. 13
+                             </p>
+                                                      <p>
+                                              Sir Martin Conway, ed., <em>Catalogue of the Loan Exhibition of Flemish and Belgian Art. A Memorial Volume.</em>, exh. cat., Country Life Ltd. and Anglo-Belgian Union (London, England, 1927), cat. no. 579, p. 205
+                             </p>
+                                                      <p>
+                                              Royal Academy of Arts, <em>Exhibition of Flemish and Belgian Art 1300-1900</em>, exh. cat., Royal Academy of Arts (London, 1927), cat. no. 579, p. 170
+                             </p>
+                                                      <p>
+                                              E. Beck, “The Oppenheimer Collection of Drawings”, <em>Art News</em> (April 14, 1928), vol. 26, no. 28, pp. 39-43, p. 39, repr. p. 42
+                             </p>
+                                                      <p>
+                                              Gustav Glück and Franz Martin Haberditzl, <em>Die Handzeichnungen von Peter Paul Rubens</em>, Julius Bard (Berlin, Germany, 1928), cat. no. 127, pp. 45-6, repr. pl. 127
+                             </p>
+                                                      <p>
+                                              E. Beck, "The Oppenheimer Collection in the Saleroom in London", <em>Art News</em> (30 May 1936), vol. 34, no. 35, pp. 5-7, p. 7
+                             </p>
+                                                      <p>
+                                              <em>Catalogue of the Famous Collection of Old Master Drawings Formed by the Late Henry Oppenheimer, Esq., F.S.A.</em>, auct. cat., Christie's, London (London, July 10, 1936 - July 14, 1936), lot 303
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "A Gift of Old Master Drawings", <em>Bulletin of the Fogg Art Museum</em>, Fogg Art Museum (Cambridge, MA, March 1937), vol. VI, no. 2, pp. 22-34, pp. 30-31, repr. fig. 8
+                             </p>
+                                                      <p>
+                                              Tancred Borenius and Rudolf Wittkower, <em>Catalogue of the Collection of Drawings by the Old Masters formed by Sir Robert Mond</em>, G. E. Eyre and W. Spottiswoode (London, n.d. [1937]), under cat. no. 369, p. 97
+                             </p>
+                                                      <p>
+                                              Agnes Mongan and Paul J. Sachs, <em>Drawings in the Fogg Museum of Art</em>, Harvard University Press (Cambridge, 1940), vol. 1, cat. no. 484, p. 251, repr.  vol. 2, fig. 250 (recto)
+                             </p>
+                                                      <p>
+                                              Jan-Albert Goris and Julius S. Held, <em>Rubens in America</em>, Pantheon Books (New York and Antwerp, 1947), cat. no. 105, p. 42, repr pl. 105
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 17, p. 4
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>Drawings & Oil Sketches: Rubens from American Collections</em>, exh. cat., President and Fellows of Harvard College (Cambridge, MA, 1956), cat. no. 21, pp. 22-23, repr. pl. XI
+                             </p>
+                                                      <p>
+                                              Dr. Ludwig Burchard and Roger A. d'Hulst, <em>Tekeningen van P.P. Rubens</em>, exh. cat., Uitgeverij Ontwikkeling (Antwerp, 1956), cat. no. 54, pp. 59-60
+                             </p>
+                                                      <p>
+                                              Otto Benesch, Jan Gerrit van Gelder, and Egbert Haverkamp-Begemann, <em>Great Drawings of All Time [vol. 2: German, Flemish and Dutch]</em>, ed. Ira Moskowitz, Shorewood Publishers Inc. (New York, 1962), cat. no. 525, n.p., repr.
+                             </p>
+                                                      <p>
+                                              Colin T. Eisler, <em>Drawings of the Masters: Flemish and Dutch Drawings from the 15th to the 18th century</em>, Shorewood Publishers Inc. (New York, NY, 1963), repr. p. 29, fig. 7
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum, <em>Studies and Study Sheets: Master Drawings from Five Centuries</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1964), cat. no. 33, n.p.
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967), n.p.
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, exh. cat., Albright-Knox Art Gallery (Buffalo, NY, 1967), cat. no. 20, n.p.
+                             </p>
+                                                      <p>
+                                              Mrs. Colles Baxter Larkin, "Rubens: A Variety of Interests" (unpublished manuscript, Fogg Art Museum, 1974). 
+Typewritten brochure that accompanied the exhibition of the same title at the Fogg Art Museum, 23 May - 30 June 1974., cat. no. 19, n.p.
+                             </p>
+                                                      <p>
+                                              Klaus Demus, <em>Peter Paul Rubens, 1577-1640: Ausstellung zur 400. Wiederkehr seines Geburtstages</em>, exh. cat., Kunsthistorisches Museum (Vienna, 1977), under cat. no. 16, p. 68
+                             </p>
+                                                      <p>
+                                              Marianne Bernhard, ed., <em>Rubens Handzeichnungen</em>, Südwest Verlag GmbH & Co. (Munich, 1977), p. 329, repr.
+                             </p>
+                                                      <p>
+                                              Veronika Birke and Christian Dittrich, <em>Die Albertina und das Dresdner Kupferstich-Kabinett: Meisterzeichnungen aus zwei alten Sammlungen: eine Ausstellung mit der Graphischen Sammlung Albertina Wien</em>, exh. cat., Staatliche Kunstsammlungen Dresden (Dresden, 1978), under cat. no. 86, p. 87
+                             </p>
+                                                      <p>
+                                              David Freedberg, <em>The Life of Christ after the Passion</em>, Harvey Miller and Oxford University Press (UK) (London and New York, 1984), no. 37d (recto), pp. 155-56, and 37e (verso) p. 156, and under no. 37b, p. 154, repr. figs. 95 and 96
+                             </p>
+                                                      <p>
+                                              Christian Dittrich, <em>Van Eyck, Bruegel, Rembrandt. niederländische Zeichnungen des 15. bis 17. Jahrhunderts aus dem Kupferstich-Kabinett Dresden</em>, exh. cat., Edition Minerva (Eurasburg, 1997), under cat. no. 68, p. 152
+                             </p>
+                                                      <p>
+                                              Klaus Albrecht Schröder, ed., <em>Peter Paul Rubens</em>, exh. cat., Albertina (Vienna, 2004), p. 111 and 117 (n. 113)
+                             </p>
+                                                      <p>
+                                              Anne-Marie Logan and Michiel C. Plomp, <em>Peter Paul Rubens: The Drawings</em>, exh. cat., Metropolitan Museum of Art / Yale University Press (New York/New Haven and London, 2004), pp. 55 and 59 (n. 115), and under cat nos. 41-43, p. 160 (n. 9)
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 16, 252; cat. no. 75, pp. 253-256, repr. p. 254 (recto) and 255 (verso); watermark p. 380
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Old Master Drawings</em>, Unknown Venues, 10/01/1949 - 06/30/1950
+                            </p>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>Drawings & Oil Sketches by P. P. Rubens from American Collections</em>, Fogg Art Museum, Cambridge, 01/14/1956 - 02/29/1956; Pierpont Morgan Library, New York, 03/20/1956 - 04/28/1956
+                            </p>
+                          <p>
+                              <em>Tekeningen van P.P. Rubens</em>, Rubenshuis, 06/16/1956 - 09/02/1956
+                            </p>
+                          <p>
+                              <em>Studies and Study Sheets</em>, Fogg Art Museum, Cambridge, 03/26/1964 - 04/18/1964
+                            </p>
+                          <p>
+                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, Albright-Knox Art Gallery, Buffalo, 05/08/1967 - 06/11/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Rubens: A Variety of Interests</em>, Fogg Art Museum, Cambridge, 05/23/1974 - 06/30/1974
+                            </p>
+                          <p>
+                              <em>Calming the Tempest with Peter Paul Rubens</em>, Harvard University Art Museums, Cambridge, 12/22/2001 - 03/17/2002
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:72109_dynmc?width=200&height=200" alt="Studies For Apostles; Verso: Study Of Drapery">
+                <span class="popup__artwork-info-id">1936.123</span>
+        <span class="popup__artwork-info-author">
+                                    Peter Paul Rubens
+                              </span>
+        <span class="popup__artwork-info-title">Studies for Apostles; verso: Study of Drapery</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20298225%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298225">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298225" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Studies+for+Apostles%3B+verso%3A+Study+of+Drapery+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298225" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/298225" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_d5aae463b2c3c9a61af8256bf2483978" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

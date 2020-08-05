@@ -1,0 +1,761 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Bust of Antonia the Younger </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Bust of Antonia the Younger" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/312121"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC251306_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Bust of Antonia the Younger" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_46594012" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC251306_dynmc?width=3000&height=3000" data-initial-image-id="46594012" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?312121" data-behavior="add_to_collection tooltip" data-artwork="312121" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=312121&amp;image_id=DDC251306" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/312121/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC251306">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251306_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46594012" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251306_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251553">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251553_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46594055" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251553_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251554">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251554_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46594056" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251554_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251555">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251555_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46594057" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251555_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251556">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251556_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46594058" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251556_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251557">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251557_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46594059" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251557_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19152">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS19152_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673044" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS19152_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19153">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS19153_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673045" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS19153_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19154">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS19154_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673046" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS19154_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19155">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS19155_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673047" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS19155_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19156">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS19156_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673048" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS19156_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19157">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS19157_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="detail of right side of the head" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673049" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS19157_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="81479">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:81479_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Bust Of Antonia The Younger" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183945" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:81479_dynmc?width=125&height=125" alt="Bust Of Antonia The Younger">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>As the daughter of Mark Antony, niece of Augustus, sister-in-law of Tiberius, mother of Claudius, and grandmother of Caligula, Antonia (36 BCE–37 CE) was a central member of the imperial court and was only the second woman given the title of Augusta. This head is considered to be one of the most mature representations of Antonia (see coin 12) and may be a copy of the portrait carried during the annual games held on her birthday. The narrow band in her hair may signify her role as priestess of the deified Augustus. This bust was assembled from several parts in the late seventeenth or early eighteenth century, when it was common to restore ancient sculpture to appear “whole” and therefore more beautiful. The head and two sections of the bust are ancient, although from different originals, while the inscribed left shoulder and the hair on the back of the neck are modern.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1972.306</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Bust of Antonia the Younger</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 37-54 CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Europe                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Roman Imperial period, Early</dd>
+                                        <dt>Culture</dt>
+                <dd>Roman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/312121">https://hvrd.art/o/312121</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 3, Room 3700, Ancient Mediterranean and Near Eastern Art, Roman Art<br>
+            <a href="/visit/floor-plan/3?gallery=3700" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Parian marble; left shoulder and hair at back restored in Carrara marble</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Carved</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>54.5 cm h x 43.5 cm w x 22 cm d (21 7/16 x 17 1/8 x 8 11/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Earls of Pembroke, Wilton House collection, Whiltshire, (by 1751). [Christie's, London, A Selected Portion of the Collection of Ancient Marbles formed by Thomas 8th Earl of Pembroke, July 3, 1961, lot 117]. [Munzen und Medaillen, Basel], sold; to Fogg Art Museum, 1972.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Fund in memory of John Randolph Coleman III, Harvard Class of 1964 and the David M. Robinson Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1972</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1972.306</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Stone Sculptures: The Greek, Roman and Etruscan Collections of the Harvard University Art Museums , written 1990<br>136<br />
+<br />
+Bust of Antonia<br />
+<br />
+The bust was said to have been carved in Italian marble, but the head seems to be too crystalline and is therefore Greek, specifically Parian. The surfaces have been treated like most marbles surviving from the Renaissance, namely, the end of the hair at the back and the left shoulder were restored in Carrara marble. The remainder of the bust, the subject's right shoulder and lower left breast "are also made of Parian marble, although unrelated to the head, and may possibly have been taken from another classical statue (i.e., another bust)."<br />
+ <br />
+Antonia was the daughter of Mark Antony, niece of Augustus, wife of Nero Drusus and mother of Claudius and Germanicus (born 36 B.C., died A.D. 39).  This portrait of the courtesy "Empress (Augusta)" in her later years parallels the numismatic likenesses struck in her memory by her grandson Caligula and her son Claudius (third and fourth emperors).  The somewhat ideal presentation of a noble lady is based on a prototype probably created late in the reign of Augustus and known in other versions.  Like Queen Elizabeth II on coins, she was not portrayed as aging as rapidly in art as in reality.  As Erika Simon has observed in connection with a pair of marble busts of great sensitivity, Antonia and Augustus, such portraits were made late in the reign of Tiberius and until A.D. 39 under Caligula because Antonia Minor succeeded Livia as priestess of Divus Augustus in A.D. 29 (Simon, 1982, pp. 236-243, under nos. 166-167).<br />
+ <br />
+This replica of the mature likeness of the aristocratic matron Antonia is sometimes confused in the post-Renaissance and modern literature with the bust from the collection of the Hon. Robert Erskine.  In the latter instance, however, the bust is entirely restored or, at least, alien (Sotheby Sale, London, 10 July, 1979, pp. 134-135, no. 284).<br />
+<br />
+Cornelius Vermeule and Amy Brauer</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Richard Cowdry, <em>A Description of the Pictures, Statues, Busto's, Basso-Relievo's, and other Curiosities at the Earl of Pembroke's House at Wilton</em> (London, 1751), p. 48.
+                             </p>
+                                                      <p>
+                                              James Kennedy, <em>A New Description of the Pictures, Statues, Bustos, Basso-Relievos, and Other Curiosities at the Earl of Pembroke's House at Wilton</em> (London, 1758), p. 53.
+                             </p>
+                                                      <p>
+                                              George Richardson, <em>Aedes Pembrochianae: Or a Critical Account of the Statues, Bustos, Relievos, Paintings, Medals, and Other Antiquities and Curiosities at Wilton-House</em> (Salisbury, 1774), p. 50.
+                             </p>
+                                                      <p>
+                                              Charles T. Newton, "Notes on the Sculptures at Wilton House", <em>Memoirs Illustrative of the History and Antiquities of Wiltshire</em>, George Bell (London, 1849), 248-78, p. 252, no. 25.
+                             </p>
+                                                      <p>
+                                              Adolf Theodor Friedrich Michaelis, <em>Ancient Marbles in Great Britain</em>, Cambridge University Press (Cambridge, UK, 1882), p. 678, no. 25
+                             </p>
+                                                      <p>
+                                              J.J. Bernoulli, <em>Römische Ikonographie</em>, W. Spemann (Berlin, 1886), p. 224, no. 18.
+                             </p>
+                                                      <p>
+                                              Neville R. Wilkinson, <em>Wilton House Guide: A Handbook for Visitors</em>, Chiswick Press (1908), p. 9, no. 25.
+                             </p>
+                                                      <p>
+                                              Frederik Poulsen, <em>Greek and Roman Portraits in English Country Houses</em>, The Clarendon Press (Oxford, England, 1923), pp. 59-60, pl. 39
+                             </p>
+                                                      <p>
+                                              <em>Munzen und Medaillen A.G.</em>, auct. cat. (Basel, Switzerland, October 5, 1963), p. 99, no. 190, pl. 67
+                             </p>
+                                                      <p>
+                                              Karin Polaschek, "Studien zur Ikonographie der Antonia Minor", <em>Studia Archaeologica</em>, L'Erma di Bretschneider (Rome, Italy, 1973), no. 15, cover, pp. 19-24, pls. 2.1, 4.1, and 6.1, etc.
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum, <em>Fogg Art Museum Annual Report, 1972-1974</em> (Cambridge, MA, 1976), p. 73, illus., 103
+                             </p>
+                                                      <p>
+                                              Klaus Fittschen, <em>Katalog der antiken Skulpturen in Schloss Erbach</em>, Mann (Berlin, Germany, 1977), pp. 58-61, under no. 18
+                             </p>
+                                                      <p>
+                                              Katherine Patricia Erhart, "Portrait of Antonia Minor in the Fogg Museum and its Iconographical Traditions", <em>American Journal of Archaeology</em> (1978), 82, pp. 193-212
+                             </p>
+                                                      <p>
+                                              George M. A. Hanfmann and David Gordon Mitten, "The Art of Classical Antiquity", <em>Apollo</em> (May 1978), vol. 107, no. 195, pp. 362-369, p. 366, fig. 10
+                             </p>
+                                                      <p>
+                                              W. Childs, "I. General, I. General Practices", <em>Fasti Archaeologici, Annual Bulletin of Classical Archaeology</em>, International Associaton of Classical Archaeology (Florence, Italy, 1979), p. 30, no. 428
+                             </p>
+                                                      <p>
+                                              Norman Herz and David B. Wenner, "Tracing the Origins of Marble", <em>Archaeology</em> (1981), 34, no. 5, Sept./Oct., pp. 14-21, illus. p. 16
+                             </p>
+                                                      <p>
+                                              George Rapp Jr. and John A. Gifford, "Archaeological Geology", <em>American Scientist</em> (Jan-Feb. 1982), Vol. 70, no. 1, 45-54, p. 50, fig. 4.
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>Biblical Illustrator</em> (Summer 1982), p. 20, illus.
+                             </p>
+                                                      <p>
+                                              David Gordon Mitten and Amy Brauer, <em>Dialogue with Antiquity, The Curatorial Achievement of George M. A. Hanfmann</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1982), p. 15, no. 47.
+                             </p>
+                                                      <p>
+                                              Eileen Garred, "Geologists Use Isotopes to Sleuth Out Origins of Marble in Fogg Statue", <em>Harvard Gazette</em>, Harvard University (Cambridge, MA, December 14, 1984), Vol. 80, pp. 1, 16, illus.
+                             </p>
+                                                      <p>
+                                              Stefi Weisburd, "Science for art's sake: Five easy pieces", <em>Science News</em> (1984), Vol. 126, no. 20, p. 311.
+                             </p>
+                                                      <p>
+                                              Ione Mylonas Shear, "v. The Roman West, I. Roman Civilization and Art", <em>Fasti Archaeologici, Annual Bulletin of Classical Archaeology, (1977-1978)</em>, International Associaton of Classical Archaeology (Florence, Italy, 1984), p. 699, no. 9827
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), p. 106, no. 118, ill.
+                             </p>
+                                                      <p>
+                                              Alastair M. Small, "A New Head of Antonia Minor and Its Significance", <em>Mitteilungen des Deutschen archäologischen Instituts, römische Abteilung</em> (1990), Bd. 97, 217-34, pp. 221-23, no. 2, pls. 60 and 66.c.
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III and Amy Brauer, <em>Stone Sculptures: The Greek, Roman and Etruscan Collections of the Harvard University Art Museums</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 148, no. 136
+                             </p>
+                                                      <p>
+                                              Nikos Kokkinos, <em>Antonia Augusta: Portrait of a Great Roman Lady</em>, Routledge (London, 1992), p. 122 and 124-25, fig. 83.
+                             </p>
+                                                      <p>
+                                              Diana E. E. Kleiner, <em>Roman Sculpture</em>, Yale University Press (U.S.) (1992), p. 139, fig. 114.
+                             </p>
+                                                      <p>
+                                              Wendy Watson, <em>Altered States: Conservation, Analysis, and Interpretation of Works of Art</em>, Mount Holyoke College Art Museum (South Hadley, MA, 1994), 134-35, figs. 25.a-c.
+                             </p>
+                                                      <p>
+                                              Diana E. E. Kleiner and Susan B. Matheson, ed., <em>I, Claudia: Women in Ancient Rome</em>, Yale University Art Gallery (New Haven, 1996), pp. 60-61, no. 11.
+                             </p>
+                                                      <p>
+                                              Susan Wood, <em>Imperial Women: A Study in Public Images, 40 BC-AD 68</em>, E. J. Brill (Leiden, 1999), pp. 157-58, figs. 60-61.
+                             </p>
+                                                      <p>
+                                              Annelise Freisenbruch, <em>As Mulheres dos Cesares: Sexo, Poder e Politica no Imperio Romano (The First Ladies of Rome -- The Women Behind the Caesars)</em>, Texto Editores, Lda. (Alfragide, Portugal, 2013), n.p. fig. 8
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Dialogue with Antiquity: The Curatorial Achievement of George M.A. Hanfmann</em>, Fogg Art Museum, 05/07/1982 - 06/26/1982
+                            </p>
+                          <p>
+                              <em>Altered States: Conservation, Analysis and the Interpretation of Works of Art</em>, Mount Holyoke College Art Museum, South Hadley, 04/02/1994 - 05/29/1994
+                            </p>
+                          <p>
+                              <em>I, Claudia: Women in Ancient Rome</em>, Yale University Art Gallery, New Haven, 09/06/1996 - 12/01/1996; San Antonio Museum of Art, San Antonio, 12/20/1996 - 03/02/1997; North Carolina Museum of Art, Raleigh, 04/06/1997 - 06/15/1997
+                            </p>
+                          <p>
+                              <em>Roman Gallery Installation (long-term)</em>, Harvard University Art Museums, Cambridge, 09/16/1999 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>Gods in Color: Painted Sculpture of Classical Antiquity</em>, Harvard University Art Museums, Cambridge, 09/22/2007 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>Re-View: S422  Ancient & Byzantine Art & Numismatics</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/12/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013
+                            </p>
+                          <p>
+                              <em>32Q: 3700 Roman</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251306_dynmc?width=200&height=200" alt="Bust Of Antonia The Younger">
+                <span class="popup__artwork-info-id">1972.306</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Bust of Antonia the Younger</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20312121%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312121">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312121" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Bust+of+Antonia+the+Younger+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312121" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/312121" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b4ae59cd153d645a9fd4079e3c20d76c" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

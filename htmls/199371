@@ -1,0 +1,604 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Valkhof, Nijmegen, in an Imaginary Landscape </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Valkhof, Nijmegen, in an Imaginary Landscape" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/199371"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71811_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Valkhof, Nijmegen, in an Imaginary Landscape" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481331" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71811_dynmc?width=3000&height=3000" data-initial-image-id="18481331" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?199371" data-behavior="add_to_collection tooltip" data-artwork="199371" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=199371&amp;image_id=71811" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/199371/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2008.255</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27324>Nicolaes Maes</a>, Dutch                                                                                                                                                                                                                                                                          (Dordrecht 1634 - 1693 Amsterdam)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Valkhof, Nijmegen, in an Imaginary Landscape</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Landscape with a Blasted Tree and a Cliff                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>17th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/199371">https://hvrd.art/o/199371</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink and brown and pale brown-gray wash, and touches of white opaque watercolor over traces of black chalk, on cream antique laid paper, framing line in brown ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>25.3 x 20.7 cm (9 15/16 x 8 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: upper left, graphite, erased: [illegible]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper left, graphite: 3
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower right, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Paul Brandt, Amsterdam, 3 December 1984, lot 1259A], sold; to Maida and George Abrams, Boston (L. 3306, verso, lower right); The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts 2008.255.</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: The Complete Collection Online</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                  Multiple authors
+                                        </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                                                                            Harvard Art Museums (Cambridge, MA, 2017–)
+                                              </dd>
+                                                                                                  <p>Entry by 
+                                                                        William W. Robinson,
+                                                                                                                    completed May 13, 2019:</p>
+                                                                  
+              <div class="entry-text">
+                <p>Nicolaes Maes ranks among the most outstanding Dutch painters of domestic scenes and portraits. A native of Dordrecht, he studied with Rembrandt in Amsterdam in the late 1640s and early 1650s, returning to his hometown by the end of 1653. Until about 1660, he specialized in pictures of household life, portraits, and biblical subjects. After 1660, Maes devoted himself exclusively to portraiture. His varied oeuvre of drawings—more than one hundred survive—all date from this period in Dordrecht. In 1673, he moved to Amsterdam, where he attracted a larger and wealthier clientele than the patrons he served in Dordrecht.</p>
+
+<p>No landscape paintings by Maes have survived, although one was recorded in a Delft estate in 1663.<sup class="footnote" id="fnrev7750747015ef663d24154b-1"><a href="#fn7750747015ef663d24154b-1">1</a></sup> All that remains of Maes’s achievement as a landscapist is a group of about ten drawings, which are attributed to him because they are similar in technique to a cursory sketch on the verso of a study for his painting <em>Christ Blessing Little Children</em>.<sup class="footnote" id="fnrev7750747015ef663d24154b-2"><a href="#fn7750747015ef663d24154b-2">2</a></sup> In addition to the present work, the Harvard Art Museums own a second landscape drawing by Maes, a view of Dordrecht.<sup class="footnote" id="fnrev7750747015ef663d24154b-3"><a href="#fn7750747015ef663d24154b-3">3</a></sup>  </p>
+
+<p>The Valkhof was a historic medieval fortress on the Waal River in Nijmegen. Two studies by Maes, with inscriptions in his hand that identify the site, attest that he visited the city and its famous castle. A sketch in a European private collection shows part of the castle complex with the adjacent Belvedere tower and Hoenderpoort gate (Fig. 1).<sup class="footnote" id="fnrev7750747015ef663d24154b-4"><a href="#fn7750747015ef663d24154b-4">4</a></sup> Maes referred to this study, or one very like it that has not survived, when composing Harvard’s <em>The Valkhof, Nijmegen, in an Imaginary Landscape</em>. Here, behind the tree that dominates the foreground, architectural elements of the Valkhof appear in an invented setting in which towering cliffs rise behind the fortress. The handling of the Harvard landscape is particularly close to that of a drawing in Berlin, <em>Belvedere and Kalverbos in Nijmegen</em>, which Werner Sumowski convincingly assigned to Maes.<sup class="footnote" id="fnrev7750747015ef663d24154b-5"><a href="#fn7750747015ef663d24154b-5">5</a></sup> Like all of Maes’s landscape drawings, the Harvard work and the related studies of Nijmegen probably date from the 1650s.<sup class="footnote" id="fnrev7750747015ef663d24154b-6"><a href="#fn7750747015ef663d24154b-6">6</a></sup> </p>
+
+<p class="footnote" id="fn7750747015ef663d24154b-1"><sup><a href="#fnrev7750747015ef663d24154b-1">1</a></sup> William W. Robinson, “Landscape Drawings by Nicolaes Maes,” <em>Kroniek van het Rembrandthuis</em> (2012): 43. </p>
+
+<p class="footnote" id="fn7750747015ef663d24154b-2"><sup><a href="#fnrev7750747015ef663d24154b-2">2</a></sup> Werner Sumowski, <em>Drawings of the Rembrandt School</em>, 10 vols. (New York: Abaris Books, 1979–92), vol. 8, no. 1763, pp. 3962–63; nos. 1899x–1902x, pp. 4246–55. William W. Robinson, “Landscape Drawings,” pp. 42–47. William W. Robinson with Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em> (Cambridge, Mass.: Harvard Art Museums, 2016), cat. 52, pp. 182–84; p. 351, under cat. 52, n. 11. Other landscapes attributed to Maes by Sumowski (Sumowski, <em>Drawings of the Rembrandt School</em>, vol. 8, no. 1903x, pp. 4256–57; no. 1956ax, pp. 4368–69) are, in my opinion, by other hands. William W. Robinson, “Landscape Drawings,” p. 43, n. 4. </p>
+
+<p class="footnote" id="fn7750747015ef663d24154b-3"><sup><a href="#fnrev7750747015ef663d24154b-3">3</a></sup> <em>View of Dordrecht</em>, brown ink, brown wash, and touches of white opaque watercolor, 12.3 &#215; 25.7 cm, Cambridge, Mass., Harvard Art Museums, <a href="https://www.harvardartmuseums.org/collections/object/295579?position=0">1979.210</a>. Robinson and Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, cat. 52, pp. 182–84. </p>
+
+<p class="footnote" id="fn7750747015ef663d24154b-4"><sup><a href="#fnrev7750747015ef663d24154b-4">4</a></sup> Robinson, “Landscape Drawings,” pp. 43–46, repr. Fig. 4. The drawing is inscribed by the artist: <em>Belvedere met t hof tot Nimwegen</em>. For a close view of the Belvedere tower and the Hoenderpoort gate by Lamber Doomer, see Sumowski, <em>Drawings of the Rembrandt School</em>, vol. 2, no. 397, pp. 852–53.  </p>
+
+<p class="footnote" id="fn7750747015ef663d24154b-5"><sup><a href="#fnrev7750747015ef663d24154b-5">5</a></sup> Sumowski, <em>Drawings of the Rembrandt School</em>, vol. 8, no. 1899ax, pp. 4248–49. Robinson, “Landscape Drawings,” pp. 42–43, 46, repr. Fig. 1, p. 42. </p>
+
+<p class="footnote" id="fn7750747015ef663d24154b-6"><sup><a href="#fnrev7750747015ef663d24154b-6">6</a></sup> Robinson, “Landscape Drawings,” p. 43.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/6/199371/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Nicolaes Maes, <em>Belvedere and Valkhof in Nijmegen</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2008</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2008.255</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Frederik J. Duparc, "[Review] Collectie Abrams in Rijksprentenkabinet", <em>Tableau</em> (1991), vol. 13, no. 5, pp. 40-42, p. 41
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 60, pp. 138-139, repr.
+                             </p>
+                                                      <p>
+                                              George S. Keyes, "[Review] Seventeenth-Century Dutch Drawings. A Selection from the Maida and George Abrams Collection", <em>Master Drawings</em> (Winter 1992), vol. 30, no. 4, pp. 443-448, p. 448
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton and William W. Robinson, <em>Drawings by Rembrandt, his Students and Circle from the Maida and George Abrams Collection</em>, exh. cat., Bruce Museum and Yale University Press (U.S.) (New Haven and London, 2011), cat. no. 27, pp. 92-3, repr.
+                             </p>
+                                                      <p>
+                                              Gregory Rubinstein, "[Review] Rembrandt Drawings", <em>The Burlington Magazine</em> (January 2012), vol. 154, no. 1306, pp. 65-66, p. 66
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "Landscape Drawings by Nicolaes Maes", <em>Kroniek van het Rembrandthuis</em> (2012), pp. 42-7, pp. 46-7, repr. fig. 5
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 351, under no. 52, note 11
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Drawings by Rembrandt, his Students and Circle from the Collection of Maida and George Abrams</em>, Bruce Museum, Greenwich, 09/24/2011 - 01/08/2012; The Museum of Fine Arts, Houston, Houston, 04/15/2012 - 07/08/2012
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71811_dynmc?width=200&height=200" alt="The Valkhof, Nijmegen, In An Imaginary Landscape">
+                <span class="popup__artwork-info-id">2008.255</span>
+        <span class="popup__artwork-info-author">
+                                    Nicolaes Maes
+                              </span>
+        <span class="popup__artwork-info-title">The Valkhof, Nijmegen, in an Imaginary Landscape</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20199371%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F199371">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F199371" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Valkhof%2C+Nijmegen%2C+in+an+Imaginary+Landscape+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F199371" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/199371" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_5f3e1af5b63b18df1801f7e0a3d24f95" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

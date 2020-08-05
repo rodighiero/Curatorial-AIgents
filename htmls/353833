@@ -1,0 +1,1394 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Sketchbook </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Sketchbook" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/353833"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:764024?width=256&amp;height=256" />
+<meta property="og:description" content=" Sketchbook" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_432564648" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:764024?width=256&height=256" data-initial-image-id="432564648" data-zoom-enabled="0"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption  hidden ">
+                                                    </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?353833" data-behavior="add_to_collection tooltip" data-artwork="353833" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=353833&amp;image_id=764024" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/353833/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="764024">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764024?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564648" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764024?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764025">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764025?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564600" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764025?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764026">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764026?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564612" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764026?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764027">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764027?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564620" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764027?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764028">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764028?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564628" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764028?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764029">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764029?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564604" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764029?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764030">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764030?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564640" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764030?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764031">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764031?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564592" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764031?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764032">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764032?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564616" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764032?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764033">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764033?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564664" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764033?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764034">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764034?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564596" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764034?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764035">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764035?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564656" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764035?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764036">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764036?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564632" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764036?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764037">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764037?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564636" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764037?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764038">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764038?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564668" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764038?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764039">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764039?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564660" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764039?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764040">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764040?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564644" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764040?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764041">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764041?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564652" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764041?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764042">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764042?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564624" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764042?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764043">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764043?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564608" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764043?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764044">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764044?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564740" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764044?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764045">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764045?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564688" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764045?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764046">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764046?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564700" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764046?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764047">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764047?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564724" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764047?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764048">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764048?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564732" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764048?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764049">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764049?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564720" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764049?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764050">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764050?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564748" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764050?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764051">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764051?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564736" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764051?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764052">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764052?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564712" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764052?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764053">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764053?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564744" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764053?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764054">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764054?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564672" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764054?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764055">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764055?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564716" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764055?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764056">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764056?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564708" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764056?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764057">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764057?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564728" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764057?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764058">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764058?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564676" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764058?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764059">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764059?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564704" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764059?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764060">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764060?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564680" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764060?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764061">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764061?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564684" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764061?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764062">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764062?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564692" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764062?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764063">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764063?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564696" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764063?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764064">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764064?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564828" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764064?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764065">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764065?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564772" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764065?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764066">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764066?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564788" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764066?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764067">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764067?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564820" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764067?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764068">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764068?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564808" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764068?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764069">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764069?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564776" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764069?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764070">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764070?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564752" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764070?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764071">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764071?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564756" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764071?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764072">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764072?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564780" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764072?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764073">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764073?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564792" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764073?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764074">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764074?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564812" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764074?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764075">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764075?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564768" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764075?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764076">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764076?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564760" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764076?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764077">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764077?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564804" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764077?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764078">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764078?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564764" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764078?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764079">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764079?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564784" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764079?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764080">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764080?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564800" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764080?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764081">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764081?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564824" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764081?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764082">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764082?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564816" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764082?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764083">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764083?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564796" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764083?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764084">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764084?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564868" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764084?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764085">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764085?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564876" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764085?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764086">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764086?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564836" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764086?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764087">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764087?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564872" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764087?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764088">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764088?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564864" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764088?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764089">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764089?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564860" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764089?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764090">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764090?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564852" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764090?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764091">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764091?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564832" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764091?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764092">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764092?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564844" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764092?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764093">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764093?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564840" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764093?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764094">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764094?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564880" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764094?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764095">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764095?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564856" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764095?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764096">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764096?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="432564848" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764096?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764294">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764294?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019820" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764294?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764295">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764295?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019840" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764295?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764296">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764296?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019848" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764296?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764297">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764297?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019828" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764297?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764298">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764298?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019792" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764298?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764299">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764299?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019836" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764299?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764300">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764300?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019824" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764300?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764301">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764301?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019800" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764301?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764302">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764302?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019844" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764302?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764303">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764303?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019816" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764303?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764304">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764304?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019864" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764304?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764305">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764305?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019852" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764305?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764306">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764306?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019808" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764306?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764307">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764307?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019832" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764307?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764308">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764308?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019856" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764308?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764309">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764309?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019812" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764309?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764310">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764310?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019804" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764310?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764311">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764311?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019860" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764311?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764312">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764312?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019796" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764312?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764313">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764313?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019788" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764313?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764314">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764314?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019946" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764314?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764315">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764315?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019942" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764315?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764316">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764316?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019934" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764316?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764317">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764317?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019926" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764317?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764318">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764318?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019894" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764318?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764319">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764319?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019962" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764319?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764320">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764320?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019938" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764320?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764321">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764321?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019918" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764321?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764322">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764322?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019890" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764322?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764323">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764323?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019910" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764323?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764324">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764324?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019950" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764324?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764325">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764325?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019914" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764325?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764326">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764326?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019902" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764326?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764327">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764327?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019886" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764327?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764328">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764328?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019958" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764328?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764329">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764329?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019922" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764329?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764330">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764330?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019898" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764330?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764331">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764331?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019954" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764331?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764332">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764332?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019906" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764332?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764333">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764333?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019930" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764333?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764334">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764334?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019986" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764334?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764335">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764335?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019998" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764335?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764336">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764336?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019966" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764336?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764337">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764337?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434020014" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764337?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764338">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764338?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019970" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764338?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764339">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764339?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434020006" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764339?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764340">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764340?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019978" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764340?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764341">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764341?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434020002" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764341?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764342">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764342?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019994" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764342?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764343">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764343?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019982" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764343?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764344">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764344?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434020010" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764344?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764345">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764345?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019974" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764345?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="764346">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:764346?width=256&height=256" data-zoom-enabled="0" data-people="Ralston Crawford"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="434019990" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764346?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2015.95</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/31706>Ralston Crawford</a>, American                                                                                                                                                                                                                                                                          (St. Catharines, Ontario, Canada 1906 - 1978 Houston, Texas)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Sketchbook</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sketchbook                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1965-1972</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/353833">https://hvrd.art/o/353833</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leather bound sketchbook</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>closed: 36.2 x 25.4 cm (14 1/4 x 10 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: On first page, in black ink: Ralston Crawford
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          label: On cover: 60.7
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Ralston Crawford, by descent; to Robert F. Crawford, gift; to the Harvard Art Museums, 2015.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Robert F. Crawford</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© Ralston Crawford Estate</dd>
+            
+                          <dt>Accession Year</dt>
+              <dd>2015</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2015.95</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:764024?width=256&height=256" alt="Sketchbook">
+                <span class="popup__artwork-info-id">2015.95</span>
+        <span class="popup__artwork-info-author">
+                                    Ralston Crawford
+                              </span>
+        <span class="popup__artwork-info-title">Sketchbook</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20353833%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F353833">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F353833" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Sketchbook+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F353833" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_5b03640578a3a6e63f093b6d7700e868" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

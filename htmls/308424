@@ -1,0 +1,708 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Key West </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Key West" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/308424"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:62497_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Key West" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17804980" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:62497_dynmc?width=3000&height=3000" data-initial-image-id="17804980" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?308424" data-behavior="add_to_collection tooltip" data-artwork="308424" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=308424&amp;image_id=62497" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/308424/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="62497">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:62497_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Winslow Homer"  title="Key West" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17804980" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62497_dynmc?width=125&height=125" alt="Key West">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="50361">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50361_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Winslow Homer"  title="Key West" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183402" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50361_dynmc?width=125&height=125" alt="Key West">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1956.210</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/26501>Winslow Homer</a>, American                                                                                                                                                                                                                                                                          (Boston, MA 1836 - 1910 Prouts Neck, ME)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Key West</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Boats, Key West                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1903</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/308424">https://hvrd.art/o/308424</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Watercolor over graphite on white wove paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>35.4 x 55.4 cm (13 15/16 x 21 13/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: watercolor, l.l.: WH; l.r.: Key West
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          exhibition label: removed from old mount, now in curatorial file, paper, printed and inscribed in blue ink: [torn] of the Four Arts / [torn] Beach, Florida / [torn] 75-14-1-1 [Society of the Four Arts, Palm Beach, FL, 1975]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now in curatorial file, paper, printed and typed: National Gallery of Art / Washington, D. C. / Exhibition: Winslow Homer Watercolors / Date: 2 March - 11 May 1986. Cat. # 214 / Artist: Winslow Homer / Title: Key West / Lender: Harvard University Art Museums
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now in curatorial file, paper, printed and typed: S.E. No. 2943.1 / Museum of Fine Arts / Boston, Massachusetts / Special Loan Exhibition of / Winslow Homer / Title: Key West / Artist: Homer / Owner: The Fogg Art Museum / Address: Harvard University, Cambridge, Mass. [exhibition dates: March to May 1959]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now in curatorial file, paper, printed and typed: The Institute of Contemporary Art / 138 Newbury Street, Boston 16, Massachusetts / Artist: Winslow Homer / Title: Key West / ICA number: 55-1-38 / Medium and Size: / [torn off] Edward W. Forbes / (Fogg Museum)
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now in curatorial file, paper, printed: Winslow Homer (1836-1910) / 24. Key West / Watercolor. 13 1/4 x 20 3/4 (sight) / Lent by the Fogg Art Museum, Harvard University, Cambridge / Gift of Edward W. Forbes
+                        </li>
+                                              <li data-a="2">
+                          label: removed from old mount, now in curatorial file, paper, printed and inscribed in black marker: W. S. Budworth & Son / Packers & Shippers of Works of Art / 424 West 52nd St., New York, N. Y. / I J
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Winslow Homer, sold [through M. Knoedler and Co., New York, 1904]; to Daniel G. Reid, New York, 1904, sold [through M. Knoedler and Co., New York, 1922]; to Edward Waldo Forbes, Cambridge, MA, 1922 [1], gift; to Fogg Art Museum, 1956</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Edward W. Forbes</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1956</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1956.210</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Arthur Pope, "Water-Colours by Winslow Homer", <em>Fogg Art Museum Notes</em>, Fogg Art Museum (Cambridge, MA, June 1926), vol. II, no. 2, pp. 42-48, repr. p. 42
+                             </p>
+                                                      <p>
+                                              <em>Sixth Loan Exhibition: Winslow Homer, Albert Pinkham Ryder, Thomas Eakins</em>, exh. cat., Museum of Modern Art, New York (New York, NY, 1930), no. 41
+                             </p>
+                                                      <p>
+                               Theodore Bolton, "Water Colors by Homer: Critique and Catalogue", <em>Fine Arts (formerly known as The Antiquarian)</em> (April 1932), pp. 16-20+
+                                            </p>
+                                                      <p>
+                                              Women's Civic Club, <em>Exhibition of Paintings by American Artists</em>, exh. cat., Crandall Free Library (Glens Falls, NY, 1933), cat. 10
+                             </p>
+                                                      <p>
+                                              <em>Fogg Art Museum Handbook</em>, Fogg Art Museum (Cambridge, MA, 1936), ill. p. 114
+                             </p>
+                                                      <p>
+                                              George Henry Lovett Smith, "The Grasp of the Moment," with checklist for Winslow Homer exhibition, <em>Concert Bulletin for the Boston Symphony Orchestra</em>, Boston Symphony Orchestra (Boston, 1937), pg. 361
+                             </p>
+                                                      <p>
+                                              "American Watercolors Shown in Vienna", <em>Syracuse Museum of Fine Arts Quarterly Bulletin</em>, Syracuse Museum of Fine Arts (Syracuse, NY, January-February-March 1950), vol. 11, no. 2, p. 9, p. 9
+                             </p>
+                                                      <p>
+                                              Edward Waldo Forbes, <em>History of the Fogg Art Museum</em>, Unpublished (1956), p. 365, vol. II
+                             </p>
+                                                      <p>
+                                              <em>Winslow Homer: A Retrospective Exhibition</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1959), no. 145
+                             </p>
+                                                      <p>
+                                              <em>Winslow Homer's Sub-Tropical America</em>, exh. cat., Lowe Art Museum, University of Miami (Coral Gables, FL, 1968), reproduced p. 33
+                             </p>
+                                                      <p>
+                                              Patti Hannaway, <em>Winslow Homer in the Tropics</em>, Westover Publishing Company (Richmond, VA, 1973), pp. 262-263, pl. 61
+                             </p>
+                                                      <p>
+                                              Gorham Bert Munson and John Gordon, <em>Views of Florida by American Masters</em>, exh. cat., Society of the Four Arts, Palm Beach Florida and Museum of Fine Arts, St. Petersburg, Florida (Palm Beach, FL, 1975), cat. 24
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn, <em>Wash and Gouache: A Study of the Development of the Materials of Watercolor</em>, exh. cat., Fogg Art Museum (Cambridge, 1977), pp. 14, 17, 28, 39, 48, 57, 69, 98, cat. 24, fig. 8 (detail)
+                             </p>
+                                                      <p>
+                                              <em>Winslow Homer's Florida, 1880-1909</em>, exh. cat., Cummer Gallery of Art (Jacksonville, FL, 1977), cat. 29, repro.
+                             </p>
+                                                      <p>
+                                              Gordon Hendricks, <em>The Life and Work of Winslow Homer</em>, Harry N. Abrams, Inc. (New York, NY, 1979), CL-261, p. 259, 297, plate 65
+                             </p>
+                                                      <p>
+                                              Christopher Finch, <em>American Watercolors</em>, Abbeville Press (New York, NY, 1986), reproduced in color, p. 17, fig. 14
+                             </p>
+                                                      <p>
+                                              Helen A. Cooper, <em>Winslow Homer Watercolors</em>, exh. cat., National Gallery of Art/Yale University Press (Washington, D.C. and New Haven, CT, 1986), pp. 234, 255; reproduced in color fig. 214
+                             </p>
+                                                      <p>
+                                              Kate F. Jennings, <em>Winslow Homer</em>, Crescent Books (New York, NY, 1990), pp. 84-85
+                             </p>
+                                                      <p>
+                                              Nicolai Cikovsky, Jr., <em>Winslow Homer Watercolors</em>, Hugh Lauter Levin Associates, Inc. (New York, NY, 1991), color plate 54
+                             </p>
+                                                      <p>
+                                              Lloyd Goodrich and Abigail Booth Gerdts, <em>Record of Works by Winslow Homer</em>, Spanierman Gallery (New York, 2005-2014), vol. 5, p. 341, no. 1735, repr. p. 341
+                             </p>
+                                                      <p>
+                                              Sophie Lévy, ed., <em>Winslow Homer: Poet of the Sea</em>, exh. cat., Musée d'Art Américain (Giverny, 2006), checklist no. 57, repr. pp. 138-139
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr., Virginia Anderson, and Kimberly Orcutt, ed., <em>American Paintings at Harvard, Volume Two, Paintings, Drawings, Pastels and Stained Glass by Artists Born 1826-1856</em>, Harvard Art Museums and Yale University Press (U.S.) (Cambridge, MA and New Haven, CT, 2008), p. 179-180, cat. no. 137, reproduced in color, p. 179
+                             </p>
+                                                      <p>
+                                              Gabrielle Townsend, <em>Winslow Homer Aquarelles</em>, Bibliothèque de l'Image (Paris, France, 2011), repr. p. 29
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exposition d'Art Américain John S. Sargent, R. A., Dodge MacKnight, Winslow Homer, Paul Manship</em>, Association Franco-Américaine d'Expositions, Paris, 05/18/1923 - 06/25/1923
+                            </p>
+                          <p>
+                              <em>Water Colors by Winslow Homer</em>, Carnegie Institute, Pittsburgh, 09/09/1923 - 10/26/1923
+                            </p>
+                          <p>
+                              <em>Sixth Loan Exhibition: Winslow Homer, Albert Pinkham Ryder, Thomas Eakins</em>, Museum of Modern Art, New York, New York, 05/01/1930 - 05/31/1930
+                            </p>
+                          <p>
+                              <em>American Painting</em>, Fitchburg Art Association, Fitchburg, 07/01/1930 - 08/31/1930
+                            </p>
+                          <p>
+                              <em>Exhibition of Water Colors by Winslow Homer</em>, Rhode Island School of Design Museum, Providence, 02/06/1931 - 03/01/1931
+                            </p>
+                          <p>
+                              <em>Water Colors by Winslow Homer, 1836 - 1910</em>, Fogg Art Museum, Cambridge, 05/16/1932 - 06/15/1932
+                            </p>
+                          <p>
+                              <em>Exhibition of Paintings by American Artists</em>, Crandall Free Library, Glens Falls, 03/01/1933 - 03/31/1933
+                            </p>
+                          <p>
+                              <em>Sports in Art</em>, New York Junior League, New York, 04/11/1934 - 04/25/1934
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Lawrence College, 1935</em>, Lawrence University, Appleton, 03/01/1935 - 04/30/1935
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Phillips Exeter Academy, 1935</em>, Phillips Exeter Academy, Exeter, 10/14/1935 - 11/16/1935
+                            </p>
+                          <p>
+                              <em>Paintings and Drawings by Winslow Homer, 1836 - 1910</em>, Fogg Art Museum, Cambridge, 06/01/1936 - 06/30/1986
+                            </p>
+                          <p>
+                              <em>[Winslow Homer exhibition]</em>, Symphony Hall, Boston, 01/01/1937 - 12/31/1937
+                            </p>
+                          <p>
+                              <em>50th Anniversary Exhibition</em>, Museum of Fine Arts, Boston, Boston, 04/18/1939 - 05/14/1939
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Mead Art Gallery, 1940</em>, Mead Art Museum, Amherst, 04/25/1940 - 05/09/1940
+                            </p>
+                          <p>
+                              <em>Water Colors by Winslow Homer</em>, Mount Holyoke College Art Museum, South Hadley, 05/11/1940 - 06/10/1940
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, University of Redlands, 1941</em>, University of Redlands, Redlands, 01/25/1941 - 02/27/1941
+                            </p>
+                          <p>
+                              <em>Watercolors by Winslow Homer</em>, Fogg Art Museum, Cambridge, 10/09/1944 - 11/01/1944
+                            </p>
+                          <p>
+                              <em>Exhibit of American Watercolors</em>, Albertina Gallery, Vienna, 07/23/1949 - 01/30/1950
+                            </p>
+                          <p>
+                              <em>American Paintings from the Fogg Art Museum, Harvard University</em>, Symphony Hall, Boston, 02/21/1958 - 03/15/1958
+                            </p>
+                          <p>
+                              <em>Winslow Homer: A Retrospective Exhibition</em>, National Gallery of Art, Washington, 11/23/1958 - 01/04/1959; The Metropolitan Museum of Art, New York, 01/29/1959 - 03/08/1959; Museum of Fine Arts, Boston, Boston, 03/26/1959 - 05/03/1959
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Wesleyan University, 1959</em>, Davison Art Center, Middletown, 07/01/1959 - 08/31/1959
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Lincoln Laboratory, 1966</em>, Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, 10/15/1966 - 12/15/1966
+                            </p>
+                          <p>
+                              <em>Winslow Homer's Sub-Tropical America</em>, Lowe Art Museum, University of Miami, Coral Gables, 08/06/1968 - 09/15/1968
+                            </p>
+                          <p>
+                              <em>Watercolors from the Fogg: An Historical Collection</em>, St. Paul's School, Concord, 10/12/1971 - 11/20/1971
+                            </p>
+                          <p>
+                              <em>Views of Florida</em>, Society of the Four Arts, Palm Beach, 03/07/1975 - 04/13/1975; Museum of Fine Arts, St. Petersburg, St. Petersburg, 05/06/1975 - 06/02/1975
+                            </p>
+                          <p>
+                              <em>Wash and Gouache: A Study of the Development of the Materials of Watercolor</em>, Fogg Art Museum, Cambridge, 05/12/1977 - 06/22/1977
+                            </p>
+                          <p>
+                              <em>Winslow Homer Watercolors</em>, National Gallery of Art, Washington, 03/02/1986 - 05/11/1986; Amon Carter Museum, Fort Worth, 06/06/1986 - 07/27/1986; Yale University Art Gallery, New Haven, 09/11/1986 - 11/02/1986
+                            </p>
+                          <p>
+                              <em>Winslow Homer: Poet of the Sea</em>, Dulwich Picture Gallery, London, 02/22/2006 - 05/23/2006; Musée d'Art Américain, 27620 Giverny, 06/18/2006 - 09/24/2006
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:62497_dynmc?width=200&height=200" alt="Key West">
+                <span class="popup__artwork-info-id">1956.210</span>
+        <span class="popup__artwork-info-author">
+                                    Winslow Homer
+                              </span>
+        <span class="popup__artwork-info-title">Key West</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20308424%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F308424">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F308424" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Key+West+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F308424" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/308424" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_76a3839a5feb20391a284a45ec9a8add" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

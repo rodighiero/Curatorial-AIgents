@@ -1,0 +1,877 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Mother and Child </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Mother and Child" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299993"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC231461_dynmc?width=256&amp;height=256" />
+<meta property="og:description" content=" Mother and Child" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_45443483" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC231461_dynmc?width=256&height=256" data-initial-image-id="45443483" data-zoom-enabled="0"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299993" data-behavior="add_to_collection tooltip" data-artwork="299993" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299993&amp;image_id=DDC231461" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299993/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC231461">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC231461_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Pablo Ruiz Picasso"  title="Mother And Child" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="45443483" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC231461_dynmc?width=125&height=125" alt="Mother And Child">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC245616">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC245616_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Pablo Ruiz Picasso"  title="Mother And Child" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="45443489" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC245616_dynmc?width=125&height=125" alt="Mother And Child">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="13357">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:13357_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Pablo Ruiz Picasso"  title="Mother And Child" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181459" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:13357_dynmc?width=125&height=125" alt="Mother And Child">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="50559">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50559_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Pablo Ruiz Picasso"  title="Mother And Child" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183408" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:50559_dynmc?width=125&height=125" alt="Mother And Child">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Following his visit to the Saint-Lazare prison-hospital, an institution for Parisian prostitutes with venereal disease, Picasso produced a number of paintings of destitute mothers embracing their small children. This is the largest of this group of works dating from the artist’s “Blue Period” (1901–4); they unite contemporary social concerns with an iconic Christian theme. The mother’s attenuated limbs speak to Picasso’s close study of the work of earlier artists, particularly El Greco.</p>
+<p>Like many paintings in this gallery, this one was executed on a reused canvas, and another composition lies beneath this scene. That painting is a portrait of Picasso’s friend, the poet Max Jacob, who sits in his study surrounded by books. Some evidence of the image is still visible, particularly the contours of the face, which is roughly the same size as the mother’s head and is located above her knees.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1951.57</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28064>Pablo Ruiz Picasso</a>, Spanish                                                                                                                                                                                                                                                                          (Malaga, Spain 1881 - 1973 Mougins, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Mother and Child</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Maternité<br>                                                                                                              Alternate Title: The Sad Mother                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1901</dd>
+                                                                <dt>Culture</dt>
+                <dd>Spanish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299993">https://hvrd.art/o/299993</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 1, Room 1220, European Art, 19th–20th century, Collection of Maurice Wertheim, Class of 1906<br>
+            <a href="/visit/floor-plan/1?gallery=1220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>112 x 97.5 cm (44 1/8 x 38 3/8 in.)<br />
+framed: 130.8 x 117.2 x 7.6 cm (51 1/2 x 46 1/8 x 3 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: u.r.: Picasso; l.l. [faintly] Picasso
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: on key in center of stretcher, in graphite: #9325
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Pablo Ruiz Picasso, Painted, 1901, to Ambroise Vollard.<br />
+Ambroise Vollard, Paris, from the artist?.<br />
+John Quinn, New York NY, purchased through Carroll Galleries, 1924.<br />
+Paul Rosenberg, Paris, from estate of John Quinn.<br />
+Baron Shigetaro Fukushima, Paris, Purchased from a Paris Gallery, 1926, Sale, 1933 or before, 1933. Paris sale of work from John Quinn's collection, May 1926.<br />
+Maurice Wertheim, New York, 1937, Bequest to Fogg Art Museum, 1951.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© Estate of Pablo Picasso / <a href="https://www.arsny.com/">Artists Rights Society (ARS), New York</a></dd>
+            
+                          <dt>Accession Year</dt>
+              <dd>1951</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1951.57</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK HAS SIGNIFICANT LOAN RESTRICTIONS BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>John Quinn, 1870-1924, Collection of Paintings, Water Colors, Drawings & Sculpture</em>, Pidgeon Hill Press (Huntington, NY, 1926), pp. 12, 88
+                             </p>
+                                                      <p>
+                               <em>Memorial Exhibition of Representative Works... from the John Quinn Collection</em>, exh. cat., Art Center (New York, NY, 1926)
+                                            </p>
+                                                      <p>
+                               Max Jacob, "Souvenirs sur Picasso", <em>Cahiers d'Art</em> (1927), vol. VI
+                                            </p>
+                                                      <p>
+                                              Eugenio D'Ors, <em>Pablo Picasso</em>, Editions des Chroniques du Jour and E. Weyhe (Paris and New York, 1930), repr. pl. 3
+                             </p>
+                                                      <p>
+                                              Christian Zervos, <em>Pablo Picasso</em>, Cahiers d'Art (Paris, France, 1932), repr., vol. I, pl. 57, p. 115
+                             </p>
+                                                      <p>
+                                              <em>Pablo Picasso</em>, exh. cat., Wadsworth Atheneum Museum of Art (Hartford, CT, 1934), repr. no. 8
+                             </p>
+                                                      <p>
+                                              Genaro Estrada, <em>Genio y Figura de Picasso</em> (Mexico, 1936), p. 43
+                             </p>
+                                                      <p>
+                                              [Reproduction only], <em>Art News</em>, (April 1937)., repr. on cover
+                             </p>
+                                                      <p>
+                                              <em>Picasso, Forty Years of His Art</em>, exh. cat., Museum of Modern Art, New York (New York, NY, 1939), no. 17, repr. p. 31
+                             </p>
+                                                      <p>
+                                              Alfred M. Frankfurter, "Today's Collectors: Modern Milestones", <em>Art News</em> (June 1946), vol. XLV, no. 4, p. 63; repr. in b/w p. 65
+                             </p>
+                                                      <p>
+                                              <em>French Painting since 1870, lent by Maurice Wertheim, Class of 1906</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1946), repr. p. 51
+                             </p>
+                                                      <p>
+                                              Alfred H. Barr, Jr., <em>Picasso, Fifty Years of His Art</em>, exh. cat., Museum of Modern Art, New York (New York, NY, 1946), repr. p. 25
+                             </p>
+                                                      <p>
+                                              <em>Picasso Before 1907</em>, exh. cat., Knoedler Galleries (New York, NY, 1947), repr. pl. 7
+                             </p>
+                                                      <p>
+                                              <em>La Peinture Française Depuis 1870: Collection Maurice Wertheim</em>, exh. cat., Tom Taylor (Québec, Canada, 1949), pp. 55-57, repr. p. 56
+                             </p>
+                                                      <p>
+                                              A. Cirici-Pellicer, <em>Picasso avant Picasso</em>, P. Cailler (Geneva, Switzerland, 1950), p. 158, 121
+                             </p>
+                                                      <p>
+                                              George A. Flanagan, <em>How to Understand Modern Art</em>, Thomas Y. Crowell Company and The Studio Publications Incorporated (New York, NY, 1951), repr. in b/w p. 216, fig. 66
+                             </p>
+                                                      <p>
+                                              "19th and 20th Century Art", <em>Think</em> (September 1952), pp. 18-19, 32. repr.
+                             </p>
+                                                      <p>
+                                              Wilhelm Boeck and Jaime Sabartès, <em>Picasso</em>, W. Kohlhammer (Stuttgart, Germany, 1955), pp. 123, 458, 586
+                             </p>
+                                                      <p>
+                                              Antonina Vallentin, <em>Pablo Picasso</em>, A. Michel (Paris, France, 1957), p. 57, 449
+                             </p>
+                                                      <p>
+                                              Roland Penrose, <em>Picasso: His Life and Work</em>, Harper and Brothers Publishers (New York, NY, 1958), repr. in b/w fig. 6, pl. II
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Catalogue: Modern French Art-- Monet to Picasso</em>, exh. cat., North Carolina Museum of Art (Raleigh, NC, 1960), p. 35, repr. p. 37
+                             </p>
+                                                      <p>
+                                              Anthony Blunt and Phoebe Pool, <em>Picasso: the Formative Years: A Study of His Sources</em>, New York Graphic Society (Greenwich, CT, 1962), p. 105
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, exh. cat., The Museum of Fine Arts, Houston (Houston, TX, 1962), p. 38, pl. 14
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>Presbyterian Life</em> (December 15, 1964), vol. 17, no. 24, repr. in color p. 22
+                             </p>
+                                                      <p>
+                                              Helen Kay, <em>Picasso's World of Children</em>, Doubleday & Co. (New York, NY, 1965), repr.
+                             </p>
+                                                      <p>
+                                              Pierre Daix and Georges Boudaille, <em>Picasso: Blue and Rose Periods</em>, Idees et Calendes (Neuchatel, Switzerland, 1966), repr. p. 203
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>The Episcopalian</em> (January 1967), v. 132, no. 1, repr. on cover
+                             </p>
+                                                      <p>
+                                              M. Ravesz-Alexander, <em>Eva, Maria, Venus</em>, Mouton (The Hague, Netherlands, 1968), repr.
+                             </p>
+                                                      <p>
+                                              B. L. Reid, <em>The Man from New York: John Quinn and His Friends</em>, Oxford University Press (NY) and Oxford University Press (UK) (New York, NY, 1968), pp. 207-208, 655
+                             </p>
+                                                      <p>
+                                              Frederick B. Deknatel, "Pablo Picasso, Mother and Child", <em>Nihon Keizai-Shimbun</em> (Tokyo, Japan, December 1970?), repr. in color p. 21
+                             </p>
+                                                      <p>
+                                              Sidney Finkelstein, <em>Der Junge Picasso</em>, VEB Verlag der Kunst (Dresden, Germany, 1970), repr. as no. 63
+                             </p>
+                                                      <p>
+                                              Jean Leymarie, <em>Picasso: Metamorphose et Unité</em>, Skira (Geneva, Switzerland, 1971), repr. p. 10
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection</em>, exh. cat., Maine State Museum (Augusta, ME, 1972), repr. no. 25
+                             </p>
+                                                      <p>
+                                              Frederick B. Deknatel, "A Lost Portrait of Max Jacob by Picasso", <em>Fogg Art Museum Annual Report 1972-1974</em>, Fogg Art Museum (Cambridge, MA, 1976), pp. 37-42, repr. p. 39
+                             </p>
+                                                      <p>
+                                              Judith Zilczer, <em>'The Noble Buyer': John Quinn, Patron of the Avant-Garde</em>, exh. cat., Smithsonian Institution Press (Washington, D.C, 1978), p. 32, p. 176
+                             </p>
+                                                      <p>
+                                              Mary Mathews Gedo, <em>Picasso: Art as Autobiography</em>, University of Chicago Press (Chicago, IL and London, England, 1980), repr. in b/w p. 10
+                             </p>
+                                                      <p>
+                                              Josep Palau i Fabre, <em>Picasso, the Early Years, 1881-1907</em>, Rizzoli (New York, NY, 1981), repr. in b/w, p. 279, no. 705
+                             </p>
+                                                      <p>
+                                              Vivien Raynor, "Art: Impressionist Show at the I.B.M. Gallery" [review], <em>The New York Times</em> (New York, NY, April 26, 1985), p. C24
+                             </p>
+                                                      <p>
+                                              G. Freisinger, "Second Impressions", <em>Harvard Magazine</em> (Cambridge, MA, May 1985 - June 1985), ill. p. 43
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 226, p. 197, repr. in color
+                             </p>
+                                                      <p>
+                                              John O'Brian, <em>Degas to Matisse: the Maurice Wertheim Collection</em>, Harry N. Abrams, Inc. and Fogg Art Museum (New York, NY and Cambridge, MA, 1988), no. 24, p. 105-108, 157, repr. in color
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 124; repr. as no. 832
+                             </p>
+                                                      <p>
+                                              Seiji Oshima, <em>Musee Picasso 2</em>, Spadem and BCF (Paris, France and Tokyo, Japan, 1990 - 1991), repr. in color no. 50
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, exh. cat., Harry N. Abrams, Inc. (New York, NY, 1990), repr. in color, no. 36, p. 103
+                             </p>
+                                                      <p>
+                                              John Richardson, <em>A Life of Picasso</em>, Random House (New York, NY, 1991), vol. I, repr. in b/w p. 222
+                             </p>
+                                                      <p>
+                                              Denys Chevalier, <em>Picasso: the Blue and Rose Periods</em>, Crown Publishers Inc. (New York, NY, 1991), repr. in color p. 39
+                             </p>
+                                                      <p>
+                                              Peggy Roalf, <em>Looking at Paintings: Families</em>, Hyperion Books for Children (New York, NY, 1992), repr. in b/w p. 36
+                             </p>
+                                                      <p>
+                                              Hélène Seckel, <em>Max Jacob and Picasso</em>, Editions de la Réunion des Musées Nationaux (Paris, France, 1994), repr. p. 4; text pp. 2-8
+                             </p>
+                                                      <p>
+                                              Pierre Daix, <em>Picasso au Bateau-Lavoir</em>, Flammarion (Paris, France, 1994), repr. in color p. 173, fig. 27
+                             </p>
+                                                      <p>
+                                              Brigitte Leal, <em>Picasso et les enfants</em>, Flammarion (Paris, France, 1996), pp. 46-7, repr. in color
+                             </p>
+                                                      <p>
+                                              <em>Le miroir noir: Picasso, sources photographiques 1900-1928</em>, exh. cat., Editions de la Réunion des Musées Nationaux (Paris, France, 1997), fig. 7
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Marilyn McCully, <em>Picasso: The Early Years, 1892-1906</em>, exh. cat., National Gallery of Art (Washington, D.C, 1997), no. 73, repr. in color; p. 357, in checklist
+                             </p>
+                                                      <p>
+                                              Dorothy Kosinski, <em>The Artist and the Camera: Degas to Picasso</em>, exh. cat., Yale University Press (New Haven, CT and London, 1999), p. 299
+                             </p>
+                                                      <p>
+                                              Dr. Michael Bennett, <em>The Empathetic Healer: An Endangered Species?</em>, Academic Press (San Diego, New York, Boston, 2001), repr. in b/w p. 133
+                             </p>
+                                                      <p>
+                                              Shelley Swanson Sateren, <em>Picasso</em>, Bridgestone Books (Capstone Press) (Mankato, MN, 2002), p. 8, repr. in color
+                             </p>
+                                                      <p>
+                                              Elizabeth Cowling, <em>Picasso:  Style and Meaning</em>, Phaidon Press Limited (London, 2002), p. 89, repr. in color as pl. 65
+                             </p>
+                                                      <p>
+                                              Barbara Rizza Mellin, "The Harvard University Art Museums", <em>The Middlesex Beat</em> (March 2006), pp. 6-7, ill. p. 6
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 181, ill.
+                             </p>
+                                                      <p>
+                                              Elizabeth M. Rudy, "Researching the Wertheim Collection at the Harvard Art Museums", <em>Collections: A Journal for Museum and Archives Professionals</em> (Summer 2014), Vol. 10, No. 3, pp. 301-6, p. 302
+                             </p>
+                                                      <p>
+                                              Uwe M. Schneede and Kathrin Baumstark, <em>Paula Modersohn-Becker Der Weg in die Moderne</em>, exh. cat., Hirmer (Hamburg, Germany, 2017), pp. 43-44, fig. 5b, ill. (color)
+                             </p>
+                                                      <p>
+                                              Michel Hilaire, <em>Picasso: Donner á voir</em>, exh. cat., Bernard Chauveau (La Garenne Colombes, France, 2018), pp. 124-125, ill. (color)
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Pablo Picasso</em>, Wadsworth Atheneum Museum of Art, Hartford, 02/06/1934 - 03/01/1934
+                            </p>
+                          <p>
+                              <em>Picasso, Forty Years of his Art</em>, Museum of Modern Art, New York, New York, 11/18/1939 - 01/07/1940; The Art Institute of Chicago, Chicago, 02/11/1940 - 03/02/1940; City Art Museum of St. Louis, St. Louis, 03/17/1940 - 04/14/1940; Museum of Fine Arts, Boston, Boston, 04/27/1940 - 05/28/1940; San Francisco Museum of Modern Art, San Francisco, 06/25/1940 - 07/22/1940
+                            </p>
+                          <p>
+                              <em>French Painting since 1870 lent by Maurice Wertheim, Class of 1906</em>, Fogg Art Museum, Cambridge, 06/01/1946 - 09/07/1946; National Gallery of Art, Washington, 07/01/1953 - 09/13/1953
+                            </p>
+                          <p>
+                              <em>Picasso Before 1907</em>, Knoedler & Co. Inc., New York, 10/01/1947 - 10/31/1947
+                            </p>
+                          <p>
+                              <em>La Peinture Française depuis 1870</em>, Musée de la Province de Quebec, 07/12/1949 - 08/07/1949
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, The Metropolitan Museum of Art, New York, 07/01/1952 - 09/14/1952
+                            </p>
+                          <p>
+                              <em>French Paintings Since 1870 from the Maurice Wertheim Collection</em>, National Gallery of Art, Washington, 06/01/1953 - 09/30/1953
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Philadelphia Museum of Art, Philadelphia, 06/15/1957 - 09/15/1957
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Minneapolis Institute of Arts, Minneapolis, 06/10/1958 - 08/31/1958
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Modern French Art--Monet to Picasso</em>, North Carolina Museum of Art, Raleigh, 06/17/1960 - 09/04/1960
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, The Museum of Fine Arts, Houston, Houston, 06/13/1962 - 09/02/1962
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Baltimore Museum of Art, Baltimore, 06/20/1963 - 09/01/1963
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Currier Museum of Art, Manchester, 06/24/1965 - 09/07/1965
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Rhode Island School of Design Museum, Providence, 09/03/1968 - 09/22/1968
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Montgomery Museum of Art, Montgomery, 06/01/1971 - 09/30/1971
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Maine State Museum, Augusta, 06/01/1972 - 09/01/1972
+                            </p>
+                          <p>
+                              <em>Manet to Matisse: The Maurice Wertheim Collection</em>, IBM Gallery of Science and Art, New York, 04/09/1985 - 05/25/1985
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, Isetan Department Store, Tokyo, 03/01/1990 - 04/10/1990; Yamaguchi Prefectural Museum of Art, 04/14/1990 - 05/13/1990
+                            </p>
+                          <p>
+                              <em>Picasso: The Early Years, 1892-1906</em>, Museum of Fine Arts, Boston, Boston, 09/10/1997 - 01/04/1998
+                            </p>
+                          <p>
+                              <em>Modern Art at Harvard</em>, Bunkamura Museum of Art, Tokyo, 07/31/1999 - 09/26/1999; Takamatsu City Museum of Art, Kagawa, 10/09/1999 - 11/14/1999; Matsuzakaya Art Museum, Nagoya, 12/02/1999 - 12/27/1999; Oita City Museum, Oita, 01/06/2000 - 02/06/2000; Museum of Modern Art, Ibaraki, Ibaraki, 02/11/2000 - 03/26/2000
+                            </p>
+                          <p>
+                              <em>Re-View: S427  Impressionist & Postimpressionist Art</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/02/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 1220 Wertheim</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347387">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:huam:STR007310_dynmc?width=256&height=256" alt="X-Radiograph(S) Of "maternite"">
+                                    <span class="related-artwork__obj">Straus.7894</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Pablo Ruiz Picasso</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Maternite"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347725">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8232</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Pablo Ruiz Picasso</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Woman and Child"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347727">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:huam:STR008658_dynmc?width=256&height=256" alt="X-Radiograph(S) Of "maternite "">
+                                    <span class="related-artwork__obj">Straus.8234</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Pablo Ruiz Picasso</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Maternite "</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347908">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:huam:STR012038_dynmc?width=256&height=256" alt="X-Radiograph(S) Of "maternite, Mother And Child"">
+                                    <span class="related-artwork__obj">Straus.8415</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Pablo Ruiz Picasso</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Maternite, Mother and Child"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC231461_dynmc?width=256&height=256" alt="Mother And Child">
+                <span class="popup__artwork-info-id">1951.57</span>
+        <span class="popup__artwork-info-author">
+                                    Pablo Ruiz Picasso
+                              </span>
+        <span class="popup__artwork-info-title">Mother and Child</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299993%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299993">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299993" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Mother+and+Child+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299993" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9546d0ea6525f8c6a95e876080886376" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

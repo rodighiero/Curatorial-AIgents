@@ -1,0 +1,786 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Illustrated Manuscript of Layla and Majnun by Hamdi </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Illustrated Manuscript of Layla and Majnun by Hamdi" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/215827"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC102334_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Illustrated Manuscript of Layla and Majnun by Hamdi" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18773933" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC102334_dynmc?width=3000&height=3000" data-initial-image-id="18773933" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">front cover</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?215827" data-behavior="add_to_collection tooltip" data-artwork="215827" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=215827&amp;image_id=DDC102334" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/215827/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC102334">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102334_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773933" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102334_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102335">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102335_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 1 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773934" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102335_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102353">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102353_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 1 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773952" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102353_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102356">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102356_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 2 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773955" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102356_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102355">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102355_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 2 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773954" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102355_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102336">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102336_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 14 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773935" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102336_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102352">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102352_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 14 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773951" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102352_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102337">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102337_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 22 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773936" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102337_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102351">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102351_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 22 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773950" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102351_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102338">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102338_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 39 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773937" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102338_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102350">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102350_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 39 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773949" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102350_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102339">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102339_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 46 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773938" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102339_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102349">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102349_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 46 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773948" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102349_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102340">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102340_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 50 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773939" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102340_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102348">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102348_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 50 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773947" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102348_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102341">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102341_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 108 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773940" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102341_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102347">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102347_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 108 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773946" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102347_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102342">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102342_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 110 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773941" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102342_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102346">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102346_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 110 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773945" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102346_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102345">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102345_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 122 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773944" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102345_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102343">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102343_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 123 recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773942" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102343_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC102344">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC102344_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of Layla And Majnun By Hamdi" data-object-caption="folio 123 verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="18773943" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102344_dynmc?width=125&height=125" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1985.212</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Illustrated Manuscript of Layla and Majnun by Hamdi</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Manuscripts</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            manuscript                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1579</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Middle East, Turkey                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Ottoman period</dd>
+                                        <dt>Culture</dt>
+                <dd>Ottoman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/215827">https://hvrd.art/o/215827</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Painting with text; ink, opaque watercolor and gold on paper, with lacquer binding</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>18.4 x 11.4 x 1.3 cm (7 1/4 x 4 1/2 x 1/2 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Jean Soustiel, Paris, possibly May 1975], sold; to Edwin Binney, 3rd, by 1977, bequest; to Harvard University Art Museum, 1985.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, The Edwin Binney, 3rd Collection of Turkish Art at the Harvard Art Museums</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1985</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1985.212</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>This is a small illustrated copy of Hamdi’s Layla and Majnun. Hamdi (d. 1503) was an Ottoman poet who wrote his Layla and Majnun in Turkish in 1499 after the famous Persian work of Jami with the same title. In fact Hamdi references in his own poetry Hatifi, the nephew of Jami who also composed a Layla and Majnun in Persian. Although this copy is not dated, notes added to the empty space at the beginning of the manuscript by the same hand who copied the rest of the manuscript include poems dedicated to Sokollu Mehmed Pasha’s death in 987 H/1579. The manuscript was therefore copied in or around 1579 and it may have been planned for this Pasha who was the grand vizier at that time. The square and oval shaped seals on the first and second folios must have belonged to later but unidentified owners.<br />
+The manuscript has 123 folios copied in two columns and 17 lines of nastaliq script. There is a small illuminated panel at the beginning of the text and seven illustrations spread to the entirety of the manuscript on folios 14r, 22v, 39v, 46v, 50v, 108v, and 110r. Although the relationship between the text and the illustrations is strong the painter uses his Ottoman context to depict a story that takes place in an Arab desert. The last folio which may have contained an original colophon has been replaced by another one. The lacquer binding is not original and probably belonged to a Qajar manuscript of late 18th century from Iran. Most likely the doublures (inner side of the covers) have been reversed to serve as the outside covers.<br />
+<br />
+The subject of the illustrations are:<br />
+14r:  Majnun disguised as a blind beggar comes to Layla’s house.<br />
+22v: Majnun’s father visits Layla’s father to marry his son to Layla.<br />
+39v: Layla and her friends enjoy the countryside on a spring day. <br />
+46v:  Majnun Sees the Battle between his Tribe and Layla's.<br />
+50v: The End of the Battle <br />
+108v: After Layla’s invitation Majnun happily goes to her and all the animals in the desert follow him. <br />
+110r: The Lovers are reunited under the Tent.<br />
+<br />
+</dd>
+                                                       </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Edwin Binney III, <em>Turkish Treasures from the Collection of Edwin Binney, 3rd</em>, exh. cat., Portland Art Museum (Portland, OR, 1979), page 6/figure 4
+                             </p>
+                                                      <p>
+                                              Serpil Bagci, Filiz Cagman, Gunsel Renda, and Zeren Tanindi, <em>Ottoman Painting</em> (Istanbul, 2010), p. 190, fig. 152.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>On the Path of Madness: Representations of Majnun in Persian, Turkish, and Indian Painting</em>, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 09/27/2007 - 03/23/2008
+                            </p>
+                      </dd>
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98175">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102336_dynmc?width=3000&height=3000" alt="Majnun Begging Before Layla's House (Painting With Text, Recto; Text, Verso Of Folio 14) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.14</span>
+                                                        <h3 class="related-artwork__title">Majnun Begging Before Layla's House (painting with text, recto; text, verso of folio 14) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98176">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102348_dynmc?width=3000&height=3000" alt="The End Of The Battle (Painting With Text, Verso; Text, Recto Of Folio 50) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.50</span>
+                                                        <h3 class="related-artwork__title">The End of the Battle (painting with text, verso; text, recto of folio 50) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98242">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102347_dynmc?width=3000&height=3000" alt="Majnun In The Desert (Painting With Text, Verso; Text, Recto Of Folio 108) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.108</span>
+                                                        <h3 class="related-artwork__title">Majnun in the Desert (painting with text, verso; text, recto of folio 108) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98519">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102349_dynmc?width=3000&height=3000" alt="Majnun Sees The Battle Between His Tribe And Layla's (Painting With Text, Verso; Text, Recto Of Folio 46) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.46</span>
+                                                        <h3 class="related-artwork__title">Majnun Sees the Battle between his Tribe and Layla's (painting with text, verso; text, recto of folio 46) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98523">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102351_dynmc?width=3000&height=3000" alt="Layla With Her Family (Painting With Text (Verso), Text (Recto) Of Folio 22) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.22</span>
+                                                        <h3 class="related-artwork__title">Layla with her Family (painting with text (verso), text (recto) of folio 22) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98524">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102350_dynmc?width=3000&height=3000" alt="Layla In The Country In Spring (Painting With Text, Verso; Text, Recto Of Folio 39) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.39</span>
+                                                        <h3 class="related-artwork__title">Layla in the Country in Spring (painting with text, verso; text, recto of folio 39) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98525">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102342_dynmc?width=3000&height=3000" alt="The Lovers Are Reunited Under The Tent (Painting With Text, Recto; Text, Verso Of Folio 110) Illustrated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.110</span>
+                                                        <h3 class="related-artwork__title">The Lovers are Reunited under the Tent (painting with text, recto; text, verso of folio 110) illustrated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/321058">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102353_dynmc?width=3000&height=3000" alt="Frontispiece (Verso), Text (Recto), Illuminated Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.1</span>
+                                                        <h3 class="related-artwork__title">Frontispiece (verso), Text (recto), illuminated folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/321059">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102356_dynmc?width=3000&height=3000" alt="Text (Recto And Verso), Folio From A Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.2</span>
+                                                        <h3 class="related-artwork__title">Text (recto and verso), folio from a Manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/321060">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102345_dynmc?width=3000&height=3000" alt="Text (Recto And Verso Of Folio 122), Folio From An Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.122</span>
+                                                        <h3 class="related-artwork__title">Text (recto and verso of folio 122), folio from an illustrated manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/321061">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102343_dynmc?width=3000&height=3000" alt="Text (Recto And Verso), Folio 123 From An Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                                    <span class="related-artwork__obj">1985.212.123</span>
+                                                        <h3 class="related-artwork__title">Text (recto and verso), folio 123 from an illustrated manuscript of Layla and Majnun by Hamdi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC102334_dynmc?width=200&height=200" alt="Illustrated Manuscript Of Layla And Majnun By Hamdi">
+                <span class="popup__artwork-info-id">1985.212</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Illustrated Manuscript of Layla and Majnun by Hamdi</span>
+        <span class="popup__artwork-info-class">Manuscripts</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20215827%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F215827">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F215827" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Illustrated+Manuscript+of+Layla+and+Majnun+by+Hamdi+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F215827" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/215827" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9d28df34867db9285cf042ca16012dc1" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,689 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Brazen Serpent </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Brazen Serpent" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/294921"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71166_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Brazen Serpent" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17804635" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71166_dynmc?width=3000&height=3000" data-initial-image-id="17804635" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?294921" data-behavior="add_to_collection tooltip" data-artwork="294921" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=294921&amp;image_id=71166" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/294921/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1982.50</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/33901>Michiel Coxcie</a>, Netherlandish                                                                                                                                                                                                                                                                          (Mechelen 1499 - 1592 Mechelen)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Brazen Serpent</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1533-39</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/294921">https://hvrd.art/o/294921</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink over black chalk on light tan antique laid paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>20.7 x 32.8 cm (8 1/8 x 12 15/16 in.)<br />
+mount: 29.1 x 41.2 cm (11 7/16 x 16 1/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          collector's mark: lower left, black ink, stamp: L. 628 (Richard Cosway)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower left, brown ink, pen: L. 1433, variant (John C. Robinson)
+                        </li>
+                                              <li data-a="2">
+                          blind stamp: lower left, blind stamp: L. 2445 (Thomas Lawrence)
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, lower left, graphite: 7 Michael Coxis
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, lower right, graphite: Cosway + Lawrence
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, verso, center, graphite: Michael Coxie / Cosway + Lawrence
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, verso, lower left, graphite: 16
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, verso, lower right, black ink: 11
+                        </li>
+                                              <li data-a="2">
+                          watermark: A bishop’s hat; closely related to Briquet 4969 (Colmar, 1531)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Richard Cosway, Esq., London (L. 628, lower left), probably sold; [G. Stanley, London, 14 21 February 1822, perhaps either lot 172 (as Heemskerk), lot 347 (as Bandinelli), or lot 572 (as Michelangelo)]. Sir Thomas Lawrence, London (L. 2445, lower left). [1] Possibly Samuel Woodburn, London, sold; [Christie’s, London, 20 June 1854, lot 794 (as Coxie, "The Deluge")]. Sir J. C. Robinson, London (L. 1433, variant, lower left), sold; [Christie's, London, 12 May 1902, lot 95]; to [F. J. Parsons, London.] Frederick N. Price (president of Ferargil Galleries), New York, given; to Swarthmore College, Swarthmore, Penn., 1933-41 (inv. no. 403), deaccessioned; to [James A. Bergquist, Boston] sold; to Fogg Art Museum, 1982; Curatorial Study Group Fund, Marian H. Phinney Fund, William C. Heilman Fund and Paul J. Sachs Memorial Fund, 1982.50.<br />
+<br />
+1. The drawing is not known in Lawrence's sales of 1830, 1831, or 1860, nor is it in his inventory housed in the Victoria and Albert Museum.<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 20 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>In Giorgio Vasari’s succinct formulation, it was Michiel Coxcie “who brought to Flanders the Italian manner.”<sup class="footnote" id="fnrev3247364465ef66422afa6a-1"><a href="#fn3247364465ef66422afa6a-1">1</a></sup> During an artistic career that spanned more than six decades, Coxcie played a major role in introducing Italian High Renaissance style into the pictorial arts of the Netherlands. According to artist–biographer Karel van Mander (1548–1606; <a href="https://www.harvardartmuseums.org/collections/object/177221?position=0">2001.135</a>), Coxcie studied with Bernard van Orley (<a href="https://www.harvardartmuseums.org/collections/object/144755?position=0">2002.22</a>) .<sup class="footnote" id="fnrev3247364465ef66422afa6a-2"><a href="#fn3247364465ef66422afa6a-2">2</a></sup> He probably arrived in Rome in the late 1520s, and about 1531 the Dutch cardinal Willem van Enckenvoirt commissioned him to paint frescoes with scenes from the life of Saint Barbara in the Church of Santa Maria dell’Anima. These impressed Vasari for “imitating very well our Italian manner.”<sup class="footnote" id="fnrev3247364465ef66422afa6a-3"><a href="#fn3247364465ef66422afa6a-3">3</a></sup> Enckenvoirt also supported Maarten van Heemskerck (<a href="https://www.harvardartmuseums.org/collections/object/311893?position=0">1994.155</a>), whose sojourn in Rome coincided with Coxcie’s. Like Heemskerck, Coxcie studied the works of Leonardo da Vinci, Raphael, Michelangelo, and Giulio Romano, as well as the sculpture and architectural remains of ancient Rome.<sup class="footnote" id="fnrev3247364465ef66422afa6a-4"><a href="#fn3247364465ef66422afa6a-4">4</a></sup> Back in the Netherlands by 1539, Coxcie worked primarily in Brussels but also fulfilled commissions from churches in Mechelen and Antwerp. In addition to painting altarpieces, devotional pictures, and portraits, he designed prints, tapestries, and stained glass. In the 1540s, Coxcie provided the cartoons for monumental windows donated by members of the imperial family to the Brussels church of Saint Gudule. He served as court painter to Mary of Hungary, regent of the Netherlands, and also worked for her brother, Holy Roman Emperor Charles V, and Charles’s son, King Philip II of Spain.<sup class="footnote" id="fnrev3247364465ef66422afa6a-5"><a href="#fn3247364465ef66422afa6a-5">5</a></sup></p>
+
+<p>The Harvard drawing illustrates a passage from the Book of Numbers (21:5–9). Weary from their journey in the wilderness near the Red Sea, the Israelites “spoke against God and against Moses.” The Lord sent fiery serpents that bit and killed many of the people. When they repented, Moses, following the Lord’s direction, “made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, and he beheld the serpent of brass, he lived.”<sup class="footnote" id="fnrev3247364465ef66422afa6a-6"><a href="#fn3247364465ef66422afa6a-6">6</a></sup> The drawing shows only the serpents attacking the people, but it has been cut down from a larger composition and, like Coxcie’s print of this subject (Fig. 1), might originally have included more of the narrative.<sup class="footnote" id="fnrev3247364465ef66422afa6a-7"><a href="#fn3247364465ef66422afa6a-7">7</a></sup></p>
+
+<p>The traditional attribution to Coxcie of the <em>Brazen Serpent</em>, documented by inscriptions on its mount, is sustained by comparison with a series of ten drawings in the British Museum that illustrate the <em>Loves of Jupiter</em>. Three of these bear Coxcie’s monogram, and all ten were reproduced in reverse in engravings by an unidentified printmaker.<sup class="footnote" id="fnrev3247364465ef66422afa6a-8"><a href="#fn3247364465ef66422afa6a-8">8</a></sup> As Molly Faries observed in her 1975 publication on the Harvard sheet, the systematic parallel and cross-hatched pen lines that model the figures are virtually identical to the disciplined strokes in the <em>Loves of Jupiter</em> drawings (Fig. 2).<sup class="footnote" id="fnrev3247364465ef66422afa6a-9"><a href="#fn3247364465ef66422afa6a-9">9</a></sup> The contours and handling of details such as hands, feet, hair, and musculature are also closely comparable. The affinity of its technique to that of the <em>Loves of Jupiter</em> not only confirms the attribution of the Harvard sheet, but also suggests a date for it during the same period as the designs for the print series. Faries convincingly assigned the Harvard composition and the <em>Loves of Jupiter</em> to Coxcie’s Roman years.<sup class="footnote" id="fnrev3247364465ef66422afa6a-10"><a href="#fn3247364465ef66422afa6a-10">10</a></sup> She further related the drawing to Coxcie’s only autograph print, an etching, later reinforced with etching and burin, that also represents <em>The Brazen Serpent</em> (see Fig. 1).<sup class="footnote" id="fnrev3247364465ef66422afa6a-11"><a href="#fn3247364465ef66422afa6a-11">11</a></sup> The print is signed <em>Mighel Flamingo inventur</em>, an Italianate form of his name that implies its publication in Rome.<sup class="footnote" id="fnrev3247364465ef66422afa6a-12"><a href="#fn3247364465ef66422afa6a-12">12</a></sup> None of the elements in the etching and drawing correspond exactly, so the Harvard work is not a direct study for the print, but a variant composition.<sup class="footnote" id="fnrev3247364465ef66422afa6a-13"><a href="#fn3247364465ef66422afa6a-13">13</a></sup></p>
+
+<p>Coxcie’s Roman works, with their complex poses, idealized musculature and proportions, and exalted facial expressions, register the impact of antique and Italian models—particularly works by Michelangelo—on his early development.<sup class="footnote" id="fnrev3247364465ef66422afa6a-14"><a href="#fn3247364465ef66422afa6a-14">14</a></sup> As Faries observed, the figure seen from the back at the upper left of the drawing was inspired by the Hellenistic sculptural fragment known as the <em>Belvedere Torso</em>, while the pose of the terrified man with drawn-up legs next to him derives from the <em>Deluge</em> on the Sistine ceiling. Most conspicuously, the outstretched, heroically suffering male figures at the center of the Harvard work and lower right of the <em>Brazen Serpent</em> etching were adapted from Michelangelo’s <em>Tityos</em>, one of the drawings the Italian master made in 1532–33 for Tommaso de’ Cavalieri.<sup class="footnote" id="fnrev3247364465ef66422afa6a-15"><a href="#fn3247364465ef66422afa6a-15">15</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-1"><sup><a href="#fnrev3247364465ef66422afa6a-1">1</a></sup> “che portò in Fiandra la maniera italiana”; Karel van Mander and ed. and trans. Hessel Miedema, <em>The Lives of the Illustrious Netherlandish and German Painters, from the First Edition of the Schilder-boeck (1603–04)</em> (Doornspijk, Netherlands 1994–99), vol. 4, p. 185 (n. 20).</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-2"><sup><a href="#fnrev3247364465ef66422afa6a-2">2</a></sup> Ibid., vol. 1, pp. 292–94, and vol. 4, p. 184; Koenraad Jonckheere and Ruben Suykerbuyk in Koenraad Jonckheere, ed., <em>Michiel Coxcie 1499–1592 and the Giants of His Age</em> (London and Turnhout, 2013), pp. 24–25. My thanks to Ruben Suykerbuyk for his comments on a draft of this entry.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-3"><sup><a href="#fnrev3247364465ef66422afa6a-3">3</a></sup> “imitando molto bene la maniera nostra d’Italia”; Van Mander/Miedema, vol. 4, p. 186 (n. 29). Coxcie completed the frescoes by 1534; Koenraad Jonckheere, Ruben Suykerbuyk, and Eckhard Leuschner in Jonckheere et al., pp. 26–27 and 53–63. A preparatory drawing for one of them was published by Achim Gnann and Domenico Laurenza, “Raphael’s Influence on Michiel Coxcie: Two New Drawings and a Painting,” <em>Master Drawings</em>, vol. 34, no. 3 (Fall 1996): 293–302, pp. 294–98, repr. fig. 5.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-4"><sup><a href="#fnrev3247364465ef66422afa6a-4">4</a></sup> Jonckheere in Jonckheere et al. 2013, pp. 66–97.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-5"><sup><a href="#fnrev3247364465ef66422afa6a-5">5</a></sup> Bob van den Boogert, “Habsburgs imperialisme en de verspreiding van renaissancevormen in de Nederlanden: De vensters van Michiel Coxcie in de Sint-Goedele te Brussel,” <em>Oud Holland</em>, vol. 106, no. 2 (1992): 57–80, pp. 60–72 and 76; Van Mander/Miedema, vol. 4, pp. 182–91; Almudena Pérez de Tudela and Melina Reintjens in Jonckheere et al., pp. 100–115 and 140–55.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-6"><sup><a href="#fnrev3247364465ef66422afa6a-6">6</a></sup> See Faries 1975, pp. 137– 38, on the popularity and significance of the subject during the sixteenth century.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-7"><sup><a href="#fnrev3247364465ef66422afa6a-7">7</a></sup> See below, notes 11 and 12, for the print.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-8"><sup><a href="#fnrev3247364465ef66422afa6a-8">8</a></sup> London, British Museum, 1861,0112.1–10. Arthur Ewart Popham, <em>Dutch and Flemish Drawings of the XV and <span class="caps">XVI</span> Centuries</em>, Vol. 5 in <em>Catalogue of Drawings by Dutch and Flemish Artists Preserved in the Department of Prints and Drawings in the British Museum</em> (London, 1932), [Coxcie], nos. 1–10, pp. 12–14; Koenraad Jonckheere and Joris van Grieken in Jonckheere et al. 2013, pp. 87–91 and 164–70. Nine of the ten drawings are executed in brown ink. One, <em>Jupiter in the Form of Diana, Enjoying Callisto</em> (1861,0112.10), is in black chalk. A set of the engravings is in the British Museum, 1925,1117.150–159, where they are attributed to the School of Marcantonio Raimondi. However, the traditional attribution of the prints to Cornelis Bos has recently been reconsidered; Joris van Grieken in Jonckheere et al. 2013, pp. 169–70. Virgil Solis engraved copies of seven of the prints (Hollstein, vol. 63, nos. 221–27, pp. 180– 83).</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-9"><sup><a href="#fnrev3247364465ef66422afa6a-9">9</a></sup> Molly Faries, “A Drawing of the Brazen Serpent by Michiel Coxie,” <em>Revue Belge d’Archeologie et d’Histoire de l’Art</em>, vol. 44 (1975): 131–41, pp. 131–35. <em>Jupiter, in the Form of Amphitryon, with Alcmena Seated on His Lap</em> (Fig. 2) is in brown ink; incised. 173 × 136 mm. London, British Museum, 1861,0112.3. Popham [Coxcie], no. 3, p. 13.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-10"><sup><a href="#fnrev3247364465ef66422afa6a-10">10</a></sup> Faries, pp. 133–36. Joris van Grieken in Jonckheere et al., pp. 164 and 181 (n. 43), also dated the drawings for <em>The Loves of Jupiter</em> to Coxcie’s Roman period, although he proposes (pp. 169–70) that the prints might have been produced after Coxcie returned to the Netherlands in 1539.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-11"><sup><a href="#fnrev3247364465ef66422afa6a-11">11</a></sup> Faries, pp. 133–36. Michiel Coxcie, <em>The Brazen Serpent</em> (Fig. 1). Etching and engraving. 297 × 428 mm. Cambridge, Harvard Art Museums/Fogg Museum, <a href="https://www.harvardartmuseums.org/collections/object/274000?position=0">G9083</a>. Hollstein, vol. 5, no. 1, p. 62. Edward Wouk in New Hollstein, Frans Floris, part 1, pp. l–li.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-12"><sup><a href="#fnrev3247364465ef66422afa6a-12">12</a></sup> Konrad Oberhuber, <em>Die Kunst der Graphik IV. Zwischen Renaissance und Barock: Das Zeitalter von Bruegel und Bellange</em> (Vienna: Graphische Sammlung Albertina), p. 89; Faries, pp. 136–37; Domenico Laurenza, on p. 112 of “Michel Coxcie à Rome et dans les Pays-Bas anciens: Nouvelles attributions,” in Eugeen Van Autenboer, Yvette vanden Bemden, Bob C. van den Boogert, et al., <em>Michel Coxcie: Pictor regis, 1499–1592</em> (International colloquium, Mechelen, 5–6 June 1992, published as one issue of <em>Handelingen van de Koninklijke Kring voor Oudheidkunde, Letteren en Kunst van Mechelen</em> (Mechelen, Belgium 1993), vol. 92, no. 2, 93–117), and again on pp. 30-31 of “Un Dessin de Giulio Clovio (1498–1578) d’après Michel Coxcie (1499–1592): De l’influence de Raphaël et de Michel-Ange sur des artistes de la génération de 1530,” <em>Revue du Louvre</em>, vol. 43, no. 3 (June 1994): 30–35, all dated the print to Coxcie’s Roman sojourn. Nicole Dacos, “Michiel Coxcie et les romanistes: A propos de quelques inédits,” in Van Autenboer et al.: 55–92, p. 78, dated the print after Coxcie returned to the Netherlands, citing the derivation of three figures in the print from Van Orley’s <em>Crucifixion in Bruges</em>, but the comparison is not compelling. More recently, Joris van Grieken also argued that Coxcie could have produced the <em>Brazen Serpent</em> print soon after he returned to the Netherlands in 1539; Joris van Grieken in Jonckheere et al., pp. 171–73.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-13"><sup><a href="#fnrev3247364465ef66422afa6a-13">13</a></sup> Faries, p. 136, concluded, “The drawing . . . is most likely a study related to the print in the sense that it represents an alternate composition.” Karel G. Boon, <em>The Netherlandish and German Drawings of the XVth and <span class="caps">XVI</span>th Centuries of the Frits Lugt Collection</em> (Paris, 1992), vol. 1, under cat. 61, p. 104, also regarded the drawing as a study for the print. Dacos, p. 78, dated the print later than the drawing, although she did not provide an argument for her dating.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-14"><sup><a href="#fnrev3247364465ef66422afa6a-14">14</a></sup> Faries, p. 136; Laurenza (1994), pp. 30–31.</p>
+
+<p class="footnote" id="fn3247364465ef66422afa6a-15"><sup><a href="#fnrev3247364465ef66422afa6a-15">15</a></sup> Faries, pp. 136–37. Faries also noted that Coxcie’s <em>Rape of Ganymede</em> in the <em>Loves of Jupiter</em> series is based on Michelangelo’s drawing of this subject, another gift to Tommaso de’ Cavalieri in 1532. For Michelangelo’s drawings for Tommaso de’ Cavalieri, see Stephanie Buck in Stephanie Buck et al., <em>Michelangelo’s Dream</em> (London: The Courtauld Gallery, 2010), cats. 2–8, pp. 110–45.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/294921/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Michiel Coxcie, <em>The Brazen Serpent</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/294921/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Michiel Coxcie, <em>Jupiter, in the Form of Amphitryon, with Alcmena Seated on His Lap</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Curatorial Study Group Fund, and the Marian H. Phinney, William C. Heilman and Paul J. Sachs Memorial Funds</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1982</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1982.50</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Molly Faries, "Swathmore's 'Underground' Art Collection", <em>Bulletin Swathmore College</em> (1971), December, pp. 15-17, pp. 15-17, repr. fig. 1
+                             </p>
+                                                      <p>
+                                              Molly Faries, "A Drawing of the Brazen Serpent by Michiel Coxie", <em>Revue Belge d'Archeologie et d'Histoire de l'Art</em> (1975), vol. 44, pp. 131-41, pp. 131-41, repr. p. 132, fig. 1
+                             </p>
+                                                      <p>
+                                              "Principales Acquisitions des Musées en 1982", <em>La Chronique des Arts</em>, Gazette des Beaux-Arts (March 1983), 6th series, vol. 101, pp. 29-30, no. 164, p. 30, repr.
+                             </p>
+                                                      <p>
+                                              Nicola Courtright, <em>Northern Travelers to Sixteenth-Century Italy: Drawings from New England Collections</em>, exh. cat., Trustees of Amherst College (Amherst, MA, 1990), cat. no. 2, pp. 2 and 14
+                             </p>
+                                                      <p>
+                                              Karel G. Boon, <em>The Netherlandish and German Drawings of the XVth and XVIth Centuries of the Frits Lugt Collection</em> (Paris, France, 1992), vol. 1, under cat. no. 61, pp. 104 and 105 (n. 9)
+                             </p>
+                                                      <p>
+                                              Nicole Dacos, “Michiel Coxcie et les romanistes: A propos de quelques inédits”, <em>Handelingen van de Koninklijke Kring voor Oudheidkunde, Letteren en Kunst van Mechelen (Michiel Coxcie, Pictor regis (1499-1592).  International colloquium, Mechelen, 5 en 6 juni 1992)</em> (1993), vol. 92, no. 2, pp. 55-92, p. 78
+                             </p>
+                                                      <p>
+                                              F. W. H. Hollstein, <em>The New Hollstein : Dutch & Flemish etchings, engravings, and woodcuts, 1450-1700</em>, Koninklijke van Poll, Rijksprentenkabinet, Rijksmuseum, and Sound + Vision Publishers (Roosendall, Rotterdam, and Ouderkerk aan den IJssel, 1993 - ongoing), Frans Floris (compiled by Edward H. Wouk, 2011), part I, p. xc (n. 176)
+                             </p>
+                                                      <p>
+                                              Suzanne Folds McCullagh and Laura Giles, <em>Italian Drawings before 1600 in The Art Institute of Chicago: A Catalogue of the Collection</em>, The Art Institute of Chicago/Princeton University Press (Chicago, IL and Princeton, NJ, 1997), under cat. no. 335, p. 258
+                             </p>
+                                                      <p>
+                                              Benoît Boëlens van Waesberghe, ed., <em>European Master Drawings Unveiled</em>, exh. cat., Ludion Amsterdam-Ghent (Amsterdam, 2002), under cat. no. 9, p. 30
+                             </p>
+                                                      <p>
+                                              Edward Wouk, "Raffaello fiammingo: the graphic work of Frans Floris de Vriendt (1519/20-1570)" (2010), Harvard University, p. 223 (n. 85)
+                             </p>
+                                                      <p>
+                                              Koenraad Jonckheere, ed., <em>Michiel Coxcie 1499-1592 and the Giants of his Age</em>, exh. cat., Turnhout (London, 2013), pp. 62, 63 (n. 36), 172, and 181 (n. 42)
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, p. 531
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 20, pp. 85-87, repr. p. 86
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Northern Renaissance Art: Selected Works</em>, Busch-Reisinger Museum, Cambridge, 02/28/1984 - 04/08/1984
+                            </p>
+                          <p>
+                              <em>Prints and Drawings from the Time of Holbein and Breugel</em>, Busch-Reisinger Museum, Cambridge, 11/21/1985 - 01/12/1986
+                            </p>
+                          <p>
+                              <em>Northern Travelers to 16th c. Italy: Drawings from New England Collections</em>, Mead Art Museum, Amherst, 10/29/1990 - 12/09/1990
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/351157">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8758</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Michiel Coxcie</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "The Brazen Serpent"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71166_dynmc?width=200&height=200" alt="The Brazen Serpent">
+                <span class="popup__artwork-info-id">1982.50</span>
+        <span class="popup__artwork-info-author">
+                                    Michiel Coxcie
+                              </span>
+        <span class="popup__artwork-info-title">The Brazen Serpent</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20294921%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294921">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294921" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Brazen+Serpent+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294921" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/294921" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_7ea4ab3eaf1ec2712512dcb94c0afe38" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

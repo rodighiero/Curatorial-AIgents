@@ -1,0 +1,715 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Head of a Woman </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Head of a Woman" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/304315"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:STR017482?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Head of a Woman" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_400095245" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:STR017482?width=3000&height=3000" data-initial-image-id="400095245" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?304315" data-behavior="add_to_collection tooltip" data-artwork="304315" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=304315&amp;image_id=STR017482" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/304315/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="STR017482">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017482?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095245" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017482?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC250131">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250131_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334351" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250131_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC250132">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250132_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334352" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250132_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC250133">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250133_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334353" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250133_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017483">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017483?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="View of the bottom edge" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095249" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017483?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017484">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017484?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="Detail of the hair" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095253" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017484?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017485">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017485?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="Detail of the bun of hair on the back of the head" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095257" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017485?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017486">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017486?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="View of the left side of the face and join surface at the neck" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095261" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017486?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19561">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19561_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181855" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19561_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19562">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19562_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181856" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19562_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19563">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19563_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181857" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19563_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19564">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19564_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181858" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19564_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19565">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19565_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181859" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19565_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19567">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19567_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181860" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19567_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19568">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19568_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181861" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19568_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19569">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19569_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181862" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:19569_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG5370">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG5370_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head Of A Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43163288" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG5370_dynmc?width=125&height=125" alt="Head Of A Woman">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Bronze is an alloy of copper and tin that has been used for thousands of years to make objects as diverse as sculpture and figurines, weapons and armor, and jewelry and tableware. The addition of tin and sometimes lead made the alloy more versatile and lowered its melting point; another common copper alloy is brass (copper and zinc), which was in widespread use in the Roman period. Although other materials, like stone, glass, and terracotta, were available, copper alloy items were valued for their golden sheen, versatility, and durability. The material lent prestige and beauty to objects like these statuettes, most of which would have been dedicated to the gods. Modern bronzes are often artificially patinated, like the Rodin sculpture in this colonnade. While ancient bronzes were sometimes gilded or deliberately darkened, the unaltered surfaces naturally acquired a red, green, or brown patina over time.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1970.21</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Head of a Woman</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Female Head with Fillet (Aphrodite?)                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture,                                          head                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>2nd century CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Roman Imperial period, Middle</dd>
+                                        <dt>Culture</dt>
+                <dd>Roman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/304315">https://hvrd.art/o/304315</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 3, Room 3200, Ancient Mediterranean and Near Eastern Art, Classical Sculpture<br>
+            <a href="/visit/floor-plan/3?gallery=3200" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leaded bronze</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>10.5 x 9 x 8.9 cm (4 1/8 x 3 9/16 x 3 1/2 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: ICP-MS/AAA data from sample, Leaded Bronze:<br />
+Cu, 83.56; Sn, 7.81; Pb, 8.22; Zn, 0.034; Fe, 0.18; Ni, 0.03; Ag, 0.07; Sb, 0.09; As, less than 0.10; Bi, less than 0.025; Co, less than 0.005; Au, less than 0.01; Cd, less than 0.001<br />
+J. Riederer</p>
+                                      <p class="divider">Chemical Composition: XRF data from Tracer<br />
+Alloy: Leaded Bronze<br />
+Alloying Elements: copper, tin, lead<br />
+Other Elements: iron<br />
+K. Eremin, January 2014</p>
+                                      <p class="divider">Technical Observations: The patina is dark green with spots of red and black. The surface has been cleaned down to the red cuprite layer in most areas and buffed to a very smooth finish. A small fill is present on the bottom of the hair bun.<br />
+ <br />
+Close confirmation of interior and exterior surfaces indicate the head was cast using an indirect lost-wax technique. A hole (3 mm wide) with a projecting flange in the interior, caused by pushing a hot core pin into the wax model, is well hidden by a patch (6 x 8 mm) on the top of the head at the fillet. The general hair and facial features were probably cast in the wax model, but finer lines in the hair and face were probably cut directly in the wax and further refined in the metal after casting. The degree of cold working is obscured by both corrosion and post-excavation cleaning. The bottom V-shaped edge of the neck is a finished cast surface. The surface was widened to c. 1 cm directly in the wax by the addition of a flange to provide a broad surface for contact at the join to the body. No solder or other material related to the join of the head with its body has survived. Flat surfaces on the top and bottom of the eye sockets (c. 4 mm deep) might have assisted in holding inlay or a composite of inlay materials. The earring holes (3 to 3.5 mm in diameter) are ancient. It is not clear if they were made in the wax or the metal. There is no evidence of secondary metal on the fillet or elsewhere on the head.<br />
+ <br />
+ <br />
+Henry Lie (submitted 2001)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Münzen und Medaillen, Basel, Auktion 40, December 13, 1969, no. 156,] sold; to Landon T. Clay, Boston, MA, gift; to Fogg Art Museum, 1970.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Landon T. Clay</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1970</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1970.21</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>The head of this woman, who is probably the goddess Venus, would have been put onto a separately made body. Her face is round, with a prominent nose, small mouth, curved chin, and pierced ears. Her eyes would have been inlaid with another material, and she would have worn earrings in her earlobes. She wears her hair in a style associated with Venus: a bow-like topknot on the top of her head and a bun at the back of her neck, which is secured with a fillet that is visible on the top of her head (1). Her hair is molded into wavy locks, and the high relief of the hair is crisp. The bottom surface of her neck forms a deep V-shape, removing any indication of a neck.<br />
+ <br />
+Many statue heads have a V-shaped neck and often also originally had inlaid eyes (2). Even full-sized statue heads had these features (3). The bodies of the bronze statues to which these heads belonged were cast in separate sections and then pieced together.<br />
+ <br />
+NOTES:<br />
+ <br />
+1. For the hairstyle, see A. Kaufmann-Heinimann, Götter und Lararien aus Augusta Raurica: Herstellung, Fundzusammenhänge und sakrale Funktion figürlicher Bronzen in einer römischen Stadt, Forschungen in Augst 26 (Augst, 1998) 173, figs. 124-25; and Lexicon Iconographicum Mythologiae Classicae Venus nos. 43, 88, 113, 116, 124, 184, 244-47, 268, and 359.<br />
+ <br />
+2. See, for example, M. Comstock and C. C. Vermeule, Greek, Etruscan and Roman Bronzes in the Museum of Fine Arts, Boston (Greenwich, CT, 1971) 68, no. 68; Los bronces romanos en España, exh. cat., Museo Nacional Centro de Arte Reina Sofia, Palacio de Velazquez (Madrid, 1990) 256, no. 176 (a youth); A. Kaufmann-Heinimann, Die römischen Bronzen der Schweiz 5: Neufunde und Nachträge (Mainz, 1994) no. 41 (a Minerva with pierced ears); A. Dostert, N. Franken, and U. Peltz, “‘Ein seltenes und interessantes Stück’: Die erste antike Grossbronze der königlichen Kunstsammlungen in Berlin und Potsdam,” Jahrbuch der Berliner Museen 50 (2008): 9-24, esp. figs. 1-6 and 13-14 (a youth, Staatliche Museen zu Berlin, inv. no. Fr. 1828). For discussion of a group of heads with this method of attachment, see F. Braemer, “Observations sur des grandes statuettes et des petits ‘grands bronzes’ représentant des types répandus a travers l’empire romain,” in Actes du IVe Colloque International sur les bronzes antiques, 17-21 mai 1976, ed. S. Boucher (Lyon, 1977) 41-52.<br />
+ <br />
+3. See the Apoxyomenos head in the Kimbell Art Museum, Fort Worth, inv. no. 2000.03 a,b; and the complete Apoxyomenos statue pulled from the sea near Lošinj, Croatia; M. Michelucci, ed., Apoxyomenos: The Athlete of Croatia (Florence, 2006).<br />
+ <br />
+ <br />
+Lisa M. Anderson</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Kunstwerke der Antike</em>, auct. cat., Münzen und Medaillen Deutschland GmbH (Germany, December 13, 1969), no. 153
+                             </p>
+                                                      <p>
+                                              David Gordon Mitten and Amy Brauer, <em>Dialogue with Antiquity, The Curatorial Achievement of George M. A. Hanfmann</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1982), p. 15, no. 57.
+                             </p>
+                                                      <p>
+                                              Henry Lie and Francesca Bewer, "Ex Aere Factum: Technical Notes on Ancient Bronzes", <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, ed. Susanne Ebbinghaus, Harvard Art Museums (Cambridge, MA, 2014), 38-63, pp. 53-54, fig. 2.10.a-c.
+                             </p>
+                                                      <p>
+                                              Susanne Ebbinghaus, ed., <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, Harvard Art Museum/Yale University Press (Cambridge, MA, 2014), pp. 53-54, 62, fig. 2.10a-c
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Dialogue with Antiquity: The Curatorial Achievement of George M.A. Hanfmann</em>, Fogg Art Museum, 05/07/1982 - 06/26/1982
+                            </p>
+                          <p>
+                              <em>Roman Gallery Installation (long-term)</em>, Harvard University Art Museums, Cambridge, 09/16/1999 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>32Q: 3200 West Arcade</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017482?width=200&height=200" alt="Head Of A Woman">
+                <span class="popup__artwork-info-id">1970.21</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Head of a Woman</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20304315%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F304315">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F304315" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Head+of+a+Woman+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F304315" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/304315" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_5f6c4e88b5f0086ea557cb20b4c2133d" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

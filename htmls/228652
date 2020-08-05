@@ -1,0 +1,921 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Singer with a Glove </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Singer with a Glove" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/228652"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:77644_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Singer with a Glove" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17917091" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:77644_dynmc?width=3000&height=3000" data-initial-image-id="17917091" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?228652" data-behavior="add_to_collection tooltip" data-artwork="228652" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=228652&amp;image_id=77644" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/228652/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="77644">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:77644_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hilaire-Germain-Edgar Degas"  title="Singer With A Glove" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17917091" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:77644_dynmc?width=125&height=125" alt="Singer With A Glove">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="45518">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:45518_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hilaire-Germain-Edgar Degas"  title="Singer With A Glove" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182746" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:45518_dynmc?width=125&height=125" alt="Singer With A Glove">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="52143">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:52143_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hilaire-Germain-Edgar Degas"  title="Singer With A Glove" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183518" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:52143_dynmc?width=125&height=125" alt="Singer With A Glove">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Because pastel paints can fade, this extraordinary work can be exhibited only for short periods of time.The colors of pastels that Degas chose are surprising: areas of black on the glove are matched with blacks in the background, and the metallic gold elements of the stage decoration enhance this darkness. The pose of the singer is bold, with her mouth open in mid-song, and her gloved hand that hovers before it indicates the physical effort of her performance.</p>
+<p>During the late 1870s, Degas and his friend the American artist Mary Cassatt were both working on pastels that depicted scenes from theaters in Paris. These public sites of urban leisure embodied the values of France’s newly established Third Republic, including the importance of secular entertainment and capitalist consumption. Although French women did not gain the right to vote until 1945, they were more visible in society during the 1870s, as artists, performers, and members of the audience at musical events.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1951.68</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/35055>Hilaire-Germain-Edgar Degas</a>, French                                                                                                                                                                                                                                                                          (Paris, France 1834 - 1917 Paris, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Singer with a Glove</dd>
+            
+                                                                                                                                                                                                                                                                                                                                                              <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Café Singer<br>                                                                                                              Original Language Title: Chanteuse de Café<br>                                                                                                              Original Language Title: Chanteuse au gant                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1878</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/228652">https://hvrd.art/o/228652</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 1, Room 1220, European Art, 19th–20th century, Collection of Maurice Wertheim, Class of 1906<br>
+            <a href="/visit/floor-plan/1?gallery=1220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Pastel on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>53.2 x 41 cm (20 15/16 x 16 1/8 in.)<br />
+framed: 86.8 x 74.7 x 9.5 cm (34 3/16 x 29 7/16 x 3 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: red pastel, u.l.: Degas
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Hilaire-Germain-Edgar Degas, 1878, sold; to Camille Groult, Paris (1879), by descent; to the Groult family (1947), sold; [through César M. de Hauke] to Dr. Fritz Heer, Zurich, sold; [through Thannhauser Gallery and César M. de Hauke, New York, 1948] to Maurice Wertheim (1949-1951), bequest;  to Fogg Art Museum, 1951.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1951</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1951.68</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK HAS SIGNIFICANT LOAN RESTRICTIONS BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              L. Leroy, "Fine Arts", <em>Le Charivari</em> (April 17, 1879), L 478 bis
+                             </p>
+                                                      <p>
+                                              <em>4e Exposition faite par un groupe d'artistes indépendants</em>, exh. cat., 28 av. del l'opera (Paris, France, 1879), no. 70
+                             </p>
+                                                      <p>
+                                              Paul André Lemoisne, <em>Degas et son Oeuvre</em>, Paul Brame and Cesar M. de Hauke (Paris, France, 1946-1949), v. II, no. 478 bis, p. 263 bis. repr.
+                             </p>
+                                                      <p>
+                                              Rodolfo Pallucchini, <em>Gli impressionisti alla XXIV biennale di Venezia</em>, D. Guarnati (Venice, Italy, 1948), no. 67
+                             </p>
+                                                      <p>
+                                              <em>La Peinture Française Depuis 1870: Collection Maurice Wertheim</em>, exh. cat., Tom Taylor (Québec, Canada, 1949), no. 7, pp. 20-22
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>The New York Times</em> (New York, NY, February 12, 1950), repr.
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>Fortune [magazine]</em> (June 1950), repr. p. 102
+                             </p>
+                                                      <p>
+                                              <em>A Collector's Exhibition: Impressionist and Post-Impressionist Masterpieces from the Collections of Members of the Advisory Committee of the Institute of Fine Arts.</em>, exh. cat., Knoedler & Co. Inc. (New York, NY, 1950), foreword, no. 6
+                             </p>
+                                                      <p>
+                                              Daniel Catton Rich, <em>Edgar-Hilaire-Germain Degas</em>, Harry N. Abrams, Inc. (New York, NY, 1951), p. 68
+                             </p>
+                                                      <p>
+                                              Carlyle Burrows, "Art: Wertheim Collection Shown at the Metropolitan", <em>New York Herald Tribune</em> (New York, NY, July 6, 1952), repr.
+                             </p>
+                                                      <p>
+                                              Howard Devree, "By French Masters: The Metropolitan Shows Wertheim Collection", <em>The New York Times</em> (New York, NY, July 6 1952), p. 6, p. 6, repr.
+                             </p>
+                                                      <p>
+                                              Charles McMurdy, <em>Pictorial Guide to Modern Art</em>, Macmillan and Co. (New York, NY, 1956), repr.
+                             </p>
+                                                      <p>
+                                              Howard Devree, "By French Masters: Memorable Loan Show in Philadelphia", <em>The New York Times</em> (New York, NY, July 7 1957), p. 70, p. 70
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Catalogue: Modern French Art-- Monet to Picasso</em>, exh. cat., North Carolina Museum of Art (Raleigh, NC, 1960), p. 10, repr. p. 11
+                             </p>
+                                                      <p>
+                                              <em>Masterpieces: loan exhibition of paintings and drawings. A memorial exhibition for Adele R. Levy; benefit of the Citizens' Committee for Children of New York, Inc.</em>, exh. cat., Wildenstein Gallery, New York (New York, NY, 1961), no. 36, repr.
+                             </p>
+                                                      <p>
+                                              Frank Jacoby and Sy Reit, <em>Canvas Confidential</em>, Dial Press (New York, NY, 1962), repr.
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, exh. cat., The Museum of Fine Arts, Houston (Houston, TX, 1962), p. 16
+                             </p>
+                                                      <p>
+                                              Jacques Lassaigne, <em>Toulouse-Lautrec e la Parigi dei Cabarets</em>, Fratelli Fabbri Editori (Milan, Italy, 1969), repr. in color
+                             </p>
+                                                      <p>
+                                              Franco Russoli and Fiorella Minervino, <em>L'opera completa di Degas</em>, Rizzoli Editore (Milan, Italy, 1970), repr. in color tav. XLI
+                             </p>
+                                                      <p>
+                                              Maria Blunden and Godfrey Blunden, <em>Impressionists and Impressionism</em>, Skira (Geneva, Switzerland, 1971), repr. in color p. 150
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection</em>, exh. cat., Maine State Museum (Augusta, ME, 1972), no. 4
+                             </p>
+                                                      <p>
+                                              John Coolidge, "Maurice and Cecile Wertheim", <em>Fogg Art Museum Newsletter</em>, Fogg Art Museum (Cambridge, MA, March 1975), p. 1
+                             </p>
+                                                      <p>
+                                              Alice Bellony-Rewald, <em>The Lost World of the Impressionists</em>, Weidenfeld & Nicolson (London, England, 1976), repr. p. 179
+                             </p>
+                                                      <p>
+                                              Ian Dunlop, <em>Degas</em>, Harper & Row (New York, NY, 1979), pp. 151, repr. p. 153 as color plate 143
+                             </p>
+                                                      <p>
+                                              <em>Degas, 1879</em>, exh. cat., National Gallery of Scotland (Edinburgh, Scotland, 1979), pp. 30-31
+                             </p>
+                                                      <p>
+                                              Michael Shapiro, "Degas and the Siamese Twins of the Café-Concert: the Ambassadeurs and the Alcazar d'Eté", <em>Gazette des Beaux-Arts</em> (April 1980), vol. XCV, pps. 161-162, 164, no. 28
+                             </p>
+                                                      <p>
+                                              Diane Kelder, <em>The Great Book of French Impressionism</em>, Abbeville Press (New York, NY, 1980), repr. in b/w p. 287
+                             </p>
+                                                      <p>
+                                              John Russell, <em>The Meanings of Modern Art</em>, Harper & Row (New York, NY, 1981), repr. in color p. 21
+                             </p>
+                                                      <p>
+                                              Yann Le Pichon, <em>Les Peintres du Bonheur</em>, Robert Laffont (Paris, France, 1983), repr. in b/w p. 150
+                             </p>
+                                                      <p>
+                                              Richard R. Brettell and Suzanne Folds McCullough, <em>Degas in the Art Institute of Chicago</em>, exh. cat., The Art Institute of Chicago/Harry N. Abrams (Chicago, IL and New York, NY, 1984), repr. in b/w fig. 38-2, p. 89
+                             </p>
+                                                      <p>
+                                              R. Mc Mullen, <em>Degas: His Life, Times, and Work</em> (Boston, MA, 1984), pp. 314, 315, repr. p. 325
+                             </p>
+                                                      <p>
+                                              Götz Adriani, <em>Edgar Degas: Pastelle, Ölskizzen, Zeichnungen</em>, exh. cat., DuMont Buchverlag (Köln, Germany, 1984), no. 126, p. 371
+                             </p>
+                                                      <p>
+                                              Geneviève Monnier, <em>Pastels: From the 16th to the 20th Century</em>, Skira Rizzoli (New York, NY, 1984), repr. in color p. 51
+                             </p>
+                                                      <p>
+                                              T. J. Clark, <em>The Painting of Modern Life: Paris in the Art of Manet and His Followers</em> (New York, NY, 1984), pp. 220-221, repr.
+                             </p>
+                                                      <p>
+                                              Elizabeth Deighton, ed., <em>Looking into Paintings</em>, The Open University/Faber and Faber (London, England, 1985), repr. in b/w fig. 64
+                             </p>
+                                                      <p>
+                                              Pia Desantis, "Study of the Five Degas Pastels in the Fogg Art Museum" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, July 1985), Unpublished, pp. 1-94 passim
+                             </p>
+                                                      <p>
+                                              Denys Sutton, <em>Edgar Degas, Life and Work</em>, Rizzoli (New York, NY, 1986), repr. in color pl. 209
+                             </p>
+                                                      <p>
+                                              Melissa McQuillan, <em>Impressionist Portraits</em>, Little, Brown & Company (Boston, MA, 1986), repr. in color p. 143 and text
+                             </p>
+                                                      <p>
+                                              Charles S. Moffett, <em>The New Painting: Impressionism, 1874-1886</em>, exh. cat., R. Burton (Geneva, Switzerland, 1986), p. 257
+                             </p>
+                                                      <p>
+                                              Greil Marcus, "The Dance That Everybody Forgot", <em>New Formations</em> (Summer 1987), vol. I, no. 2, pp. 37-78, fig. I
+                             </p>
+                                                      <p>
+                                              Richard Kendall, ed., <em>Degas by himself: Drawings, Prints, Paintings, Writings</em>, Macdonald Orbis (London, England, 1987), repr. in color p. 172
+                             </p>
+                                                      <p>
+                                              Bernard Denvir, <em>The Impressionists at First Hand</em>, Thames & Hudson (London, England, 1987), repr. in b/w p. 121
+                             </p>
+                                                      <p>
+                                              Alfred Nemeczek, "Edgar Degas: Malerei um jeden preis", <em>Art [Das Kunstmagazin]</em> (March 1988), no. 3, repr. in color p. 42
+                             </p>
+                                                      <p>
+                                              Robert Gordon and Andrew Forge, <em>Degas</em>, Thames & Hudson (London, England, 1988), repr. in color p. 115
+                             </p>
+                                                      <p>
+                                              Denis Rouart, <em>Degas in Search of His Technique</em>, Skira Rizzoli (New York, NY, 1988), repr. in color p. 22
+                             </p>
+                                                      <p>
+                                              John O'Brian, <em>Degas to Matisse: the Maurice Wertheim Collection</em>, Harry N. Abrams, Inc. and Fogg Art Museum (New York, NY and Cambridge, MA, 1988), no. 3, pp. 42-44, repr. in color p. 43
+                             </p>
+                                                      <p>
+                                              Robert L. Herbert, <em>Impressionism: Art, Leisure, and Parisian Society</em>, Yale University Press (New Haven, CT and London, England, 1988), repr. in color pl. 88, p. 90; text p. 91
+                             </p>
+                                                      <p>
+                                              Richard R. Brettell, <em>The Art of Paul Gauguin</em>, exh. cat., National Gallery of Art (Washington, D.C, 1988), repr. in b/w p. 23
+                             </p>
+                                                      <p>
+                                              Jacques Lassaigne, <em>Tout l'oeuvre peint de Degas</em>, Flammarion (Paris, France, 1988), repr. in color as plate XLI
+                             </p>
+                                                      <p>
+                                              Shelley Fletcher and Pia Desantis, "Degas: the search for his technique continues", <em>The Burlington Magazine</em> (April 1989), vol. 131, fig. 7, p. 261, and text pp. 260-261
+                             </p>
+                                                      <p>
+                                              Françoise Cachin, <em>Gauguin: "ce malgre moi de sauvage"</em>, Découvertes Gallimard (Paris, France, 1989), repr. in color p. 19
+                             </p>
+                                                      <p>
+                                              Edward Lucie-Smith, <em>Impressionist Women</em>, Weidenfeld & Nicolson (London, England, 1989), repr. in color fig. 110, p. 124
+                             </p>
+                                                      <p>
+                                              Frank Milner, <em>Degas</em>, Bison Group (London, England, 1990), repr. in color p. 129; text p. 128
+                             </p>
+                                                      <p>
+                                              Hilaire-Germain-Edgar Degas, <em>Degas by Degas</em>, ed. Rachel Barnes (Tokyo, Japan, 1990?), repr. in color opposite p. 50
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 105; repr. as no. 333
+                             </p>
+                                                      <p>
+                                              Nobuo Abe, <em>The Great History of Art: Impressionism</em> (Tokyo, Japan, 1990 - 1991), repr. in color p. 84
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, exh. cat., Harry N. Abrams, Inc. (New York, NY, 1990), repr. in color no. 15, p. 61 and cover (detail)
+                             </p>
+                                                      <p>
+                                              Bernd Growe, <em>Edgar Degas, 1834-1917</em>, Benedikt Taschen Verlag (Köln, Germany, 1991), repr. in color p. 56
+                             </p>
+                                                      <p>
+                                              Nicholas Wadley, <em>Impressionist and Post-Impressionist Drawing</em>, Dutton Studio Books, New York (New York, NY, 1991), repr. in b/w as fig. 19b, p. 120
+                             </p>
+                                                      <p>
+                                              Jean-Louis Ferrier, ed., <em>L'Aventure de l'Art au XIXe Siecle</em>, Chene-Hachette (Paris, France, 1991), repr. in color p. 685
+                             </p>
+                                                      <p>
+                                              Carol Armstrong, <em>Odd Man Out: Readings of the Work and Reputation of Edgar Degas</em>, University of Chicago Press (Chicago, IL and London, England, 1991), repr. in b/w fig. 21, p. 48; text p. 46
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs and Anne Maheux, <em>Degas Pastels</em>, George Braziller (New York, NY, 1992), repr. in color no. 17, p. 72
+                             </p>
+                                                      <p>
+                                              Diana Dethloff, ed., <em>Drawings: Masters and Methods: Raphael to Redon</em>, Philip Wilson Publishers / Royal Academy of Arts (London, England, 1992), repr. in b/w p. 169
+                             </p>
+                                                      <p>
+                                              Ingo F. Walther, <em>Malerei des Impressionismus, 1860-1920</em>, Benedikt Taschen Verlag (Köln, Germany, 1992), repr. in color p. 180
+                             </p>
+                                                      <p>
+                                              <em>The Canvas Seeks the Light</em>, Kodansha (Tokyo, Japan, 1992), repr. in color fig. 3-32, p. 65
+                             </p>
+                                                      <p>
+                                              <em>Degas</em>, Fenice 2000 (Milan, Italy, 1994), repr. in color, fig. 32, p. 61
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs, <em>Degas</em>, The Art Institute of Chicago (Chicago, IL, 1996), p. 39
+                             </p>
+                                                      <p>
+                                              Lillian Schacherl, <em>Edgar Degas: Dancers and Nudes</em>, Prestel (Munich, Germany and New York, NY, 1997), p. 70, repr. in color
+                             </p>
+                                                      <p>
+                                              Judith A. Barter, <em>Mary Cassatt: Modern Woman</em>, exh. cat., The Art Institute of Chicago/Harry N. Abrams (Chicago, IL and New York, NY, 1998), pp. 112-113
+                             </p>
+                                                      <p>
+                                              Linda Hutcheon and Michael Hutcheon, <em>Bodily Charm: Living Opera</em>, University of Nebraska Press (Lincoln, NE, 2000), repr. on cover
+                             </p>
+                                                      <p>
+                                              Ann Dumas and David A. Brenneman, <em>Degas and America: The Early Collectors</em>, exh. cat., High Museum of Art/MInneapolis Institute of Arts/Rizzoli (New York, NY, 2001), p. 30
+                             </p>
+                                                      <p>
+                                              Ann Dumas, <em>Degas e gli Italiani a Parigi</em>, exh. cat., Ferrara Arte SpA (Ferrara, Italy, 2003), p. 274, repr. in b/w as fig. 108
+                             </p>
+                                                      <p>
+                                              Peter Schmunk, "What Did Van Gogh Hear?: Vibrations, Wagner, and Voices", <em>Aural Cultures</em>, YYZ Books (Toronto, Ontario, Canada, 2004), pp. 37-47, p. 45; repr. p. 43 as fig. 3
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, ed., <em>Degas Classico e Moderno</em>, exh. cat., Skira (Milan, Italy, 2004), p. 23; repr. in b/w p. 25 as fig. 14
+                             </p>
+                                                      <p>
+                                              Lawrence Kramer, <em>Opera and Modern Culture: Wagner and Strauss</em>, University of California Press (Berkeley, CA, 2004), pp. 221-224, repr. in b/w as fig. 7; repr. in color on cover
+                             </p>
+                                                      <p>
+                                              Jon Garelick, "Abstract Thoughts: The Transitional and Transcendent Art of Edgar Degas at the Sackler Museum", <em>The Boston Phoenix</em> (August 5 2005), p. 18, p. 18, repr., and repr. on front of Arts section
+                             </p>
+                                                      <p>
+                                              "'Degas at Harvard' Opens Aug. 1 Alfred M. Sackler Museum", <em>Antiques and the Arts Weekly</em> (July 22, 2005), p. 59, repr. p. 59
+                             </p>
+                                                      <p>
+                                              Keith Powers, "Degas exhibit at Harvard makes a big impression", <em>The Boston Herald</em> (October 12 2005), ill.
+                             </p>
+                                                      <p>
+                                              Keith Powers, "Degas Vu", <em>Cambridge Chronicle</em> (October 20 2005), p. 17, repr. p. 17
+                             </p>
+                                                      <p>
+                                              Richard Kendall, "Degas", <em>The Burlington Magazine</em> (December 2005), CXLVII, pp. 847-848, p. 847, repr.
+                             </p>
+                                                      <p>
+                                              Holland Cotter, "Degas, Director: An Easel Becomes a Stage", <em>The New York Times</em> (August 5 2005), pp. B25, B27, p. B27; repr. p. B25
+                             </p>
+                                                      <p>
+                                              <em>"Distinguished Collection of Degas Masterworks Opens"</em>, website, August 4 2005, repr.
+                             </p>
+                                                      <p>
+                                              "Expositions", <em>Journal Français</em> (August 2005), repr.
+                             </p>
+                                                      <p>
+                                              "Fanfair: 31 Things to Do in August", <em>Vanity Fair</em> (August 2005), p. 68, repr. p. 68
+                             </p>
+                                                      <p>
+                                              Christopher Reed, "Mad for Degas", <em>Harvard Magazine</em> (July 2005 - August 2005), vol. 107, no. 6, pp. 40-45, p. 45, ill. and on cover
+                             </p>
+                                                      <p>
+                                              Carolyn V. Marsden, "Making an Impression", <em>Boston</em> (August 2005), p. 34, repr. p. 34
+                             </p>
+                                                      <p>
+                                              Bob Jackman, "Shades of Degas", <em>The Patriot Ledger</em> (August 6 2005-August 7 2005), pp. 39-40, repr. p. 39
+                             </p>
+                                                      <p>
+                                              [Reproduction only], "Spring Museum Preview", <em>The Boston Globe</em>, (April 10 2005)., p. N6, repr.
+                             </p>
+                                                      <p>
+                                              Randi Hopkins, "Women in Tights (and Towels)", <em>The Boston Phoenix</em> (July 22 2005), p. 23, ill. p. 23
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn and Jean Sutherland Boggs, <em>Degas at Harvard</em>, exh. cat., Harvard University Art Museums/Yale University Press (Cambridge and New Haven, 2005), pp. 58-60, repr. in color as fig. 31; no. 7, p. 98
+                             </p>
+                                                      <p>
+                                              Richard R. Brettell and Anne-Birgitte Fonsmark, <em>Gauguin and Impressionism</em>, exh. cat., Kimbell Art Museum / Ordrupgaard (Fort Worth TX / Copenhagen, 2005), pp. 136-137, repr. in color as fig. 97
+                             </p>
+                                                      <p>
+                                              Ruth Iskin, <em>Modern Women and Parisian Consumer Culture in Impressionist Painting</em>, Cambridge University Press (Cambridge, England, 2006), pp. 8-10, repr. in b/w as fig. 3
+                             </p>
+                                                      <p>
+                                              Elizabeth Cowling and Richard Kendall, <em>Picasso Looks at Degas</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, MA, 2010), fig. 41
+                             </p>
+                                                      <p>
+                               Laure-Marie Stasi, <em>Camille Groult (Paris 1832-1908 Paris): "le rose de Boucher et le rouge de Reynolds"</em>, Emile Wen Editions (Villejuif, 2013)
+                                            </p>
+                                                      <p>
+                                              <em>Oeuvres sur papier du XVIe au XXe siècle / Works on Paper from the 16th to the 20th Century</em>, auct. cat., Boquet & Marty de Cambiaire Fine Art (Paris, 2013), pp. 70, 114, repr. p. 70 as fig. 1
+                             </p>
+                                                      <p>
+                               Elizabeth M. Rudy, "Researching the Wertheim Collection at the Harvard Art Museums", <em>Collections: A Journal for Museum and Archives Professionals</em> (Summer 2014), Vol. 10, No. 3, pp. 301-6
+                                            </p>
+                                                      <p>
+                                              Thea Burns and Philippe Saunier, <em>The Art of the Pastel</em>, Abbeville Press (New York, 2014), repr. p. 258
+                             </p>
+                                                      <p>
+                                              <em>Degas</em>, Éditions Arola (Paris, 2017), p. 28, repr.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>4e Exposition des Impressionistes</em>, 28 Avenue de l'Opera, Paris, 01/01/1879 - 12/31/1879
+                            </p>
+                          <p>
+                              <em>Gli Impressionisti, Biennale de Venezia</em>, [Unknown venue, Venice], Venice, 01/01/1948 - 12/31/1948
+                            </p>
+                          <p>
+                              <em>La Peinture Française depuis 1870</em>, Musée de la Province de Quebec, 07/12/1949 - 08/07/1949
+                            </p>
+                          <p>
+                              <em>A Collector's Exhibition</em>, M. Knoedler & Co., Newport, 02/06/1950 - 02/25/1950
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, The Metropolitan Museum of Art, New York, 07/01/1952 - 09/14/1952
+                            </p>
+                          <p>
+                              <em>French Paintings Since 1870 from the Maurice Wertheim Collection</em>, National Gallery of Art, Washington, 06/01/1953 - 09/30/1953
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Philadelphia Museum of Art, Philadelphia, 06/15/1957 - 09/15/1957
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Minneapolis Institute of Arts, Minneapolis, 06/10/1958 - 08/31/1958
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Modern French Art--Monet to Picasso</em>, North Carolina Museum of Art, Raleigh, 06/17/1960 - 09/04/1960
+                            </p>
+                          <p>
+                              <em>Masterpieces: A Memorial Exhibition for Adele R. Levy</em>, Wildenstein Gallery, New York, New York, 04/06/1961 - 05/07/1961
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, The Museum of Fine Arts, Houston, Houston, 06/13/1962 - 09/02/1962
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Baltimore Museum of Art, Baltimore, 06/20/1963 - 09/01/1963
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Currier Museum of Art, Manchester, 06/24/1965 - 09/07/1965
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Rhode Island School of Design Museum, Providence, 09/03/1968 - 09/22/1968
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Montgomery Museum of Art, Montgomery, 06/01/1971 - 09/30/1971
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Maine State Museum, Augusta, 06/01/1972 - 09/01/1972
+                            </p>
+                          <p>
+                              <em>Manet to Matisse: The Maurice Wertheim Collection</em>, IBM Gallery of Science and Art, New York, 04/09/1985 - 05/25/1985
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, Isetan Department Store, Tokyo, 03/01/1990 - 04/10/1990; Yamaguchi Prefectural Museum of Art, 04/14/1990 - 05/13/1990
+                            </p>
+                          <p>
+                              <em>Degas at Harvard</em>, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 08/01/2005 - 11/27/2005
+                            </p>
+                          <p>
+                              <em>32Q: 1220 Wertheim</em>, Harvard Art Museums, Cambridge, 10/12/2016 - 01/06/2017; Harvard Art Museums, Cambridge, 02/14/2020 - 09/30/2020
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:77644_dynmc?width=200&height=200" alt="Singer With A Glove">
+                <span class="popup__artwork-info-id">1951.68</span>
+        <span class="popup__artwork-info-author">
+                                    Hilaire-Germain-Edgar Degas
+                              </span>
+        <span class="popup__artwork-info-title">Singer with a Glove</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20228652%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228652">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228652" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Singer+with+a+Glove+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228652" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/228652" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_46fea7011746ff7bad453fa96f9ddbe8" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

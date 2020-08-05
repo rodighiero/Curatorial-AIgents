@@ -1,0 +1,662 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Study of a Seated Woman </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Study of a Seated Woman" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/199107"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71819_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Study of a Seated Woman" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481336" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71819_dynmc?width=3000&height=3000" data-initial-image-id="18481336" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?199107" data-behavior="add_to_collection tooltip" data-artwork="199107" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=199107&amp;image_id=71819" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/199107/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71819">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71819_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Gerrit Adriaensz Berckheyde"  title="Study Of A Seated Woman" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18481336" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71819_dynmc?width=125&height=125" alt="Study Of A Seated Woman">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011621">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011621_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Gerrit Adriaensz Berckheyde"  title="Study Of A Seated Woman" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535261" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011621_dynmc?width=125&height=125" alt="Study Of A Seated Woman">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2009.207</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27593>Gerrit Adriaensz Berckheyde</a>, Dutch                                                                                                                                                                                                                                                                          (Haarlem 1638 - 1698 Haarlem)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Study of a Seated Woman</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1660-1662</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/199107">https://hvrd.art/o/199107</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk on cream antique laid paper, framing line in brown ink, reinforced in black ink at top and left</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>27.2 x 17.8 cm (10 11/16 x 7 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, upper left, graphite: 55
+                        </li>
+                                              <li data-a="2">
+                          watermark: Single-wired LR; variant countermark of Heawood 1997 (1665)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Mrs. N. J. van Lessen, Wassenaar, sold; [Sotheby's, London, 11 March 1964, lot 184 as Cornelis Bega]. [Gebr. Douwes, Amsterdam]. J. A. van Dongen, Amsterdam, by 1968, sold; to Maida and George Abrams, Boston, 1971, (L. 3306, verso, lower left); The Maida and George Abrams Collection, 2009.207.<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 5 by Susan Anderson:  </p>
+                    
+              <div class="entry-text">
+                <p>Gerrit Berckheyde specialized in painted city views and landscapes of Germany, Italy, and the Netherlands after studying at the knee of his brother, the architectural painter Job Berckheyde. Before entering Haarlem’s Guild of Saint Luke in 1660, Gerrit traveled with Job along the Rhine in Germany, at which time both gained employment and esteem from Charles Louis, Elector Palatine. After his return to Haarlem, Gerrit participated in an artists’ <em>collegia</em>, an informal group who drew from live models. The circle included his closest stylistic compatriot, Cornelis Bega (<a href="https://www.harvardartmuseums.org/collections/object/199106?position=0">25.1998.93</a>), and likely Leendert van der Cooghen (<a href="https://www.harvardartmuseums.org/collections/object/297209?position=0">1951.3</a>), as well as Dirck Helmbreeker and others.<sup class="footnote" id="fnrev15304473985ef66421a5349-1"><a href="#fn15304473985ef66421a5349-1">1</a></sup></p>
+
+<p>Peter Schatborn initially attributed five drawings to Berckheyde, based on either their relationships to his paintings or early inscriptions bearing his name. Using stylistic comparisons with the drawings on Schatborn’s list, Mary Ann Scott then tentatively expanded the tally to thirty-three drawings as by Berckheyde or his circle. The group consists of figure studies, mostly of women, in black or red chalk. According to Schatborn, Berckheyde’s figure studies may be differentiated from those of Bega (under whose name they have often traveled) by their looser, sketchier style, their even tonality, and their tidily drawn, sausagelike hands. Scott further notes Berckheyde’s interest in comfortable postures; his scrupulous depiction of faces and hands and gentle handling of chalk; and the frequent presence of a prop, such as a seat or the footwarmer shown here, to balance the composition.<sup class="footnote" id="fnrev15304473985ef66421a5349-2"><a href="#fn15304473985ef66421a5349-2">2</a></sup></p>
+
+<p>Bega and Berckheyde are known to have shared models. In this sheet, the “Amsterdam model” makes an appearance, recognizable by her full, youthful face and so called by Scott because of her first appearance in a tavern scene by Bega of circa 1660 (now in the Rijksmuseum, Amsterdam). Bega depicted her again twice in 1662, further refining the date for our sheet.<sup class="footnote" id="fnrev15304473985ef66421a5349-3"><a href="#fn15304473985ef66421a5349-3">3</a></sup> The Harvard drawing also includes a popular costume featuring a turbaned headdress and horizontally banded bodice, shown here on the model, who is seated facing right. The same model, standing, wears this costume again in a drawing in Amsterdam (Fig. 1).<sup class="footnote" id="fnrev15304473985ef66421a5349-4"><a href="#fn15304473985ef66421a5349-4">4</a></sup> In both cases, Berckheyde drew her from the same viewpoint, slightly below and to the right. As William W. Robinson and Pieter Roelofs have noted, this dress appears in other figure studies by a variety of similar hands.<sup class="footnote" id="fnrev15304473985ef66421a5349-5"><a href="#fn15304473985ef66421a5349-5">5</a></sup> Closest to our sheet is one by an anonymous artist, portraying the figure in almost the same seated pose as our drawing, but from a vantage point slightly farther right (Fig. 2), implying that Berckheyde and others executed these sheets while seated next to one another during the same session.<sup class="footnote" id="fnrev15304473985ef66421a5349-6"><a href="#fn15304473985ef66421a5349-6">6</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn15304473985ef66421a5349-1"><sup><a href="#fnrev15304473985ef66421a5349-1">1</a></sup> For Berckheyde’s biography and a discussion of his paintings, see Cynthia M. Lawrence, <em>Gerrit Adriaensz. Berckheyde (1638–1698): Haarlem Cityscape Painter</em> (Doornspijk, 1991). Mary Ann Scott attempted a preliminary catalogue of Berckheyde’s drawings as a subset of her dissertation on Cornelis Bega; see Scott, <em>Cornelis Bega as Painter and Draughtsman</em>. Ph.D. thesis (University of Maryland, College Park, MD 1984), pp. 131–38 and 430–38. For the coterie of draftsmen active in Haarlem around mid-century, see Baukje Coenen in <em>Cornelis Bega: Eleganz und raue Sitten</em>, eds. Peter van den Brink, Bernd Wolfgang Lindemann, et al., (Aachen, Germany: Suermondt-Ludwig-Museum; Berlin: Staatliche Museen zu Berlin, Gemäldegalerie, 2012), p. 51; Scott, pp. 88, 93–96, and 138–44; and Peter Schatborn in <em>Dutch Figure Drawings from the Seventeenth Century</em>. (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Washington, DC: National Gallery of Art, 1981), pp. 99–109.</p>
+
+<p class="footnote" id="fn15304473985ef66421a5349-2"><sup><a href="#fnrev15304473985ef66421a5349-2">2</a></sup> Schatborn, pp. 108–9, and Scott, pp. 131–38 and 430–38.</p>
+
+<p class="footnote" id="fn15304473985ef66421a5349-3"><sup><a href="#fnrev15304473985ef66421a5349-3">3</a></sup> Bega, <em>Peasants Making Music and Dancing</em>, oil on canvas, 47 × 40.5 cm, Amsterdam, Rijksmuseum, SK‑A‑24 (see Scott, cat. 133, p. 328 and Van den Brink et al., cat. 41, pp. 178–80, repr.); Bega, <em>Tavern Scene</em>, oil on canvas, 38.4 × 33.6 cm, York Art Gallery, Lycett Green Collection, 782 (see Scott, cat. 85, p. 307, and Van den Brink et al., under cat. 37, p. 171, repr. fig. cat. 37a); Bega, <em>Two Figures and a Mother with a Spirits Bottle</em>, oil on canvas, 44.5 × 40 cm, Duke of Sutherland, Mertoun House, St. Boswells, Scottish Borders, Scotland (see Scott, cat. 62, p. 297, repr. fig. 286, and Van den Brink et al., under cat. 37, p. 171). For the “Amsterdam model,” see Baukje Coenen in Van den Brink et al., p. 51 and cat. 37, pp. 169–71, and Scott, pp. 88–89.</p>
+
+<p class="footnote" id="fn15304473985ef66421a5349-4"><sup><a href="#fnrev15304473985ef66421a5349-4">4</a></sup> Berckheyde, <em>Standing Woman</em> (Fig. 1), black chalk, 296 × 154 mm, Amsterdam, Rijksmuseum, RP-T-1883-A-265 Scott, cat. GB1). Schatborn noted the similarity between these two drawings, which William Robinson and Pieter Roelofs confirmed. See Schatborn, p. 130; William Robinson in <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Vienna: Albertina; New York: Pierpont Morgan Library; Cambridge: Harvard University Art Museums, 1991), p. 206; and Pieter Roelofs in Bernard Aikema, Pieter van der Coelen, and Pieter Roelofs, <em>Meesters op papier: Nederlandse tekeningen uit een particuliere collectie (17de–19de eeuw)</em>  (Nijmegen, Netherlands: Museum Het Valkhof, 2002), p. 86. Although variations on the Amsterdam standing figure appear in several of Berckheyde’s paintings dating from 1661 or later, our <em>Seated Woman</em> has no clear painted counterparts.</p>
+
+<p class="footnote" id="fn15304473985ef66421a5349-5"><sup><a href="#fnrev15304473985ef66421a5349-5">5</a></sup> See Robinson, p. 206 (n. 6), and Roelofs in Aikema, Van der Coelen, and Roelofs, pp. 86–89, who both note Circle of Bega, <em>Standing Woman Holding a Basket</em>, sold at K. E. Henrici, 21–23 June 1917, lot 8 (as Bega); and Circle of Bega, <em>Standing Woman with a Bundle under Her Arm</em>, private collection, Paris, in 1973 (photo at the Netherlands Institute of Art History [RKD]). Roelofs adds Circle of Bega, <em>Seated Woman</em>, black chalk, 280 × 200 mm, Heino, Kasteel ’t Nijenhuis, Stichting Hannema–De Stuers Fundatie (Scott, cat. D111, as questionably Bega; also noted by Schatborn as with Boerner in 1937; Schatborn, p. 130); William Robinson also suggests <em>Seated Woman</em>, Roger and Naomi Gordon, Boston (Franklin Robinson, <em>Old Master Drawings from the Gordon Collection: A loan exhibition at the Danforth Museum, Framingham, Massachusetts, October 15 through December 15, 1977</em> (Framingham, MA: Danforth Museum, 1977), cat. 11, repr., as Cornelis Bega, and Scott, cat. GB14 as “probably G. Berckheyde”), although the model does not wear the banded bodice. The present author adds Berckheyde, <em>Woman with Spirits Bottle</em>, red chalk, 261 × 153 mm, Paris, Musée du Louvre, 22432 (as Bega) (Scott, cat. GB31); Attributed to Bega, <em>Seated Woman Leaning on Her Arm</em>, red and white chalk, 292 × 213 mm, sold at Christie’s, London, 9 July 2002, lot 26 (not in Scott); and Berckheyde, <em>Seated Young Woman</em>, red chalk, 210 × 171 mm, Metropolitan Museum of Art, New York, 1998.150 (not in Scott). The banded bodice also appears in one of Bega’s rare oil sketches, <em>Seated Woman with a Footwarmer</em>, oil on paper adhered to panel, 244 × 170 mm, Maida and George Abrams Collection, Boston (Van den Brink et al., cat. 36 and Scott, cat. D16).</p>
+
+<p class="footnote" id="fn15304473985ef66421a5349-6"><sup><a href="#fnrev15304473985ef66421a5349-6">6</a></sup> Circle of Bega, <em>Seated Woman</em> (Fig. 2), black chalk, 248 × 160 mm, private collection (Aikema, Van der Coelen, and Roelofs, cat. 23). Schatborn initially recognized the same anonymous hand in a small group of drawings, which Roelofs has acknowledged but to which he could not comfortably connect this sheet on the basis of photographs. The present author finds the photographic evidence sufficiently convincing. The group includes a drawing attributed to Gerrit Berckheyde, <em>A Standing Woman</em>, red chalk, 251 × 122 mm, sold at Sotheby’s, London, 3 July 2013, lot 126; <em>Seated Woman with Footwarmer, Turned Slightly to the Left, Eyes Closed</em>, red chalk, 245 × 165 mm, Kupferstichkabinett Berlin, KdZ 5912 (Scott, cat. D142); <em>Seated Woman with Footwarmer, Turned to Right</em>, red chalk, 216 × 155 mm, Kasteel ’t Nijenhuis, Heino, Stichting Hannema–De Stuers Fundatie (Scott, cat. D172, style of Bega); and <em>Seated Woman with Footwarmer, Right Hand Supporting Her Head</em>, Kasteel ’t Nijenhuis, Heino, Stichting Hannema–De Stuers Fundatie (Scott, cat. D173, style of Bega). See Schatborn, cat. 16, pp. 130–31; Roelofs in Aikema, Van der Coelen, and Roelofs, pp. 86–89.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/199107/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Gerrit Berckheyde, <em>Standing Woman</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/199107/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Circle of Bega, <em>Seated Woman</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2009</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2009.207</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              J. E. de Bruyn Kops, <em>Schilderijen, tekeningen en beeldhouwwerken, 16e-20e eeuw, uit de verzameling van J. A. van Dongen</em>, exh. cat. (Amsterdam, The Netherlands, 1968), cat. no. 26, p. 13 (as Bega)
+                             </p>
+                                                      <p>
+                                              <em>Tekeningen uit de Collectie Dr. J. A. van Dongen</em>, exh. cat., Singer Museum (Laren, The Netherlands, 1971), cat. no. 15, n.p., as Cornelis Bega
+                             </p>
+                                                      <p>
+                                              Franklin W. Robinson, ed., <em>Things of this World:  A Selection of Dutch Drawings from the Collection of Maida and George Abrams</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, MA, 1972), cat. no. 3, pp. 14 and 21, repr. p. 34 as Bega
+                             </p>
+                                                      <p>
+                                              Ebria Feinblatt, <em>Old Master Drawings from American Collections</em>, exh. cat., Los Angeles County Museum of Art/Allanheld & Schram (Los Angeles, 1976), cat. no. 200, p. 182, repr. fig. 200, as Cornelis Bega
+                             </p>
+                                                      <p>
+                                              Peter Schatborn, <em>Dutch Figure Drawings from the Seventeenth Century</em>, exh. cat., Government Publishing Office (The Hague, Netherlands, 1981), under cat. no. 16, p. 130
+                             </p>
+                                                      <p>
+                                              Frima Fox Hofrichter, <em>Haarlem:  The Seventeenth Century</em>, exh. cat., Jane Voorhees Zimmerli Art Museum (New Brunswick, NJ, 1983), cat. no. 8, p. 58, repr.
+                             </p>
+                                                      <p>
+                                              Mary Ann Scott, "Cornelis Bega as Painter and Draughtsman" (1984), University Microfilms, vol. 1, cat. no. GB10, pp. 88-89, 137, and 432, repr. vol. 2, p. 541, figs. 125 and 126 (detail)
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 94, pp. 10 and 206-7, repr.
+                             </p>
+                                                      <p>
+                                              Bernard Aikema, Pieter van der Coelen, and Pieter Roelofs, <em>Meesters op papier: Nederlandse tekeningen uit een particuliere collectie (17de - 19de eeuw)</em>, exh. cat., Museum Het Valkhof and Waanders Uitgevers (2002), p. 86 (n. 2), repr. fig. 2
+                             </p>
+                                                      <p>
+                                              Jane Turner and Felice Stampfle, <em>Dutch Drawings in the Pierpont Morgan Library, Seventeenth to Nineteenth Centuries</em>, Pierpont Morgan Library (New York, 2006), vol. 1, p. 34, under cat. no. 27
+                             </p>
+                                                      <p>
+                                              Peter van den Brink and Bernd Wolfgang Lindemann, <em>Cornelis Bega:  Eleganz und raue Sitten</em>, exh. cat., Staatliche Museen zu Berlin (Berlin, 2012), under cat. no. 36, p. 169
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 5, pp. 40-42, repr. p. 41; watermark p. 374
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Schilderijen, tekeningen en beeldhouwwerken 16e-20e eeuw uit de verzameling Dr. J. A. van Dongen</em>, Museum Willet Holthuysen, Amsterdam, 04/25/1968 - 06/16/1968
+                            </p>
+                          <p>
+                              <em>Tekeningen uit de Collectie Dr. J. A. van Dongen</em>, Singer Museum, Laren, 02/27/1971 - 04/12/1971
+                            </p>
+                          <p>
+                              <em>Things of this World:  A Selection of Dutch Drawings from the Collection of Maida and George Abrams</em>, Sterling and Francine Clark Art Institute, Williamstown, 10/31/1972 - 02/25/1973
+                            </p>
+                          <p>
+                              <em>Old Master Drawings from American Collections</em>, Los Angeles County Museum of Art, Los Angeles, 04/29/1976 - 06/13/1976
+                            </p>
+                          <p>
+                              <em>Haarlem:  The Seventeenth Century</em>, Jane Voorhees Zimmerli Art Museum, New Brunswick, 02/20/1983 - 04/17/1983
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Abrams 50th reunion exhibition</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 06/01/2004 - 06/14/2004
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71819_dynmc?width=200&height=200" alt="Study Of A Seated Woman">
+                <span class="popup__artwork-info-id">2009.207</span>
+        <span class="popup__artwork-info-author">
+                                    Gerrit Adriaensz Berckheyde
+                              </span>
+        <span class="popup__artwork-info-title">Study of a Seated Woman</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20199107%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F199107">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F199107" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Study+of+a+Seated+Woman+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F199107" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/199107" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_41983099b9a96e27f31e5a941be63ac2" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

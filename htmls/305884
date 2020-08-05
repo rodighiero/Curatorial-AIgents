@@ -1,0 +1,723 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A Bridle Path in Tahiti </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A Bridle Path in Tahiti" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/305884"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:62097_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A Bridle Path in Tahiti" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17804705" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:62097_dynmc?width=3000&height=3000" data-initial-image-id="17804705" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?305884" data-behavior="add_to_collection tooltip" data-artwork="305884" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=305884&amp;image_id=62097" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/305884/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1917.4</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27029>John La Farge</a>, American                                                                                                                                                                                                                                                                          (New York, NY 1835 - 1910 Providence, RI)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A Bridle Path in Tahiti</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Bridle-Path, Tahiti                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1900</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/305884">https://hvrd.art/o/305884</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Gouache and watercolor over graphite on off-white wove paper mounted on cardboard</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>48 x 51.8 cm (18 7/8 x 20 3/8 in.)<br />
+frame: 75.7 × 82 × 1.7 cm (29 13/16 × 32 5/16 × 11/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          exhibition label: [1987], backing board, paper: No. 85
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: [1945], backing board, paper: No. L53-45
+                        </li>
+                                              <li data-a="2">
+                          label: [1936], backing board, paper: [partial exhibition label:] Special Loan Exhibition: La Farge Memorial
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: [1946], backing board, paper: No. 2432.46
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: [1936], backing board, paper: No. 327.36.
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Purchased by Doll and Richards (from artist?), Boston, 1901; purchased by Dr. Alexander C. Humphreys, New York, by 1907; his estate sale, American Art Association, New York, 1917; purchased at that sale by Edward D. Bettens, Cambridge, MA.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Edward D. Bettens to the Louise E. Bettens Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1917</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1917.4</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Henry A. La Farge, <em>Catalogue Raisonné of the Works of John La Farge</em>, Unpublished (n.d.), card 371
+                             </p>
+                                                      <p>
+                                              "The Art World", <em>The Commercial Advertiser [New York ]</em> (New York, NY, November 10, 1900), p. 6
+                             </p>
+                                                      <p>
+                                              John La Farge, "Passages from a Diary in the Pacific: Tahiti", <em>Scribner's Magazine</em> (July 1901), pp. 69-83, ill. p. 79
+                             </p>
+                                                      <p>
+                                              "Pictures by John La Farge", <em>The New York Times</em> (New York, NY, January 25, 1901), p. 7, p. 7
+                             </p>
+                                                      <p>
+                                              Carnegie Institute, <em>Catalogue of Works by John La Farge</em>, exh. cat. (Pittsburgh, PA, 1901), cat. 90
+                             </p>
+                                                      <p>
+                                              <em>Catalogue of Works by John La Farge</em>, exh. cat., Montross Gallery (New York, NY, 1901), cat. 102
+                             </p>
+                                                      <p>
+                                              "La Farge Exhibits Many Paintings", <em>The Boston Herald</em> (Boston, MA, February 29, 1904), p. 5, p. 5
+                             </p>
+                                                      <p>
+                                              "Auction Sales 1916 - 1917", <em>American Art Annual</em> (New York, NY, 1917), no. 14, p. 370, p. 370
+                             </p>
+                                                      <p>
+                                              Edward Detraz Bettens, <em>Painter and Patron</em>, [Privately printed] (New York, NY, 1918), p. 8
+                             </p>
+                                                      <p>
+                                              Women's Civic Club, <em>Exhibition of Paintings by American Artists</em>, exh. cat., Crandall Free Library (Glens Falls, NY, 1933), cat. 15
+                             </p>
+                                                      <p>
+                                              The Metropolitan Museum of Art, <em>An Exhibition of the Work of John La Farge</em>, exh. cat., Blanchard Press, Inc. (New York, NY, 1936), no. 64, reproduced in b/w
+                             </p>
+                                                      <p>
+                                              Lloyd Goodrich, <em>American Watercolor and Winslow Homer</em>, exh. cat., Walker Art Center (Minneapolis, MN, 1945), p. 36
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum and Benjamin Rowland, Jr., <em>Real and Ideal in American Art</em>, exh. cat. (Cambridge, MA, Summer 1948), cat. 25
+                             </p>
+                                                      <p>
+                                              Marco Valsecchi, <em>Mostra di Pittura Americana del XIX Secolo</em>, exh. cat., De Luca Editore (Rome, Italy, 1954), no. 86
+                             </p>
+                                                      <p>
+                                              Lloyd Goodrich, <em>Art of the United States: 1670-1966</em>, exh. cat., Whitney Museum of American Art (New York, NY, 1966), p. 151, cat. 167
+                             </p>
+                                                      <p>
+                                              Marco Valsecchi, <em>Landscape Painting of the Nineteenth Century/ Mostra di pittura americana del XIX secolo</em>, New York Graphic Society (Greenwich, CT, 1969), reproduced plate 282
+                             </p>
+                                                      <p>
+                                              Evelyne de Chazeaux, <em>Lettres des Mers du Sud</em>, Musée de l'Homme (Paris, France, 1974), reproduced as pl. 25, after p. 434
+                             </p>
+                                                      <p>
+                                              Stuart Preston, "A Puritan in Paradise: Henry Adams in Oceania", <em>Art Studies for an Editor: 25 Essays in Memory of Milton S. Fox</em>, ed. Frederick Hartt and Patricia Egan, Harry N. Abrams, Inc. (New York, NY, 1975), ill. p. 233
+                             </p>
+                                                      <p>
+                                              Donelson F. Hoopes, <em>American Watercolor Painting</em>, Watson-Guptill Publications (New York, NY, 1977), p. 64, p. 115, pl. 19
+                             </p>
+                                                      <p>
+                                              Diana Chalmers Johnson, <em>American Art Nouveau</em>, Harry N. Abrams, Inc. (New York, NY, 1979), p. 235, ill
+                             </p>
+                                                      <p>
+                                              Kathleen Eagen Johnson, "John La Farge", <em>Antiques and the Arts Weekly</em> (September 18, 1987), reproduced p. 1
+                             </p>
+                                                      <p>
+                                              Kathleen A. Foster, John La Farge and the American Watercolor Movement: Art for the "Decorative Age.'" (1987), pg. 151, repro. 152
+                             </p>
+                                                      <p>
+                                              Henry B. Adams et al., <em>John La Farge: Essays</em>, exh. cat., Abbeville Press (New York, NY, 1987), pp. 60, 151, reproduced in color p. 152
+                             </p>
+                                                      <p>
+                                              James L. Yarnall, "John La Farge and Henry Adams in the South Seas", <em>American Art Journal</em> (New York, NY, Summer 1988), pp. 51-109, pp. 102 - 103, ill.
+                             </p>
+                                                      <p>
+                                              "John La Farge Exhibit", <em>Sentinel-Enterprise [Fitchburg]</em> (Fitchburg, MA, March 19, 1988 - March 20, 1988), reproduced p. 3A
+                             </p>
+                                                      <p>
+                                              "La Farge", <em>Exhibit Magazine of Art</em> (January 1988 - February 1988), ill. p. 13
+                             </p>
+                                                      <p>
+                                              "The Creative Diversity of John La Farge", <em>USA Today Magazine</em>, USA Today Magazine (March 1988), no. 116, ill. pp. 44 - 45
+                             </p>
+                                                      <p>
+                                              Frederic Hunter, "Two Artists in Tahiti, Worlds Apart", <em>The Christian Science Monitor</em> (February 4, 1991), reproduced p. 16
+                             </p>
+                                                      <p>
+                                              James L. Yarnall, <em>Recreation and Idleness: The Pacific Travels of John La Farge</em>, exh. cat., Vance Jordan Fine Art, Inc. (New York, NY, 1998), p. 118; reproduced in color, fig 151, p. 120
+                             </p>
+                                                      <p>
+                                              David Cleveland, "The New York Water Color Club", <em>The Magazine Antiques</em> (November 2005), pp. 114-121, p. 121, pl. XI (color)
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr., <em>American Watercolors and Pastels 1875-1950 at the Fogg Art Museum</em>, brochure, Harvard University Art Museums (Cambridge, MA, 2006), checklist
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr., Virginia Anderson, and Kimberly Orcutt, ed., <em>American Paintings at Harvard, Volume Two, Paintings, Drawings, Pastels and Stained Glass by Artists Born 1826-1856</em>, Harvard Art Museums and Yale University Press (U.S.) (Cambridge, MA and New Haven, CT, 2008), p. 207, cat. 159, ill. p. 208
+                             </p>
+                                                      <p>
+                                              Elisabeth Hodermarsky, <em>John La Farge's Second Paradise: Voyages in the South Seas, 1890-1891</em>, exh. cat., Yale University Art Gallery (New Haven, 2010), cat. no. 47, fig. 105, pp. 139-140, detail repr. p. 122, checklist p. 214
+                             </p>
+                                                      <p>
+                                              James L. Yarnall, <em>John La Farge, A Biographical and Critical Study</em>, Ashgate Publishing (Burlington, VT, 2012), pp. 259-260, halftone reproduction of drawing p. 259 as fig. 9.17
+                             </p>
+                                                      <p>
+                                              Kathleen A. Foster, <em>American Watercolor in the Age of Homer and Sargent</em>, exh. cat., Philadelphia Museum of Art (Philadelphia, 2017), p. 267, fig. 219, repr. p. 256 (detail)
+                             </p>
+                                                      <p>
+                                              Jessica Skwire Routhier, American Watercolor in the Age of Homer and Sargent, <em>Antiques & The Arts Weekly</em> ([e-journal], February 21, 2017), https://www.antiquesandthearts.com/american-watercolor-in-the-age-of-homer-and-sargent/, accessed July 11, 2017
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Eleventh Annual Exhibition of the New York Water Color Club</em>, American Fine Arts Society, New York, 11/10/1900 - 12/02/1900
+                            </p>
+                          <p>
+                              <em>Catalogue of Works by John La Farge</em>, Montross Gallery, New York, 01/24/1901 - 02/23/1901; Carnegie Institute, Pittsburgh, 03/27/1901 - 04/10/1901
+                            </p>
+                          <p>
+                              <em>Grosse Berliner Kunst-Austellung</em>, Berlin International Exposition, Berlin, 01/01/1903 - 12/31/1903
+                            </p>
+                          <p>
+                              <em>Exhibition and Private Sale of Pictures, Drawings and Sketches by Mr. John La Farge</em>, Doll and Richards Gallery, Boston, 02/26/1904 - 03/16/1904
+                            </p>
+                          <p>
+                              <em>Exhibit of American Paintings from the Collection of Dr. Alexander Humphreys</em>, Lotos Club, New York, 03/30/1907 - 03/30/1907
+                            </p>
+                          <p>
+                              <em>Exhibition of Paintings Lent by Dr. A. C. Humphreys of New York City to the Department of Fine Arts</em>, Carnegie Institute, Pittsburgh, 01/01/1914 - 12/31/1914
+                            </p>
+                          <p>
+                              <em>Exhibition of Paintings by American Artists</em>, Crandall Free Library, Glens Falls, 03/01/1933 - 03/31/1933
+                            </p>
+                          <p>
+                              <em>Watercolors by 12 Americans</em>, Addison Gallery of American Art, Andover, 05/22/1933 - 06/26/1933
+                            </p>
+                          <p>
+                              <em>An Exhibition of the Work of John La Farge</em>, The Metropolitan Museum of Art, New York, 03/23/1936 - 04/26/1936
+                            </p>
+                          <p>
+                              <em>Prints and Drawings by Winslow Homer and John La Farge</em>, Museum of Fine Arts, Boston, Boston, 06/25/1936 - 08/02/1936
+                            </p>
+                          <p>
+                              <em>Unidentified Watercolor Exhibition, Winchester Art Association, 1940</em>, Winchester Art Association, Winchester, 11/29/1939 - 12/31/1939
+                            </p>
+                          <p>
+                              <em>A History of American Watercolor Painting</em>, Whitney Museum of American Art, New York, 01/27/1942 - 02/25/1942
+                            </p>
+                          <p>
+                              <em>American Watercolor and Winslow Homer</em>, Walker Art Center, Minneapolis, 02/27/1945 - 03/23/1945; Detroit Institute of Arts, Detroit, 04/03/1945 - 05/01/1945; Brooklyn Museum of Art, Brooklyn, 05/15/1945 - 06/12/1945
+                            </p>
+                          <p>
+                              <em>A History of American Watercolor Painting</em>, Currier Museum of Art, Manchester, 12/02/1945 - 12/27/1945; Munson-Williams-Proctor Arts Institute, Utica, 01/06/1946 - 01/27/1946; Columbus Gallery of Fine Arts, Columbus, 02/06/1946 - 02/26/1946; Baltimore Museum of Art, Baltimore, 03/10/1946 - 04/14/1946; Seattle Art Museum, Seattle, 05/08/1946 - 06/02/1946; San Francisco Museum of Modern Art, San Francisco, 06/16/1946 - 07/14/1946; William Rockhill Nelson Gallery of Art (now Nelson-Atkins), Kansas City, 07/25/1946 - 08/18/1946; National Gallery of Canada, Ottawa, 09/01/1946 - 09/25/1946; Wadsworth Atheneum Museum of Art, Hartford, 10/06/1946 - 10/27/1946; George Walter Vincent Smith Art Museum, Springfield, 11/08/1946 - 11/28/1946
+                            </p>
+                          <p>
+                              <em>Real and Ideal in American Art</em>, Fogg Art Museum, Cambridge, 06/01/1948 - 09/01/1948
+                            </p>
+                          <p>
+                              <em>Nineteenth Century American Paintings</em>, Städelsches Kunstinstitut, Frankfurt, 03/01/1953 - 04/30/1953; Kunsthaus Munich, Munich, 05/01/1953 - 05/31/1953; Kunsthalle Hamburger - see Hamburger Kunsthalle, 07/01/1953 - 07/31/1953; Charlottenburger Schloss, Berlin, 09/08/1953 - 10/13/1953; Kunstsammlunger der Stadt, Dusseldorf, 11/01/1953 - 12/15/1953; Galleria Nazionale d'Arte Moderna, Roma, Rome, 01/16/1954 - 02/16/1954; Palazzetto Reale, Milan, 02/18/1954 - 03/15/1954; Whitney Museum of American Art, New York, 04/21/1954 - 05/23/1954
+                            </p>
+                          <p>
+                              <em>Boston Arts Festival</em>, Boston Public Gardens, Boston, 06/04/1955 - 06/19/1955
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Thomas Crane Public Library, 1955</em>, Thomas Crane Public Library, Quincy, 08/15/1955 - 08/20/1955
+                            </p>
+                          <p>
+                              <em>American Paintings from the Fogg Art Museum, Harvard University</em>, Symphony Hall, Boston, 02/21/1958 - 03/15/1958
+                            </p>
+                          <p>
+                              <em>A Change of Sky: Paintings by Americans Who Have Worked Abroad</em>, American Academy of Arts and Letters, New York, 03/04/1960 - 04/03/1960
+                            </p>
+                          <p>
+                              <em>John La Farge</em>, Graham Gallery, New York, 05/04/1966 - 06/10/1966
+                            </p>
+                          <p>
+                              <em>Art of the United States, 1670-1966</em>, Whitney Museum of American Art, New York, 09/27/1966 - 11/27/1966
+                            </p>
+                          <p>
+                              <em>Watercolors from the Fogg: An Historical Collection</em>, St. Paul's School, Concord, 10/12/1971 - 11/20/1971
+                            </p>
+                          <p>
+                              <em>John La Farge</em>, National Museum of American Art, Washington, 07/10/1987 - 10/12/1987; Carnegie Museum of Art, Pittsburgh, 11/07/1987 - 01/03/1988; Museum of Fine Arts, Boston, Boston, 02/24/1988 - 04/24/1988
+                            </p>
+                          <p>
+                              <em>American Watercolors and Pastels, 1875-1950, at the Fogg Art Museum</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 04/08/2006 - 06/25/2006
+                            </p>
+                          <p>
+                              <em>John La Farge's Second Paradise: Voyages in the South Seas, 1890-1891</em>, Yale University Art Gallery, New Haven, 10/19/2010 - 01/02/2011; Addison Gallery of American Art, Andover, 01/22/2011 - 03/27/2011
+                            </p>
+                          <p>
+                              <em>American Watercolor in the Age of Homer and Sargent</em>, Philadelphia Museum of Art, Philadelphia, 03/01/2017 - 05/14/2017
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:62097_dynmc?width=200&height=200" alt="A Bridle Path In Tahiti">
+                <span class="popup__artwork-info-id">1917.4</span>
+        <span class="popup__artwork-info-author">
+                                    John La Farge
+                              </span>
+        <span class="popup__artwork-info-title">A Bridle Path in Tahiti</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20305884%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F305884">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F305884" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+Bridle+Path+in+Tahiti+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F305884" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/305884" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_0efc4e3a5cf8b53247a22888fe501410" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

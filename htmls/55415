@@ -1,0 +1,811 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Images 90 </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Images 90" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/55415"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Images 90" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?55415" data-behavior="add_to_collection tooltip" data-artwork="55415" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=55415" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/55415/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>M23494.-M23529</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/22444>Various Artists</a>                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Images 90</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Images 90                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            portfolio                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>20th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/55415">https://hvrd.art/o/55415</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Etching</dd>
+           
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Oscar J. Gillespie, Peoria, Illinois, gift; to Harvard University Art Museums, March 11, 1997.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Oscar J. Gillespie</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1997</dd>
+            
+            <dt>Object Number</dt>
+            <dd>M23494.-M23529</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253331">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164654_dynmc?width=256&height=256" alt="Pivotal Pie">
+                                    <span class="related-artwork__obj">M23495</span>
+                                      <h4 class="related-artwork__artist">Carmon Colangelo</h4>
+                                                        <h3 class="related-artwork__title">Pivotal Pie</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253348">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164650_dynmc?width=256&height=256" alt="Warm Whisperings At The Emerald Pool">
+                                    <span class="related-artwork__obj">M23498</span>
+                                      <h4 class="related-artwork__artist">Scott Evans</h4>
+                                                        <h3 class="related-artwork__title">Warm Whisperings at the Emerald Pool</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253393">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164649_dynmc?width=256&height=256" alt="X">
+                                    <span class="related-artwork__obj">M23499</span>
+                                      <h4 class="related-artwork__artist">Richard Finch</h4>
+                                                        <h3 class="related-artwork__title">X</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253741">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164648_dynmc?width=256&height=256" alt="Evil Eye-Kon">
+                                    <span class="related-artwork__obj">M23500</span>
+                                      <h4 class="related-artwork__artist">Debra M. Fisher</h4>
+                                                        <h3 class="related-artwork__title">Evil Eye-Kon</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253742">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV202589_dynmc?width=256&height=256" alt="Tattooed Daydream Noise">
+                                    <span class="related-artwork__obj">M23501</span>
+                                      <h4 class="related-artwork__artist">Oscar Jay Gillespie</h4>
+                                                        <h3 class="related-artwork__title">Tattooed Daydream Noise</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253743">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164662_dynmc?width=256&height=256" alt="Fireflies Light">
+                                    <span class="related-artwork__obj">M23505</span>
+                                      <h4 class="related-artwork__artist">Kathy T. Hettinga</h4>
+                                                        <h3 class="related-artwork__title">Fireflies Light</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253744">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164665_dynmc?width=256&height=256" alt="Cock Of The Walk">
+                                    <span class="related-artwork__obj">M23506</span>
+                                      <h4 class="related-artwork__artist">David B. Johnson</h4>
+                                                        <h3 class="related-artwork__title">Cock of the Walk</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253745">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164666_dynmc?width=256&height=256" alt="Birds And Newts">
+                                    <span class="related-artwork__obj">M23507</span>
+                                      <h4 class="related-artwork__artist">Sarojini Jha Johnson</h4>
+                                                        <h3 class="related-artwork__title">Birds and Newts</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253746">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164668_dynmc?width=256&height=256" alt="Cyrano De Moine">
+                                    <span class="related-artwork__obj">M23508</span>
+                                      <h4 class="related-artwork__artist">Robin Kaneshiro</h4>
+                                                        <h3 class="related-artwork__title">Cyrano de Moine</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253747">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164669_dynmc?width=256&height=256" alt="Untitled (Man Of The House)">
+                                    <span class="related-artwork__obj">M23510</span>
+                                      <h4 class="related-artwork__artist">Kurt James Kemp</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Man of the House)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253748">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164675_dynmc?width=256&height=256" alt="Untitled">
+                                    <span class="related-artwork__obj">M23512</span>
+                                      <h4 class="related-artwork__artist">Karen Ktine</h4>
+                                                        <h3 class="related-artwork__title">Untitled</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253749">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164684_dynmc?width=256&height=256" alt="Goodbye To M.">
+                                    <span class="related-artwork__obj">M23516</span>
+                                      <h4 class="related-artwork__artist">Kathryn Maxwell</h4>
+                                                        <h3 class="related-artwork__title">Goodbye to M.</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253750">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164688_dynmc?width=256&height=256" alt="Prima Facie">
+                                    <span class="related-artwork__obj">M23519</span>
+                                      <h4 class="related-artwork__artist">James Robert Pace</h4>
+                                                        <h3 class="related-artwork__title">Prima Facie</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253751">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164693_dynmc?width=256&height=256" alt="Redundant Constellation Series:  Conditioned Responses">
+                                    <span class="related-artwork__obj">M23520</span>
+                                      <h4 class="related-artwork__artist">Andrew Rubin</h4>
+                                                        <h3 class="related-artwork__title">Redundant Constellation Series:  Conditioned Responses</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253752">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164699_dynmc?width=256&height=256" alt="A House Is Not A Home">
+                                    <span class="related-artwork__obj">M23523</span>
+                                      <h4 class="related-artwork__artist">Linda K. Seckinger</h4>
+                                                        <h3 class="related-artwork__title">A House Is Not a Home</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253753">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164702_dynmc?width=256&height=256" alt="Untitled">
+                                    <span class="related-artwork__obj">M23524</span>
+                                      <h4 class="related-artwork__artist">Bradlee Shanks</h4>
+                                                        <h3 class="related-artwork__title">Untitled</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253754">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164708_dynmc?width=256&height=256" alt="Sunny Standard">
+                                    <span class="related-artwork__obj">M23527</span>
+                                      <h4 class="related-artwork__artist">Kimberly Vito</h4>
+                                                        <h3 class="related-artwork__title">Sunny Standard</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253784">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164660_dynmc?width=256&height=256" alt="35/35">
+                                    <span class="related-artwork__obj">M23504</span>
+                                      <h4 class="related-artwork__artist">Adele Henderson</h4>
+                                                        <h3 class="related-artwork__title">35/35</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253785">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164641_dynmc?width=256&height=256" alt="Tsegi">
+                                    <span class="related-artwork__obj">M23509</span>
+                                      <h4 class="related-artwork__artist">April Katz</h4>
+                                                        <h3 class="related-artwork__title">Tsegi</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253786">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164690_dynmc?width=256&height=256" alt="Spiritual Confusion">
+                                    <span class="related-artwork__obj">M23518</span>
+                                      <h4 class="related-artwork__artist">David Morrison</h4>
+                                                        <h3 class="related-artwork__title">Spiritual Confusion</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253833">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164644_dynmc?width=256&height=256" alt="Prima Materia">
+                                    <span class="related-artwork__obj">M23502</span>
+                                      <h4 class="related-artwork__artist">Beth Grabowski</h4>
+                                                        <h3 class="related-artwork__title">Prima Materia</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253834">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164672_dynmc?width=256&height=256" alt="Falling Into The Body">
+                                    <span class="related-artwork__obj">M23511</span>
+                                      <h4 class="related-artwork__artist">Leslie Koptcho</h4>
+                                                        <h3 class="related-artwork__title">Falling into the Body</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253835">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164686_dynmc?width=256&height=256" alt="Due Onto">
+                                    <span class="related-artwork__obj">M23517</span>
+                                      <h4 class="related-artwork__artist">Hugh J. Merrill</h4>
+                                                        <h3 class="related-artwork__title">Due Onto</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253836">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164695_dynmc?width=256&height=256" alt="Elba">
+                                    <span class="related-artwork__obj">M23521</span>
+                                      <h4 class="related-artwork__artist">Joseph Sanders</h4>
+                                                        <h3 class="related-artwork__title">Elba</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253837">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164697_dynmc?width=256&height=256" alt="Fleece">
+                                    <span class="related-artwork__obj">M23522</span>
+                                      <h4 class="related-artwork__artist">Larry Schuh</h4>
+                                                        <h3 class="related-artwork__title">Fleece</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253838">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164704_dynmc?width=256&height=256" alt="Portrait Of C. Coy And M. Shields/new York, New York">
+                                    <span class="related-artwork__obj">M23525</span>
+                                      <h4 class="related-artwork__artist">Mark Sisson</h4>
+                                                        <h3 class="related-artwork__title">Portrait of C. Coy and M. Shields/New York, New York</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253839">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164711_dynmc?width=256&height=256" alt="Crossing Over">
+                                    <span class="related-artwork__obj">M23529</span>
+                                      <h4 class="related-artwork__artist">Judy Youngblood</h4>
+                                                        <h3 class="related-artwork__title">Crossing Over</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253854">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164643_dynmc?width=256&height=256" alt="Untitled">
+                                    <span class="related-artwork__obj">M23503</span>
+                                      <h4 class="related-artwork__artist">Joan Hall</h4>
+                                                        <h3 class="related-artwork__title">Untitled</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253855">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164680_dynmc?width=256&height=256" alt="#1 The Reasons Are Obvious">
+                                    <span class="related-artwork__obj">M23514</span>
+                                      <h4 class="related-artwork__artist">Patrick Lindhart</h4>
+                                                        <h3 class="related-artwork__title">#1 The Reasons Are Obvious</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253856">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164682_dynmc?width=256&height=256" alt="History Of The World, Vol. Ii, P. 504">
+                                    <span class="related-artwork__obj">M23515</span>
+                                      <h4 class="related-artwork__artist">Beauvais Lyons</h4>
+                                                        <h3 class="related-artwork__title">History of the World, vol. II, p. 504</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253857">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164706_dynmc?width=256&height=256" alt="Lost Charms, Tangled Hope">
+                                    <span class="related-artwork__obj">M23526</span>
+                                      <h4 class="related-artwork__artist">Ann Taulbee</h4>
+                                                        <h3 class="related-artwork__title">Lost Charms, Tangled Hope</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253858">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164710_dynmc?width=256&height=256" alt="Daydream">
+                                    <span class="related-artwork__obj">M23528</span>
+                                      <h4 class="related-artwork__artist">Art Werger</h4>
+                                                        <h3 class="related-artwork__title">Daydream</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253872">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164655_dynmc?width=256&height=256" alt="The Garden">
+                                    <span class="related-artwork__obj">M23496</span>
+                                      <h4 class="related-artwork__artist">Sydney A. Cross</h4>
+                                                        <h3 class="related-artwork__title">The Garden</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/253873">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164652_dynmc?width=256&height=256" alt="Ginger Print">
+                                    <span class="related-artwork__obj">M23497</span>
+                                      <h4 class="related-artwork__artist">Barbara Duval</h4>
+                                                        <h3 class="related-artwork__title">Ginger Print</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/257414">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164658_dynmc?width=256&height=256" alt="The Mutable Body Of Text">
+                                    <span class="related-artwork__obj">M23494</span>
+                                      <h4 class="related-artwork__artist">Rosemarie T. Bernardi</h4>
+                                                        <h3 class="related-artwork__title">The Mutable Body of Text</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/263253">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV164677_dynmc?width=256&height=256" alt="Middle East Rodeo">
+                                    <span class="related-artwork__obj">M23513</span>
+                                      <h4 class="related-artwork__artist">Robert Lazuka</h4>
+                                                        <h3 class="related-artwork__title">Middle East Rodeo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">M23494.-M23529</span>
+        <span class="popup__artwork-info-author">
+                                    Various Artists
+                              </span>
+        <span class="popup__artwork-info-title">Images 90</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2055415%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55415">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55415" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Images+90+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55415" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_8afe41b733351e389b96c668ca93101f" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

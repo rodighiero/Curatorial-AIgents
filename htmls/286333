@@ -1,0 +1,623 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A Seated Nude Woman as Diana </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A Seated Nude Woman as Diana" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/286333"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71993_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A Seated Nude Woman as Diana" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481496" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71993_dynmc?width=3000&height=3000" data-initial-image-id="18481496" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?286333" data-behavior="add_to_collection tooltip" data-artwork="286333" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=286333&amp;image_id=71993" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/286333/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2019.301</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20409>Govert Flinck</a>, Dutch                                                                                                                                                                                                                                                                          (Cleves 1615 - 1660 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A Seated Nude Woman as Diana</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1645-1650</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/286333">https://hvrd.art/o/286333</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black and white chalk on blue antique laid paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>38.3 x 24.4 cm (15 1/16 x 9 5/8 in.)<br />
+mount: 43.5 x 29.4 cm (17 1/8 x 11 9/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower right, black chalk: [illegible word]
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink stamp: M G A [in monogram] [Lugt 3306, mark of The Maida and George Abrams Collection]
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Christie's, London, April 10, 1985, lot 136], sold; to Maida and George Abrams, Boston (Lugt 3306); The Maida and George Abrams Collection, gift; to Harvard Art Museums, 2019</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 36 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>About twenty studies of nude models can be attributed to Govert Flinck.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-1"><a href="#fn13655260135ef66420cc8eb-1">1</a></sup> The earliest are two signed drawings—one of a woman holding a letter, the other of a seated man viewed from the back—that date from around 1636–39. Like several figures of the 1630s by Rembrandt, they are executed in red chalk applied with broad, vigorous strokes.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-2"><a href="#fn13655260135ef66420cc8eb-2">2</a></sup> During the 1640s and 1650s, Flinck and other Amsterdam painters adopted Jacob Backer’s practice of drawing figure studies in black and white chalks on blue paper (<a href="https://www.harvardartmuseums.org/collections/object/286334?position=0">2013.170</a>). At least once, in 1648, Flinck and Backer sat beside each other and sketched the same model.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-3"><a href="#fn13655260135ef66420cc8eb-3">3</a></sup> A document dated 1658 attests that Flinck, Ferdinand Bol, Jacob van Loo, and others drew and painted a woman named Catharina Jansz., whom they paid to pose in the nude.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-4"><a href="#fn13655260135ef66420cc8eb-4">4</a></sup> Flinck’s models presumably also included the Van Wullen sisters, characterized by neighbors in testimony before a notary as “famous whores,” who lived near the artist’s workshop on the Lauriergracht. In paintings of the late 1640s that hung in his atelier, Flinck depicted them “naked as the day they were born . . . lying asleep in the most indecent way on a cushion.”<sup class="footnote" id="fnrev13655260135ef66420cc8eb-5"><a href="#fn13655260135ef66420cc8eb-5">5</a></sup></p>
+
+<p>Those paintings are presumably lost, but a drawing by Flinck in Braunschweig possibly conveys an idea of their appearance (Fig. 1).<sup class="footnote" id="fnrev13655260135ef66420cc8eb-6"><a href="#fn13655260135ef66420cc8eb-6">6</a></sup> The technique of the Braunschweig study closely resembles that of <em>Seated Nude Woman as Diana</em>. Common to both works are the finely drawn, narrowly spaced hatchings and the liberal, in places idiosyncratic, application of scattered, patchy white chalk highlights. Neither work bears a signature, but both are comparable in handling to signed or securely attributed drawings by Flinck from the late 1640s.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-7"><a href="#fn13655260135ef66420cc8eb-7">7</a></sup> The nearly pristine condition of the chalks in <em>Seated Nude Woman as Diana</em> affords a rare view—in the model’s legs, for example—of the refined, precise lines and delicately modulated highlights and shadows found in some of Flinck’s figure drawings.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-8"><a href="#fn13655260135ef66420cc8eb-8">8</a></sup> Others, such as <em>A Kneeling Youth</em> (<a href="https://www.harvardartmuseums.org/collections/object/286241?position=0">1999.140</a>), were executed with a broader, looser touch.</p>
+
+<p>That Flinck adorned the woman’s head with a diadem in the shape of a crescent moon, an attribute of Diana, virgin goddess of the hunt, seems gratuitous in a study from a live model, but its inclusion helps to clarify the purpose of his drawing. Illustrations of the episode from Ovid’s tale of Callisto, in which Diana discovers that one of her supposedly chaste nymphs is pregnant, frequently depict the seated goddess pointing toward the disgraced young woman while her companions forcibly disclose her condition.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-9"><a href="#fn13655260135ef66420cc8eb-9">9</a></sup> An example from Flinck’s immediate circle is a painting by Jacob van Loo, who, as we know from the document cited above, drew from the nude with him (Fig. 2).<sup class="footnote" id="fnrev13655260135ef66420cc8eb-10"><a href="#fn13655260135ef66420cc8eb-10">10</a></sup> In life-drawing sessions, models were occasionally asked to assume the pose of an ancient statue or protagonist in a composition representing a biblical or literary subject, and Flinck’s study of a woman in the attitude of Diana censuring Callisto could be the product of such an exercise.<sup class="footnote" id="fnrev13655260135ef66420cc8eb-11"><a href="#fn13655260135ef66420cc8eb-11">11</a></sup> No painting by Flinck of this subject is recorded, but we should not exclude the possibility that he produced the drawing in preparation for a lost picture.</p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-1"><sup><a href="#fnrev13655260135ef66420cc8eb-1">1</a></sup> Most are catalogued by Werner Sumowski, <em>Drawings of the Rembrandt School</em> (New York, 1979), vol. 1, cats. 895–946x, although a few of the studies he includes are not by Flinck. The Harvard drawing came to light after Sumowski’s volume appeared. Recently Peter Schatborn has attributed nude studies in black chalk, and in black and white chalk, on white paper to Flinck; Peter Schatborn, <em>Rembrandt and His Circle: Drawings in the Frits Lugt Collection</em> (Bussum, Netherlands, 2010), vol. 1, cat. 78, pp. 203–5, and vol. 2, p. 92, repr. fig. 78; Peter Schatborn, “The Early Rembrandtesque Drawings of Govert Flinck,” <em>Master Drawings</em>, vol. 48, no. 1 (Spring 2010): 4–38, pp. 7–10, repr. figs. 4 and 5.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-2"><sup><a href="#fnrev13655260135ef66420cc8eb-2">2</a></sup> Peter Schatborn, both in Holm Bevers, Lee Hendrix, William W. Robinson, and Peter Schatborn, <em>Drawings by Rembrandt and His Pupils: Telling the Difference</em> (Los Angeles: J. Paul Getty Museum, 2009), cats. 3.1 and 3.2, pp. 60–63, and in Emmanuelle Brugerolles, Mària van Berge‑Gerbaud, and Peter Schatborn, <em>Rembrandt et son entourage</em> (Paris: École nationale supérieure des Beaux-Arts; Ajaccio, France: Palais Fesch-Musée des Beaux-Arts, 2012), cat. 21, pp. 84–86; Schatborn (Spring 2010), pp. 6–7, repr. figs. 2 and 3.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-3"><sup><a href="#fnrev13655260135ef66420cc8eb-3">3</a></sup> Flinck’s drawing is dated 1648. Peter Schatborn, <em>Dutch Figure Drawings from the Seventeenth Century</em>, <em>Figuurstudies, Nederlandse tekeningen uit de 17de eeuw</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Washington, DC: National Gallery of Art, 1981), pp. 90–91, repr. figs. 4 and 5; Peter van den Brink and Michiel Kersten in Peter van den Brink and Jaap van der Veen, <em>Jacob Backer (1608/9–1651)</em> (Amsterdam: Museum Het Rembrandthuis; Aachen, Germany: Suermondt-Ludwig-Museum, 2008), cats. 54a and 54b, pp. 71–72 and 194–95.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-4"><sup><a href="#fnrev13655260135ef66420cc8eb-4">4</a></sup> Eric Jan Sluijter, <em>Rembrandt and the Female Nude</em> (Amsterdam, 2006), p. 323.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-5"><sup><a href="#fnrev13655260135ef66420cc8eb-5">5</a></sup> “. . . so moeder naeckt als iemant uytgeschildert soude konnen werden, leggende op het alderoneerlijkste op een kussen te slapen”; A. A. C. Dudok van Heel, “Het ‘Schilderhuys’ van Govert Flinck en de Kunsthandel van Uylenburgh aan de Lauriergracht te Amsterdam,” <em>Jaarboek Amstelodamum</em>, vol. 74 (1982): 70–90, pp. 73–75.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-6"><sup><a href="#fnrev13655260135ef66420cc8eb-6">6</a></sup> Govert Flinck, <em>Reclining Female Nude</em> (Fig. 1). Black and white chalk on greenish blue paper. 268 × 400 mm. Braunschweig, Herzog Anton Ulrich-Museum, Z 365. Werner Sumowski, <em>Drawings of the Rembrandt School</em> (New York, 1979), vol. 4, cat. 944x; Thomas Döring in Thomas Döring, with Gisela Bungarten and Christiane Page, <em>Aus Rembrandts Kreis: die Zeichnungen des Braunschweiger Kupferstichkabinetts</em> (Braunschweig: Herzog Anton Ulrich-Museum, 2006), cat. 16, pp. 56–57. The figure was incorporated into a drawing illustrating Boccaccio’s tale of Cimon and Ephigenia, which is inscribed with Flinck’s name by an early hand; Sumowski, vol. 4, cat. 972x. The technique of the latter drawing is difficult to reconcile with Flinck’s oeuvre. Sumowski dated it—and, by extension, the Braunschweig study—to circa 1655, citing a tenuous similarity to the handling of his cat. 888. If by Flinck, the drawing could date from the end of the 1640s. Peter van den Brink (Van den Brink and Van der Veen, pp. 80–81) dated the composition to circa 1647, but implausibly attributed both it and the related Braunschweig study to Bartholomeus Breenbergh.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-7"><sup><a href="#fnrev13655260135ef66420cc8eb-7">7</a></sup> For example, see Sumowski, vol. 4, cats. 873, 876, 878, 899, and 901.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-8"><sup><a href="#fnrev13655260135ef66420cc8eb-8">8</a></sup> Ibid., vol. 4, cat nos. 871, 901, 915x, 916x, 926x, and 939x.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-9"><sup><a href="#fnrev13655260135ef66420cc8eb-9">9</a></sup> The most influential compositional model for this subject was Cornelis Cort’s engraving after Titian’s painting <em>Diana and Callisto</em>; Sluijter, pp. 174–79.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-10"><sup><a href="#fnrev13655260135ef66420cc8eb-10">10</a></sup> Jacob van Loo, <em>Diana and Callisto</em> (Fig. 2). Oil on canvas. 99.1 × 81.3 cm. Paris, Fondation Custodia, Frits Lugt Collection, 2013-S.23. David Mandrella, <em>Jacob van Loo 1614–1670</em> (Paris, 2011), cat. P.70, pp. 49–50 and 160, repr. p. 49, fig. P.70, and p. 160, fig. P.70. Mandrella dates the painting to the 1650s, comparing it to <em>Diana and Her Nymphs</em>, dated 1654, in Copenhagen, his cat. P.67, pp. 158–59. For the subject and other Dutch examples, see Sluijter, pp. 174–79, and figs. 142–43, 145, 147–48; pp. 187–88 and figs. 161–62. Sluijter notes (pp. 322–23) that in 1642, long before he was documented as a member of the group that hired Catharina Jansz., Van Loo tried to coax a prostitute to pose for him.</p>
+
+<p class="footnote" id="fn13655260135ef66420cc8eb-11"><sup><a href="#fnrev13655260135ef66420cc8eb-11">11</a></sup> Willem Goeree, <em>Inleydinge tot de Al-ghemeene Teycken-Konst</em> (Middelburg, Netherlands, 1668), pp. 33–34, recommends, as one way to choose the model’s pose, to follow “some invention by a good master, from memory or by looking at prints and drawings,” since one finds such beautiful examples in the works of Raphael, Primaticcio, Carracci, and other famous Old Masters. On this studio practice, see also Peter Schatborn (2010), vol. 1, under cat. 82, p. 213, where he also notes that the pose of a reclining female nude by Flinck (Fondation Custodia, Frits Lugt Collection, Paris) derives ultimately from the antique <em>Sleeping Ariadne</em>, but in the seventeenth century was adapted for life studies and compositions of various subjects. Backer and Breenbergh used such a pose in paintings of Cimon and Ephigenia; Sluijter, pp. 243–44. In one of Flinck’s early nude studies, the female model poses as Bathsheba with David’s letter in her hand; Peter Schatborn in Brugerolles et al., cat. 21, pp. 85–86.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/286333/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Govert Flinck, <em>Reclining Female Nude</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/286333/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Jacob van Loo, <em>Diana and Callisto</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts, Gift of George Abrams in honor of Bill Robinson and Peter Schatborn</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2019</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2019.301</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Important Old Master Drawings</em>, auct. cat., Christie's, London (London, April 10, 1985), pp. 92-93, lot no. 136, repr. p. 93
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 53, pp. 124-125, repr.
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton and William W. Robinson, <em>Drawings by Rembrandt, his Students and Circle from the Maida and George Abrams Collection</em>, exh. cat., Bruce Museum and Yale University Press (U.S.) (New Haven and London, 2011), cat. no. 20, pp. 26 and 76-77, repr.
+                             </p>
+                                                      <p>
+                                              Alvin L. Clark, Jr., <em>Seventeenth-Century European Drawings in Midwestern Collections: The Age of Bernini, Rembrandt, and Poussin</em>, ed. Shelley Perlove and George S. Keyes, University of Notre Dame Press (Notre Dame, 2015), under cat. no. 58, p. 150 (n. 100)
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 20; cat. no. 36, pp. 133-135, repr. p. 134
+                             </p>
+                                                      <p>
+                                              Judith Noorman and David De Witt, <em>Rembrandt's Naked Truth: Drawing Nude Models in the Golden Age</em>, exh. cat., WBOOKS and The Rembrandt House Museum (Zwolle, 2016), p. 128, cat. no. 26, repr. p. 130
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Abrams 50th reunion exhibition</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 06/01/2004 - 06/14/2004
+                            </p>
+                          <p>
+                              <em>Drawings by Rembrandt, his Students and Circle from the Collection of Maida and George Abrams</em>, Bruce Museum, Greenwich, 09/24/2011 - 01/08/2012; The Museum of Fine Arts, Houston, Houston, 04/15/2012 - 07/08/2012
+                            </p>
+                          <p>
+                              <em>Rembrandt's Naked Truth: Drawing Nude Models in the Golden Age</em>, Museum het Rembrandthuis, Amsterdam, 02/12/2016 - 05/16/2016
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71993_dynmc?width=200&height=200" alt="A Seated Nude Woman As Diana">
+                <span class="popup__artwork-info-id">2019.301</span>
+        <span class="popup__artwork-info-author">
+                                    Govert Flinck
+                              </span>
+        <span class="popup__artwork-info-title">A Seated Nude Woman as Diana</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20286333%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F286333">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F286333" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+Seated+Nude+Woman+as+Diana+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F286333" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/286333" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9ec5084612ddcf050ac63e1c0c92a993" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,1390 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Untitled </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Untitled" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/332301"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Untitled" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?332301" data-behavior="add_to_collection tooltip" data-artwork="332301" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=332301" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/332301/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>BRLF.1005.1-228</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20002>Lyonel Feininger</a>, American                                                                                                                                                                                                                                                                          (New York, NY 1871 - 1956 New York, NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Untitled</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Photographs</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            slide,                                          photograph                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1940s-1950s</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/332301">https://hvrd.art/o/332301</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Slide, 35 mm, black and white</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>3 x 3.5 cm (1 3/16 x 1 3/8 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Busch-Reisinger Museum, Gift of T. Lux Feininger</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© <a href="https://www.arsny.com/">Artists Rights Society (ARS), New York</a> / VG Bild-Kunst, Bonn</dd>
+            
+            
+            <dt>Object Number</dt>
+            <dd>BRLF.1005.1-228</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>The Bauhaus</p>
+                          <p>Lyonel Feininger: Photographs</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9915">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222451_dynmc?width=256&height=256" alt="[Statue Of Massasoit, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.160</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Statue of Massasoit, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9916">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222455_dynmc?width=256&height=256" alt="[Sculptures In The Peabody Essex Museum, Salem, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.164</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sculptures in the Peabody Essex Museum, Salem, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9917">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222456_dynmc?width=256&height=256" alt="[Man Standing Before Figurehead In The Peabody Essex Museum, Salem, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.165</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Man standing before figurehead in the Peabody Essex Museum, Salem, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9918">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222465_dynmc?width=256&height=256" alt="[Figurehead In The Peabody Essex Museum, Salem, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.174</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figurehead in the Peabody Essex Museum, Salem, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9929">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222347_dynmc?width=256&height=256" alt="[Plymouth Memorial Hall, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.56</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Plymouth Memorial Hall, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9930">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222349_dynmc?width=256&height=256" alt="[Houses And Trees, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.58</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Houses and trees, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9931">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222356_dynmc?width=256&height=256" alt="[House On The Shore, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.65</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[House on the shore, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9932">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222361_dynmc?width=256&height=256" alt="[Street With Parked Cars, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.70</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street with parked cars, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9933">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222372_dynmc?width=256&height=256" alt="[View Of Trees And Shore, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.81</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View of trees and shore, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9934">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222376_dynmc?width=256&height=256" alt="[Boat And Old Building, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.85</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat and old building, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9935">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222377_dynmc?width=256&height=256" alt="[Figures Near Coastline, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.86</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures near coastline, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9936">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222381_dynmc?width=256&height=256" alt="[Ocean And Clouds, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.90</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ocean and clouds, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9937">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222383_dynmc?width=256&height=256" alt="[Coastal Scene, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.92</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Coastal scene, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9938">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222385_dynmc?width=256&height=256" alt="[Birds Near Shore, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.94</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Birds near shore, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9941">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222348_dynmc?width=256&height=256" alt="[Train Cars And Locomotive Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.57</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Train cars and locomotive near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9942">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222355_dynmc?width=256&height=256" alt="[Caboose, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.64</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Caboose, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9943">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222362_dynmc?width=256&height=256" alt="[Towers Of The First Parish Church And Congregational Church Of The Pilgrimage, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.71</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Towers of the First Parish Church and Congregational Church of the Pilgrimage, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9944">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222365_dynmc?width=256&height=256" alt="[Street Scene, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.74</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street scene, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9945">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222370_dynmc?width=256&height=256" alt="[Model Boat In Shop Window, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.79</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Model boat in shop window, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9946">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222371_dynmc?width=256&height=256" alt="[Boats At Harbor, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.80</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats at harbor, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9947">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222375_dynmc?width=256&height=256" alt="[Boats In Harbor, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.84</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats in harbor, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9948">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222378_dynmc?width=256&height=256" alt="[Boats In Harbor, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.87</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats in harbor, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9949">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222379_dynmc?width=256&height=256" alt="[Coastal Sunset, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.88</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Coastal sunset, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9950">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222382_dynmc?width=256&height=256" alt="[View Of River, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.91</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View of river, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9951">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222384_dynmc?width=256&height=256" alt="[Sunlight Reflected In Water, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.93</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sunlight reflected in water, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9963">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222345_dynmc?width=256&height=256" alt="[Statue Of Massasoit, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.54</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Statue of Massasoit, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9964">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222346_dynmc?width=256&height=256" alt="[Statue Of Massasoit, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.55</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Statue of Massasoit, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9965">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222351_dynmc?width=256&height=256" alt="[Cemetery, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.60</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cemetery, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9966">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222352_dynmc?width=256&height=256" alt="[House On The Shore, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.61</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[House on the shore, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9967">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222359_dynmc?width=256&height=256" alt="[First Parish Church, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.68</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[First Parish Church, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9968">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222360_dynmc?width=256&height=256" alt="[Cemetery, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.69</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cemetery, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9969">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222363_dynmc?width=256&height=256" alt="[Lighthouse And Gasoline Advertisement, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.72</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Lighthouse and gasoline advertisement, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9970">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222364_dynmc?width=256&height=256" alt="[Houses On Riverbank, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.73</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Houses on riverbank, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9971">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222366_dynmc?width=256&height=256" alt="[Sunlit Shutters, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.75</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sunlit shutters, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9972">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222367_dynmc?width=256&height=256" alt="[Clouds And Ships, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.76</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Clouds and ships, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9973">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222368_dynmc?width=256&height=256" alt="[Coastal Scene, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.77</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Coastal scene, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9974">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222369_dynmc?width=256&height=256" alt="[View Of Trees And Field, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.78</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View of trees and field, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9975">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222373_dynmc?width=256&height=256" alt="[Boats At Harbor, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.82</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats at harbor, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9976">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222374_dynmc?width=256&height=256" alt="[Coast With Factories, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.83</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Coast with factories, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9977">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222380_dynmc?width=256&height=256" alt="[Statue Of Massasoit, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.89</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Statue of Massasoit, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9979">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222466_dynmc?width=256&height=256" alt="[Hanging Figurehead And Painting In The Peabody Essex Museum, Salem, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.175</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Hanging figurehead and painting in the Peabody Essex Museum, Salem, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9980">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222467_dynmc?width=256&height=256" alt="[Model Ship In The Peabody Essex Museum, Salem, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.176</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Model ship in the Peabody Essex Museum, Salem, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9981">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222471_dynmc?width=256&height=256" alt="[Architectural Study, Stockbridge, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.180</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Architectural study, Stockbridge, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9982">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222472_dynmc?width=256&height=256" alt="[Oldest House In Stockbridge, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.181</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Oldest house in Stockbridge, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9983">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222480_dynmc?width=256&height=256" alt="[Feininger Family? Seated On Lawn, Stockbridge, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.189</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Feininger family? seated on lawn, Stockbridge, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9984">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222481_dynmc?width=256&height=256" alt="[Feininger Family? Seated On Lawn, Stockbridge, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.190</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Feininger family? seated on lawn, Stockbridge, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9985">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222489_dynmc?width=256&height=256" alt="[Creek And Hills Near Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.198</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Creek and hills near Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9991">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222342_dynmc?width=256&height=256" alt="["sir Francis Drake," Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.51</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">["Sir Francis Drake," Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9992">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222343_dynmc?width=256&height=256" alt="[Dredge In Harbor, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.52</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Dredge in harbor, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9993">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222344_dynmc?width=256&height=256" alt="[Dredge In Harbor, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.53</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Dredge in harbor, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9994">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222350_dynmc?width=256&height=256" alt="[Train Cars And Locomotive Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.59</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Train cars and locomotive near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9995">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222353_dynmc?width=256&height=256" alt="[House, Trees, Field, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.62</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[House, trees, field, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9996">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222354_dynmc?width=256&height=256" alt="[Lighthouse And Gasoline Advertisement, Near Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.63</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Lighthouse and gasoline advertisement, near Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9997">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222357_dynmc?width=256&height=256" alt="[Tree And Church, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.66</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Tree and church, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9998">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222358_dynmc?width=256&height=256" alt="[Cemetery, Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1005.67</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cemetery, Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10010">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222490_dynmc?width=256&height=256" alt="[Mountains Near Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.199</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Mountains near Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10011">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222500_dynmc?width=256&height=256" alt="[Building On Hillside, Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.209</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Building on hillside, Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10012">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222501_dynmc?width=256&height=256" alt="[Figures On Street, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.210</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on street, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10013">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222502_dynmc?width=256&height=256" alt="[Buildings And Clotheslines, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.211</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings and clotheslines, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10014">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222509_dynmc?width=256&height=256" alt="[Laurence Feininger With Two Unknown Figures, Outside Of New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.218</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Laurence Feininger with two unknown figures, outside of New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10015">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222510_dynmc?width=256&height=256" alt="[Laurence Feininger (Center) With Two Unknown Figures, Outside Of New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.219</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Laurence Feininger (center) with two unknown figures, outside of New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10016">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222513_dynmc?width=256&height=256" alt="[Street Scene, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.222</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street scene, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10017">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222514_dynmc?width=256&height=256" alt="[Buildings And Rubble, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.223</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings and rubble, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10018">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222518_dynmc?width=256&height=256" alt="[Buildings, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.227</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10030">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222491_dynmc?width=256&height=256" alt="[Mountains Near Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.200</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Mountains near Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10031">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222493_dynmc?width=256&height=256" alt="[Cars And Trailers Near Mills College, Oakland, California]">
+                                    <span class="related-artwork__obj">BRLF.1005.202</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cars and trailers near Mills College, Oakland, California]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10032">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222498_dynmc?width=256&height=256" alt="[Industrial Buildings On Hillside, Near Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.207</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Industrial buildings on hillside, near Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10033">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222499_dynmc?width=256&height=256" alt="[Street Scene, Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.208</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street scene, Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10034">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222504_dynmc?width=256&height=256" alt="[Buildings And Figures, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.213</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings and figures, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10035">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222505_dynmc?width=256&height=256" alt="[Rooftops, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.214</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Rooftops, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10036">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222507_dynmc?width=256&height=256" alt="[Figures And Houses]">
+                                    <span class="related-artwork__obj">BRLF.1005.216</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures and houses]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10037">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222516_dynmc?width=256&height=256" alt="[Buildings, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.225</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10038">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222517_dynmc?width=256&height=256" alt="[Buildings, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.226</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10047">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222495_dynmc?width=256&height=256" alt="[Field Being Mowed, New England?]">
+                                    <span class="related-artwork__obj">BRLF.1005.204</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Field being mowed, New England?]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10048">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222511_dynmc?width=256&height=256" alt="[Construction On Streets, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.220</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Construction on streets, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10049">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222512_dynmc?width=256&height=256" alt="[Trees And Figures By River, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.221</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees and figures by river, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10050">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222519_dynmc?width=256&height=256" alt="[Buildings, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.228</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10053">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222393_dynmc?width=256&height=256" alt="[Boats Ashore At Low Tide, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.102</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats ashore at low tide, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10054">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222394_dynmc?width=256&height=256" alt="[Boats Near The Shore, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.103</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats near the shore, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10055">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222397_dynmc?width=256&height=256" alt="[Docked Boats And Clouds, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.106</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Docked boats and clouds, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10056">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222398_dynmc?width=256&height=256" alt="[Maple Leaves, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.107</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Maple leaves, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10057">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222418_dynmc?width=256&height=256" alt="[Car Viewed Through Car Window, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.127</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Car viewed through car window, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10058">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222423_dynmc?width=256&height=256" alt="[Window And Door, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.132</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Window and door, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10065">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222492_dynmc?width=256&height=256" alt="[Mountains Near Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.201</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Mountains near Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10066">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222494_dynmc?width=256&height=256" alt="[Street Scene, Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.203</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street scene, Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10067">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222496_dynmc?width=256&height=256" alt="[Close-Up Of Plant, With Mountains In The Distance, Near Virginia City, Nevada]">
+                                    <span class="related-artwork__obj">BRLF.1005.205</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Close-up of plant, with mountains in the distance, near Virginia City, Nevada]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10068">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222497_dynmc?width=256&height=256" alt="[Trees And Golf Course, California?]">
+                                    <span class="related-artwork__obj">BRLF.1005.206</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees and golf course, California?]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10069">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222503_dynmc?width=256&height=256" alt="[Statue Of Mayor Abraham De Peyster, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.212</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Statue of Mayor Abraham de Peyster, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10070">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222506_dynmc?width=256&height=256" alt="[Street Scene, Viewed From Above, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.215</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street scene, viewed from above, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10071">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222508_dynmc?width=256&height=256" alt="[Laurence Feininger With Two Unknown Figures, Outside Of New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.217</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Laurence Feininger with two unknown figures, outside of New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10072">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222515_dynmc?width=256&height=256" alt="[Buildings, New York]">
+                                    <span class="related-artwork__obj">BRLF.1005.224</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10076">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222386_dynmc?width=256&height=256" alt="[Birds Near Shore, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.95</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Birds near shore, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10077">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222396_dynmc?width=256&height=256" alt="[Boats At Harbor, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.105</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats at harbor, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10078">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222401_dynmc?width=256&height=256" alt="[Docked Ship, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.110</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Docked ship, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10084">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222387_dynmc?width=256&height=256" alt="[Beach Scene, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.96</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Beach scene, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10085">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222388_dynmc?width=256&height=256" alt="[Boat Tied To Dock, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.97</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat tied to dock, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10086">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222389_dynmc?width=256&height=256" alt="[Buildings On The Water, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.98</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings on the water, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10087">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222390_dynmc?width=256&height=256" alt="[Road And Sky, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.99</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Road and sky, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10088">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222391_dynmc?width=256&height=256" alt="[Sunlit Clouds, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.100</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sunlit clouds, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/10089">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV222392_dynmc?width=256&height=256" alt="[Boats Along The Coast, New England]">
+                                    <span class="related-artwork__obj">BRLF.1005.101</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats along the coast, New England]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">BRLF.1005.1-228</span>
+        <span class="popup__artwork-info-author">
+                                    Lyonel Feininger
+                              </span>
+        <span class="popup__artwork-info-title">Untitled</span>
+        <span class="popup__artwork-info-class">Photographs</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20332301%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F332301">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F332301" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Untitled+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F332301" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_baf6da45ce5c6ce896c317a6614baec1" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

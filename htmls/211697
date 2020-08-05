@@ -1,0 +1,624 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Smiting Male </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Smiting Male" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/211697"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:LEG251752_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Smiting Male" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_46474144" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:LEG251752_dynmc?width=3000&height=3000" data-initial-image-id="46474144" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?211697" data-behavior="add_to_collection tooltip" data-artwork="211697" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=211697&amp;image_id=LEG251752" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/211697/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="LEG251752">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG251752_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Smiting Male" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46474144" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG251752_dynmc?width=125&height=125" alt="Smiting Male">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG105533">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG105533_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Smiting Male" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43155415" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG105533_dynmc?width=125&height=125" alt="Smiting Male">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1998.15.15</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Smiting Male</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Figure of a God                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>16th-13th century BCE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Asia, Levant                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Bronze Age, Late</dd>
+                                        <dt>Culture</dt>
+                <dd>Levantine</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/211697">https://hvrd.art/o/211697</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leaded bronze</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>10.2 x 6.4 cm (4 x 2 1/2 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: ICP-MS/AAA data from sample, Leaded Bronze:<br />
+Cu, 93.76; Sn, 3.16; Pb, 2.76; Zn, 0.038; Fe, 0.01; Ni, 0.05; Ag, 0.16; Sb, 0.06; As, less than 0.10; Bi, less than 0.025; Co, less than 0.005; Au, less than 0.01; Cd, less than 0.001<br />
+J. Riederer</p>
+                                      <p class="divider">Technical Observations: The uneven patina is a porous brownish gray with some pale green and brown. Breaks at the neck and legs were previously repaired with lead solder, which was identified by microchemical testing. Many areas of loss were filled with a brown material soluble in acetone. Overall, the figure is poorly preserved. The figure was cast solid, probably by the lost-wax process.<br />
+ <br />
+ <br />
+Carol Snow (submitted 2002)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>From the collection of William A. Koshland.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Bequest of William A. Koshland</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1998</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1998.15.15</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>This smiting figure with simple modeling has an almost flat body, while the head is cast in the round. The roughened appearance of the figure’s surface, an effect attributable to the original wax model, produces an abstract form in combination with the lack of defined musculature or clothing. The head bends slightly to the proper left, while the body sways slightly to the right at the hips. The most prominent features of the head are the large slender nose and semicircular ears that extend out perpendicularly from the head. The simplified Egyptian White Crown with flaring base and flat top suggests a creation place in the Syro-Palestinian region. The right foot is slightly forward but not fully striding, in contrast to most smiting figurines, which advance with the left foot. The front section of the proper left foot is missing, and the proper right foot lacks its heel, perhaps due to casting flaws. Both hands are clenched in fists, which are unpierced and show no sign of having held separate objects. The flat body is more typical of early second millennium pieces, yet the raised arm position appears principally in the Late Bronze Age (c. 1600-1200 BCE) (1). A group of bronze figurines with similarly flat bodies was revealed by erosion along the Orontes River in western Syria and dated close to 2000 BCE (2). The Orontes figurines, however, wear a distinctive headdress that appears as a tall spike backed by a spreading fan-like element. The Harvard piece may be dated sometime later, in the middle of the second millennium BCE.<br />
+ <br />
+The geographical area of the Levant, comprising the regions of present-day Israel, Lebanon, western Syria, and south-central Turkey, produced an extraordinary number of small copper alloy figurines from the end of the third millennium into the beginning of the first millennium BCE (3). Most of these figurines depict a standing male figure with left foot advancing and right arm raised in a position of smiting (4). Often the hands are pierced with holes to hold weapons or armor. These separate elements are preserved in a few examples, the most spectacular being a warrior holding a spear and shield found in a late thirteenth or early twelfth century BCE building at Enkomi on Cyprus (5). The figurines have a wide distribution, with examples found as far away as Greece, but the majority is concentrated along the Mediterranean coast of the Levant (6).<br />
+ <br />
+While the figurines share a common conceptual underpinning, the actual forms and styles of the small copper alloys display a remarkable range of diversity. In general, they appear to move along a spectrum from those that include a high degree of Egyptianizing elements, presumably produced in regions closer to Egypt, to those showing stronger affinities with the Hittite artistic tradition of central Turkey. Such stylistic features are evident in the shape and type of the tall crown, the form of the short skirt or kilt, and the proportions of the body. The basic iconography of the smiting figure is derived from the Egyptian image of Pharaoh defeating his enemies; yet, there is no exact parallel in Egypt, indicating a peculiarly Levantine iconographic conception. The figure most likely represents a deity, sometimes identified as either Baal or Reshep, two West Semitic gods. Although no definitive evidence exists to support these attributions, some examples have horns on their headdresses, which are a Near Eastern attribute of divinity (7). Where archaeological contexts are sufficiently well preserved, the figurines are clearly associated with cultic spaces. The largest group of excavated figurines comes from several locations in the temple complex at Byblos on the Lebanese coast, while another set was excavated in a Late Bronze Age temple complex at Kamid el-Loz in inland Lebanon (8). The precise dating of the figurines remains fraught for several reasons. First, many were hoarded and only buried well after their date of manufacture. Second, there is only poor information available, if there is any at all, on the provenience of a large portion of the figurines in museum collections. Finally, while the overall conception of the figurines unites them as a group, the diversity of individual features and styles often makes stylistic comparisons difficult. <br />
+ <br />
+NOTES:<br />
+ <br />
+1. H. Seeden, The Standing Armed Figurines in the Levant, Prähistorische Bronzefunde 1.1 (Munich, 1980) 92.<br />
+ <br />
+2. Ibid., nos. 67-69, 72-75, and 79.<br />
+ <br />
+3. For Levantine copper alloy figurines in general, see O. Negbi, Canaanite Gods in Metal: An Archaeological Study of Ancient Syro-Palestinian Figurines (Tel Aviv, 1976); and P. R. S. Moorey and S. Fleming, “Problems in the Study of the Anthropomorphic Metal Statuary from Syro-Palestine Before 330 B.C.,” Levant 16 (1984): 67-90.<br />
+ <br />
+4. For the smiting copper alloy figurines, see Seeden 1980 (supra 1); D. Collon, “The Smiting God: A Study of a Bronze in the Pomerance Collection in New York,” Levant 4 (1972): 111-34; and ead., “Note on ‘A Bronze in the Pomerance Collection, New York,’” Levant 5 (1973): 133.<br />
+ <br />
+5. J.-C. Courtois, J. Lagarce, and E. Lagarce, Enkomi et le bronze récent à Chypre (Nicosia, 1986) pl. 18.4.<br />
+ <br />
+6. For distribution maps, see Seeden 1980 (supra 1) pls. 118-19.<br />
+ <br />
+7. For a summary of problems relating to the identity of Levantine copper alloy statuettes, see Moorey and Fleming 1984 (supra 3) 78-80.<br />
+ <br />
+8. For the Byblos copper alloy statuette hoards, see Seeden 1980 (supra 1) 36-102. For the Kamid el-Loz examples, see H. Kühne, “Die Bronzestatuetten aus dem ‘spätbronzezeitlichen’ Tempel,” in Bericht über die Ergebnisse der Ausgrabungen in Kamid el-Loz in den Jahren 1968 bis 1970, ed. R. Hachmann, Saarbrücker Beiträge zur Altertumskunde 22 (Bonn, 1980) 63-81. For a general discussion of context for the anthropomorphic statuettes, see Moorey and Fleming 1984 (supra 3) 76-77.<br />
+ <br />
+ <br />
+Marian Feldman</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/168617">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV033315_dynmc?width=3000&height=3000" alt="Smiting Male">
+                                    <span class="related-artwork__obj">2000.354</span>
+                                                        <h3 class="related-artwork__title">Smiting Male</h3>
+                                                        <span class="related-artwork__meta">Sculpture</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/304198">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250080_dynmc?width=3000&height=3000" alt="Smiting Male">
+                                    <span class="related-artwork__obj">1992.256.45</span>
+                                                        <h3 class="related-artwork__title">Smiting Male</h3>
+                                                        <span class="related-artwork__meta">Sculpture</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/304308">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251615_dynmc?width=3000&height=3000" alt="Smiting Male">
+                                    <span class="related-artwork__obj">1995.1133</span>
+                                                        <h3 class="related-artwork__title">Smiting Male</h3>
+                                                        <span class="related-artwork__meta">Sculpture</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/311826">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250089_dynmc?width=3000&height=3000" alt="Smiting Male">
+                                    <span class="related-artwork__obj">1992.256.75</span>
+                                                        <h3 class="related-artwork__title">Smiting Male</h3>
+                                                        <span class="related-artwork__meta">Sculpture</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/311827">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250090_dynmc?width=3000&height=3000" alt="Smiting Male">
+                                    <span class="related-artwork__obj">1992.256.77</span>
+                                                        <h3 class="related-artwork__title">Smiting Male</h3>
+                                                        <span class="related-artwork__meta">Sculpture</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/311828">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250092_dynmc?width=3000&height=3000" alt="Smiting Male">
+                                    <span class="related-artwork__obj">1992.256.80</span>
+                                                        <h3 class="related-artwork__title">Smiting Male</h3>
+                                                        <span class="related-artwork__meta">Sculpture</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG251752_dynmc?width=200&height=200" alt="Smiting Male">
+                <span class="popup__artwork-info-id">1998.15.15</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Smiting Male</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20211697%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F211697">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F211697" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Smiting+Male+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F211697" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/211697" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_17a5a07854edeed4eb0cd02ee7453f50" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

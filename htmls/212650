@@ -1,0 +1,690 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Landscape with a Road and a Fence </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Landscape with a Road and a Fence" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/212650"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:21077_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Landscape with a Road and a Fence" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17325101" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:21077_dynmc?width=3000&height=3000" data-initial-image-id="17325101" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?212650" data-behavior="add_to_collection tooltip" data-artwork="212650" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=212650&amp;image_id=21077" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/212650/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>25.1998.31</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/19304>Cornelis Vroom</a>, Dutch                                                                                                                                                                                                                                                                          (Haarlem(?), Netherlands c.1591 - 1661 Haarlem, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Landscape with a Road and a Fence</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1631</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/212650">https://hvrd.art/o/212650</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink over graphite on cream antique laid paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>19.2 x 25.2 cm (7 9/16 x 9 15/16 in.)<br />
+primary mount: 19.9 x 26 cm (7 13/16 x 10 1/4 in.)<br />
+secondary mount: 28.9 x 35.6 cm (11 3/8 x 14 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: brown ink, lower left: CVR [in ligature] oom / 1631
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: primary mount, lower right, graphite: C. Vroom
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: /a 2/a
+                        </li>
+                                              <li data-a="2">
+                          inscription: primary mount, verso, center, brown ink: No. 8.
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, black ink stamp: L. 324 (Wilhelm Gottlieb Becker)
+                        </li>
+                                              <li data-a="2">
+                          (not assigned): printed and adhered label, black ink: Fuesli. / pag.
+                        </li>
+                                              <li data-a="2">
+                          (not assigned): Secondary mount, lower right, graphite: 36x
+                        </li>
+                                              <li data-a="2">
+                          inscription: primary mount, verso, lower right, graphite: larg. 9p. 3 l. haut. 7 p.
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: primary and secondary mount, verso, lower right, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                              <li data-a="2">
+                          inscription: secondary mount, verso, upper center, blue ballpoint ink: Cornelis Vroom geb. um 1566 (?) in Haarlem / gestorben und beerdigt daselbst am 4.2.1640 / Sepiazeichnung: hollandische Landschaft, gezeichnet 1621 lt. Signatur. [underlined]
+                        </li>
+                                              <li data-a="2">
+                          inscription: secondary mount, verso, center, graphite: 19:25 cm
+                        </li>
+                                              <li data-a="2">
+                          inscription: secondary mount, verso, center, graphite: 91
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Wilhelm Gottlieb Becker, Dresden (L. 324, verso, lower left), sold; [Weigel, Leipzig, 25 October 1819, lot 85]. Fuesli (with his etiquette, verso, lower left, not in Lugt). [Karl & Faber, Munich, 2 June 1972, lot 211] sold; through [Robert M. Light & Co., Boston]; to Maida and George Abrams, Boston, 1972 (L. 3306, primary and secondary mount, verso, lower right); The Maida and George Abrams Collection, Promised Gift, 25.1998.31.<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 96 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Cornelis was the son and pupil of Hendrik Vroom, the outstanding Dutch painter of seascapes, naval battles, and city views during the first third of the seventeenth century. Although he initially specialized in marine subjects, around 1620 Cornelis turned to landscape painting.<sup class="footnote" id="fnrev3083494035ef66442764eb-1"><a href="#fn3083494035ef66442764eb-1">2</a></sup> He spent his career in Haarlem, working in proximity to other leading landscapists of the period, including Jan van de Velde, Pieter de Molijn, Salomon van Ruysdael, and Jacob van Ruisdael. An idyllic mood pervades Vroom’s pictures, which are distinguished by their delicate light, inconspicuous staffage, and serene compositions of large trees along a river or country road. Little known today, Vroom’s work enjoyed a solid reputation during his lifetime. He executed commissions for the <em>stadholder</em> in the Hague, and in 1647 the Haarlem historian Theodorus Schrevelius wrote that Vroom “is without peer among living [landscape painters], although in the judgment of some Pieter de Molijn comes close to, or indeed equals, him.”<sup class="footnote" id="fnrev3083494035ef66442764eb-2"><a href="#fn3083494035ef66442764eb-2">3</a></sup></p>
+
+<p>Drawings by Cornelis Vroom are rare—fewer than twenty-five securely attributable sheets have come down to us—but are esteemed for their unconventional compositions and refined technique.<sup class="footnote" id="fnrev3083494035ef66442764eb-3"><a href="#fn3083494035ef66442764eb-3">4</a></sup> <em>Landscape with a Road and a Fence</em> exemplifies both of those characteristics of his style. The asymmetrical design features a close view of a rutted road, an undulating fence, and dense foliage in the left foreground, which abruptly give way to a diagonal line of trees in the middle ground and distant panorama. The meticulously descriptive pen work of the plants, fence, and trees in the foreground enhances the disjunction in scale between near and far in the landscape.</p>
+
+<p>The Harvard work unmistakably resembles a drawing by Vroom in Berlin, which is also signed and dated 1631 (Fig. 1).<sup class="footnote" id="fnrev3083494035ef66442764eb-4"><a href="#fn3083494035ef66442764eb-4">5</a></sup> The two compositions are close in size and executed in the same technique; they also depict similar terrain—sloping meadows in the foreground, groves of trees in the middle distance, and fields and rolling hills stretching to the horizon. Like most of Vroom’s drawings, these are finished, autonomous works of art, as the signatures and dates affirm. He might have produced them as pendants or, more plausibly, parts of a series, but there is no conclusive proof of any such formal association between them.<sup class="footnote" id="fnrev3083494035ef66442764eb-5"><a href="#fn3083494035ef66442764eb-5">6</a></sup></p>
+
+<p>The hilly countryside represented in these and other drawings by the artist bears little resemblance to the dunes around Haarlem or the flatland near the Dutch coast, and scholars have contended that Vroom based it on recollections of the landscape of southern England or perhaps the southern or eastern Netherlands.<sup class="footnote" id="fnrev3083494035ef66442764eb-6"><a href="#fn3083494035ef66442764eb-6">7</a></sup> It now appears that the “Vroom” recorded in English documents of the late 1620s was not Cornelis but his brother Frederik, casting doubt on Cornelis’s putative sojourn in Britain.<sup class="footnote" id="fnrev3083494035ef66442764eb-7"><a href="#fn3083494035ef66442764eb-7">8</a></sup> In any case, the poetic landscapes featured in several of Vroom’s drawings may be imaginary and not based on his experience of any particular regional topography.<sup class="footnote" id="fnrev3083494035ef66442764eb-8"><a href="#fn3083494035ef66442764eb-8">9</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-9"><sup>1</sup> (This note refers to the provenance.) This name appeared on a printed label that was attached to a former mount. No collector by this name has been identified.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-1"><sup><a href="#fnrev3083494035ef66442764eb-1">2</a></sup> Irene van Thiel-Stroman in Pieter Biesboer and Neeltje Köhler, eds., <em>Painting in Haarlem 1500–1850: The Collection of the Frans Hals Museum</em> (Ghent, 2006), pp. 328–32, and Pieter Biesboer in idem, under cat. 492, p. 637.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-2"><sup><a href="#fnrev3083494035ef66442764eb-2">3</a></sup> Theodorus Schrevelius, <em>Harlemias, Ofte, om beter te seggen, De eerste stichtinghe der Stadt Haerlem</em> (Haarlem, 1648), p. 389. George S. Keyes, <em>Cornelis Vroom: Marine and Landscape Artist</em> (Alphen aan den Rijn, Netherlands, 1975), vol. 1, p. 13; Pieter Biesboer, “[Review] Cornelis Vroom: Marine and Landscape Artist,” <em>Simiolus</em>, vol. 10, nos. 3–4 (1978–79): 207–10, p. 207.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-3"><sup><a href="#fnrev3083494035ef66442764eb-3">4</a></sup> Keyes (vol. 2, cats. D 1–D 37) listed thirty-seven works in his catalogue raisonné of drawings by Vroom. Biesboer (pp. 208–10) rightly maintained that the drawings Keyes assigned to Cornelis Vroom in the years before about 1622 are by other hands. These include Keyes, vol. 2, cats. D 1, D 2, D 6, D 9, D 10, D 11, D 14, D 18, D 19, D 20, D 23, D 25, D 28, D 29, and D 33. See also M. Russell, <em>Visions of the Sea: Hendrick C. Vroom and the Origins of Dutch Marine Painting</em> (Leiden, 1983), pp. 105–11, for a defense of the attribution of the so-called “Rhonish” drawings (views done in southern France) to Cornelis’s father, Hendrik Cornelisz. Vroom. For an autograph drawing by Cornelis Vroom that came to light after the publication of Keyes’s monograph, see Thomas le Claire in <em>Master drawings 1500–1900: Exhibition, January 15–February 1, 1992, at W. M. Brady and Co. Inc., New York</em> (Kunsthandel, Hamburg, 1992), cat. 18, pp. 40–41.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-4"><sup><a href="#fnrev3083494035ef66442764eb-4">5</a></sup> Cornelis Vroom, <em>Hilly Landscape with a View into a Valley</em> (Fig. 1). Brown ink over black chalk or graphite; 193 × 242 mm. Staatliche Museen zu Berlin, Kupferstichkabinett, KdZ 8501. Keyes, vol. 2, cat. D 4; Martin Royalton-Kisch, <em>The Light of Nature: Landscape Drawings and Watercolours by Van Dyck and His Contemporaries</em> (Antwerp: Rubenshuis; London: British Museum, 1999), pp. 130–31; Holm Bevers in <em>Kupferstichkabinett: Aus Rembrandts Zeit; Zeichenkunst in Hollands Goldenem Jahrhundert</em> (Berlin: Staatliche Museen zu Berlin, 2011), cat. 11, pp. 32–33.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-5"><sup><a href="#fnrev3083494035ef66442764eb-5">6</a></sup> Keyes (vol.  2, under cat. D 27, p. 228) suggested that they might be pendants. Frederik Duparc (in Frederik J. Duparc, <em>Landscape in Perspective: Drawings by Rembrandt and His Contemporaries</em>, Cambridge: Harvard University Art Museums, Fogg Art Museum; Montreal: Montreal Museum of Fine Arts, 1988, under cat. 102, p. 229) questioned this assertion, noting that we have little information about pendant drawings during this period, although two landscapes by Vroom in the Graphische Sammlung Albertina, Vienna, appear to constitute a pair; see Marian Bisanz-Prakken in <em>Die Landschaft im Jahrhundert Rembrandts</em> (Vienna: Albertina Museum, 1993), p. 44. In any event, as Duparc noted (Duparc, p. 229), the compositions of the Berlin and Harvard drawings do not really balance or complement each other, so they are unlikely to be pendants. I suggested (in William Robinson, <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, London: British Museum; Paris: Institut Néerlandais; Cambridge: Harvard University Art Museums, Fogg Art Museum, 2002, cat. 14, p. 52) that they could have belonged to series with other drawings that have not been identified.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-6"><sup><a href="#fnrev3083494035ef66442764eb-6">7</a></sup> Keyes (vol. 1, pp. 13–14) summarizes the evidence for Cornelis’s visit to England and lists several paintings and drawings that he suggests may record the landscape of southern England. See also Marijn Schapelhouman and Peter Schatborn, <em>Dutch Drawings of the Seventeenth Century in the Rijksmuseum, Amsterdam: Artists Born between 1580 and 1600; Catalogue of Dutch and Flemish drawings in the Rijksprentenkabinet, Rijksmuseum, Amsterdam</em>, (Amsterdam and London, 1998), vol. 1, under cat. 434, p. 194; Jane Turner in <em>Rembrandt’s World: Dutch Drawings from the Clement C. Moore Collection</em>, (New York: The Morgan Library &amp; Museum, 2012), under cat. 20, p. 56; and Bevers, under cat. 11, p. 33.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-7"><sup><a href="#fnrev3083494035ef66442764eb-7">8</a></sup> Turner (under cat. 20, p. 56) noted the research on the archival documents by Irene van Thiel-Stroman (in Biesboer and Köhler, pp. 328–32), in which Cornelis Vroom’s visit to England is called into question.</p>
+
+<p class="footnote" id="fn3083494035ef66442764eb-8"><sup><a href="#fnrev3083494035ef66442764eb-8">9</a></sup> In addition to the Harvard and Berlin drawings, examples include Keyes, vol. 2, cats. D 3 and D 37, and Le Claire, cat. 18, pp. 40–41. Keyes’s no. D 37 is now in the Clement C. Moore collection, New York; see Turner, cat. 20, pp. 56–57.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212650/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Cornelis Vroom, <em>Hilly Landscape with a View into a Valley</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts, Promised Gift</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>25.1998.31</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Franklin W. Robinson, <em>One Hundred Master Drawings from New England Private Collections</em>, exh. cat. (Hanover, NH, 1973), cat. no. 13, pp. 40-41, repr.
+                             </p>
+                                                      <p>
+                                              George S. Keyes, <em>Cornelis Vroom: Marine and Landscape Artist</em>, Canaletto (Alphen aan den Rijn, 1975), vol. 1, pp. 81–83, vol. 2, cat. no. D 27, pp. 163 and 227–28, and under cat. no. D 4, p. 213, repr. fig. 44
+                             </p>
+                                                      <p>
+                                              Curtis O. Baer, ed., <em>Seventeenth Century Dutch Landscape Drawings and Selected Prints from American Collections</em>, exh. cat., Vassar College Art Gallery (Poughkeepsie, NY, 1976), cat. no. 18, pp. 14 and 37-38, repr. 18
+                             </p>
+                                                      <p>
+                                              Pieter Biesboer, "[Review] Cornelis Vroom: Marine and Landscape Artist", <em>Simiolus</em> (1978 -1979), vol. 10, nos. 3-4, pp. 207-10, p. 209
+                             </p>
+                                                      <p>
+                                              George Abrams, "Collectors and Collecting", <em>Drawings Defined</em>, ed. Walter Strauss, Abaris Books (New York, 1987), pp. 415-429, repr. p. 425, fig. 11
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton, Pieter Jacobus Johannes van Thiel, and Albert Blankert, <em>Masters of 17th-century Dutch Landscape Painting</em>, exh. cat., Museum of Fine Arts, Boston (Boston, 1987), under cat. no. 115, p. 519
+                             </p>
+                                                      <p>
+                                              Frederik J. Duparc, <em>Landscape in Perspective:  Drawings by Rembrandt and his Contemporaries</em>, exh. cat., The Montreal Museum of Fine Arts (Montreal, 1988), cat. no. 102, p. 229, repr. and repr. color. p. 48, fig. 102
+                             </p>
+                                                      <p>
+                                              Frederik J. Duparc, "[Review] Collectie Abrams in Rijksprentenkabinet", <em>Tableau</em> (1991), vol. 13, no. 5, pp. 40-42, p. 41
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 31, pp. 80-81, repr.
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "Abrams Dutch Drawings Given to the Fogg Art Museum, Cambridge, Mass.", <em>Apollo</em> (December 1999), vol. 150, pp. 14-16, p. 15, repr. fig. 3
+                             </p>
+                                                      <p>
+                                              Martin Royalton-Kisch, <em>The Light of Nature: Landscape Drawings and Watercolours by Van Dyck and his Contemporaries</em>, exh. cat., British Museum Press (London, 1999), under cat. no. 33, p. 130
+                             </p>
+                                                      <p>
+                                              Seymour Slive, "Collecting 17th-century Dutch art in the United States: the current boom", <em>Bulletin van het Rijksmuseum</em> (2001), vol. 49, no. 1, pp. 84-99, p. 97 (n. 11)
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2002), cat. no. 14, pp. 52-53 and 248, repr.
+                             </p>
+                                                      <p>
+                                              Jeanne Faton, "Entretien avec George Abrams: Dessins de l'âge d'or hollandais", <em>L'Estampille/L'Objet d'art</em> (April 2003), no. 379, pp. 46-55, repr. p. 50
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp, "[Review] Bruegel to Rembrandt. Dutch and Flemish Drawings from the Maida and George Abrams Collection.", <em>Oud Holland</em> (2004), vol. 117, no. 1/2, pp. 99-102, p. 101 (n. 3)
+                             </p>
+                                                      <p>
+                                              Stefaan Hautekeete, ed., <em>Tekeningen uit Nederlands Gouden Eeuw in de Verzameling van Jean de Grez</em>, exh. cat., Uitgeverij Snoeck (Ghent, 2007), under cat. no. 36, p. 118 (n. 8)
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 20; cat. no. 96, pp. 315-317, repr. p. 316
+                             </p>
+                                                      <p>
+                                              Franklin Einspruch, Fuse Visual Art Review: A Pair of Drawing Shows at the Harvard Art Museums, <em>The Arts Fuse</em> ([e-journal], June 9, 2016), repr., http://artsfuse.org/146319/fuse-visual-arts-review-a-pair-of-drawing-shows-at-the-harvard-art-museums/, accessed June 9, 2016
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>One Hundred Master Drawings from New England Private Collections</em>, Wadsworth Atheneum Museum of Art, Hartford, 09/05/1973 - 10/14/1973; Hopkins Center Art Galleries, Hanover, 10/26/1973 - 12/03/1973; Museum of Fine Arts, Boston, Boston, 12/14/1973 - 01/25/1974
+                            </p>
+                          <p>
+                              <em>Seventeenth Century Dutch Landscape Drawings and Selected Prints from American Collections</em>, Vassar College Art Gallery, Poughkeepsie, 03/28/1976 - 05/07/1976
+                            </p>
+                          <p>
+                              <em>Landscape in Perspective: Drawings by Rembrandt and his Contemporaries</em>, Harvard University Art Museums, Cambridge, 02/20/1988 - 04/03/1988; The Montreal Museum of Fine Arts, Montreal, 04/15/1988 - 05/29/1988
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>A Decade of Collecting: Recent Acquisitions of Prints and Drawings from 1480 to 1940</em>, Harvard University Art Museums, Cambridge, 03/25/2000 - 07/02/2000
+                            </p>
+                          <p>
+                              <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, British Museum, London, 06/13/2002 - 09/22/2002; Institut Néerlandais, Paris, 10/10/2002 - 12/08/2002; Harvard University Art Museums, Cambridge, 03/22/2003 - 07/06/2003
+                            </p>
+                          <p>
+                              <em>Abrams 50th reunion exhibition</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 06/01/2004 - 06/14/2004
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:21077_dynmc?width=200&height=200" alt="Landscape With A Road And A Fence">
+                <span class="popup__artwork-info-id">25.1998.31</span>
+        <span class="popup__artwork-info-author">
+                                    Cornelis Vroom
+                              </span>
+        <span class="popup__artwork-info-title">Landscape with a Road and a Fence</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20212650%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212650">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212650" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Landscape+with+a+Road+and+a+Fence+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212650" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/212650" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b750c07c89b2c611915cefaca58ed093" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

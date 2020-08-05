@@ -1,0 +1,699 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections View of Weesp </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections View of Weesp" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/211847"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:50727_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" View of Weesp" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_8944751" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:50727_dynmc?width=3000&height=3000" data-initial-image-id="8944751" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?211847" data-behavior="add_to_collection tooltip" data-artwork="211847" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=211847&amp;image_id=50727" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/211847/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="50727">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50727_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Simon de Vlieger"  title="View Of Weesp" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="8944751" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50727_dynmc?width=125&height=125" alt="View Of Weesp">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758644">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758644?width=3000&height=3000" data-zoom-enabled="1" data-people="Simon de Vlieger"  title="View Of Weesp" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408374204" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758644?width=125&height=125" alt="View Of Weesp">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758645">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758645?width=3000&height=3000" data-zoom-enabled="1" data-people="Simon de Vlieger"  title="View Of Weesp" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408374196" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758645?width=125&height=125" alt="View Of Weesp">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758646">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758646?width=3000&height=3000" data-zoom-enabled="1" data-people="Simon de Vlieger"  title="View Of Weesp" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408374200" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758646?width=125&height=125" alt="View Of Weesp">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758647">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758647?width=3000&height=3000" data-zoom-enabled="1" data-people="Simon de Vlieger"  title="View Of Weesp" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408374192" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758647?width=125&height=125" alt="View Of Weesp">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011434">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011434_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Simon de Vlieger"  title="View Of Weesp" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45617865" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011434_dynmc?width=125&height=125" alt="View Of Weesp">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2008.250</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29252>Simon de Vlieger</a>, Dutch                                                                                                                                                                                                                                                                          (Rotterdam 1600/1601 - 1653 Weesp)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>View of Weesp</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1649-1653</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/211847">https://hvrd.art/o/211847</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk, gray wash, some incised lines in lower half of added strip at right, on off-white antique laid paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>39.3 x 67.9 cm (15 1/2 x 26 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower left, brown ink: 1280
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: Simon de Vlieger
+                        </li>
+                                              <li data-a="2">
+                          watermark: <br />
+Arms of Bern; related to Lindt 98–101 (House of Beyer Halbysen or Jeronimus Halbysen, possibly the mill “La Mothe” near Yverdon, canton of Vaud, 1550–73)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 19
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: PTRgn.
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink: L. 3306 (Maida and George Abrams)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 139203
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Sotheby Mak van Waay, Amsterdam, 18 November 1985, lot 127, repr.] sold; to Maida and George Abrams, Boston (L. 3306, verso, lower left); The Maida and George Abrams Collection, inv. no. 2008.250.<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 94 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Simon de Vlieger’s interest in architectural subjects first became apparent in a group of drawings and etchings that date from the late 1630s, showing dilapidated city walls, gates, and towers. Although he based motifs in some of them on the ramparts of Delft, most of these picturesque townscapes probably depict invented, composite scenery.<sup class="footnote" id="fnrev6375264045ef66445a91fb-1"><a href="#fn6375264045ef66445a91fb-1">1</a></sup> During the 1640s and early 1650s, he produced drawings of greater topographical fidelity, including several of ruined churches and castles.<sup class="footnote" id="fnrev6375264045ef66445a91fb-2"><a href="#fn6375264045ef66445a91fb-2">2</a></sup> At least three represent the town of Weesp, which lies on the river Vecht, about ten miles southeast of the center of Amsterdam. De Vlieger purchased a house in Weesp on January 13, 1649, and resided there until his death in March 1653.<sup class="footnote" id="fnrev6375264045ef66445a91fb-3"><a href="#fn6375264045ef66445a91fb-3">3</a></sup></p>
+
+<p>The view of Weesp in the Harvard drawing was taken from the approach to the gabled Muiderpoort (Muiden Gate), which was accessible via the drawbridge at the far right. The vantage point encompassed the varied facades and bustling commercial activity on the Hoogstraat, the street that ran along the bank of the Vecht. De Vlieger executed at least two other drawings from the same location. A work in the Fondation Custodia, Frits Lugt Collection, Paris, shows the buildings along the Vecht that appear in the right half of the Harvard work (Fig. 1), and a sheet in the Amsterdam Museum extends the prospect downriver, including its opposite bank and the rest of the town to the distant fuller’s mill, nicknamed “De Stinkerd” (Fig. 2).<sup class="footnote" id="fnrev6375264045ef66445a91fb-4"><a href="#fn6375264045ef66445a91fb-4">4</a></sup> The Paris and Amsterdam drawings, which are nearly identical in size, belonged to the same eighteenth-century collection and were once evidently regarded as pendants.<sup class="footnote" id="fnrev6375264045ef66445a91fb-5"><a href="#fn6375264045ef66445a91fb-5">5</a></sup> Placed side by side, they show more or less the same prospect as the Harvard view and a 1645 painting by Isaack van Ruisdael (Fig. 3).<sup class="footnote" id="fnrev6375264045ef66445a91fb-6"><a href="#fn6375264045ef66445a91fb-6">6</a></sup> A conspicuous detail documented in the Harvard and Paris drawings and the Ruisdael painting is the gradual deterioration of the wooden piles in the water before the semicircular bastion at the right. More or less intact in the 1645 painting, the piles show neglect in the Paris sheet, which may date from about 1650, shortly after De Vlieger settled in Weesp.<sup class="footnote" id="fnrev6375264045ef66445a91fb-7"><a href="#fn6375264045ef66445a91fb-7">7</a></sup> The piles have nearly disappeared in the Harvard work, suggesting a date for the latter of about 1651–52. The tower of the fifteenth-century Sint Laurentiuskerk, which is visible in the painting by Isaack van Ruisdael (see Fig. 3) and in De Vlieger’s Paris drawing (see Fig. 1), is obscured in the Harvard view by the foliage of the tree that rises above the medieval bastion.<sup class="footnote" id="fnrev6375264045ef66445a91fb-8"><a href="#fn6375264045ef66445a91fb-8">8</a></sup></p>
+
+<p><em>View of Weesp</em> exemplifies De Vlieger’s extraordinary technical accomplishment. In addition to the skillful handling of the chalk and wash throughout this large sheet, he improvised techniques that enhance the graphic vitality of selected details, such as the decorative stonework of the scrolled gable at the far right. Along the left side of the gable, De Vlieger left a reserve of untouched paper, which helps distinguish the motif from the surrounding walls and roofs, and he further enhanced contours of the gables by indenting them with a blunt point. These subtle interventions draw our attention to the intricate description of the scrollwork and other details on the facade.</p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-1"><sup><a href="#fnrev6375264045ef66445a91fb-1">1</a></sup> Christiaan P. van Eeghen, “Simon de Vlieger as a Draftsman, I: The Pen Drawings,” <em>Master Drawings</em>, vol. 44, no. 1 (Spring 2006): 3–47, pp. 9–15; Christiaan P. van Eeghen, “Simon de Vlieger as a Draftsman, II: Chalk Drawings Other than Pure Landscapes,” <em>Master Drawings</em>, vol. 49, no. 2 (Summer 2011): 179–221, pp. 194–99.</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-2"><sup><a href="#fnrev6375264045ef66445a91fb-2">2</a></sup> See <em>Rijnsburg, View of the Abby Ruins from the East</em>, Edinburgh, National Galleries of Scotland, D 1132 (Keith Andrews, <em>Catalogue of Netherlandish Drawings in the National Gallery of Scotland</em>, Edinburgh, 1985, p. 98, fig. 166); <em>Warmond, Ruins of the Church</em>, Vienna, Graphische Sammlung Albertina, 9168; and <em>Ruins of Brederode Castle</em>, Amsterdam, Rijksmuseum, RP-T-1902-A- 4632 (Marijn Schapelhouman and Peter Schatborn, <em>Dutch Drawings of the Seventeenth Century in the Rijksmuseum, Amsterdam: Artists Born between 1580 and 1600; Catalogue of Dutch and Flemish drawings in the Rijksprentenkabinet, Rijksmuseum, Amsterdam</em>, Vol. 6 (Amsterdam and London, 1998), cat. 406, pp. 186–87, repr. vol. 2, p. 200).</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-3"><sup><a href="#fnrev6375264045ef66445a91fb-3">3</a></sup> Jan Kelch, “Studien zu Simon de Vlieger als Marinemaler.” Ph.D. diss., University of Berlin (Berlin, 1971), pp. 1–4.</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-4"><sup><a href="#fnrev6375264045ef66445a91fb-4">4</a></sup> Simon de Vlieger, <em>View of Weesp with the Muiderpoort</em> (Fig. 1). Black chalk and gray wash, 189 × 306 mm. Signed, lower right, in black chalk, <em>S DE VL</em>. Paris, Fondation Custodia, Frits Lugt Collection, 250 (Ben Broos in Ben P. J. Broos and Marijn Schapelhouman, <em>Oude tekeningen in het bezit van het Amsterdams Historisch Museum, waaronder de collectie Fodor: Nederlandse Tekenaars geboren tussen 1600 en 1660</em>, Amsterdam and Zwolle, Netherlands, 1993, p. 217). Simon de Vlieger, <em>View of Weesp with the Mill “De Stinkerd”</em> (Fig. 2). Black chalk and gray wash, 191 × 312 mm. Signed in black chalk, <em>S DE <span class="caps">VLIEGER</span></em>. Amsterdam, Amsterdam Museum, Fodor collection, A 10366 (Ben Broos in Broos and Schapelhouman, p. 217).</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-5"><sup><a href="#fnrev6375264045ef66445a91fb-5">5</a></sup> Ben Broos in Broos and Schapelhouman, p. 217.</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-6"><sup><a href="#fnrev6375264045ef66445a91fb-6">6</a></sup> Isaack van Ruisdael, <em>View of Weesp</em> (Fig. 3). Oil on canvas, 106.7 × 151.1 cm. Signed and dated, <em>I v. Ruisdael 1645</em>. Cape Town, <em>The Old Town House</em>, Michaelis Collection, 14/51 (Seymour Slive, “A Newly Discovered Painting by Isaack van Ruisdael in Philadelphia,” <em>The Burlington Magazine</em>, vol. 139, 1997: 690–92, pp. 691–92; Hans Fransen, <em>Michaelis Collection, The Old Town House, Cape Town: Catalogue of the Collection of Paintings and Drawings</em>, Cape Town and Zwolle, 1997, cat. 56, pp. 137–38, repr. and repr. color, p. 72, pl. <span class="caps">XXXVI</span>).</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-7"><sup><a href="#fnrev6375264045ef66445a91fb-7">7</a></sup> Ben Broos in Broos and Schapelhouman, p. 217. 8 See ibid. for topographical details.</p>
+
+<p class="footnote" id="fn6375264045ef66445a91fb-8"><sup><a href="#fnrev6375264045ef66445a91fb-8">8</a></sup> See ibid. for topographical details.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/211847/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Simon de Vlieger, <em>View of Weesp with the Muiderpoort</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/211847/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Simon de Vlieger, <em>View of Weesp with the Mill “De Stinkerd”</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/211847/3.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 3 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Isaack van Ruisdael, <em>View of Weesp</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2008</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2008.250</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Frederik J. Duparc, <em>Landscape in Perspective:  Drawings by Rembrandt and his Contemporaries</em>, exh. cat., The Montreal Museum of Fine Arts (Montreal, 1988), cat. no. 99, p. 225, repr.
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 37, pp. 92-93, repr.
+                             </p>
+                                                      <p>
+                                              George S. Keyes, "[Review] Seventeenth-Century Dutch Drawings. A Selection from the Maida and George Abrams Collection", <em>Master Drawings</em> (Winter 1992), vol. 30, no. 4, pp. 443-448, pp. 447-8
+                             </p>
+                                                      <p>
+                                              Ben Broos and Marijn Schapelhouman, <em>Oude tekeningen in het bezit van het Amsterdams Historisch Museum, waaronder de collectie Fodor. Nederlandse Tekenaars geboren tussen 1600 en 1660</em>, Amsterdams Historisch Museum and Waanders Uitgevers (Amsterdam and Zwolle, 1993), under cat. no. 170, p. 217 (n. 9)
+                             </p>
+                                                      <p>
+                                              George S. Keyes, "Vlieger, Simon de", <em>The Dictionary of Art</em>, ed. Jane Turner, Macmillan Publishing Co., Inc. (London, 1996), vol. 32, pp. 671-73, p. 673
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2002), cat. no. 68, pp. 162-63, 263, and 280, repr.
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp, "[Review] Bruegel to Rembrandt. Dutch and Flemish Drawings from the Maida and George Abrams Collection.", <em>Oud Holland</em> (2004), vol. 117, no. 1/2, pp. 99-102, p. 101 (n. 3)
+                             </p>
+                                                      <p>
+                                              Ida Kemperman-Wilke and Aukje Zondergeld-Hamer, <em>Weesp, 650 jaar stad</em>, Enter Weesp bv (Weesp, 2005), pp. 32-33, repr.
+                             </p>
+                                                      <p>
+                                              Friso Lammertse and Jaap Van Der Veen, <em>Uylenburgh & Son: Art and Commerce from Rembrandt to De Lairesse 1625-1675</em>, exh. cat., Waanders Uitgevers and The Rembrandt House Museum (Zwolle, The Netherlands, 2006), repr. p. 39, fig. 18
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 20; cat. no. 94, pp. 309-311, repr. p. 310 (foldout); watermark p. 382
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Landscape in Perspective: Drawings by Rembrandt and his Contemporaries</em>, Harvard University Art Museums, Cambridge, 02/20/1988 - 04/03/1988; The Montreal Museum of Fine Arts, Montreal, 04/15/1988 - 05/29/1988
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Bruegel to Rembrandt: Dutch and Flemish Drawings from the Maida and George Abrams Collection</em>, British Museum, London, 06/13/2002 - 09/22/2002; Institut Néerlandais, Paris, 10/10/2002 - 12/08/2002; Harvard University Art Museums, Cambridge, 03/22/2003 - 07/06/2003
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:50727_dynmc?width=200&height=200" alt="View Of Weesp">
+                <span class="popup__artwork-info-id">2008.250</span>
+        <span class="popup__artwork-info-author">
+                                    Simon de Vlieger
+                              </span>
+        <span class="popup__artwork-info-title">View of Weesp</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20211847%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F211847">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F211847" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=View+of+Weesp+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F211847" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/211847" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_7f5d2a18e636e6d5d28a27a1cdd77f1a" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

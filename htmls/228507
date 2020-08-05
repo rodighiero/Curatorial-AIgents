@@ -1,0 +1,716 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections La Porte d'Amont, Étretat </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections La Porte d&#039;Amont, Étretat" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/228507"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:VRS40913_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" La Porte d&#039;Amont, Étretat" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_20679033" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:VRS40913_dynmc?width=3000&height=3000" data-initial-image-id="20679033" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?228507" data-behavior="add_to_collection tooltip" data-artwork="228507" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=228507&amp;image_id=40913" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/228507/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="40913">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS40913_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Claude Monet"  title="La Porte D'amont, Étretat" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20679033" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS40913_dynmc?width=125&height=125" alt="La Porte D'amont, Étretat">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="80758">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS80758_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Claude Monet"  title="La Porte D'amont, Étretat" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="44645441" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS80758_dynmc?width=125&height=125" alt="La Porte D'amont, Étretat">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1957.163</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27651>Claude Monet</a>, French                                                                                                                                                                                                                                                                          (Paris, France 1840 - 1926 Giverny, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>La Porte d'Amont, Étretat</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Cliff at Etretat<br>                                                                                                              Former Title: Falaise à Étretat                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1868-1869</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/228507">https://hvrd.art/o/228507</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>sight: 79.1 x 98.4 cm (31 1/8 x 38 3/4 in.)<br />
+framed: 114.6 x 133.7 x 12.7 cm (45 1/8 x 52 5/8 x 5 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l.: Claude Monet
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, top left, pencil: P. H. 
+                        </li>
+                                              <li data-a="2">
+                          label: verso, top right: Monet No. 3838 / Falaises d'Etreat / 1873
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, top center-right, scratched/incised: ab ut 1019
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher, inscription: 7857 [underlined twice]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher bar: 40 u [encircled]
+                        </li>
+                                              <li data-a="2">
+                          stamp: verso, right center margin of canvas: Douane 83 - 4 [or 81-43] [encircled]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher, right, blue pencil or chalk: 15117 [underlined]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher, right, blue pencil or chalk: 776 [underlined]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower center: 5827 [struck through]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, right stretcher, blue pencil or chalk: [square and two lines]
+                        </li>
+                                              <li data-a="2">
+                          label: verso, right stretcher, bottom, ink : Clau [illeg.] t 
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right corner, graphite: X
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher bar, graphite: Photo / DRNY / 3525
+                        </li>
+                                              <li data-a="2">
+                          label: verso, middle strecher, left: [label for Sam Salz]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher, left, in graphite: 722 [underlined twice]
+                        </li>
+                                              <li data-a="2">
+                          label: verso, middle stretcher, left: Monet No. 10526 / Les Falaises d'Etretat / 1873
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher, left, blue pencil or chalk: 5827
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher, bottom: 80 / 260
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Claude Monet, 1868, sold;  to [Durand-Ruel, Paris], sold; to Prince de Wagram (Louis-Alexandre Berthier), Paris, sold; to [Durand-Ruel, Paris, April 1914]; to Jean d' Alayer de Costemore d'Arc and Marie-Louise Durand-Ruel (daughter and son-in-law of Joseph Durand-Ruel), Paris, sold; to [Sam Salz,19th & 20th Century French Art, New York] sold; to Joseph Pulitzer Jr., (May 2,1955-1957) gift; to Fogg Art Museum ,1957.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Mr. and Mrs. Joseph Pulitzer, Jr.</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1957</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1957.163</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Camille Mauclair, <em>Claude Monet</em>, F. Rieder & cie (Paris, France, 1924), repr. pl. 32
+                             </p>
+                                                      <p>
+                                              Léon Werth, <em>Claude Monet</em>, Les Editions G. Crès & Cie. (Paris, France, 1928), repr. pl. 30
+                             </p>
+                                                      <p>
+                                              Charles Scott Chetham, <em>Modern Painting, Drawing & Sculpture: Collected by Louise and Joseph Pulitzer, Jr.</em>, Fogg Art Museum (Cambridge, MA, 1957), pp. 65-66, fig. 1, ill. (plate section, b/w)
+                             </p>
+                                                      <p>
+                                              Charles Scott Chetham, "Cliff at Etretat by Claude Monet", <em>Fogg Art Museum Annual Report 1957-1958</em>, Fogg Art Museum (Cambridge, MA, 1959), pp. 46-49, repr. p. 47
+                             </p>
+                                                      <p>
+                               <em>Claude Monet: Seasons and Moments</em>, exh. cat., Museum of Modern Art, New York (New York, NY, 1960)
+                                            </p>
+                                                      <p>
+                                              John Rewald, <em>The History of Impressionism [revised ed.]</em>, Museum of Modern Art, New York (New York, NY, 1961), repr. p. 233
+                             </p>
+                                                      <p>
+                                              Rosamond Bernier, "Une Collection du Middle West", <em>L'oeil</em> (December 1967), no. 156, pp. 30-39, 49; ill. p. 31, no. 3
+                             </p>
+                                                      <p>
+                                              Nina Kasanof, "Monet and Etretat", <em>Bulletin of the North Carolina Museum of Art</em>, North Carolina Museum of Art (Raleigh, NC, May 1968), vol. VII, no. 4, pp. 3-11, repr. p. 5, fig. 2
+                             </p>
+                                                      <p>
+                               <em>The Joseph and Louise Pulitzer Collection</em>, exh. cat., City Art Museum of St. Louis (St. Louis, MO, 1968)
+                                            </p>
+                                                      <p>
+                                              Daniel Wildenstein, <em>Claude Monet: Biographie et Catalogue Raisonné</em>, La Bibliothèque des Arts (Lausanne, Switzerland, 1974 - 1991), no. 258, p. 224; repr. p. 225
+                             </p>
+                                                      <p>
+                               <em>Paintings by Monet</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1975)
+                                            </p>
+                                                      <p>
+                                              Robert Gordon and Andrew Forge, <em>Monet</em>, Harry N. Abrams, Inc. (New York, NY, 1983), repr. in b/w p. 108
+                             </p>
+                                                      <p>
+                                              Caroline A. Jones, Modern Art at Harvard: The Formation of the Nineteenth- and Twentieth-Century Collections of the Harvard University Art Museums (New York, NY and Cambridge, MA, Harvard University Art Museums and Abbeville Press, 1985). With an essay by John Coolidge and a preface by John M. Rosenfield.  To accompany the inaugural exhibition at the Sackler Museum, Oct 21 1985 - Jan 5 1986, repr. in color fig. 7, p. 22
+                             </p>
+                                                      <p>
+                                              John House, <em>Monet: Nature into Art</em>, Yale University Press (New Haven, CT and London, England, 1986), repr. in color fig. 175, p. 142
+                             </p>
+                                                      <p>
+                                              Yvon Taillandier, <em>Monet</em>, Crown Publishers Inc. (New York, NY, 1987), repr. in color p. 48
+                             </p>
+                                                      <p>
+                                              Michael Howard, <em>Monet</em>, Brompton Books, Ltd (London, England, 1989), repr. in color pp. 56-57
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 82, color plate; pp. 120, 244, repr. b/w cat. no. 342
+                             </p>
+                                                      <p>
+                                              Claude Monet, <em>Monet by Monet</em>, ed. Rachel Barnes, Webb and Bower (Exeter, England, 1990), repr. in color p. 45
+                             </p>
+                                                      <p>
+                                              Helen Gardner and Horst de la Croix, <em>Gardner's Art Through the Ages</em>, Harcourt Brace Jovanovich (San Diego, CA, 1991), repr. in color, 21-68, p. 923
+                             </p>
+                                                      <p>
+                                              Henri Loyrette and Gary Tinterow, <em>Impressionisme: Les Origines 1859-1869</em>, exh. cat., Réunion des Musées Nationaux (Paris, France, 1994), no. 143, p. 434, repr., no. 323, p. 259 and color detail p. 258
+                             </p>
+                                                      <p>
+                                              Robert L. Herbert, <em>Monet on the Normandy Coast</em>, Yale University Press (New Haven, CT and London, England, 1994), pp. 24-26, repr. in color, plate 28, p. 24
+                             </p>
+                                                      <p>
+                                              Gary Tinterow and Henri Loyrette, <em>Origins of Impressionism</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1994), pp. 258-260, repro. in color fig. 322, p. 258, fig. 323, p.259; p. 437, no. 143.
+                             </p>
+                                                      <p>
+                                              Norio Shimada and Keiko Sakagami, <em>Claude Monet 1858-1880</em>, exh. cat., Toppan Tanc (Japan, 2001), p. 21, repr. in color as pl. 154
+                             </p>
+                                                      <p>
+                                              John Collins, "Monet's 1880s Etretat Campaign: 'Rock Needle' seen through the Porte d'Aval--A Case for His Japonisme", <em>National Gallery of Canada Review / Revue du Musée des Beaux-Arts du Canada</em> (2008), VI, pp. 8-34, pp. 14-15,                                                                                                                                fig. 5
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 157, repr.
+                             </p>
+                                                      <p>
+                                              Carole McNamara, <em>The Lens of Impressionism: Photography and Painting along the Normandy Coast, 1850-1874</em>, exh. cat., University of Michigan Museum of Art (Ann Arbor, Michigan, 2009), repr. p. 182
+                             </p>
+                                                      <p>
+                                              Ségolène Le Men, <em>Monet</em>, Citadelles & Mazenod (Paris, 2010), p. 241, ill. 196
+                             </p>
+                                                      <p>
+                                              Simon Kelly and April Watson, <em>Impressionist France: Visions of Nation from Le Gray to Monet</em>, exh. cat., Saint Louis Art Museum and Nelson-Atkins Museum of Art (Saint Louis, Missouri and Kansas City, Missouri, 2013), repr. in color p. 278 as fig. 79; p. 278
+                             </p>
+                                                      <p>
+                                              George T.M. Shackelford, <em>Monet: The Early Years</em>, exh. cat., Kimbell Art Museum (Fort Worth, TX, 2016), cat. no. 27, p 137, repr. p. 136
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Chefs-D'Oeuvre de l'art Français</em>, Durand-Ruel Paris, Paris, 01/01/1902 - 12/31/1902
+                            </p>
+                          <p>
+                              <em>Monet</em>, Marlborough Galleries, London, 01/01/1954 - 12/31/1954
+                            </p>
+                          <p>
+                              <em>Modern Painting Drawing and Sculpture Collected by Louise and Joseph Pulitzer Jr</em>, Knoedler & Co. Inc., New York, 04/09/1957 - 05/04/1957; Fogg Art Museum, Cambridge, 05/16/1957 - 09/15/1957
+                            </p>
+                          <p>
+                              <em>Claude Monet: Seasons and Moments</em>, Museum of Modern Art, New York, New York, 03/07/1960 - 05/15/1960; Los Angeles County Museum of Art, Los Angeles, 06/14/1960 - 08/07/1960
+                            </p>
+                          <p>
+                              <em>Works of Art of the Nineteenth and Twentieth Centuries Collected by Louise and Joseph Pulitzer Jr.</em>, City Art Museum of St. Louis, St. Louis, 01/22/1968 - 03/17/1968
+                            </p>
+                          <p>
+                              <em>Claude Monet</em>, The Art Institute of Chicago, Chicago, 03/15/1975 - 05/11/1975
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Modern Art at Harvard</em>, Harvard University Art Museums, Cambridge, 10/21/1985 - 01/05/1986
+                            </p>
+                          <p>
+                              <em>Origins of Impressionism</em>, The Metropolitan Museum of Art, New York, 09/19/1994 - 01/08/1995
+                            </p>
+                          <p>
+                              <em>Claude Monet: 1840-1926</em>, The Art Institute of Chicago, Chicago, 07/14/1995 - 11/26/1995
+                            </p>
+                          <p>
+                              <em>32Q: 2700 Impressionism</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 10/15/2015
+                            </p>
+                          <p>
+                              <em>Monet: The Early Years</em>, California Palace of the Legion of Honor, San Francisco, 02/25/2017 - 05/29/2017
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS40913_dynmc?width=200&height=200" alt="La Porte D'amont, Étretat">
+                <span class="popup__artwork-info-id">1957.163</span>
+        <span class="popup__artwork-info-author">
+                                    Claude Monet
+                              </span>
+        <span class="popup__artwork-info-title">La Porte d'Amont, Étretat</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20228507%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228507">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228507" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=La+Porte+d%27Amont%2C+%C3%89tretat+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228507" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/228507" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_ebd00e3f7c5aa361f5e7418e1759cca3" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

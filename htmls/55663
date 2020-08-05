@@ -1,0 +1,1440 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Pickhardt Vol. IV: Charivari Lithographs by Daumier </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Pickhardt Vol. IV: Charivari Lithographs by Daumier" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/55663"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV207326_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Pickhardt Vol. IV: Charivari Lithographs by Daumier" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_12654813" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV207326_dynmc?width=3000&height=3000" data-initial-image-id="12654813" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?55663" data-behavior="add_to_collection tooltip" data-artwork="55663" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=55663&amp;image_id=INV207326" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/55663/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="INV207326">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV207326_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Honoré-Victorin Daumier"  title="Pickhardt Vol. Iv: Charivari Lithographs By Daumier" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12654813" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV207326_dynmc?width=125&height=125" alt="Pickhardt Vol. Iv: Charivari Lithographs By Daumier">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV175071">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV175071_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Honoré-Victorin Daumier"  title="Pickhardt Vol. Iv: Charivari Lithographs By Daumier" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="8227868" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV175071_dynmc?width=125&height=125" alt="Pickhardt Vol. Iv: Charivari Lithographs By Daumier">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV175073">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV175073_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Honoré-Victorin Daumier"  title="Pickhardt Vol. Iv: Charivari Lithographs By Daumier" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="8227869" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV175073_dynmc?width=125&height=125" alt="Pickhardt Vol. Iv: Charivari Lithographs By Daumier">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>M16948.-M17288</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/34691>Honoré-Victorin Daumier</a>, French                                                                                                                                                                                                                                                                          (Marseille, France 1808-1879 Valmondois, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Pickhardt Vol. IV: Charivari Lithographs by Daumier</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Pickhardt Vol. IV                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            book                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1848</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/55663">https://hvrd.art/o/55663</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Lithograph</dd>
+           
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+                          <dt>State</dt>
+              <dd>ii</dd>
+            
+            
+                          <dt>Standard Reference Number</dt>
+              <dd>D. 1796</dd>
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Carl Pickhardt, Class of 1931</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>M16948.-M17288</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/264584">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17131</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">At the 32-Cent Restaurant</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/266468">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17260</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Do you see, old sport... compared to Egypt..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/266565">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17244</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Could you tell me...? I've got the flu!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/266617">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17248</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"With the war, the rents will decrease..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/266916">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17257</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Visit on New Year's Day</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267077">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17247</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Well, Mr. le Baron... with a watering can in hand!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267084">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17256</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Your visit was very short..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267086">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17245</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes, Mr. Premouillet, everything's going from bad to worse..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267246">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17246</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">It Is Bizarre... During Summer</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267327">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17264</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Madame Chapotard Prepares to Make Her Preserves</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267328">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17265</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Day of the Dinner at the Home of the Director...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267330">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17270</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Artist:  "Here it is, completed!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267337">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17263</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"If you would do me the kindness of pleading my case..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267399">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17269</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Waiter, your beer... is no good..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267400">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17271</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"I'll stop you, scamp..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267403">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17258</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"To the health of the grape!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267423">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17241</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Russian Question Debated Upon a Couch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267435">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17242</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes... Rifolet... They say that the Cossacks..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267446">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17251</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes, Mr. Chapuzot..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267467">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17240</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">First Literary Woman: "Let's profit from the occasion..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267489">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17243</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Drawbacks of Dining With a Scholar...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267491">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17252</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"You are doing well today, Mr. Chapolard?..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267492">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17253</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Day for Representation at the Benefit...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267563">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17274</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Drawbacks of Having Domestics...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267565">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17284</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Rejoicing in the End of the Dog Days</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267569">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17268</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Oh divine Adelaide, you are the..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267570">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17267</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Your husband will not buy you the bracelet..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267580">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17266</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Loyal to the Old Customs...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267582">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17250</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Botanical Lesson</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267615">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17087</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Having Completed Their Work...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267672">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17237</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes, Mrs. Fribochon, there was indeed, three weeks ago, an earthquake..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267709">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17238</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"I think I sense... a... dog... without a muzzle!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267719">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17059</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Why... you have already bought a... hat..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267723">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17275</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Conjugal Stroll</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267724">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17277</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Invalid: "How, Doctor, unlike..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267738">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17272</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"It's surprising how I grow stout..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267772">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17259</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Eh!  Good, and my glass...  If I don't have any..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267774">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17273</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Parisian Othello Suspects...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267776">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17276</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Discovery of an Old Acquaintance...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267783">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17239</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Isn't it true that this tragedy conceals its beauty..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267784">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17279</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Restauranteur in the Bois de Bologne</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267785">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17280</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Conjugal Stroll</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267787">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17282</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"You will excuse me:  I am going to sit down at the table..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267789">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17285</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Domestic:  "Sir would do well..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267794">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17278</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">In Imitation of Henry IV</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267809">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17281</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Discussing Their Beauty</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267811">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17283</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Hey, there's Mr. Godard..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267818">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17254</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes, Dear Sir Coffignon..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267820">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17255</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Suspicious Proprietor</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267839">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17286</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"So, who are you thinking about, Coquenard?..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267840">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17287</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"When women know to have..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267841">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17288</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"My dear, our comedy... has just been rejected"</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267850">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17261</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">New Year's Day</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267865">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17262</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Fair Sex at the School of Swimming</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267874">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17249</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"But sir, I assure you it's... veal!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267905">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17017</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">L. Ch. Alexandre Estancelin</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267906">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17022</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Achille Fould</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267907">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17024</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Pierre Antoine Berryer</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267917">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17112</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Ah!  My dear, when one has a dog..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267918">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17113</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"So, we've stolen Mr. Green's ball?"</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267926">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17128</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"They told the government it didn't work..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267928">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17147</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"How many cares has this charming head cost me !..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267929">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17148</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Come, worthy supporters of the nobility..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267949">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17025</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">R. P. L. Ségur d'Aguesseau</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267950">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17026</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Jean-Baptiste Dumas</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267951">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17027</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Lannes, Duc de Montebello</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267952">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17028</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Ovide Remilly</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267953">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17029</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Jules, Marquis de Lasteyrie</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267954">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17030</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">J. Phil. Delmas de Grammot</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267955">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17031</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">J.-P. de Chasseloup-Laubat</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267965">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17021</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">H. M. Augustin Corne</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/267999">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17130</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Drawback of Being Too Sentimental...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268001">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17134</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"They are quite right, antiquity is forever beautiful..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268003">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17140</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">The Drawback... of Servants Who Have Worked for Mr. Duprez</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268005">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17143</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes, Mr. Gimblet, the order will not be... restored..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268006">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17144</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Yes... they were base enough to reject my painting..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268007">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17060</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Madam, it had been an honor!..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268008">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17061</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">A Frenchman Paints by Himself</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268016">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17100</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">"Here, perhaps, is a pilot..."</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268029">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16984</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Victor Schœlcher</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268030">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16985</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Jean-Louis Greppo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268031">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16990</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Jules Favre</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268032">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16948</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Armand Marrast</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268040">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17084</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Victor Hugo, in an Oration on Three Points...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268041">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17085</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Second Session</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268042">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17086</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Third and Last Session of Congress</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268043">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17088</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Disciples of Mr. Cobden</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268044">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17089</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Universal Peace Being Declared...</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268120">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16949</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">J. Martial Bineau</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268123">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16969</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">J. Jacques Dupin</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268124">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16970</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Victor Considérant</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268125">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16997</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">P. L. Duvergier de Hauranne</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268127">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16999</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Arm. Jacques Lherbette</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268128">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17000</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">General LeBreton</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268131">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M17023</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">M. L. P. F. Esquirou de Parieu</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268132">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16991</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Théobald Lacrosse</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268133">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16992</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Eus. Isidore Buvignier</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268134">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16993</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Léon Faucher</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268135">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16994</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Ed. Drouyn de L'Huys</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/268136">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">M16995</span>
+                                      <h4 class="related-artwork__artist">Honoré-Victorin Daumier</h4>
+                                                        <h3 class="related-artwork__title">Achille Baraguay-D'Hilliers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV207326_dynmc?width=200&height=200" alt="Pickhardt Vol. Iv: Charivari Lithographs By Daumier">
+                <span class="popup__artwork-info-id">M16948.-M17288</span>
+        <span class="popup__artwork-info-author">
+                                    Honoré-Victorin Daumier
+                              </span>
+        <span class="popup__artwork-info-title">Pickhardt Vol. IV: Charivari Lithographs by Daumier</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2055663%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55663">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55663" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Pickhardt+Vol.+IV%3A+Charivari+Lithographs+by+Daumier+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55663" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/55663" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_7291ab4bc92bf921ca698bf3d3ca5c07" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

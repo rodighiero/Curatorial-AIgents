@@ -1,0 +1,1082 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Illustrated Manuscript of the Shahnama by Firdawsi with interpolations from the Garshaspnama by Tusi and the Barzunama </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Illustrated Manuscript of the Shahnama by Firdawsi with interpolations from the Garshaspnama by Tusi and the Barzunama" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/333869"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:758839?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Illustrated Manuscript of the Shahnama by Firdawsi with interpolations from the Garshaspnama by Tusi and the Barzunama" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_417623446" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:758839?width=3000&height=3000" data-initial-image-id="417623446" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">folio 12, verso</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?333869" data-behavior="add_to_collection tooltip" data-artwork="333869" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=333869&amp;image_id=758839" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/333869/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="758839">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758839?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="folio 12, verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623446" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758839?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758834">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758834?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623442" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758834?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758835">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758835?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="inside back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="420094078" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758835?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758836">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758836?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="418572258" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758836?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758837">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758837?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="inside front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623474" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758837?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758838">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758838?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="inside front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="418572266" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758838?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758840">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758840?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="folio 12, recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623466" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758840?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758841">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758841?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="folio 13, recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623470" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758841?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758842">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758842?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="folio 13, verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623462" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758842?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758843">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758843?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="folio 1, verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623438" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758843?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758844">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758844?width=3000&height=3000" data-zoom-enabled="1"  title="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama" data-object-caption="folio 1, recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="417623458" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758844?width=125&height=125" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2015.63</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Illustrated Manuscript of the Shahnama by Firdawsi with interpolations from the Garshaspnama by Tusi and the Barzunama</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Manuscripts</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            manuscript                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>17th-18th century</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: South Asia, India                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Mughal period</dd>
+                                        <dt>Culture</dt>
+                <dd>South Asian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/333869">https://hvrd.art/o/333869</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Ink, colors, and gold on paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>36.8 x 23.5 cm (14 1/2 x 9 1/4 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>George McFadden, New York, (by 1987-1988), sold; to José M.Soriano, New York, (1988-2014), gift; to the Harvard Art Museums, 2015.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of José M. Soriano in honor of Thomas W. Lentz and in memory of Stuart Cary Welch</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2015</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2015.63</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>This manuscript is the first volume of a two-volume Shahnama by Firdawsi with further Shahnama inspired interpolated texts from the Garshaspnama and the Barzunama. The manuscript has 325 folios and is copied in nastaliq script. There are two illuminated panels at the beginning of the prose and poetry sections of the Shahnama. There are 34 illustrations that appear to have been painted when the manuscript was copied and 26 simple style illustrations that can be dated to a later phase. Overall, based on the style of the illustrations, illumination, and the interpolated texts, the creation of the manuscript can be attributed to the late 17th-early 18th century in Kashmir, the northern region of India under Mughal control. Later in the 19th century, the incomplete manuscript was furnished with simple style illustrations and possibly with a new illuminated panel at the beginning of the text.</dd>
+                                                       </dl>
+          </dd>
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/336538">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755854?width=3000&height=3000" alt="Rustam Slays The White Div (Text Recto; Painting Verso Of Folio 83), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.17</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays the White Div (text recto; painting verso of folio 83), illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350332">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755742?width=3000&height=3000" alt="Tizhaw Kills Bahram (Text Recto And Verso Of Folio 176, Painting Recto; Text Verso Of Folio 177), Illustrated Double Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.32</span>
+                                                        <h3 class="related-artwork__title">Tizhaw kills Bahram (text recto and verso of folio 176, painting recto; text verso of folio 177), Illustrated double folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350335">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755745?width=3000&height=3000" alt="Forud Kills Rivniz (Text Recto And Verso Of Folio 163, Painting Recto; Text Verso Of Folio 164), Illustrated Double Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.28</span>
+                                                        <h3 class="related-artwork__title">Forud kills Rivniz (text recto and verso of folio 163, painting recto; text verso of folio 164), Illustrated double folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350336">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755748?width=3000&height=3000" alt="Rustam Battles Suhrab (Text Recto And Verso Of Folio 104, Painting Recto; Text Verso Of Folio 105), Illustrated Double Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.20</span>
+                                                        <h3 class="related-artwork__title">Rustam Battles Suhrab (text recto and verso of folio 104, painting recto; text verso of folio 105), Illustrated double folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350337">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760787?width=3000&height=3000" alt="Kay Kavus Seated On The Eagle-Powered Throne (Text Recto; Painting Verso Of Folio 91), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.18</span>
+                                                        <h3 class="related-artwork__title">Kay Kavus Seated on the Eagle-powered Throne (text recto; painting verso of folio 91), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350338">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760788?width=3000&height=3000" alt="Kamus Kills Alwa (Text Recto; Painting Verso Of Folio 199), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.37</span>
+                                                        <h3 class="related-artwork__title">Kamus Kills Alwa (text recto; painting verso of folio 199), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350339">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760780?width=3000&height=3000" alt="Court Of Gayumars (Text Recto; Painting Verso Of Folio 15), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.1</span>
+                                                        <h3 class="related-artwork__title">Court of Gayumars (text recto; painting verso of folio 15), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350340">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760792?width=3000&height=3000" alt="Rustam Spears Pilsam (Text Recto; Painting Verso Of Folio 142), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.25</span>
+                                                        <h3 class="related-artwork__title">Rustam Spears Pilsam (text recto; painting verso of folio 142), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350341">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755862?width=3000&height=3000" alt="Bahram Seizes The Crown Of Rivniz On The Point Of His Lance (Text Recto; Painting Verso Of Folio 174), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.31</span>
+                                                        <h3 class="related-artwork__title">Bahram Seizes the Crown of Rivniz on the Point of his Lance (text recto; painting verso of folio 174), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350342">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755851?width=3000&height=3000" alt="Rustam In Combat At The Castle Of Mount Sipand (Painting Recto; Text Verso Of Folio 64), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.12</span>
+                                                        <h3 class="related-artwork__title">Rustam in Combat at the Castle of Mount Sipand (painting recto; text verso of folio 64), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350343">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755852?width=3000&height=3000" alt="Rustam Executes Surkhah (Text Recto; Painting Verso Of Folio 102), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.24</span>
+                                                        <h3 class="related-artwork__title">Rustam Executes Surkhah (text recto; painting verso of folio 102), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350344">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755855?width=3000&height=3000" alt="Tus Kills Arjang (Painting Recto; Text Verso Of Folio 182), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.34</span>
+                                                        <h3 class="related-artwork__title">Tus Kills Arjang (painting recto; text verso of folio 182), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350345">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755865?width=3000&height=3000" alt="Rustam Slays Ashkabus With An Arrow To The Chest (Painting Recto; Text Verso Of Folio 197), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.36</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays Ashkabus with an Arrow to the Chest (painting recto; text verso of folio 197), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350346">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758413?width=3000&height=3000" alt="Jamshid And The Daughter Of Gurang, King Of Zabulistan (Text Recto; Painting Verso Of Folio 21), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.4</span>
+                                                        <h3 class="related-artwork__title">Jamshid and the Daughter of Gurang, King of Zabulistan (text recto; painting verso of folio 21), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350347">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755868?width=3000&height=3000" alt="Rustam Slays Zanda Razm (Painting Recto; Text Verso Of Folio 140), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.19</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays Zanda Razm (painting recto; text verso of folio 140), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350348">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755875?width=3000&height=3000" alt="Manuchihr Slays Tur (Painting Recto; Text Verso Of Folio 42), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.8</span>
+                                                        <h3 class="related-artwork__title">Manuchihr Slays Tur (painting recto; text verso of folio 42), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350349">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:757542?width=3000&height=3000" alt="Jamshid Sawn In Half Before Zahhak (Painting Recto; Text Verso Of Folio 26), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.5</span>
+                                                        <h3 class="related-artwork__title">Jamshid Sawn in Half before Zahhak (painting recto; text verso of folio 26), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350350">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760784?width=3000&height=3000" alt="Rustam Captures Rakhsh (Text Recto; Painting Verso Of Folio 72), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.13</span>
+                                                        <h3 class="related-artwork__title">Rustam Captures Rakhsh (text recto; painting verso of folio 72), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350351">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755882?width=3000&height=3000" alt="Giv Strikes Tizhaw On The Shoulder (Text Recto; Painting Verso Of 178), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.33</span>
+                                                        <h3 class="related-artwork__title">Giv Strikes Tizhaw on the Shoulder (text recto; painting verso of 178), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350352">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755888?width=3000&height=3000" alt="Manuchihr Slays Salm (Text Recto; Painting Verso Of Folio 43), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.9</span>
+                                                        <h3 class="related-artwork__title">Manuchihr Slays Salm (text recto; painting verso of folio 43), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350353">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755870?width=3000&height=3000" alt="Rustam Slays The White Elephant (Painting Recto; Text Verso Of Folio 63), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.11</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays the White Elephant (painting recto; text verso of folio 63), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350354">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755890?width=3000&height=3000" alt="Faridun Captures Zahhak (Painting Recto; Text Verso Of Folio 32), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.7</span>
+                                                        <h3 class="related-artwork__title">Faridun Captures Zahhak (painting recto; text verso of folio 32), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350355">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755877?width=3000&height=3000" alt="Bahram And The Iranians Find The Body Of Forud (Text Recto; Painting Verso Of Folio 168), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.30</span>
+                                                        <h3 class="related-artwork__title">Bahram and the Iranians find the Body of Forud (text recto; painting verso of folio 168), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350356">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755872?width=3000&height=3000" alt="Rustam Slays Khaqan Of Chin (Text Recto; Painting Verso Of Folio 200), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.38</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays Khaqan of Chin (text recto; painting verso of folio 200), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350357">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755871?width=3000&height=3000" alt="Jamshid Enthroned  (Text Recto; Painting Verso Of Folio 18), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.3</span>
+                                                        <h3 class="related-artwork__title">Jamshid Enthroned  (text recto; painting verso of folio 18), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350358">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:755874?width=3000&height=3000" alt="Rustam Slays Suhrab (Text Recto; Painting Verso Of Folio 107), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.21</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays Suhrab (text recto; painting verso of folio 107), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350777">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760781?width=3000&height=3000" alt="The Feeding Of Zahhak’S Serpents  (Painting Recto; Text Verso Of Folio 27), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.6</span>
+                                                        <h3 class="related-artwork__title">The Feeding of Zahhak’s Serpents  (painting recto; text verso of folio 27), illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350778">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760782?width=3000&height=3000" alt="Young Rustam Greets Sam (Painting Recto; Text Verso Of Folio 62), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.10</span>
+                                                        <h3 class="related-artwork__title">Young Rustam Greets Sam (painting recto; text verso of folio 62), illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350779">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760785?width=3000&height=3000" alt="Rustam Battles Afrasiyab (Catching Him In A Lasso) (Text Recto; Painting Verso Of Folio 74), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.14</span>
+                                                        <h3 class="related-artwork__title">Rustam Battles Afrasiyab (Catching Him in a Lasso) (text recto; painting verso of folio 74), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350780">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760786?width=3000&height=3000" alt="Rustam Sleeps While Rakhsh Battles A Lion  (Text Recto; Painting Verso Of Folio 79), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.15</span>
+                                                        <h3 class="related-artwork__title">Rustam Sleeps While Rakhsh Battles a Lion  (text recto; painting verso of folio 79), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350781">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760790?width=3000&height=3000" alt="Garsivaz Presents To Siyavush A Peace Offer And Royal Gifts From Afrasiyab (Painting Recto; Text Verso Of Folio 120), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.22</span>
+                                                        <h3 class="related-artwork__title">Garsivaz Presents to Siyavush a Peace Offer and Royal Gifts from Afrasiyab (painting recto; text verso of folio 120), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350782">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760791?width=3000&height=3000" alt="Siyavush Is Brought Before Afrasiyab, As Farangis Pleads For His Life (Text Recto; Painting Verso Of Folio 135), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.23</span>
+                                                        <h3 class="related-artwork__title">Siyavush is Brought before Afrasiyab, as Farangis Pleads for his Life (text recto; painting verso of folio 135), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350783">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760789?width=3000&height=3000" alt="Rustam Establishes Tus As Ruler Of Jaj (Painting Recto; Text Verso Of Folio 144), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.26</span>
+                                                        <h3 class="related-artwork__title">Rustam Establishes Tus as Ruler of Jaj (painting recto; text verso of folio 144), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350834">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758829?width=3000&height=3000" alt="Barzu Defeats The Iranian Heros Tus And Fariburz, And Takes Them As Prisoners (Painting Recto; Text Verso Of Folio 242), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.47</span>
+                                                        <h3 class="related-artwork__title">Barzu defeats the Iranian Heros Tus and Fariburz, and takes them as Prisoners (painting recto; text verso of folio 242), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350835">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758830?width=3000&height=3000" alt="Barzu Challenges Rustam, Rustam Suffers A Broken Shoulder (Text Recto; Painting Verso Of Folio 246), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.48</span>
+                                                        <h3 class="related-artwork__title">Barzu Challenges Rustam, Rustam Suffers a Broken Shoulder (text recto; painting verso of folio 246), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350836">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758833?width=3000&height=3000" alt="Rustam Defeats Barzu And Takes Him As Prisoner (Painting Recto; Text Verso Of Folio 250), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.49</span>
+                                                        <h3 class="related-artwork__title">Rustam Defeats Barzu and Takes Him as Prisoner (painting recto; text verso of folio 250), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350837">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758846?width=3000&height=3000" alt="Afrasiyab Battles Bijan (Painting Recto; Text Verso Of Folio 251), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.50</span>
+                                                        <h3 class="related-artwork__title">Afrasiyab Battles Bijan (painting recto; text verso of folio 251), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350838">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758851?width=3000&height=3000" alt="Tus Falls Under The Spell Of Susan (Painting Recto; Text Verso Of Folio 266), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.51</span>
+                                                        <h3 class="related-artwork__title">Tus Falls under the Spell of Susan (painting recto; text verso of folio 266), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350839">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758859?width=3000&height=3000" alt="Gudarz Falls Under The Spell Of Susan (Painting Recto; Text Verso Of Folio 267), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.52</span>
+                                                        <h3 class="related-artwork__title">Gudarz Falls under the Spell of Susan (painting recto; text verso of folio 267), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350840">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758863?width=3000&height=3000" alt="Giv Falls Under The Spell Of Susan (Painting Recto; Text Verso Of Folio 268), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.53</span>
+                                                        <h3 class="related-artwork__title">Giv Falls under the Spell of Susan (painting recto; text verso of folio 268), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350841">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758867?width=3000&height=3000" alt="Gastaham Falls Under The Spell Of Susan (Painting Recto; Text Verso Of Folio 269), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.54</span>
+                                                        <h3 class="related-artwork__title">Gastaham Falls under the Spell of Susan (painting recto; text verso of folio 269), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350842">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758871?width=3000&height=3000" alt="Faramurz Battles Pilsam (Text Recto; Painting Verso Of Folio 271), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.55</span>
+                                                        <h3 class="related-artwork__title">Faramurz Battles Pilsam (text recto; painting verso of folio 271), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350843">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758874?width=3000&height=3000" alt="Rustam Slays Pilsam (Painting Recto; Text Verso Of Folio 278), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.56</span>
+                                                        <h3 class="related-artwork__title">Rustam Slays Pilsam (painting recto; text verso of folio 278), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350844">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758878?width=3000&height=3000" alt="Kay Khusraw Goes To The Palace Of Zal (Painting Recto; Text Verso Of Folio 284), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.57</span>
+                                                        <h3 class="related-artwork__title">Kay Khusraw Goes to the Palace of Zal (painting recto; text verso of folio 284), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350845">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758882?width=3000&height=3000" alt="Human Is Killed By Bijan In Battle (Painting Recto; Text Verso Of Folio 293), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.58</span>
+                                                        <h3 class="related-artwork__title">Human is Killed by Bijan in Battle (painting recto; text verso of folio 293), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350846">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758879?width=3000&height=3000" alt="Shida Is Killed At The Hands Of Kay Khusraw (Painting Recto; Text Verso Of Folio 310), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.59</span>
+                                                        <h3 class="related-artwork__title">Shida is Killed at the Hands of Kay Khusraw (painting recto; text verso of folio 310), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350847">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758875?width=3000&height=3000" alt="Disappearance Of  Kay Khusraw (Text Recto; Painting Verso Of Folio 323), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.60</span>
+                                                        <h3 class="related-artwork__title">Disappearance of  Kay Khusraw (text recto; painting verso of folio 323), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350848">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758870?width=3000&height=3000" alt="Kingdom Of Luhrasb (Painting Recto; Text Verso Of Folio 325), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.61</span>
+                                                        <h3 class="related-artwork__title">Kingdom of Luhrasb (painting recto; text verso of folio 325), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350849">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758855?width=3000&height=3000" alt="Combat Of Chengish With Rustam (Painting Recto; Text Verso Of Folio 202), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.39</span>
+                                                        <h3 class="related-artwork__title">Combat of Chengish with Rustam (painting recto; text verso of folio 202), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350850">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758862?width=3000&height=3000" alt="Combat Of Rustam With Kafur (Text Recto; Painting Verso Of Folio 211), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.40</span>
+                                                        <h3 class="related-artwork__title">Combat of Rustam with Kafur (text recto; painting verso of folio 211), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350851">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758865?width=3000&height=3000" alt="Combat Of Puladvand With Giv And Tus (Text Recto; Painting Verso Of Folio 214), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.41</span>
+                                                        <h3 class="related-artwork__title">Combat of Puladvand with Giv and Tus (text recto; painting verso of folio 214), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350852">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760783?width=3000&height=3000" alt="Rustam And Puladvand (Painting Recto; Text Verso Of Folio 216), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.42</span>
+                                                        <h3 class="related-artwork__title">Rustam and Puladvand (painting recto; text verso of folio 216), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350853">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758819?width=3000&height=3000" alt="Rustam Kills Akwan Div (Painting Recto; Text Verso Of Folio 219), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.43</span>
+                                                        <h3 class="related-artwork__title">Rustam Kills Akwan Div (painting recto; text verso of folio 219), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350854">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758822?width=3000&height=3000" alt="Garshivaz Brings Bijan In Front Of Afrasiyab (Text Recto; Painting Verso Of Folio 223), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.44</span>
+                                                        <h3 class="related-artwork__title">Garshivaz Brings Bijan in Front of Afrasiyab (text recto; painting verso of folio 223), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350855">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758821?width=3000&height=3000" alt="Rustam Saves Bijan From The Well (Painting Recto; Text Verso Of Folio 233), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.45</span>
+                                                        <h3 class="related-artwork__title">Rustam Saves Bijan from the Well (painting recto; text verso of folio 233), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350856">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758827?width=3000&height=3000" alt="The Iranians Defeat The Army Of Afrasiyab With The Help Of Rustam (Text Recto; Painting Verso Of Folio 235), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.46</span>
+                                                        <h3 class="related-artwork__title">The Iranians Defeat the Army of Afrasiyab with the Help of Rustam (text recto; painting verso of folio 235), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350857">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758824?width=3000&height=3000" alt="Rustam's Third Trial: Combat With A Dragon (Painting Recto), Rustam’S Fourth Trial: He Kills A Witch (Painting Verso)">
+                                    <span class="related-artwork__obj">2015.63.16</span>
+                                                        <h3 class="related-artwork__title">Rustam's Third Trial: Combat with a Dragon (painting recto), Rustam’s Fourth Trial: He Kills a Witch (painting verso)</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350859">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758848?width=3000&height=3000" alt="Hushang Battles The Black Div (Text Recto; Painting Verso Of Folio 16), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.2</span>
+                                                        <h3 class="related-artwork__title">Hushang Battles the Black Div (text recto; painting verso of folio 16), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350860">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758850?width=3000&height=3000" alt="Bahram Returns To Tus (Text Recto; Painting Verso Of Folio 162), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.27</span>
+                                                        <h3 class="related-artwork__title">Bahram Returns to Tus (text recto; painting verso of folio 162), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350861">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758858?width=3000&height=3000" alt="Zarasp Dies At The Hands Of Farud (Painting Recto; Text Verso Of Folio 165), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.29</span>
+                                                        <h3 class="related-artwork__title">Zarasp Dies at the Hands of Farud (painting recto; text verso of folio 165), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/350862">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758853?width=3000&height=3000" alt="Fariburz Demands To Marry Farangis, Mother Of Kay Khusraw (Text Recto; Painting Verso Of Folio 189), Illustrated Folio From A Manuscript Of The Shahnama By Firdawsi">
+                                    <span class="related-artwork__obj">2015.63.35</span>
+                                                        <h3 class="related-artwork__title">Fariburz Demands to Marry Farangis, Mother of Kay Khusraw (text recto; painting verso of folio 189), Illustrated folio from a manuscript of the Shahnama by Firdawsi</h3>
+                                                        <span class="related-artwork__meta">Manuscripts</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:758839?width=200&height=200" alt="Illustrated Manuscript Of The Shahnama By Firdawsi With Interpolations From The Garshaspnama By Tusi And The Barzunama">
+                <span class="popup__artwork-info-id">2015.63</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Illustrated Manuscript of the Shahnama by Firdawsi with interpolations from the Garshaspnama by Tusi and the Barzunama</span>
+        <span class="popup__artwork-info-class">Manuscripts</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20333869%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F333869">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F333869" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Illustrated+Manuscript+of+the+Shahnama+by+Firdawsi+with+interpolations+from+the+Garshaspnama+by+Tusi+and+the+Barzunama+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F333869" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/333869" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_d371c39c47a8406c6aadcfa87d2e7477" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

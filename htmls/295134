@@ -1,0 +1,615 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Study of a Seated Boy </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Study of a Seated Boy" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/295134"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71636_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Study of a Seated Boy" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481186" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71636_dynmc?width=3000&height=3000" data-initial-image-id="18481186" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?295134" data-behavior="add_to_collection tooltip" data-artwork="295134" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=295134&amp;image_id=71636" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/295134/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1980.75</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29186>Adriaen van de Velde</a>, Dutch                                                                                                                                                                                                                                                                          (Amsterdam, Netherlands 1636 - 1672 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Study of a Seated Boy</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>17th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/295134">https://hvrd.art/o/295134</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk on off-white antique laid paper, prepared with gray wash</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>26.2 x 18 cm (10 5/16 x 7 1/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          exhibition label: on brown paper, in curatorial file, typeface: THE MINNEAPOLIS / INSTITUTE / OF ARTS / No. L70.89.57 / Lent By / The American Federation of Arts
+                        </li>
+                                              <li data-a="2">
+                          label: on brown paper, in curatorial flie, printed label, blue ink, and graphite: A&S / FINE ARTS, INC. / (212) 776-6350 / [blue ink] #2 / [graphite] 25864.18
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[C. G. Boerner, Dusseldorf, 1964.] E. Trautscholdt, Dusseldorf, 1966. [Hyman Swetzoff Gallery, Boston]. Mr. and Mrs. Lester Francis Avnet, New York. [Sale, Sotheby Parke-Bernet, New York, 30 May 1979, lot 51, as Jan Josef Horemans]; to Maida and George Abrams, Boston (L. 3306, without their mark); Gift of Maida and George S. Abrams in memory of Jakob Rosenberg, 1980.75<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 87 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The painter and etcher Adriaen van de Velde specialized in pastoral landscapes, often with Italianate settings, but he also painted beaches, winter scenes, portraits, and biblical and mythological subjects. He ranks among the most versatile Dutch draftsmen of the seventeenth century. His extensive oeuvre of drawings includes landscape sketches, compositional projects for paintings and prints, a few finished watercolors, and detailed studies in chalk of figures and animals. More than fifty drawings relating to Van de Velde’s paintings and etchings have survived, affording a rare glimpse of the working process of a Dutch landscapist.<sup class="footnote" id="fnrev19573371115ef6643bd496c-1"><a href="#fn19573371115ef6643bd496c-1">1</a></sup></p>
+
+<p>Arnold Houbraken wrote that Adriaen went once a week into the countryside to paint and sketch landscapes and cattle.<sup class="footnote" id="fnrev19573371115ef6643bd496c-2"><a href="#fn19573371115ef6643bd496c-2">2</a></sup> Houbraken neglected to mention that the artist also practiced his hand and gathered material for his pictures by working regularly in his studio, from both nude and clothed models.<sup class="footnote" id="fnrev19573371115ef6643bd496c-3"><a href="#fn19573371115ef6643bd496c-3">3</a></sup> Van de Velde drew figure studies in black chalk, sometimes heightened with white chalk, as well as with red. He reproduced many of them, usually much reduced in scale, in his paintings. While he produced some studies, such as <em>Study of a Seated Boy</em>, with a particular composition in mind, others were set aside to build up a stock of motifs for use when the need arose.<sup class="footnote" id="fnrev19573371115ef6643bd496c-4"><a href="#fn19573371115ef6643bd496c-4">4</a></sup></p>
+
+<p>The Harvard drawing is preparatory for the young rider—presumably one of the biblical Jacob’s sons—astride a camel in <em>The Departure of Jacob from Laban</em>, dated 1663, in the Wallace Collection, London (Fig. 1).<sup class="footnote" id="fnrev19573371115ef6643bd496c-5"><a href="#fn19573371115ef6643bd496c-5">5</a></sup> Incorporating several figures and dozens of animals, that large canvas is one of Van de Velde’s most ambitious compositions. A study for Jacob (Fig. 2) was executed, like the Harvard work, on paper prepared with a brownish gray wash, a support he used for several black-chalk figure drawings.<sup class="footnote" id="fnrev19573371115ef6643bd496c-6"><a href="#fn19573371115ef6643bd496c-6">6</a></sup> On both sheets, Van de Velde drew separate, detailed studies of the riders’ booted legs. The grazing cow in the right foreground of the painting was based on a red-chalk drawing in the J. Paul Getty Museum, Los Angeles.<sup class="footnote" id="fnrev19573371115ef6643bd496c-7"><a href="#fn19573371115ef6643bd496c-7">7</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-1"><sup><a href="#fnrev19573371115ef6643bd496c-1">1</a></sup> On Van de Velde’s drawings, see Peter Schatborn, “‘De Hut’ van Adriaen van de Velde,” <em>Bulletin van het Rijksmuseum</em>, vol. 23 (1975): 159–65; William Robinson, “Preparatory Drawings by Adriaen van de Velde,” <em>Master Drawings</em>, vol. 17, no. 1 (Spring 1979): 3–23; Peter Schatborn, <em>Figuurstudies, Nederlandse tekeningen uit de 17de eeuw</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Washington, DC: National Gallery of Art, 1981), pp. 116–19; and Angelique van den Eerenbeemd, <em>Adriaen van de Velde: De Italianiserende tekeningen; Een onderzoek naar de herkomst van enkele motieven</em> (Radboud University, Nijmegen, 2000) and Angelique van den Eerenbeemd, “De Italianiserende Tekeningen van Adriaen van de Velde,” <em>Delineavit et Sculpsit</em>, no. 30 (November 2006): 1–64.</p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-2"><sup><a href="#fnrev19573371115ef6643bd496c-2">2</a></sup> Arnold Houbraken, <em>De groote Schouburgh der Nederlantsche Konstschilders en Schilderessen</em>, (first ed. 1718–21; reprint Amsterdam, 1943), vol. 3, p. 90.</p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-3"><sup><a href="#fnrev19573371115ef6643bd496c-3">3</a></sup> On Van de Velde’s studies of nude models, see William Robinson, “Some Studies of Nude Models by Adriaen van de Velde,” <em>Nationalmuseum Bulletin</em>, vol. 17, no. 2 (1993): 53–66.</p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-4"><sup><a href="#fnrev19573371115ef6643bd496c-4">4</a></sup> On Van de Velde’s use of figure studies, see Schatborn (1975), pp. 159–65; Robinson (1979), pp. 10–13; and Schatborn (1981), pp. 116–19. The study for Battus in his <em>Mercury and Battus</em> and the study for Joseph of Arimathaea in <em>The Lamentation</em> were clearly made with these paintings in mind; see Robinson (1979), cats. D-3 and D-16. On the other hand, a drawing of a woman washing her feet, with two separate studies of her head (idem, cat. D-13), belonged to Van de Velde’s stock of figure studies and was used in two different compositions, once in the sense of the original study and once in the reverse sense of the counterproof.</p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-5"><sup><a href="#fnrev19573371115ef6643bd496c-5">5</a></sup> Adriaen van de Velde, <em>The Departure of Jacob from Laban</em> (Fig. 1), 1663. Oil on canvas. 133.5 × 180 cm. Signed and dated 1663. London, Wallace Collection, P80. John Ingamells, <em>The Wallace Collection, Catalogue of Pictures IV: Dutch and Flemish</em> (London, 1992), cat. P 80, pp. 380–82. The Harvard drawing was attributed to Jan Josef Horemans the Elder until Franklin W. Robinson pointed out, in conversation with the author, the connection to Van de Velde’s painting (Robinson, 1979, cat. D-2, p. 21).</p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-6"><sup><a href="#fnrev19573371115ef6643bd496c-6">6</a></sup> Adriaen van de Velde, <em>Male Rider Wearing a Turban</em> (Fig. 2). Black chalk on brownish gray prepared paper. 291 × 187 mm. Private Collection, Europe. James Knox, “Dutch 17th Century Drawings,” <em>The Antique Collector</em>, vol. 47, no. 9 (Sept. 1976): 31–36, p. 36, repr.; Robinson (1979), cat. D-2a, p. 21. Other figure studies in black chalk, or black and white chalk, on gray prepared paper are included in Robinson (1979), cats. D-3, D-8 through D-10, and D-15; Peter Bowron, Bob P. Haboldt &amp; Co., <em>Dessins Anciens des écoles du Nord, françaises et italiennes</em> (Paris and New York, 1991), cat. 38; George R. Goldner, Lee Hendrix and Kelly Pask, <em>European Drawings 2: Catalogue of the Collections, J. Paul Getty Museum</em> (Los Angeles, 1992), cat. 110, p. 256; and Robinson (1993), p. 64, fig. 14.</p>
+
+<p class="footnote" id="fn19573371115ef6643bd496c-7"><sup><a href="#fnrev19573371115ef6643bd496c-7">7</a></sup> Goldner and Hendrix in Goldner et al., cat. 109, p. 254.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/295134/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Adriaen van de Velde, <em>The Departure of Jacob from Laban</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/295134/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Adriaen van de Velde, <em>Male Rider Wearing a Turban</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Maida and George S. Abrams in memory of Jakob Rosenberg</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1980</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1980.75</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Ausgewählte Handzeichnungen aus vier Jahrhunderten</em>, auct. cat., C. G. Boerner (Düsseldorf, 1964), cat. no. 71, n.p., repr. pl. 22, fig. 71 (as Jan Josef Horermans I)
+                             </p>
+                                                      <p>
+                                              Marian G. Ruggles, ed., <em>Old Master Drawings from the Collection of Mr. and Mrs. Lester Francis Avnet</em>, exh. cat., American Federation of Arts (New York, 1968), cat. no. 34, n.p., repr. (as Jan Josef Horermans I [the Elder])
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "Preparatory Drawings by Adriaen van de Velde", <em>Master Drawings</em> (1979), vol. 17, no. 1, pp. 3-23, cat. no. D-2, p. 21, and under cat. no. D-2a
+                             </p>
+                                                      <p>
+                                              <em>The Draughtsman at Work. Drawing in the Golden Century of Dutch Art</em>, checklist (unpublished, 1980), no. 46
+                             </p>
+                                                      <p>
+                                              George R. Goldner and Lee Hendrix, <em>European Drawings 2: Catalogue of the Collections</em>, J. Paul Getty Museum (Malibu, CA, 1992), under cat. no. 109, p. 254 (n. 2)
+                             </p>
+                                                      <p>
+                                              John Ingamells, <em>The Wallace Collection, Catalogue of Pictures IV: Dutch and Flemish</em>, The Trustees of the Wallace Collection (London, 1992), under cat. no. P80, p. 382
+                             </p>
+                                                      <p>
+                                              Angelique van den Eerenbeemd, "Adriaen van de Velde: De Italianiserende tekeningen, een onderzoek naar de herkomst van enkele motieven" (2000), Radboud Universiteit, Bijlage 1, "Checklist van de niet-Italianiserende Tekeningen," cat. no. 83, n.p.
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, p. 532
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 87, pp. 290-292, repr. p. 291
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>The Draughtsman at Work. Drawing in the Golden Century of Dutch Art</em>, Fogg Art Museum, Cambridge, 11/21/1980 - 01/04/1981
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71636_dynmc?width=200&height=200" alt="Study Of A Seated Boy">
+                <span class="popup__artwork-info-id">1980.75</span>
+        <span class="popup__artwork-info-author">
+                                    Adriaen van de Velde
+                              </span>
+        <span class="popup__artwork-info-title">Study of a Seated Boy</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20295134%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295134">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295134" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Study+of+a+Seated+Boy+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295134" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/295134" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_276b357105e91772ccaeefd5cc4c3d32" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

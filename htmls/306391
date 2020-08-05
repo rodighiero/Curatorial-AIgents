@@ -1,0 +1,667 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Libby House, Portland, Maine </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Libby House, Portland, Maine" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/306391"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:38679_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Libby House, Portland, Maine" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_43182327" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:38679_dynmc?width=3000&height=3000" data-initial-image-id="43182327" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?306391" data-behavior="add_to_collection tooltip" data-artwork="306391" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=306391&amp;image_id=38679" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/306391/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1927.257</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/26601>Edward Hopper</a>, American                                                                                                                                                                                                                                                                          (Nyack NY 1882 - 1967 New York NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Libby House, Portland, Maine</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Libby's House / Victoria Mansion                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1927</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/306391">https://hvrd.art/o/306391</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Watercolor over graphite on white wove paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>35.3 x 50.6 cm (13 7/8 x 19 15/16 in.)<br />
+frame: 59.4 x 72.4 x 1.6 cm (23 3/8 x 28 1/2 x 5/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: dark blue watercolor, l.l.: Edward Hopper/ Portland Me
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          exhibition label: removed from old mount, now encapsulated in curatorial file, paper, English: Color in Art show, TR 54/3.  Additional label for the Color in Art show, catalogue no. 3
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now encapsulated in curatorial file, paper, English: TL 11, Hopper exhibition.  Uses title "Libby's House".
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now encapsulated in curatorial file, paper, English: No. 84
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now encapsulated in curatorial file, paper, English: [ ] Arts Club, no. 33.994
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now encapsulated in curatorial file, paper, English: no. 293.29
+                        </li>
+                                              <li data-a="2">
+                          label: removed from old mount, now encapsulated in curatorial file, paper, English: on textured paper label, in ink:  Libby House, Portland/ Edward Hopper/ [3?] Wash Sq, No[,] New York
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: 1937?, removed from old mount, now encapsulated in curatorial file, paper: Reg. no. 84, case no. 19-2.  In graphite at lower edge:  3/37
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: removed from old mount, now encapsulated in curatorial file, paper, English: S.E. 3580.2, Maine and its Artists
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Edward Hopper; to Rehn Galleries, New York, New York, 1927. Fogg Art Museum, 1927.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Louise E. Bettens Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1927</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1927.257</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Carol Wolf, <em>37th Annual Exhibition of American Art</em>, exh. cat. (Cincinnati, OH, 1930), cat. no 46
+                             </p>
+                                                      <p>
+                                              <em>Edward Hopper, Retrospective Exhibition</em>, exh. cat., Museum of Modern Art, New York (New York, NY, 1933), cat. no. 44, illustrated
+                             </p>
+                                                      <p>
+                                              Irma Whitney, "Modern Paintings at Fogg Museum", <em>The Boston Herald</em> (Boston, MA, December 16, 1934), ill. p. 6
+                             </p>
+                                                      <p>
+                                              William Germain Dooley, "Realist Trio Show Harvard Their Works", <em>Boston Evening Transcript</em> (Boston, MA, December 8, 1934), p. 7
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of Paintings by Edward Hopper</em>, exh. cat., Arts Club of Chicago (Chicago, IL, 1934), cat. no. 33
+                             </p>
+                                                      <p>
+                                              Nathaniel Pousette-Dart, [Editorial Comment], <em>The Art of Today</em> (February 1935), no. 6, p. 11, reproduced
+                             </p>
+                                                      <p>
+                                              Alan Burroughs, <em>Limners and Likenesses: Three Centuries of American Painting</em>, Harvard University Press (Cambridge, MA, 1936), p. 210
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Paintings, Watercolors and Etchings by Edward Hopper</em>, exh. cat., Carnegie Institute (Pittsburgh, PA, 1937), cat. no. 64
+                             </p>
+                                                      <p>
+                                              <em>Ten American Watercolor Painters</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1939), cat. no. 35
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum and Benjamin Rowland, Jr., <em>Real and Ideal in American Art</em>, exh. cat. (Cambridge, MA, Summer 1948), cat. 30
+                             </p>
+                                                      <p>
+                                              Review of "Watercolors by Edward Hopper", <em>Bulletin of the Currier Gallery of Art</em>, Currier Museum of Art (Manchester, NH, 1959), p. E19?
+                             </p>
+                                                      <p>
+                                              <em>Watercolors by Edward Hopper, with a Selection of his Etchings</em>, exh. cat., Currier Museum of Art (Manchester, NH, 1959), cat. no. 16
+                             </p>
+                                                      <p>
+                                              William B. Miller, <em>Maine and Its Artists</em>, exh. cat., Colby College (Waterville, ME, 1963), cat. no. 65
+                             </p>
+                                                      <p>
+                                              Gertrud Mellon, ed., <em>Maine and its Role in American Art 1740-1963</em>, Viking Books (New York, NY, 1963), p. 134, ill.
+                             </p>
+                                                      <p>
+                                              <em>Five Distinguished American Artists: Dickinson, Hofmann, Hopper, Shahn, Soyer</em>, exh. cat., New York State Exposition's Art Advisory Committee (Syracuse, NY, 1965), cat. no. 25
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), pp. 40-41, cat. 3, ill.
+                             </p>
+                                                      <p>
+                                              Gail Levin, <em>Hopper's Places</em>, Alfred A. Knopf, Inc. (New York, NY, 1985), pp. 11, 12, 31, plate 10
+                             </p>
+                                                      <p>
+                                              Gail Levin, <em>Edward Hopper: A Catalogue Raisonné</em>, Whitney Museum of American Art (New York, NY and London, England, 1995), W-191, repr.
+                             </p>
+                                                      <p>
+                                              Virginia M. Mecklenburg, <em>Edward Hopper: The Watercolors</em>, exh. cat., National Museum of American Art and W. W. Norton & Company (Washington, D.C and New York, NY, 1999), fig. 77, pp. 71-72
+                             </p>
+                                                      <p>
+                                              Gail Levin, <em>The Complete Watercolors of Edward Hopper</em>, Whitney Museum of American Art (New York, 2001), W-191, repr.
+                             </p>
+                                                      <p>
+                                              Carol Troyen, Judith A. Barter, and Janet L. Comey, <em>Edward Hopper</em>, exh. cat., MFA Publications (Boston, MA, 2007), pp. 93, 95, fig. 37
+                             </p>
+                                                      <p>
+                                              Arlene Palmer, <em>A Guide to Victoria Mansion: The Morse-Libby Mansion, a National Historic Landmark Portland, Maine</em>, Victoria Mansion (Portland, Maine, 2012), p. 6, ill.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>37th Annual Exhibition of American Art</em>, Cincinnati Art Museum, Cincinnati, 06/01/1930 - 06/29/1930
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Princeton University, 1931</em>, Princeton University, Princeton, 12/28/1931 - 02/01/1932
+                            </p>
+                          <p>
+                              <em>Edward Hopper</em>, Museum of Modern Art, New York, New York, 11/01/1933 - 12/07/1933
+                            </p>
+                          <p>
+                              <em>Hopper Exhibition</em>, Arts Club of Chicago, Chicago, 12/01/1933 - 01/22/1934
+                            </p>
+                          <p>
+                              <em>Exhibition of Paintings by Edward Hopper</em>, Arts Club of Chicago, Chicago, 01/02/1934 - 01/16/1934
+                            </p>
+                          <p>
+                              <em>Watercolors: Sheeler, Hopper, Burchfield</em>, Fogg Art Museum, Cambridge, 12/05/1934 - 12/31/1934
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Fine Arts Guild, 1935</em>, Fine Arts Guild, Cambridge, 11/29/1935 - 12/07/1935
+                            </p>
+                          <p>
+                              <em>American Watercolors from the Museum's Collection</em>, Fogg Art Museum, Cambridge, 02/01/1936 - 02/29/1936
+                            </p>
+                          <p>
+                              <em>An Exhibition of Paintings, Watercolors and Etchings by Edward Hopper</em>, Carnegie Institute, Pittsburgh, 03/11/1937 - 04/25/1937
+                            </p>
+                          <p>
+                              <em>Ten American Watercolor Painters</em>, Museum of Fine Arts, Boston, Boston, 04/15/1939 - 05/07/1939
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Colby College Museum of Art, 1944</em>, Colby College Museum of Art, Waterville, 04/22/1944 - 06/05/1944
+                            </p>
+                          <p>
+                              <em>Real and Ideal in American Art</em>, Fogg Art Museum, Cambridge, 06/01/1948 - 09/01/1948
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Thomas Crane Public Library, 1955</em>, Thomas Crane Public Library, Quincy, 08/15/1955 - 08/20/1955
+                            </p>
+                          <p>
+                              <em>Watercolors by Edward Hopper with a Selection of his Etchings</em>, Rhode Island School of Design Museum, Providence, 12/02/1927 - 12/27/1927; Currier Museum of Art, Manchester, 10/08/1959 - 11/15/1959; Wadsworth Atheneum Museum of Art, Hartford, 01/06/1960 - 02/07/1960
+                            </p>
+                          <p>
+                              <em>Maine and its Artists, 1710 - 1963</em>, Colby College Museum of Art, Waterville, 05/04/1963 - 08/31/1963; Museum of Fine Arts, Boston, Boston, 12/12/1963 - 01/31/1964; Whitney Museum of American Art, New York, 02/01/1964 - 03/22/1964
+                            </p>
+                          <p>
+                              <em>Five Distinguished American Artists: Dickinson, Hofmann, Hopper, Shahn, Soyer</em>, Exhibition Grounds, Syracuse, 08/31/1965 - 09/06/1965
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Lincoln Laboratory, 1966</em>, Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, 10/15/1966 - 12/15/1966
+                            </p>
+                          <p>
+                              <em>Portland Architecture</em>, Portland Museum of Art, Portland, 09/22/1972 - 11/22/1972
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>Edward Hopper's Maine: Paintings, Watercolors, Drawings, 1914-1929</em>, Bowdoin College Museum of Art, Brunswick, 07/15/2011 - 10/16/2011
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:38679_dynmc?width=200&height=200" alt="Libby House, Portland, Maine">
+                <span class="popup__artwork-info-id">1927.257</span>
+        <span class="popup__artwork-info-author">
+                                    Edward Hopper
+                              </span>
+        <span class="popup__artwork-info-title">Libby House, Portland, Maine</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20306391%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F306391">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F306391" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Libby+House%2C+Portland%2C+Maine+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F306391" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/306391" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_c9ebb4d08d7fc1c21700f375175e70fd" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

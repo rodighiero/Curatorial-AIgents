@@ -1,0 +1,667 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Madame Pierre Henri Renoir (Blanche-Marie Blanc) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Madame Pierre Henri Renoir (Blanche-Marie Blanc)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/230133"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51380_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Madame Pierre Henri Renoir (Blanche-Marie Blanc)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17386659" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51380_dynmc?width=3000&height=3000" data-initial-image-id="17386659" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?230133" data-behavior="add_to_collection tooltip" data-artwork="230133" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=230133&amp;image_id=51380" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/230133/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="51380">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51380_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="Madame Pierre Henri Renoir (Blanche-Marie Blanc)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17386659" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51380_dynmc?width=125&height=125" alt="Madame Pierre Henri Renoir (Blanche-Marie Blanc)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="16029">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS16029_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Pierre-Auguste Renoir"  title="Madame Pierre Henri Renoir (Blanche-Marie Blanc)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20863429" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS16029_dynmc?width=125&height=125" alt="Madame Pierre Henri Renoir (Blanche-Marie Blanc)">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This is one of two pendant portraits that Renoir painted of his elder brother, Pierre Henri, and his wife, Blanche-Marie Blanc (1841–1910?). When paired, the sitters look across at each other in the “en regard” format; Pierre Henri gazes to the right, and Blanche-Marie to the left. The paintings are set in a lush Parisian interior, which highlights the sitters’ comfortable bourgeois status. Blanche-Marie holds her left hand across her breast, evoking the pose of the Medici Venus, a famous ancient sculpture; she prominently displays her wedding band in a deferential gesture toward her husband. Renoir’s use of thin, broken brushstrokes adds a sense of motion to this engaging portrait. Seven years after the portraits were completed, Pierre Henri retired and the couple moved to the country. The paintings entered the art market separately, before the death of either sitter, and at a time when Renoir had already achieved artistic acclaim.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.275</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28249>Pierre-Auguste Renoir</a>, French                                                                                                                                                                                                                                                                          (Limoges 1841 - 1919 Cagnes)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Madame Pierre Henri Renoir (Blanche-Marie Blanc)</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Countess Edmond de Pourtalès (née Mélanie de Bussière)                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1870</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/230133">https://hvrd.art/o/230133</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2710, North Arcade<br>
+            <a href="/visit/floor-plan/2?gallery=2710" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>81.3 x 64.8 cm (32 x 25 1/2 in.)<br />
+framed: 105.2 x 89 cm (41 7/16 x 35 1/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.r.: A Renoir 70
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Gaston-Alexandre Camentron, Paris, France, sold; [to Durand-Ruel (1896-1906) sold]; to Adrien Hébrard, Paris, (1906), sold; [to Durand-Ruel, Paris, October 24, 1906- August 5, 1912) sold]; [to Galerie Thannhauser, 1912 - ?]. Oscar Schmitz, Dresden, ( by 1920 -1933); by descent to his son Edward A. Schmitz, Dresden (1933-1936?) sold; [through Wildenstein & Company, New York, NY, 1937, sold]; to Grenville Lindall Winthrop (1937 - 1943), New York, NY, bequest; to Fogg Art Museum, 1943. <br />
+<br />
+Notes:<br />
+Published by Scheffler 1920 as in Schmitz collection.  When he left Germany in 1931, Oscar Schmitz took his collection to Switzerland.  After his death, his son made arrangements to sell the collection.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.275</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Vittorio Pica, <em>Gl'Impressionisti Francesi</em>, Istituto Italiano d'Arti Grafiche (Bergamo, Italy, 1908), repr. p. 82
+                             </p>
+                                                      <p>
+                                              Julius Meier-Graefe, <em>Auguste Renoir, Mit hundert Abbildungen</em>, R. Piper & Co Verlag (Munich, Germany, 1911), repr. p. 36
+                             </p>
+                                                      <p>
+                                              Julius Meier-Graefe, <em>Auguste Renoir</em>, Henri Floury (Paris, France, 1912), repr. p. 33
+                             </p>
+                                                      <p>
+                                              George Biermann, "Die Kunst auf dem Internationalen Markt", <em>Der Cicerone</em> (May 1913), p. 326, no. 22
+                             </p>
+                                                      <p>
+                                              Karl Scheffler, "Die Sammlung Oskar Schmitz", <em>Kunst und Künstler</em> (1920 - 1921), p. 186
+                             </p>
+                                                      <p>
+                                              M. Dormoy, "La Collection Oskar Schmitz", <em>L'Amour de l'Art</em> (1926), p. 342
+                             </p>
+                                                      <p>
+                                              Julius Meier-Graefe, <em>Renoir</em>, Klinkhardt & Biermann (Leipzig, Germany, 1929), repr. p. 41, no. 23
+                             </p>
+                                                      <p>
+                                              <em>Collection Oskar Schmitz</em>, exh. cat., Kunsthaus Zürich (Zurich, Switzerland, 1932), no. 46, p. 8
+                             </p>
+                                                      <p>
+                                              <em>The Oskar Schmitz Collection</em>, exh. cat., Wildenstein & Company (Paris, France, 1936), no. 49, p. 108
+                             </p>
+                                                      <p>
+                                              Walter Pach, ed., <em>Pierre Auguste Renoir</em>, Harry N. Abrams, Inc. (New York, NY, 1950), repr. p. 39
+                             </p>
+                                                      <p>
+                                              René Huyghe, <em>L'Art et l'âme</em>, Flammarion (Paris, France, 1960), repr. in color pl. V
+                             </p>
+                                                      <p>
+                                              Dorothy W. Gillerman, ed., <em>Grenville L. Winthrop: Retrospective for a Collector</em>, exh. cat., Fogg Art Museum (Cambridge, 1969), p. 130, repr. p. 131, no. 92
+                             </p>
+                                                      <p>
+                                              François Daulte, <em>Auguste Renoir: catalogue raisonné de l'oeuvre peint</em>, Editions Durand-Ruel (Lausanne, Switzerland, 1971), vol. 1, no. 62, repr. b/w facing page and p. 417
+                             </p>
+                                                      <p>
+                                              Elda Fezzi, <em>L'Opera Completa di Renoir nel periodo impressionista, 1869-1883</em>, Rizzoli Editore (Milan, Italy, 1972), p. 92, pl. 56, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Masakazu Yamazaki and Hideo Tomiyama, <em>Renoir</em>, ed. Toshio Nishimura, Japan Art Center (Tokyo, Japan, 1972), repr. in color pl. 21, text p. 113
+                             </p>
+                                                      <p>
+                                              Edward Lucie-Smith, <em>Impressionist Women</em>, Weidenfeld & Nicolson (London, England, 1989), repr. in color fig. 67, p. 80; text pp. 83-85
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 127; repr. as no. 376
+                             </p>
+                                                      <p>
+                                              Colin B. Bailey, "Renoir's Portrait of his Sister-in-Law", <em>The Burlington Magazine</em> (October 1995), 137, no. 1111, pp. 684-687, pp. 684-687, repr. p. 685 as fig. 47
+                             </p>
+                                                      <p>
+                                              Colin B. Bailey and John B. Collins, <em>Renoir's Portraits: Impressions of an Age</em>, exh. cat., Yale University Press (New Haven, CT and London, England, 1997), p. 272, fig. 115, b&w
+                             </p>
+                                                      <p>
+                                              Belinda Thomson, <em>Impressionism:  Origins, Practice, Reception</em>, Thames and Hudson, Ltd. (London, 2000), p. 106, repr. in color
+                             </p>
+                                                      <p>
+                                              <em>Impressionist and Modern Art, Part I</em>, auct. cat., Sotheby's (New York, NY, November 9, 2000), repr. as fig. 3
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, exh. cat., The Metropolitan Museum of Art and Yale University Press (U.S.) (New York, 2003), no. 111, pp. 277-279, repr. in color
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, <em>Ingres, Burne-Jones, Whistler, Renoir... La Collection Grenville L. Winthrop</em>, exh. cat., Musée des Beaux-Arts de Lyon and Réunion des Musées Nationaux (Paris, France, 2003), no. 111, pp. 287-288, repr. in color
+                             </p>
+                                                      <p>
+                                              Guy-Patrice Dauberville and Michel Dauberville, <em>Renoir 1858-1881</em>, Editions Bernheim-Jeune (Paris, 2007), pp. 420-421, ill. p. 421 as no. 398
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Centennale de l'Art Français</em>, [Unknown venue, Saint Petersburg], Saint Petersburg, 01/01/1912 - 12/31/1912
+                            </p>
+                          <p>
+                              <em>Portraits par Renoir</em>, Galerie Durand-Ruel, Paris, 06/05/1912 - 06/20/1912
+                            </p>
+                          <p>
+                              <em>Die Sammlung Oskar Schmitz</em>, Kunsthaus Zürich, Zurich, 01/01/1932 - 12/31/1932
+                            </p>
+                          <p>
+                              <em>La Collection Oscar Schmitz: Chefs-d'oeuvre de la peinture française du XIXe siècle</em>, Galerie Wildenstein, Paris, 01/01/1936 - 12/31/1936
+                            </p>
+                          <p>
+                              <em>Grenville L. Winthrop: Retrospective for a Collector</em>, Fogg Art Museum, Cambridge, 01/23/1969 - 03/31/1969
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>France and the Portrait, 1799-1870</em>, Harvard University Art Museums, Cambridge, 12/03/1994 - 01/29/2002
+                            </p>
+                          <p>
+                              <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, Musée des Beaux-Arts de Lyon, Lyon, 03/15/2003 - 05/26/2003; National Gallery, London, 06/25/2003 - 09/14/2003; The Metropolitan Museum of Art, New York, 10/23/2003 - 01/25/2004
+                            </p>
+                          <p>
+                              <em>For Students of Art and Lovers of Beauty: Highlights from the Collection of Grenville L. Winthrop</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 04/16/2004
+                            </p>
+                          <p>
+                              <em>32Q: 2710 North Arcade</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:51380_dynmc?width=200&height=200" alt="Madame Pierre Henri Renoir (Blanche-Marie Blanc)">
+                <span class="popup__artwork-info-id">1943.275</span>
+        <span class="popup__artwork-info-author">
+                                    Pierre-Auguste Renoir
+                              </span>
+        <span class="popup__artwork-info-title">Madame Pierre Henri Renoir (Blanche-Marie Blanc)</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20230133%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230133">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230133" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Madame+Pierre+Henri+Renoir+%28Blanche-Marie+Blanc%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230133" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/230133" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_20813de34f7ffabd90cc3741c6fc8409" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,644 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A Winter Landscape </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A Winter Landscape" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/212743"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:huam:DDC101615_prdwork?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A Winter Landscape" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_6601755" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:huam:DDC101615_prdwork?width=3000&height=3000" data-initial-image-id="6601755" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?212743" data-behavior="add_to_collection tooltip" data-artwork="212743" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=212743&amp;image_id=DDC101615" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/212743/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2014.409</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/19303>Hendrick Barentsz. Avercamp</a>, Dutch                                                                                                                                                                                                                                                                          (Amsterdam, Netherlands 1585 - 1634 Kampen, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A Winter Landscape</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>late 1620s</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/212743">https://hvrd.art/o/212743</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown and black ink, transparent and opaque watercolor, and gray wash over graphite on two sheets of antique laid paper, the secondary sheet extending 10 mm below the primary one at the bottom, partial framing line in graphite, mounted overall</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>18.2 x 28.7 cm (7 3/16 x 11 5/16 in.)<br />
+framed: 25.4 x 35.9 cm (10 x 14 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: lower right, gray wash: HA [in ligature]
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          watermark: none visible
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>E. J. Dorhout Mees, Haarlem, by descent; to Mrs. E. J. Dorhout Mees, Aerdenhout. [Christie’s, Amsterdam, 15 November 1983, lot 30] sold; to Maida and George Abrams, Boston (without their mark, L. 3306); Gift of George Abrams, in appreciation of Charles J. Egan, Jr., Harvard Class of 1954; Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 1 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The first seventeenth-century Dutch painter to specialize in winter scenes, Hendrick Avercamp invented a compositional type that features a frozen river receding into the distance, with dozens of colorfully dressed figures skating or traversing the ice and enlivening the gray and brown tonalities and pale sunlight of the hibernal landscape. Avercamp’s pictures—the earliest date from about 1605—provided a model for artists such as Esaias van de Velde and Jan van Goyen, who, during the second and third decades of the century, elaborated and refined the winter landscape.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-1"><a href="#fn18602871975ef6641f03ba6-1">1</a></sup> Although trained in Amsterdam, Avercamp spent most of his life in the remote town of Kampen. For centuries, he was better known by the nickname “the Mute of Kampen,” which derived from his disability, than by his given name.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-2"><a href="#fn18602871975ef6641f03ba6-2">2</a></sup></p>
+
+<p>Avercamp was also the first Dutch artist who turned out large numbers of finished drawings worked up with opaque and transparent watercolor and intended for sale. Most, including this <em>Winter Landscape</em>, are signed with his monogram. An inscription written by the owner of one such work attests that Avercamp sold landscape watercolors to collectors as early as 1613.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-3"><a href="#fn18602871975ef6641f03ba6-3">3</a></sup> The taste for colored drawings in the northern Netherlands must have been introduced by Flemish immigrant artists, such as Hans Bol (<a href="https://www.harvardartmuseums.org/collections/object/293308?position=0">2001.54</a> and <a href="https://www.harvardartmuseums.org/collections/object/293795?position=0">2004.75</a>), Jacob Savery, and David Vinckboons, who had all settled in Amsterdam before Avercamp studied there during the first decade of the century.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-4"><a href="#fn18602871975ef6641f03ba6-4">4</a></sup> Avercamp rarely dated his works, and the chronology of the drawings and watercolors has proven especially difficult to reconstruct.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-5"><a href="#fn18602871975ef6641f03ba6-5">5</a></sup> The Harvard <em>Winter Landscape</em> is probably from the late 1620s. Its composition and technique recall a watercolor from this period in the Rijksmuseum, Amsterdam (Fig. 1), as well as one of the datable works on paper, a winter scene of 1630 in Hamburg that also includes sled-riders, skaters, and <em>kolf</em> players on the ice.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-6"><a href="#fn18602871975ef6641f03ba6-6">6</a></sup></p>
+
+<p>Avercamp based many of the innumerable figures in his paintings and watercolors on studies drawn from life that he retained in the workshop and used in multiple images. While few such studies are known today, he must have had a large stock of them, and we can often infer their existence because of the recurrence of a figure in different works.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-7"><a href="#fn18602871975ef6641f03ba6-7">7</a></sup> For example, the hunter at the lower right of the Harvard composition appears in the watercolor reproduced in Figure 1 with his head turned to the right, left leg forward, and left arm extended to display his dead quarry. As noted by Marijn Schapelhouman, Avercamp probably drew more than one study of the same model, which would account for the variant poses of recurring figures such as this hunter.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-8"><a href="#fn18602871975ef6641f03ba6-8">8</a></sup></p>
+
+<p>Seventeenth-century collectors of watercolors and finished drawings usually preserved them in albums, but a few were attached to thin planks, framed, glazed, and hung on walls.<sup class="footnote" id="fnrev18602871975ef6641f03ba6-9"><a href="#fn18602871975ef6641f03ba6-9">9</a></sup> In 1639, the merchant Pieter Koninck, brother of the landscape painters Jacob and Philips Koninck, owned “four drawings by the Mute of Kampen behind glass.”<sup class="footnote" id="fnrev18602871975ef6641f03ba6-10"><a href="#fn18602871975ef6641f03ba6-10">10</a></sup> The marine painter Jan van de Cappelle, who owned 883 drawings by and after Avercamp, displayed at least one in a frame. Among the paintings listed in the 1680 inventory of Van de Cappelle’s estate was “A drawing, winter, with a glass, by the Mute.”<sup class="footnote" id="fnrev18602871975ef6641f03ba6-11"><a href="#fn18602871975ef6641f03ba6-11">11</a></sup> The Harvard watercolor, which was mounted on a plank and inserted into a seventeenth-century ebony frame, is a rare example of this practice that has survived (Fig. 2).<sup class="footnote" id="fnrev18602871975ef6641f03ba6-12"><a href="#fn18602871975ef6641f03ba6-12">12</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-1"><sup><a href="#fnrev18602871975ef6641f03ba6-1">1</a></sup> On Avercamp’s paintings and the early development of the winter landscape in the northern Netherlands, see Pieter Roelofs, ed. <em>Hendrick Avercamp: Master of the Ice Scene</em>.(Amsterdam: Rijksmuseum, Amsterdam; Washington, DC: National Gallery of Art, 2009), pp. 31–83.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-2"><sup><a href="#fnrev18602871975ef6641f03ba6-2">2</a></sup> Jonathan Bikker provides a thorough account of Avercamp’s life. See Roelofs, pp. 11-21.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-3"><sup><a href="#fnrev18602871975ef6641f03ba6-3">3</a></sup> <em>Hendrick Avercamp heeft my dit gelewert</em> / <em>den—28 January 1613. In Campen</em> (“Hendrick Avercamp delivered this to me 28 January 1613 in Kampen”). The annotation occurs on the verso of a landscape watercolor in the Fondation Custodia, Frits Lugt Collection, Paris; Jonathan Bikker and Marijn Schapelhouman in Roelofs, p. 15, repr. fig. 1, and pp. 90–91, repr. figs. 113 and 114. See below, note 6, for another inscription by an early owner on the verso of a watercolor in Hamburg.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-4"><sup><a href="#fnrev18602871975ef6641f03ba6-4">4</a></sup> Of the three, only Vinckboons was still alive during Avercamp’s training in Amsterdam. Although technically different from Avercamp’s watercolors, Bol’s works in transparent and opaque watercolor must have furnished an important precedent for Avercamp’s colored drawings. Marijn Schapelhouman in Roelofs, p. 90, notes that Avercamp’s free, transparent handling of the medium recalls colored drawings by the Flemish artists Jacob Grimmer and Jan Brueghel the Elder.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-5"><sup><a href="#fnrev18602871975ef6641f03ba6-5">5</a></sup> Pieter Roelofs and Marijn Schapelhouman in Roelofs, pp. 31–83. pp. 42–54, 88–92, and 96.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-6"><sup><a href="#fnrev18602871975ef6641f03ba6-6">6</a></sup> Marijn Schapelhouman in <em>Dutch Drawings of the Seventeenth Century in the Rijksmuseum, Amsterdam: Artists Born between 1580 and 1600; Catalogue of Dutch and Flemish drawings in the Rijksprentenkabinet, Rijksmuseum, Amsterdam</em> (Amsterdam and London, 1998), text vol., under cat. 15, p. 8, groups the Harvard work with the watercolor <em>Ice Scene with a Hunter Showing an Otter</em> (Fig. 1), which he dates to the late 1620s. Black and gray ink, transparent and opaque watercolor, over a sketch in graphite or black chalk. 201 × 335 mm. Amsterdam, Rijksmuseum, RP-T-1883-A-240. See also Marijn Schapelhouman in Roelofs, pp. 85–87, repr. figs. 108 and 109. The watercolor in Hamburg must date, on the evidence of an inscription on its verso, from 1630 at the latest; Annemarie Stefes, <em>Niederländische Zeichnungen 1450–1850: Kupferstichkabinett der Hamburger Kunsthalle</em>. Ed. Andreas Stolzenburg and Hubertus Gaßner (Cologne, 2011), vol. 1, cat. 31, p. 80, repr. vol. 1, p. 27, color plate 31. The inscription in brown ink, in a seventeenth-century hand, reads, “Dit heeft de Stom tot Campen gedaen Cost 6 gl ao 1630 dat is veel meer waerdich / is genaem Her-ic Avercam zijn const is in goed estijm.” (The Mute at Kampen did this Cost 6 guilders in the year 1630 it is worth much more / [he] is named Her-ic Avercamp his art is well regarded.)</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-7"><sup><a href="#fnrev18602871975ef6641f03ba6-7">7</a></sup> Marijn Schapelhouman in Roelofs, pp. 104–7 and 116.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-8"><sup><a href="#fnrev18602871975ef6641f03ba6-8">8</a></sup> Ibid, p. 105.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-9"><sup><a href="#fnrev18602871975ef6641f03ba6-9">9</a></sup> Michiel C. Plomp. <em>Hartstochtelijk verzameld: 18de‑eeuwse Hollandse verzamelaars van tekeningen en hun collecties</em> (Paris and Bussum, Netherlands, 2001), pp. 99–100.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-10"><sup><a href="#fnrev18602871975ef6641f03ba6-10">10</a></sup> Jonathan Bikker (in Roelofs, pp. 122 and 127) cites Pieter Koninck’s 1639 inventory, which includes “vier teeckeningen van de Stom van Campen met glas bedect.”</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-11"><sup><a href="#fnrev18602871975ef6641f03ba6-11">11</a></sup> The estate inventory of Jan van de Cappelle lists, with the paintings in his collection, “Een teekeningh, winter, met een glaesje van de Stomme”; Clara Johanna Welcker, <em>Hendrick en Barent Averkamp, schilders tot Campen</em> (Doornspijk, Netherlands 1933/1979), p. 94.</p>
+
+<p class="footnote" id="fn18602871975ef6641f03ba6-12"><sup><a href="#fnrev18602871975ef6641f03ba6-12">12</a></sup> The work was removed from the board for conservation reasons in 1985, but is shown in Figure 2 as exhibited in its seventeenth-century frame. The wooden plank, now removed because of its inherent risk to the object, is preserved at the Harvard Art Museums.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212743/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Hendrick Avercamp, <em>Ice Scene with a Hunter Showing an Otter</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212743/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Hendrick Avercamp, <em>A Winter Landscape</em>, framed</a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts; Gift of George Abrams in appreciation of Charles J. Egan, Jr., Harvard Class of 1954</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2014</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2014.409</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Beeldende Kunst, ed. H. P. Bremmer, vol. 3, no. 1, 1915, no. 5, n.p., repr.
+
+                             </p>
+                                                      <p>
+                                              Clara Johanna Welcker, <em>Hendrick en Barent Averkamp, schilders tot Campen</em>, Davaco Publishers (Doornspijk, The Netherlands, 1979), cat. no. T 7, p. 253
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 25, pp. 68-69, and p. 10, repr.
+                             </p>
+                                                      <p>
+                                              Ger Luijten, ed., <em>Dawn of the golden age: northern Netherlandish art, 1580-1620</em>, exh. cat., Rijksmuseum Amsterdam and Waanders Uitgevers (Amsterdam and Zwolle, 1993), under cat. no. 307, p. 637 (n. 1)
+                             </p>
+                                                      <p>
+                                              Marijn Schapelhouman and Peter Schatborn, <em>Dutch Drawings of the Seventeenth Century in the Rijksmuseum, Amsterdam: Artists born between 1580 and 1600</em>, Rijksmuseum and Merrel Holberton (Amsterdam and London, 1998), under cat. no. 15, pp. 8-9 (n. 1)
+                             </p>
+                                                      <p>
+                                              Ger Luijten and Jan Piet Filedt Kok, <em>The Glory of the Golden Age: Drawings and Prints</em>, exh. cat., Waanders Uitgevers (Zwolle, 2000), p. 121, repr. fig. 1
+                             </p>
+                                                      <p>
+                                              Arthur K. Wheelock, Jr., <em>Aelbert Cuyp</em>, exh. cat., ed. Arthur K. Wheelock, Jr., National Gallery of Art (Washington, D.C., 2001), p. 84 (n. 12)
+                             </p>
+                                                      <p>
+                                              Mària van Berge-Gerbaud and Michiel C. Plomp, <em>Collectionner, passionnément.</em>, exh. cat., Fondation Custodia (Paris, 2001), repr. as fig. 78 on p. 100
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp, <em>Hartstochtelijk Verzameld: 18de-eeuwse Hollandse verzamelaars van tekeningen en hun collecties</em>, Fondation Custodia (Paris, France, 2001), p. 99 (n. 96), repr. p. 100, fig. 78
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp and Eric Domela Nieuwenhuis, <em>De verzamelingen van het Centraal Museum Utrecht. 7. Werken op papier tot 1850</em>, ed. Liesbeth M. Helmus, Centraal Museum Utrecht (Utrecht, 2004), under cat. nos. 4A and 4B, p. 59 (n. 6)
+                             </p>
+                                                      <p>
+                                              Stefaan Hautekeete, ed., <em>Tekeningen uit Nederlands Gouden Eeuw in de Verzameling van Jean de Grez</em>, exh. cat., Uitgeverij Snoeck (Ghent, 2007), under cat. no. 18, p. 64 (n. 5)
+                             </p>
+                                                      <p>
+                                              Pieter Roelofs, <em>Hendrick Avercamp: Master of the Ice Scene</em>, exh. cat., Rijksmuseum, Amsterdam & Nieuw Amsterdam (Amsterdam, 2009), p. 127
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, pp. 531, 532
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 1, pp. 28-30, repr. p. 29 and p. 30 (with frame) as fig. 2
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:huam:DDC101615_prdwork?width=200&height=200" alt="A Winter Landscape">
+                <span class="popup__artwork-info-id">2014.409</span>
+        <span class="popup__artwork-info-author">
+                                    Hendrick Barentsz. Avercamp
+                              </span>
+        <span class="popup__artwork-info-title">A Winter Landscape</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20212743%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212743">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212743" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+Winter+Landscape+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212743" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/212743" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9b46fce1da6e89022e4d7de96216bdb0" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

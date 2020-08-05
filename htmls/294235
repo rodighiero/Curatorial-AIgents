@@ -1,0 +1,643 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A View of Eggevoort </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A View of Eggevoort" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/294235"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:61837_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A View of Eggevoort" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17456792" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:61837_dynmc?width=3000&height=3000" data-initial-image-id="17456792" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?294235" data-behavior="add_to_collection tooltip" data-artwork="294235" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=294235&amp;image_id=61837" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/294235/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="61837">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:61837_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Follower of Hans Bol"  title="A View Of Eggevoort" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17456792" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61837_dynmc?width=125&height=125" alt="A View Of Eggevoort">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="757039">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:757039?width=3000&height=3000" data-zoom-enabled="1" data-people="Follower of Hans Bol"  title="A View Of Eggevoort" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400568316" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:757039?width=125&height=125" alt="A View Of Eggevoort">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1993.167</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                Follower of <a href=https://www.harvardartmuseums.org/collections/person/28680>Hans Bol</a>, Netherlandish                                                                                                                                                                                                                                                                          (Mechelen, Belgium 1534 - 1593 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A View of Eggevoort</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: A View of Eggevoort with Huntsmen and Dogs                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing,                                          album page                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1580</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/294235">https://hvrd.art/o/294235</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink and gray, yellow and rose wash over black chalk, incised, on cream antique laid paper, framing line in brown ink, mounted on an album leaf; verso: outlines of recto are traced through in black chalk, incised</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>16.3 x 21.9 cm (6 7/16 x 8 5/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: lower right, brown ink: swerten gillis
+                        </li>
+                                              <li data-a="2">
+                          watermark: none visible
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Christie's Amsterdam, 30 November 1987, lot 6], sold; to Melvin R. Seiden; to Harvard University Art Museum on long term loan, 1988; sold, to Harvard University Art Museum, 1993; The Kate, Maurice R. and Melvin R. Seiden Purchase Fund and Richard Norton Memorial Fund, 1993.167.</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: The Complete Collection Online</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                  Multiple authors
+                                        </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                                                                            Harvard Art Museums (Cambridge, MA, 2017–)
+                                              </dd>
+                                                                                                  <p>Entry by 
+                                                                        William W. Robinson,
+                                                                                                                    completed March 07, 2019:</p>
+                                                                  
+              <div class="entry-text">
+                <p><em>A View of Eggevoort</em> is preserved in an album in a plain vellum binding of the late 16<sup>th</sup> or 17<sup>th</sup> century (<a href="https://www.harvardartmuseums.org/collections/object/54451?position=0">1993.165–M22249</a>). The album includes 97 prints and 8 drawings: the sheets with printed images had been trimmed to a uniform size and bound directly into the album, while the drawings were mounted to blank leaves of the same trim size. The prints, all issued by Antwerp publishers between 1562 and about 1600, comprise five complete sets that depict landscapes, birds, Old Testament scenes, mythological subjects, and architectural perspectives.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-1"><a href="#fn7283799055ef663d8b7e00-1">1</a></sup> Among the drawings in the album are Hans Bol’s <em>Christ Calling Saint Peter</em>, dated 1576 (<a href="https://www.harvardartmuseums.org/collections/object/294672?position=0">1993.165</a>), and two studies by different, unidentified hands: a village landscape (<a href="https://www.harvardartmuseums.org/collections/object/294238?position=0">1993.171</a>) and an allegorical composition of two nude female figures (<a href="https://www.harvardartmuseums.org/collections/object/294225?position=0">1993.172</a>). </p>
+
+<p>The other five drawings (<a href="https://www.harvardartmuseums.org/collections/object/294223?position=0">1993.166</a>, <a href="https://www.harvardartmuseums.org/collections/object/294235?position=0">1993.167</a>, <a href="https://www.harvardartmuseums.org/collections/object/294236?position=0">1993.168</a>, <a href="https://www.harvardartmuseums.org/collections/object/294237?position=0">1993.169</a>, <a href="https://www.harvardartmuseums.org/collections/object/294677?position=0">1993.170</a>), including <em>A View of Eggevoort</em>, served as models for prints in a series of 24 plates, <em>Views of the Environs of Brussels</em>, engraved by Hans Collaert I and published around 1575–80 by Hans van Luyck. A complete set is bound in the volume (M22197–M22220, see <a href="https://www.harvardartmuseums.org/collections/object/54451?position=0">1993.165–M22249</a>) .<sup class="footnote" id="fnrev7283799055ef663d8b7e00-2"><a href="#fn7283799055ef663d8b7e00-2">2</a></sup> Now an urban municipality within the Brussels-Capital Region, Eggevoort in the 16<sup>th</sup> century was a rural domain outside the city.</p>
+
+<p>Like the two print series of 1559 and 1561 known as the “Small Landscapes” (see <a href="https://www.harvardartmuseums.org/collections/object/312103?position=0">1994.137</a>), which portray sites in the countryside outside Antwerp, the <em>Views of the Environs of Brussels</em> represent suburban villages, castles, and abbeys in an intimate, direct manner based closely on studies from life. Their naturalistic approach differs from that of the imaginary, composite panoramas produced by most landscapists of the period. Printed within the images are titles identifying the locales pictured on the respective plates, underscoring the topographical purpose of the prints—the works might have been marketed to city dwellers as mementos of agreeable places for leisure and recreation.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-3"><a href="#fn7283799055ef663d8b7e00-3">3</a></sup> </p>
+
+<p>In the first edition of <em>Views of the Environs of Brussels</em>, the draftsman who furnished the models for the 24 engravings was not identified. When the Amsterdam printmaker and publisher Claes Jansz. Visscher reissued the series at the beginning of the 17<sup>th</sup> century, he added an inscription attributing the designs to Hans Bol.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-4"><a href="#fn7283799055ef663d8b7e00-4">4</a></sup> While the five Harvard landscapes are neither by Bol nor by Jacob Grimmer, to whom they have also been ascribed,<sup class="footnote" id="fnrev7283799055ef663d8b7e00-5"><a href="#fn7283799055ef663d8b7e00-5">5</a></sup> Stefaan Hautekeete has discovered that a drawing by Bol might have served as the model for one plate in the set. Hautekeete proposes that Bol likely produced designs for some of the 24 plates, while others were executed by the unidentified draftsman of the Harvard views, who was Bol’s follower or collaborator.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-6"><a href="#fn7283799055ef663d8b7e00-6">6</a></sup></p>
+
+<p><em>A View of Eggevoort</em> is inscribed by an early hand, <em>swerte gillis</em>. Stijn Alsteens has suggested that “Black Gillis” might be an otherwise unknown nickname for the landscapist Gillis Mostaert, but the technique and style of the Harvard drawings show no compelling connection to Mostaert’s documented work.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-7"><a href="#fn7283799055ef663d8b7e00-7">7</a></sup> </p>
+
+<p>A few other works by the same draftsman are known, although none of them provided a direct model for a print in <em>Views of the Environs of Brussels</em>. Three landscape drawings that first appeared on the art market in 1985 are securely attributable to the hand that designed the five compositions in the Harvard album.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-8"><a href="#fn7283799055ef663d8b7e00-8">8</a></sup> Hautekeete recognized another in the Victoria and Albert Museum, London. It is a study from life of a mill that appears, with its surroundings altered and elaborated, in the print <em>Achter Schaerbeecke</em>.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-9"><a href="#fn7283799055ef663d8b7e00-9">9</a></sup> Finally, a work that depicts a secluded clearing with a Gothic church and the buildings of an abbey or country estate, last recorded on the art market in 1954, is almost certainly by the same hand as the Harvard landscapes. This drawing was inscribed <em>B de . . .</em> by an early hand, but it is uncertain whether this partially illegible inscription is the signature of the draftsman or a topographical identification.<sup class="footnote" id="fnrev7283799055ef663d8b7e00-10"><a href="#fn7283799055ef663d8b7e00-10">10</a></sup></p>
+
+<p>Of the five models in the album for engravings in the series of sites around Brussels, only <em>View of Over Muelen</em> is reproduced in reverse in Collaert’s print (see <a href="https://www.harvardartmuseums.org/collections/object/294677?position=0">1993.170</a> and <a href="https://www.harvardartmuseums.org/collections/object/250626?position=0">M22209</a>). The verso of that drawing was rubbed with black chalk and the outlines of the composition were incised to copy them onto the copper plate. Since the design was transferred to the plate in the same orientation as the drawing, it printed in reverse. The engravings after the other four drawings, including <em>A View of Eggevoort</em>, do not reverse their models, so they reproduce more accurately the artist’s study of the site (<a href="https://www.harvardartmuseums.org/collections/object/251039?position=0">M22199</a>). To print them in the same direction as the drawings, the engraver had to transfer their compositions to the plates in mirror images. He did so by indenting the outlines of the recto with a stylus so that they showed on the verso, then drawing over those contours on the verso with black chalk. Afterward, he laid the drawing recto-side down on the plate and incised the black chalk lines, transferring the reversed design from the verso of the drawing to the copper surface.  </p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-1"><sup><a href="#fnrev7283799055ef663d8b7e00-1">1</a></sup> Adriaen Collaert, <em>Avium vivae icones</em> (M22153–M22168, for this range of the album, and as below, see <a href="https://www.harvardartmuseums.org/collections/object/54451?position=0">1993.165–M22249</a>): Ann Diels and Marjolein Leesberg in <em>New Hollstein</em>, The Collaert Dynasty, part 6, nos. 1404–35, pp. 124–47; dated to the late 1590s by Ann Diels, <em>De Familie Collaert (ca. 1555–1630) en de prentkunst in Antwerpen</em> (Brussels: Archief- en Bibliotheekwezen in België, 2010), pp. 167 and 220. Philips Galle, after Maarten van Heemskerck, <em>Disasters of the Jewish People</em> (M22169–M22190): Manfred Sellink and Marjolein Leesberg in <em>New Hollstein</em>, Philips Galle, part 1, nos. 103–24, pp. 152–79. Johannes Sadeler I, <em>Mythological Scenes in a Landscape</em> (M22191–M22196): Karel Boon and Dieuwke de Hoop Scheffer in <em>Hollstein</em> 21, nos. 480-85, pp. 161-62. Hans Collaert I, <em>Views of the Environs of Brussels</em> (M22197–M22220): Diels and Leesberg in <em>New Hollstein</em>, The Collaert Dynasty, part 5, nos. 1229–52, pp. 216–32. Joannes and Lucas van Doetecum, after Hans Vredeman de Vries, <em>Small Architectural Perspective Views</em> (M22221–M22249): Peter Fuhring in <em>New Hollstein</em>, The Van Doetecum Family, part 2, nos. 255–82, pp. 80–100. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-2"><sup><a href="#fnrev7283799055ef663d8b7e00-2">2</a></sup> See note 1 for the print series <em>Views of the Environs of Brussels</em>. The print after 1993.167 is reproduced in the same direction in the engraving by Hans Collaert I; see Diels and Leesberg in <em>New Hollstein</em>, The Collaert Dynasty, part 5, no. 1239, p. 218. The print is inscribed in the plate as <em>Eggevoort</em> (see <a href="https://www.harvardartmuseums.org/collections/object/251039?position=0">M22199</a>).</p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-3"><sup><a href="#fnrev7283799055ef663d8b7e00-3">3</a></sup> Walter S. Gibson, <em>Pleasant Places: The Rustic Landscape from Bruegel to Ruisdael</em> (Berkeley; Los Angeles; London: University of California Press, 2000), pp. 24–25; Stefaan Hautekeete and Ann Diels in <em>Le peintre et l’arpenteur: Images de Bruxelles et de l’ancien duché de Brabant</em>, ed. Véronique van de Kerckhof, Helena Bussers, et al. (Brussels: Musées Royaux des Beaux-Arts de Belgique, 2000), pp. 52–54 and 206–10; Diels in <em>New Hollstein</em>, The Collaert Dynasty, part 5, p. li; Ann Diels in <em>‘Wat D’yser Can Bemaelen’: Les Estampes des Graveurs Anversois Collaert (1550–1630)</em> (Brussels: Bibliothèque Royale Albert 1er, 2005), under cat. 12, p. 62; Diels, <em>De Familie Collaert</em>, pp. 132–33. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-4"><sup><a href="#fnrev7283799055ef663d8b7e00-4">4</a></sup> In 1609, when the prints were described in the stock list of the Amsterdam publisher Cornelis Claesz., Hans Bol was also identified as the designer; Diels and Leesberg in <em>New Hollstein</em>, The Collaert Dynasty, part 5, no. 1229, p. 216, and part 1, p. li and p. lxxxiii, n. 106. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-5"><sup><a href="#fnrev7283799055ef663d8b7e00-5">5</a></sup> Stefaan Hautekeete in <em>Le peintre et l’arpenteur</em>, p. 52 and p. 57, n. 60. Hautekeete has attributed the drawings to an unidentified follower of Hans Bol, and Heinrich Gerhard Franz has assigned them to different hands in Bol’s workshop; see Heinrich Gerhard Franz, “Hans Bol (1534–1593): Entwurfs Zeichnungen zur grossen Landschaftsfolge von 1562,” <em>Die Weltkunst</em> 58 (2) (15 Jan. 1998): 102–3. For the attribution to Grimmer, tentatively suggested by An Zwollo, see Johan Bosch van Rosenthal in the catalogue of the sale: Christie’s, Amsterdam, 30 November 1987, under lot 6. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-6"><sup><a href="#fnrev7283799055ef663d8b7e00-6">6</a></sup> In email correspondence with the author (April 7, 2014), Hautekeete pointed out that a drawing in the Musée du Louvre, Paris (Frits Lugt, Musée du Louvre, <em>Inventaire général des dessins des écoles du Nord: Maîtres des anciens Pays-Bas nés avant 1550</em> [Paris: Musée du Louvre, Cabinet des dessins, 1968], p. 90, no. 365) might have been the model for Collaert’s <em>View of Linthaut</em>, plate 10 in <em>Views of the Environs of Brussels</em>; Diels and Leesberg in <em>New Hollstein</em>, The Collaert Dynasty, part 5, no. 1238, p. 218, repr. Fig. 1238, p. 225. Collaert’s engraving reproduces the Louvre drawing in reverse. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-7"><sup><a href="#fnrev7283799055ef663d8b7e00-7">7</a></sup> See Stijn Alsteens’s review of <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, by William W. Robinson with Susan Anderson, in <em>Master Drawings</em> 53 (4) (Winter 2015): 533, repr. as Fig. 4.</p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-8"><sup><a href="#fnrev7283799055ef663d8b7e00-8">8</a></sup> Christie’s, London, 10 April 1985, lots 126–28, as circle of Jan Wildens. Lots 126 and 127 from the Christie’s sale were sold, respectively, at Sotheby’s, Amsterdam, 21 November 1989, lot 17, and Sotheby’s, Amsterdam, 17 November 1993, lot 15. In both Sotheby’s sales, the drawings were attributed to the same hand as the five models in Harvard’s album, and An Zwollo’s attribution to Jacob Grimmer was accepted (see n. 5 above). As pointed out by Stefaan Hautekeete (email correspondence with the author, April 7, 2014), lot 128 in the 1985 Christie’s sale is almost certainly the drawing shown by Shaunagh Fitzgerald, <em>Exhibition of Old Master Drawings</em>, Baskett and Day, London, 17–27 November 1987, no. 17, repr., as circle of Jan Wildens. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-9"><sup><a href="#fnrev7283799055ef663d8b7e00-9">9</a></sup> Victoria and Albert Museum, London, Dyce.528. Christopher White, Jane Shoaf Turner, and Mark Evans, <em>Dutch &amp; Flemish Drawings at the Victoria and Albert Museum</em>, 2 vols. (London: V&amp;A Publishing, 2014), vol. 2, cat. 458, pp. 378–79, repr., as Jan Brueghel the Elder. Stefaan Hautekeete in <em>Le peintre et l’arpenteur</em>, pp. 52–53, repr. p. 53, ill. 15, recognized it as by the same hand as the five Harvard drawings. A drawing by Pieter Stevens of about 1603–7, inscribed <em>bij Brussele</em>, shows the same site and may be based on Collaert’s print; idem, no. 84, pp. 211–12. </p>
+
+<p class="footnote" id="fn7283799055ef663d8b7e00-10"><sup><a href="#fnrev7283799055ef663d8b7e00-10">10</a></sup> Henry Scipio Reitlinger, <em>Old Master Drawings: A Handbook for Amateurs and Collectors</em> (London: Constable &amp; Company, Ltd., 1922), p. 133, repr. pl. 24. The drawing was sold from Henry Scipio Reitlinger’s estate, Sotheby’s, London, 22–23 June 1954, part of lot 756; William W. Robinson with Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em> (Cambridge, Mass.: Harvard Art Museums, 2016), under cat. 11, p. 60, repr. Fig. 2. My thanks to Stefaan Hautekeete, who independently reached the same conclusion as I did regarding the attribution of the ex-Reitlinger drawing: that is, it is very likely by the same hand as the five Harvard landscapes; email from Stefaan Hautekeete to Peter Schatborn, February 25, 2014. Peter Schatborn, Stefaan Hautekeete, Bas Dudok van Heel, and Joost vander Auwera examined the inscription. Vander Auwera suggested that it might not be a signature but the identification of the site represented in the drawing; Stefaan Hautekeete, email correspondence with the author, April 7, 2014.</p>
+              </div>
+                        </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, The Kate, Maurice R. and Melvin R. Seiden Purchase Fund and Richard Norton Memorial Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1993</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1993.167</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Heinrich Gerhard Franz, "Hans Bol (1534 - 1593); Entwurfs-Zeichnungen zur grossen Landschaftsfolge von 1562", <em>Die Weltkunst</em> (January 15, 1988), vol. 58, no. 2, pp. 100-104, p. 103, repr. fig. 10
+                             </p>
+                                                      <p>
+                                              Walter S. Gibson, "Pleasant Places": Some Dutch Landscape Drawings in the Clevland Museum of Art and Their Antecedents, <em>Drawing</em> (July-August 1990), vol. xii, no. 2, pp. 25-29, pp. 28-29 (n. 12), repr. fig. 8, p. 28
+                             </p>
+                                                      <p>
+                                              Kristina Hartzer Nguyen, <em>The Made Landscape: City and Country in Seventeenth-Century Dutch Prints</em>, exh. cat., Harvard University Art Museums, Fogg Art Museum (Cambridge, MA, Fall 1992), p. 15
+                             </p>
+                                                      <p>
+                                              F. W. H. Hollstein, <em>The New Hollstein : Dutch & Flemish etchings, engravings, and woodcuts, 1450-1700</em>, Koninklijke van Poll, Rijksprentenkabinet, Rijksmuseum, and Sound + Vision Publishers (Roosendall, Rotterdam, and Ouderkerk aan den IJssel, 1993 - ongoing), vol. 15 (The Collaert Dynasty, compiled by Ann Diels and Marjolein Leesberg, 2005-2006), part 5, under no. 1239, p. 218
+                             </p>
+                                                      <p>
+                                              Véronique Van de Kerckhof, Helena Bussers, and Véronique Bücken, <em>Le peintre et l'arpenteur: Images de Bruxelles et de l'ancien duché de Brabant</em>, exh. cat., La Renaissance du Livre (Tournai, 2000), pp. 52-53 and p. 57 (n. 62)
+                             </p>
+                                                      <p>
+                                              Walter S. Gibson, <em>Pleasant Places: The Rustic Landscape from Bruegel to Ruisdael</em>, University of California Press (Berkeley and Los Angeles, CA and London, 2000), p. 25; p. 185, n. 72
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, p. 533, repr. p. 533 as fig. 4
+                             </p>
+                                    </dd>
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/54451">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC108623_dynmc?width=3000&height=3000" alt="Album Of 16Th-Century Netherlandish Prints And Drawings">
+                                    <span class="related-artwork__obj">1993.165-M22249</span>
+                                      <h4 class="related-artwork__artist">Adriaen Collaert</h4>
+                                                        <h3 class="related-artwork__title">Album of 16th-century Netherlandish Prints and Drawings</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/251039">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756986?width=3000&height=3000" alt="Eggevoort">
+                                    <span class="related-artwork__obj">M22199</span>
+                                      <h4 class="related-artwork__artist">Hans Collaert the Younger</h4>
+                                                        <h3 class="related-artwork__title">Eggevoort</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:61837_dynmc?width=200&height=200" alt="A View Of Eggevoort">
+                <span class="popup__artwork-info-id">1993.167</span>
+        <span class="popup__artwork-info-author">
+                                    Follower of Hans Bol
+                              </span>
+        <span class="popup__artwork-info-title">A View of Eggevoort</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20294235%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294235">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294235" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+View+of+Eggevoort+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294235" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/294235" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b01e3361126bc35112da2dcc0dbadbec" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

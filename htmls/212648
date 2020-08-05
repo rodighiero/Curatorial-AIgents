@@ -1,0 +1,647 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Portrait of a Man </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Portrait of a Man" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/212648"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71800_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Portrait of a Man" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481324" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71800_dynmc?width=3000&height=3000" data-initial-image-id="18481324" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">Maida and George Abrams Collection, Boston</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?212648" data-behavior="add_to_collection tooltip" data-artwork="212648" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=212648&amp;image_id=71800" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/212648/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Whether derived from imagination or observed from life, portraits and head studies were a mainstay of Dutch draftsmanship of the early Golden Age. As the four drawings displayed at the center of this room show, the medium of pen and ink, with the occasional addition of washes, was popular among artists intent on producing technically refined and visually striking human likenesses. Jacob Matham’s Portrait of a Man stands out for its exceedingly controlled and meticulous pen work. This, in essence, is a showpiece, produced to celebrate the artist’s skill as a draftsman. Matham’s exacting study can be contrasted with the bold and painterly drawing manner of Jan van Bouckhorst, whose drawing depicts the allegory of the Three Ages of Man. A more informal approach was also adopted in Dirck de Vries’s Head of a Young Woman in Profile. Showing the woman’s unruly hair falling over her neck and eyes, and rendering her upper body in quick angular strokes, the drawing gives the impression of an intimate study done from life. While the model in De Vries’s work will likely remain anonymous, the sitter in the portrait by David Bailly can be identified as Dutch painter and draftsman Jan Pynas. Formal in approach and polished in execution, this drawing is the only known likeness of the artist, whose own landscape drawing is also included in this installation.</p>
+
+<p>[25.1998.6, TL41760.4, TL41760.23, TL41760.24]</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>25.1998.6</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27493>Jacob Matham</a>, Dutch                                                                                                                                                                                                                                                                          (Haarlem, Netherlands 1571 - 1631 Haarlem, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Portrait of a Man</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1603</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/212648">https://hvrd.art/o/212648</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink over black chalk on light tan antique laid paper, mounted on antique laid paper; verso: traces of black chalk</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>27 × 20.6 cm (10 5/8 × 8 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Brown ink, top center: 1603 J. Maetham
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: upper left, brown ink: s.b.
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower right, brown ink: 46 [?]
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower right, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: [erased and illegible]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower center, graphite: G G J ... [partially erased and illegible]
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Bernard Houthakker Gallery, Amsterdam], sold; to Siegfried Kramarsky, New York, by descent; to his wife Lola Kramarsky, New York, sold; [Art and Antique Auction and Sale in Aid of Youth Aliyah and Fellowship in Israel for Arab-Jewish Youth, Hotel Continental, Cambridge, MA, 7 November 1965, lot 40], sold; to Maida and George Abrams, Boston, 1965 (L. 3306, verso, lower right); The Maida and George Abrams Collection, Promised Gift, 25.1998.6</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: The Complete Collection Online</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                  Multiple authors
+                                        </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                                                                            Harvard Art Museums (Cambridge, MA, 2017–)
+                                              </dd>
+                                                                                                  <p>Entry by 
+                                                                        Austeja Mackelaite,
+                                                                                                                    completed November 01, 2017:</p>
+                                                                  
+              <div class="entry-text">
+                <p>Trained as an engraver in the workshop of his stepfather, Hendrick Goltzius, Jacob Matham shared his master’s penchant for the virtuosic drawn line. His sizable corpus of drawings is dominated by highly finished signed and dated sheets, including a number of <em>penwerken</em> — highly accomplished pen drawings that imitate the linear swells, tapers, and stipples of the engraving technique.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-1"><a href="#fn5466502025ef663cfc5dcb-1">1</a></sup> This notoriously demanding technique, which required the draftsman to work with no corrections, was a career-long preoccupation for Goltzius. Matham’s work in this manner is clearly indebted to his master’s example.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-2"><a href="#fn5466502025ef663cfc5dcb-2">2</a></sup></p>
+
+<p>In 1600, Matham began producing busts and half-length figure studies depicting men and women in archaizing costumes and very elaborate head garments, usually seen in profile.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-3"><a href="#fn5466502025ef663cfc5dcb-3">3</a></sup> Mostly executed in the manner of engravings, the drawings had their conceptual origins in Goltzius’s “imaginary portraits” that had emerged just a few years before.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-4"><a href="#fn5466502025ef663cfc5dcb-4">4</a></sup> The Harvard Art Museums sheet is an excellent early example of Matham’s work in this genre. The artist employed swelling and tapering parallel and cross-hatched lines of varying length and thickness to describe the expressive topography of the man’s face, including the delicate clusters of wrinkles around his right eye. While Matham’s careful study imitates the linear effects of engraving, his overall approach is significantly freer and does not exactly replicate the burin technique he used in that medium, in which undulating lines are generally interwoven with stipples, creating a lattice-like effect.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-5"><a href="#fn5466502025ef663cfc5dcb-5">5</a></sup> </p>
+
+<p>The lack of exaggeration in the rendering of the man’s features and his contemporary costume have led to the intriguing suggestion that the Harvard sheet might be a depiction of an actual person.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-6"><a href="#fn5466502025ef663cfc5dcb-6">6</a></sup> Yet, as Emil Karel Josef Reznicek showed in his discussion of Goltzius’s heads, when one is unable to determine the identity of a sitter, it can be virtually impossible to differentiate between studies made from life and imaginary portraits.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-7"><a href="#fn5466502025ef663cfc5dcb-7">7</a></sup> Indeed, some of the man’s facial features—the pronounced, pointy chin and the fleshy jowl, all covered in stubble—appear in other head studies, calling the distinctiveness of the figure’s physiognomy into question.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-8"><a href="#fn5466502025ef663cfc5dcb-8">8</a></sup> The profile view, which Matham adopted for this drawing, is much more common among imaginary portraits than drawings and prints depicting actual sitters.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-9"><a href="#fn5466502025ef663cfc5dcb-9">9</a></sup> When the sheet is examined under infrared light, a black chalk underdrawing shows that Matham made very significant changes when rendering the contour of the head as well as the costume, which also points to the drawing’s invented nature.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-10"><a href="#fn5466502025ef663cfc5dcb-10">10</a></sup></p>
+
+<p>A close copy of the drawing is in the Museum Boijmans Van Beuningen in Rotterdam.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-11"><a href="#fn5466502025ef663cfc5dcb-11">11</a></sup> Because the composition is much weaker than the Harvard sheet, it’s possible that a member of Matham’s circle produced it for training purposes. That such a copy exists and the fact that at least two of Matham’s imaginary portraits had been published and disseminated in print confirm that there was a taste for his inventive head studies among his contemporaries.<sup class="footnote" id="fnrev5466502025ef663cfc5dcb-12"><a href="#fn5466502025ef663cfc5dcb-12">12</a></sup> </p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-1"><sup><a href="#fnrev5466502025ef663cfc5dcb-1">1</a></sup> Léna Widerkehr’s unpublished Ph.D. thesis includes a catalogue raisonné of Matham’s drawings. She lists 73 drawings as autograph, 12 as attributed to Matham, and 12 as problematic. Léna Widerkehr, “Jacob Matham (1571–1631) graveur-éditeur à Haarlem: un maître du burin et son œuvre dessiné,” Ph.D. dissertation, Université de Strasbourg, 1997, vol. 2B, lists 1–6. For an illustrated list of Matham’s drawings related to prints, see Léna Widerkehr in <em>New Hollstein</em>, Jacob Matham, part 1, nos. D1–D15, pp. lxx–lxxxv.</p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-2"><sup><a href="#fnrev5466502025ef663cfc5dcb-2">2</a></sup> On Goltzius’s pen drawings in the manner of engravings, see E. K. J. Reznicek, <em>Die Zeichnungen von Hendrick Goltzius</em> (Utrecht: Haentjens Dekker &amp; Gumbert, 1961), 1: pp. 76–79, 101–5, 128–30; and Huigen Leeflang et al., <em>Hendrick Goltzius (1558–1617): Drawings, Prints and Paintings</em> (Zwolle: Waanders, 2003), pp. 235–42.</p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-3"><sup><a href="#fnrev5466502025ef663cfc5dcb-3">3</a></sup> Other examples include <em>Portrait of a Young Man</em>, brown ink, 270 mm (diam.), Warsaw, Biblioteka Uniwersytecka w Warszawie, 2b.d.482; <em>Imaginary Portrait of a Man</em>, signed and dated 1606, black and red chalk, partially indented for transfer, 276 &#215; 191 mm, Rotterdam, Museum Boijmans Van Beuningen, JMat 2 (PK); <em>Head of a Man with a Tasselled Cap (“Hippocrates”)</em>, signed and dated 1607, pen and brown ink, 223 &#215; 157 mm, Edinburgh, National Galleries of Scotland, D 2838; <em>Sibyl Seated among Classical Ruins</em>, signed and dated 1612, pen and brown ink, 200 &#215; 164 mm, London, Courtauld Gallery, D.1952.RW.4081; <em>Man in an Imaginary Costume</em>, pen and brown ink, 185 &#215; 141 mm, Vienna, Grafische Sammlung Albertina, 8177. </p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-4"><sup><a href="#fnrev5466502025ef663cfc5dcb-4">4</a></sup> Reznicek, <em>Die Zeichnungen von Hendrick Goltzius</em>, pp. 120–26. Examples of Goltzius’s imaginary portraits include: <em>Bagpiper</em>, signed and dated 1598, pen and brown ink, 223 &#215; 171 mm, London, M. H. Drey Collection; <em>Scholar at a Window</em>, pen and brown ink, 295 &#215; 217 mm, Haarlem, Teylers Museum, N 062; <em>Imaginary Male Portrait</em>, signed and dated 1600, pen and brown ink, 195 &#215; 177 mm, Manchester, Whitworth Art Gallery, D. 1960.177; and <em>Imaginary Portrait of a Man in a Smocked Shirt</em>, signed and dated 1606, black chalk, 394 &#215; 325 mm, Haarlem, Teylers Museum, N 063.  </p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-5"><sup><a href="#fnrev5466502025ef663cfc5dcb-5">5</a></sup> The differences between Matham’s burin technique and the style of the Harvard drawing become evident when the drawing is compared to Matham’s contemporary engraved portraits, such as Widerkehr in <em>New Hollstein</em>, Jacob Matham, part 2, no. 238, p. 200, and no. 261, pp. 252–53.</p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-6"><sup><a href="#fnrev5466502025ef663cfc5dcb-6">6</a></sup> The possibility that this might be an actual portrait was first raised in William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em> (Lynn, Mass.: H.O. Zimman, 1991), p. 30. Yvonne Bleyerveld also refers to the Harvard drawing as “a portrait of an unknown man”; see Bleyerveld, “<a href="http://collectie.boijmans.nl/nl/object/90677/Kop-van-een-man-in-profiel-naar-rechts/Anoniem%2C%E2%80%9D">Kop van een man in profiel van rechts</a>,&#8221; in Yvonne Bleyerveld et al., <em>Nederlandse tekeningen uit de 15de en 16de eeuw</em>, Boijmans Collection, 2012 (accessed March 7, 2017). </p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-7"><sup><a href="#fnrev5466502025ef663cfc5dcb-7">7</a></sup> Reznicek, <em>Die Zeichnungen von Hendrick Goltzius</em>, p. 124. </p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-8"><sup><a href="#fnrev5466502025ef663cfc5dcb-8">8</a></sup> Comparative examples include <em>Jacob Matham, Head of a Man with a Tasselled Cap (“Hippocrates”)</em>, signed and dated 1607, pen and brown ink, 223 &#215; 157 mm, Edinburgh, National Galleries of Scotland, D 2838; and Hendrick Goltzius, <em>Head of an Old Man</em>, pen and brown ink, 170 &#215; 139 mm, London, British Museum, 1895,0915.1023.</p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-9"><sup><a href="#fnrev5466502025ef663cfc5dcb-9">9</a></sup> Exceptions to this are Hendrick Goltzius, <em>Portrait of an Unknown Bearded Man</em>, black and red chalk, 77 &#215; 59 mm, London, British Museum, 1856,0712.989; Hendrick Goltzius, <em>Portrait of an Unknown Baby Girl</em>, signed and dated 1594, pen and brown ink with black and red chalk, 176 &#215; 111 mm, London, British Museum, 1946,0713.157; and Jacob Matham, <em>Portrait of Jan Govertsen</em>, pen and brown ink, 399 &#215; 293 mm, Leiden, Universiteitsbibliotheek Leiden, PK-T-1644. </p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-10"><sup><a href="#fnrev5466502025ef663cfc5dcb-10">10</a></sup> My thanks to Penley Knipe, the Philip and Lynn Straus Senior Conservator of Works of Art on Paper and head of the paper lab in the Straus Center for Conservation and Technical Studies, for producing the infrared image and helping me interpret it. </p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-11"><sup><a href="#fnrev5466502025ef663cfc5dcb-11">11</a></sup> Anonymous, after Jacob Matham, <em>Head of a Man in Profile to the Right</em>, pen and brown ink, 304 &#215; 190 mm, Rotterdam, Museum Boijmans Van Beuningen, N 142 (PK). See Bleyerveld, “<a href="http://collectie.boijmans.nl/nl/object/90677/Kop-van-een-man-in-profiel-naar-rechts/Anoniem.%E2%80%9D">Kop van een man in profiel van rechts</a>.&#8221;</p>
+
+<p class="footnote" id="fn5466502025ef663cfc5dcb-12"><sup><a href="#fnrev5466502025ef663cfc5dcb-12">12</a></sup> See Widerkehr in <em>New Hollstein</em>, Jacob Matham, part 3, no. 386, p. 148; Marjolein Leesberg in <em>New Hollstein</em>, Hendrick Goltzius, part 4, nos. R43–44, pp. 295–96; and L. Widerkehr, “Jacob Matham Goltzij Privignus. Jacob Matham graveur et ses rapports avec Hendrick Goltzius,” <em>Nederlands Kunsthistorisch Jaarboek</em> 42 (1991–92): 243–44.</p>
+              </div>
+                        </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts, Promised Gift</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>25.1998.6</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Catalogue, Art and Antique Auction and Sale in Aid of Youth Aliyah and Fellowship in Israel for Arab-Jewish Youth</em>, auct. cat. (Cambridge, MA, 1965), p. 6, lot 40, repr.
+                             </p>
+                                                      <p>
+                                              Franklin W. Robinson, <em>Selections from the Collection of Dutch Drawings of Maida and George Abrams</em>, exh. cat., Jewett Arts Center (Wellesley, MA, 1969), cat. 1, p. viii, repr.
+                             </p>
+                                                      <p>
+                                              Vassar College Art Gallery, <em>Dutch Mannerism: Apogee and Epilogue</em>, exh. cat., Vassar College Art Gallery (Poughkeepsie, NY, 1970), cat. no. 74, pp. 54-55, repr. pl. 19, fig. 74
+                             </p>
+                                                      <p>
+                                              William H. Wilson, <em>Dutch Seventeenth Century Portraiture: The Golden Age</em>, exh. cat., John and Mable Ringling Museum of Art (Sarasota, Fla, 1980), cat. no. 80, n.p., repr.
+                             </p>
+                                                      <p>
+                                              Frima Fox Hofrichter, <em>Haarlem:  The Seventeenth Century</em>, exh. cat., Jane Voorhees Zimmerli Art Museum (New Brunswick, NJ, 1983), cat. no. 78, pp. 102-103, repr.
+                             </p>
+                                                      <p>
+                                              George Abrams, "Collectors and Collecting", <em>Drawings Defined</em>, ed. Walter Strauss, Abaris Books (New York, 1987), pp. 415-429, p. 417, repr. p. 419, fig. 3
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 6, pp. 30-31, repr.
+                             </p>
+                                                      <p>
+                                              Léna Widerkehr, Jacob Matham Goltzij privignus: Jacob Matham graveur et ses rapports avec Hendrick Goltzius, <em>Nederlands Kunsthistorisch Jaarboek</em>, ed. Reinerdt Falkenburg, Jan Piet Filedt Kok, and Huigen Leeflang, Waanders Uitgevers (1993), vols. 42-43, pp. 219-260, p. 255, n. 67
+                             </p>
+                                                      <p>
+                                              Léna Widerkehr and Université de Strasbourg, "Jacob Matham (1571-1631) graveur-éditeur à Haarlem: un maître du burin et son oeuvre dessiné" (1997), no. D. 17, n. p., repr. as fig. 17
+                             </p>
+                                                      <p>
+                                              Yvonne Bleyerveld, Albert Jan Elen, and Judith Niessen, <em>Netherlandish Drawings of the Fifteenth and Sixteenth Centuries in the Museum Boijmans van Beuningen, Rotterdam: Artists Born before 1581</em>, Museum Boijmans Van Beuningen (Rotterdam, 2012), [online publication: [http://collectie.boijmans.nl/nl/object/90677/Kop-van-een-man-in-profiel-naar-rechts/Anoniem], accessed 3/7/2017]
+                             </p>
+                                                      <p>
+                                              Colleen Walsh, "Connecting with a Masterpiece: Rembrandt Drawing at Harvard Art Museums Offers a Close Look at Artist's Hand", <em>The Harvard Gazette</em> (August 1, 2019), repr., https://news.harvard.edu/gazette/story/2019/08/rembrandt-drawing-offers-a-close-look-at-artists-hand/, accessed August 1, 2019,
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Selections from the Collection of Dutch Drawings of Maida and George Abrams</em>, Hopkins Center Art Galleries, Hanover, 03/27/1969 - 04/28/1969; Wellesley College Museum of Art, Wellesley, 05/04/1969 - 06/04/1969; Rhode Island School of Design Museum, Providence, 09/17/1969 - 10/12/1969; University of Connecticut Museum of Art, Storrs, 10/18/1969 - 11/16/1969
+                            </p>
+                          <p>
+                              <em>Dutch Mannerism: Apogee and Epilogue</em>, Vassar College Art Gallery, Poughkeepsie, 04/15/1970 - 06/07/1970
+                            </p>
+                          <p>
+                              <em>Dutch Seventeenth Century Portraiture: The Golden Age</em>, John and Mable Ringling Museum of Art, Sarasota, 12/04/1980 - 02/08/1981
+                            </p>
+                          <p>
+                              <em>Haarlem:  The Seventeenth Century</em>, Jane Voorhees Zimmerli Art Museum, New Brunswick, 02/20/1983 - 04/17/1983
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5604"><em>The Art of Drawing in the Early Dutch Golden Age, 1590–1630: Selected Works from the Abrams Collection</em>, Harvard Art Museums, Cambridge, 09/09/2017 - 01/14/2018</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71800_dynmc?width=200&height=200" alt="Portrait Of A Man">
+                <span class="popup__artwork-info-id">25.1998.6</span>
+        <span class="popup__artwork-info-author">
+                                    Jacob Matham
+                              </span>
+        <span class="popup__artwork-info-title">Portrait of a Man</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20212648%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212648">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212648" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Portrait+of+a+Man+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212648" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/212648" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_1bacce1c6e12e3bafa2949e3c0497b9d" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

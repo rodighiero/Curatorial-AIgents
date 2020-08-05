@@ -1,0 +1,1339 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Avian Album </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Avian Album" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297118"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:61849_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Avian Album" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17456804" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:61849_dynmc?width=3000&height=3000" data-initial-image-id="17456804" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">front cover</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297118" data-behavior="add_to_collection tooltip" data-artwork="297118" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297118&amp;image_id=61849" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297118/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="61849">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:61849_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="front cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="17456804" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61849_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC111296">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC111296_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="inside back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="19843343" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC111296_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG008466">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:LEG008466_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="20349640" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:LEG008466_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG008467">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:LEG008467_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="20349641" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:LEG008467_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG008468">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:LEG008468_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="20349642" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:LEG008468_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG008469">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:LEG008469_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="20349643" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:LEG008469_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011857">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011857_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618482" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011857_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011858">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR011858?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="483660426" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR011858?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011859">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR011859?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="483660417" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR011859?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011860">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR011860?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="483660459" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR011860?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="61850">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:61850_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="back cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="17456805" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61850_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="61852">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:61852_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jean-Baptiste Oudry"  title="Avian Album" data-object-caption="front inside cover" data-object-copyright="President and Fellows of Harvard College" data-image-id="17456807" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61852_dynmc?width=125&height=125" alt="Avian Album">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1953.75</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27933>Jean-Baptiste Oudry</a>, French                                                                                                                                                                                                                                                                          (Paris 1686 - 1755 Beauvais)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Avian Album</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Album of 96 drawings for tapestries                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            album                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>18th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297118">https://hvrd.art/o/297118</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Parchment covered album with 96 bird studies executed in black ink and watercolor on 83 leaves of off-white antique laid paper (43 x 34.5 cm.). Some drawings have been pasted into the album, others were drawn directly on the album leaves.</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>44 x 35 x 5 cm (17 5/16 x 13 3/4 x 1 15/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Fogg Art Museum, 1953, inv. no. 1953.75</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Anonymous Gift</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1953</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1953.75</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              An Album of Watercolors by Oudry, <em>Annual Report (Fogg Art Museum)</em> (1954), no. 1953/54 (1954), 10-11
+                             </p>
+                                                      <p>
+                                              Some Animal Drawings by Jean-Baptiste Oudry, <em>Master Drawings</em> (1966), vol. 4, no. 4 (Winter 1966), 390, 402-403 (plates 16-19)
+                             </p>
+                                                      <p>
+                                              Hal N. Opperman, <em>Jean-Baptiste Oudry</em>, Garland (New York, 1977), vol. I, pp. 145-46, 146 n. 1, 147-52, 262, 332, 355, 436, 440, 455, 465, 475, 497, vol. II, pp. 605, 607, 711, 766, 784-85, 798-817, 821
+                             </p>
+                                                      <p>
+                                              <em>L’animal miroir de l’homme: petit bestiaire du XVIIIe siècle</em>, exh. cat., Musée Cognacq-Jay (Paris, 1996), p. 44
+                             </p>
+                                                      <p>
+                                              <em>Pieter Boel, 1622-1674.  Peintre des animaux de Louis XIV.  Le fonds des études des Gobelins</em>, exh. cat. (Paris, 2001), pp. 82, 88 (fig. 14), 89, 95, 111, 123, 127
+                             </p>
+                                                      <p>
+                                              <em>Oudry’s Painted Menagerie.  Portraits of Exotic Animals in Eighteenth-Century Europe</em>, exh. cat. (Los Angeles, 2008), p.140
+                             </p>
+                                                      <p>
+                                              <em>Deportes catalogue raisonné</em> (Saint-Rémy-en-l’Eau, 2010), II, 22
+                             </p>
+                                                      <p>
+                                              Laurel Thatcher Ulrich, Ivan Gaskell, Sara Schechner, and Sarah Anne Carter, <em>Tangible Things: Making History through Objects</em>, Oxford University Press (NY) (New York, 2015), pp. 153, 156-158, 1953.75.60 and 1953.75.81 repr. as figs. 126 and 127
+                             </p>
+                                                      <p>
+                                              Ewa Lajer-Burcharth and Elizabeth M. Rudy, ed., <em>Drawing: The Invention of a Modern Medium</em>, exh. cat., Harvard Art Museums (Cambridge, 2017), pp. 137-138
+                             </p>
+                                    </dd>
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/146802">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61986_dynmc?width=3000&height=3000" alt="Perched Parrot And Standing Heron; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.37</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Perched Parrot and Standing Heron; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147157">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61987_dynmc?width=3000&height=3000" alt="Squawking Bird With Talons Extended To The Right; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.38</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Squawking Bird with Talons Extended to the Right; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147158">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61988_dynmc?width=3000&height=3000" alt="Standing Heron With Right Leg Raised; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.39</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Heron with Right Leg Raised; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147159">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61989_dynmc?width=3000&height=3000" alt="Hunched Bird With Ruffled Feathers; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.40</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Hunched Bird with Ruffled Feathers; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147450">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61959_dynmc?width=3000&height=3000" alt="Standing Bird Looking Backwards; Verso: Tortoise And Hare In A Landscape">
+                                    <span class="related-artwork__obj">1953.75.9</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Bird Looking Backwards; verso: Tortoise and Hare in a Landscape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147451">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61960_dynmc?width=3000&height=3000" alt="Standing Bird; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.11</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Bird; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147452">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61977_dynmc?width=3000&height=3000" alt="Four Swallows, One Perched And Three In Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.28</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Four Swallows, One Perched and Three in Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147453">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61978_dynmc?width=3000&height=3000" alt="Bustard; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.29</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Bustard; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147454">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61981_dynmc?width=3000&height=3000" alt="Standing Heron And Two Perched Birds; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.32</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Heron and Two Perched Birds; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147455">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61983_dynmc?width=3000&height=3000" alt="Perched Bird Looking Over Its Shoulder; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.34</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Perched Bird Looking over its Shoulder; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147530">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61862_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Bird Confronting An Owl Before A Cave">
+                                    <span class="related-artwork__obj">1953.75.8</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Bird Confronting an Owl before a Cave</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147531">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61864_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Swan Transporting A Fish In A Landsape">
+                                    <span class="related-artwork__obj">1953.75.10</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Swan Transporting a Fish in a Landsape</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147532">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61963_dynmc?width=3000&height=3000" alt="Two Birds, One Perched And One In Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.14</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Birds, One Perched and One in Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147533">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61964_dynmc?width=3000&height=3000" alt="Two Parrots Perched On A Branch; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.15</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Parrots Perched on a Branch; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147534">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61975_dynmc?width=3000&height=3000" alt="Hunched Bird Looking Upward; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.26</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Hunched Bird Looking Upward; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147535">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61976_dynmc?width=3000&height=3000" alt="Hunched Heron And Three Perched Parrots; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.27</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Hunched Heron and Three Perched Parrots; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147536">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61982_dynmc?width=3000&height=3000" alt="Duck And Heron With A Fish; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.33</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Duck and Heron with a Fish; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147537">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61990_dynmc?width=3000&height=3000" alt="Two Ducks In The Water, One Taking Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.41</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Ducks in the Water, One Taking Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147538">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61985_dynmc?width=3000&height=3000" alt="Two Perched Birds And A Duck; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.36</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Perched Birds and a Duck; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147613">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61967_dynmc?width=3000&height=3000" alt="Small Bird In Flight Above Two Pheasants; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.18</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Small Bird in Flight above Two Pheasants; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147614">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61968_dynmc?width=3000&height=3000" alt="Two Perched Birds; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.19</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Perched Birds; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147615">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61969_dynmc?width=3000&height=3000" alt="Two Herons; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.20</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Herons; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147616">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61970_dynmc?width=3000&height=3000" alt="Standing Pheasant; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.21</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Pheasant; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147617">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61973_dynmc?width=3000&height=3000" alt="Five Birds, One Perched, Four In Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.24</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Five Birds, One Perched, Four in Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147618">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61974_dynmc?width=3000&height=3000" alt="Two Hunched Pheasants; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.25</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Hunched Pheasants; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147702">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61962_dynmc?width=3000&height=3000" alt="Two Peacocks; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.13</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Peacocks; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147703">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61965_dynmc?width=3000&height=3000" alt="Standing Heron And Two Small Birds, One Perched And One In Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.16</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Heron and Two Small Birds, One Perched and One in Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147704">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61966_dynmc?width=3000&height=3000" alt="Standing Peacock And Small Perched Bird; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.17</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Peacock and Small Perched Bird; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147705">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61971_dynmc?width=3000&height=3000" alt="Two Pheasants Perched On A Branch; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.22</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Pheasants Perched on a Branch; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147706">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61972_dynmc?width=3000&height=3000" alt="Two Perched And Squawking Pheasants; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.23</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Perched and Squawking Pheasants; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147707">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61979_dynmc?width=3000&height=3000" alt="Lady Of Numidia; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.30</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Lady of Numidia; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147708">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61980_dynmc?width=3000&height=3000" alt="Striding Bird; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.31</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Striding Bird; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147709">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61984_dynmc?width=3000&height=3000" alt="Heron And Four Perched Birds; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.35</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Heron and Four Perched Birds; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147816">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61937_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Crane Standing On One Leg Looking Upward">
+                                    <span class="related-artwork__obj">1953.75.67</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Crane Standing on One Leg Looking Upward</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147817">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61942_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Standing Bird With Wings Outspread">
+                                    <span class="related-artwork__obj">1953.75.72</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Standing Bird with Wings Outspread</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147818">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62016_dynmc?width=3000&height=3000" alt="Standing Bird Looking Right; Verso: Two Wading Ducks Flapping Their Wings And Looking Upward">
+                                    <span class="related-artwork__obj">1953.75.73</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Bird Looking Right; verso: Two Wading Ducks Flapping Their Wings and Looking Upward</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147972">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62020_dynmc?width=3000&height=3000" alt="Peacock; Verso: Heron On One Leg With Wings Outspread">
+                                    <span class="related-artwork__obj">1953.75.78</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Peacock; verso: Heron on One Leg with Wings Outspread</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147973">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62021_dynmc?width=3000&height=3000" alt="Duck Looking To The Left; Verso: Two Dead Wild Ducks">
+                                    <span class="related-artwork__obj">1953.75.79</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Duck Looking to the Left; verso: Two Dead Wild Ducks</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147974">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62022_dynmc?width=3000&height=3000" alt="Duck; Verso: Eagle">
+                                    <span class="related-artwork__obj">1953.75.80</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Duck; verso: Eagle</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147975">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62023_dynmc?width=3000&height=3000" alt="Bird Walking To The Left; Verso: Two Flying Pigeons">
+                                    <span class="related-artwork__obj">1953.75.81</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Bird Walking to the Left; verso: Two Flying Pigeons</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147976">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62024_dynmc?width=3000&height=3000" alt="Flamingo; Verso: Two Peacocks">
+                                    <span class="related-artwork__obj">1953.75.82</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Flamingo; verso: Two Peacocks</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/147977">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62025_dynmc?width=3000&height=3000" alt="Monkey Riding A Dolphin; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.83</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Monkey Riding a Dolphin; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148116">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62002_dynmc?width=3000&height=3000" alt="Seated Duck; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.54</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Seated Duck; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148118">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62004_dynmc?width=3000&height=3000" alt="Three Birds, Two Hunched Together And One Looking Back To The Left; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.58</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Three Birds, Two Hunched Together and One Looking Back to the Left; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148119">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62005_dynmc?width=3000&height=3000" alt="Standing Duck Looking To The Left; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.59</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Duck Looking to the Left; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148120">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62006_dynmc?width=3000&height=3000" alt="Quizzical Bird; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.60</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Quizzical Bird; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148121">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62007_dynmc?width=3000&height=3000" alt="Standing Bird Looking Upward And Behind; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.61</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Bird Looking Upward and Behind; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148122">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62011_dynmc?width=3000&height=3000" alt="Spoonbill; Verso: Two Birds In Shallow Water">
+                                    <span class="related-artwork__obj">1953.75.66</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Spoonbill; verso: Two Birds in Shallow Water</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148178">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62014_dynmc?width=3000&height=3000" alt="Standing Merganser Looking Backward; Verso: Soaring Bird">
+                                    <span class="related-artwork__obj">1953.75.70</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Merganser Looking Backward; verso: Soaring Bird</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148179">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62015_dynmc?width=3000&height=3000" alt="Merganser; Verso: Heron">
+                                    <span class="related-artwork__obj">1953.75.71</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Merganser; verso: Heron</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148180">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62017_dynmc?width=3000&height=3000" alt="Toucan Resting On A Branch; Verso: Two Falcons">
+                                    <span class="related-artwork__obj">1953.75.74</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Toucan Resting on a Branch; verso: Two Falcons</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148181">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61945_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Heron Tied To A Branch">
+                                    <span class="related-artwork__obj">1953.75.75</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Heron Tied to a Branch</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148278">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61856_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Muscovy Duck">
+                                    <span class="related-artwork__obj">1953.75.2</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Muscovy Duck</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148279">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61857_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Two Swallows In Flight">
+                                    <span class="related-artwork__obj">1953.75.3</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Two Swallows in Flight</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148280">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61858_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Two Sparrows In Flight">
+                                    <span class="related-artwork__obj">1953.75.4</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Two Sparrows in Flight</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148281">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61859_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Perched Magpie, Perched Woodpecker, And A Bird In Flight">
+                                    <span class="related-artwork__obj">1953.75.5</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Perched Magpie, Perched Woodpecker, and a Bird in Flight</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148282">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61860_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Two Birds In Flight">
+                                    <span class="related-artwork__obj">1953.75.6</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Two Birds in Flight</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148283">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61861_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Two Perched Birds And One In Flight">
+                                    <span class="related-artwork__obj">1953.75.7</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Two Perched Birds and One in Flight</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148284">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61961_dynmc?width=3000&height=3000" alt="Two Pheasants In Flight, A Standing Heron And Two Small Birds; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.12</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Pheasants in Flight, a Standing Heron and Two Small Birds; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148334">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61991_dynmc?width=3000&height=3000" alt="Duck With Wings Extended; Verso: Tufted Crane">
+                                    <span class="related-artwork__obj">1953.75.42</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Duck with Wings Extended; verso: Tufted Crane</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148336">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61993_dynmc?width=3000&height=3000" alt="Duck With Wings Extended, Seen From Behind; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.44</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Duck with Wings Extended, Seen from Behind; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148398">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61994_dynmc?width=3000&height=3000" alt="Two Pheasants; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.45</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Pheasants; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148399">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61995_dynmc?width=3000&height=3000" alt="Squirrel Eating Cherries And Bird With Wings Extended; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.46</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Squirrel Eating Cherries and Bird with Wings Extended; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148400">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61996_dynmc?width=3000&height=3000" alt="Duck And Bird, Both With Wings Extended ; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.47</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Duck and Bird, both with Wings Extended ; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148410">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61999_dynmc?width=3000&height=3000" alt="Standing Duck And Bird In Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.50</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Duck and Bird in Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148411">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62000_dynmc?width=3000&height=3000" alt="Two Rabbits; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.51</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Rabbits; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148412">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62008_dynmc?width=3000&height=3000" alt="Two Birds Taking Flight; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.62</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Birds Taking Flight; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148426">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62009_dynmc?width=3000&height=3000" alt="Two Birds In Flight; Verso: Swan">
+                                    <span class="related-artwork__obj">1953.75.63</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Birds in Flight; verso: Swan</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148427">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61934_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Dead Red Partridge">
+                                    <span class="related-artwork__obj">1953.75.64</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Dead Red Partridge</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148428">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62010_dynmc?width=3000&height=3000" alt="Dog And Squirrel; Verso: Crane">
+                                    <span class="related-artwork__obj">1953.75.65</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Dog and Squirrel; verso: Crane</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148436">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62012_dynmc?width=3000&height=3000" alt="Crane Looking To The Left; Verso: Crane Stading On One Leg Looking To The Right">
+                                    <span class="related-artwork__obj">1953.75.68</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Crane Looking to the Left; verso: Crane Stading on One Leg Looking to the Right</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148437">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62013_dynmc?width=3000&height=3000" alt="Egyptian Duck; Verso: Partridge">
+                                    <span class="related-artwork__obj">1953.75.69</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Egyptian Duck; verso: Partridge</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148438">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62018_dynmc?width=3000&height=3000" alt="Four Birds; Verso: Two Wild Ducks">
+                                    <span class="related-artwork__obj">1953.75.76</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Four Birds; verso: Two Wild Ducks</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148439">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62019_dynmc?width=3000&height=3000" alt="Standing Bird; Verso: Flying Bird Of Prey">
+                                    <span class="related-artwork__obj">1953.75.77</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Standing Bird; verso: Flying Bird of Prey</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148445">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61997_dynmc?width=3000&height=3000" alt="Rooster And Hen; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.48</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Rooster and Hen; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148456">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61998_dynmc?width=3000&height=3000" alt="Guinea-Fowl (?); Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.49</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Guinea-fowl (?); verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148457">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62001_dynmc?width=3000&height=3000" alt="Two Squawking Ducks In The Water; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.52</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Two Squawking Ducks in the Water; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/148459">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:62003_dynmc?width=3000&height=3000" alt="Hunching Duck In Profile To The Left; Verso: Blank">
+                                    <span class="related-artwork__obj">1953.75.56</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Hunching Duck in Profile to the Left; verso: blank</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/169903">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:61855_dynmc?width=3000&height=3000" alt="Folio Recto: Blank; Verso: Heron">
+                                    <span class="related-artwork__obj">1953.75.1</span>
+                                      <h4 class="related-artwork__artist">Jean-Baptiste Oudry</h4>
+                                                        <h3 class="related-artwork__title">Folio recto: Blank; verso: Heron</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:61849_dynmc?width=200&height=200" alt="Avian Album">
+                <span class="popup__artwork-info-id">1953.75</span>
+        <span class="popup__artwork-info-author">
+                                    Jean-Baptiste Oudry
+                              </span>
+        <span class="popup__artwork-info-title">Avian Album</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297118%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297118">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297118" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Avian+Album+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297118" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297118" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b553f31c389b58a308451aca9730ffeb" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,625 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Eavesdropper </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Eavesdropper" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/298227"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71346_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Eavesdropper" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18480950" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71346_dynmc?width=3000&height=3000" data-initial-image-id="18480950" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?298227" data-behavior="add_to_collection tooltip" data-artwork="298227" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=298227&amp;image_id=71346" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/298227/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1937.22</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27324>Nicolaes Maes</a>, Dutch                                                                                                                                                                                                                                                                          (Dordrecht 1634 - 1693 Amsterdam)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Eavesdropper</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1655</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/298227">https://hvrd.art/o/298227</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink on cream antique laid paper, framing line in brown ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>6.9 x 10.3 cm (2 11/16 x 4 1/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          collector's mark: upper right, black ink, stamp: L. 717a (Earl of Dalhousie)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, center, graphite: L. 1460d (unidentified, associated with the Earl of Dalhousie)
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Earl of Dalhousie, Ecosse (L. 717a, with his mark). Unidentified collector (L. 1460d, with his mark). Private Collector, gift; to Fogg Art Museum, 1937.<br />
+<br />
+NOTE: Drawing is from an album formerly in the collection of the Earl of Dalhousie.<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: The Complete Collection Online</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                  Multiple authors
+                                        </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                                                                            Harvard Art Museums (Cambridge, MA, 2017–)
+                                              </dd>
+                                                                                                  <p>Entry by 
+                                                                        William W. Robinson,
+                                                                                                                    completed May 13, 2019:</p>
+                                                                  
+              <div class="entry-text">
+                <p>Nicolaes Maes ranks among the most outstanding Dutch painters of domestic scenes and portraits. A native of Dordrecht, he studied with Rembrandt in Amsterdam in the late 1640s and early 1650s, returning to his hometown by the end of 1653. Until about 1660, he specialized in pictures of household life, portraits, and biblical subjects. After 1660, Maes devoted himself exclusively to portraiture. His varied oeuvre of drawings—more than one hundred survive—all date from this period in Dordrecht. In 1673, he moved to Amsterdam, where he attracted a larger and wealthier clientele than the patrons he served in Dordrecht.</p>
+
+<p><em>The Eavesdropper</em> belonged to an album that was made up and bound in the 18th century, when it was probably acquired by George Ramsay, 8th Earl of Dalhousie (1739–1787).<sup class="footnote" id="fnrev1476905725ef663d86167e-1"><a href="#fn1476905725ef663d86167e-1">1</a></sup> In addition to some 30 sketches by Maes, this volume contained dozens of drawings by other Rembrandt pupils and followers. It remained in the Dalhousie family until 1922, when it was sold to the London dealer P. &amp; D. Colnaghi, and shortly thereafter the contents were dispersed by the Paul Cassirer gallery, in Berlin.<sup class="footnote" id="fnrev1476905725ef663d86167e-2"><a href="#fn1476905725ef663d86167e-2">2</a></sup> </p>
+
+<p>First published and illustrated in Wilhelm Valentiner’s 1924 monograph on Maes, the drawing was recognized in 1984 by Werner Sumowski as a compositional sketch for the artist’s painting <em>An Eavesdropper with a Woman Scolding</em>, in the Harold Samuel Collection, Guildhall Art Gallery, Mansion House, in London (Fig. 1).<sup class="footnote" id="fnrev1476905725ef663d86167e-3"><a href="#fn1476905725ef663d86167e-3">3</a></sup> The painting depicts a young servant woman who regards the viewer with her finger to her lips, engaging our silence and complicity in her eavesdropping. She listens to her mistress who, in an adjacent room, berates her husband, whom we cannot see. The picture is signed and dated 1655.<sup class="footnote" id="fnrev1476905725ef663d86167e-4"><a href="#fn1476905725ef663d86167e-4">4</a></sup> It is one of six paintings by Maes, all of which date between 1655 and 1657, that depict women—and, in one case, a man—who eavesdrop on conversations or erotic encounters that take place in other parts of the house.<sup class="footnote" id="fnrev1476905725ef663d86167e-5"><a href="#fn1476905725ef663d86167e-5">5</a></sup> Exceptionally, the work in the Samuel Collection includes a trompe-l’oeil curtain and frame. The curtain has been partially drawn aside to reveal the morally compromising domestic quarrel. </p>
+
+<p>The small, summary sketch lays out the main elements of the composition—the figure of the servant, the barrel and assorted household objects to her left, and the illusionistic curtain that occupies much of the right half of the panel—although it does not show the scolding housewife who plays an essential part in the narrative and meaning of the picture. In other instances, too, Maes relied on only a quick sketch to establish the overall design of a painting, leaving the details to be worked out on the canvas or panel or in figure studies on paper.<sup class="footnote" id="fnrev1476905725ef663d86167e-6"><a href="#fn1476905725ef663d86167e-6">6</a></sup> A small, three-quarter length figure of a woman with her index finger raised to her lips likely served as a detail study for the servant in the Samuel Collection painting (Fig. 2). Like the Harvard sketch, this drawing also came from the Dalhousie album and was executed in brown ink applied with a brush.<sup class="footnote" id="fnrev1476905725ef663d86167e-7"><a href="#fn1476905725ef663d86167e-7">7</a></sup> </p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-1"><sup><a href="#fnrev1476905725ef663d86167e-1">1</a></sup> Julia Lloyd Williams, <em>Dutch Art and Scotland: A Reflection of Taste</em> (Edinburgh: National Gallery of Scotland, 1992), p. 163.</p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-2"><sup><a href="#fnrev1476905725ef663d86167e-2">2</a></sup> “Earl of Dalhousie,” in Frits Lugt, <a href="http://www.marquesdecollections.fr/">Les Marques de Collections de Dessins &amp; d’estampes</a>, online edition, Fondation Custodia, 2010, no. 717a, <a href="http://www.marquesdecollections.fr/detail.cfm/marque/6509/total/1">http://www.marquesdecollections.fr/detail.cfm/marque/6509/total/1</a> (accessed May 8, 2019); and William W. Robinson, “The Early Works of Nicolaes Maes, 1653–1661,” 3 vols., Ph.D. dissertation, Harvard University, 1996, vol. 1, pp. 318–27.</p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-3"><sup><a href="#fnrev1476905725ef663d86167e-3">3</a></sup> Wilhelm R. Valentiner, <em>Nicolaes Maes</em> (Stuttgart: Deutsche Verlagsanstalt, 1924), pp. 47–50, Fig. 48; Werner Sumowski, <em>Drawings of the Rembrandt School</em>, 10 vols. (New York: Abaris Books, 1979–92), vol. 8, no. 1769, pp. 3984–85. </p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-4"><sup><a href="#fnrev1476905725ef663d86167e-4">4</a></sup> On the painting in the Harold Samuel Collection, see Werner Sumowski, <em>Gemälde der Rembrandt-Schüler in vier Bänden</em>, 4 vols. (Landau, Germany: Edition <span class="caps">PVA</span>, 1983), vol. 3, no. 1353, repr. p. 2079, p. 2018; and Peter C. Sutton, <em>Dutch and Flemish Seventeenth-Century Paintings. The Harold Samuel Collection</em> (Cambridge: Cambridge University Press, 1992), no. 37, repr., p. 114–17; and León Krempel, <em>Studien zu den datierten Gemälden des Nicolaes Maes (1634–1693)</em> (Petersberg, M. Imhof, 2000), no. A5, p. 280. </p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-5"><sup><a href="#fnrev1476905725ef663d86167e-5">5</a></sup> William W. Robinson, “The Eavesdroppers and Related Paintings by Nicolaes Maes,” in <em>Holländische Genremalerei im 17. Jahrhundert: Symposium Berlin 1984</em>, Jahrbuch Preussischer Kulturbesitz, Sonderband 4, ed. Henning Bock and Thomas W. Gaehtgens (Berlin: G. Mann, 1987), pp. 283–313. </p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-6"><sup><a href="#fnrev1476905725ef663d86167e-6">6</a></sup> Peter Schatborn, Ger Luijten, and Arthur Wheelock, Jr., <em>Drawings for Paintings in the Age of Rembrandt</em> (Washington, D.C.: National Gallery of Art; Paris: Fondation Custodia, 2016), pp. 248–50.  </p>
+
+<p class="footnote" id="fn1476905725ef663d86167e-7"><sup><a href="#fnrev1476905725ef663d86167e-7">7</a></sup> Sumowski, <em>Drawings of the Rembrandt School</em>, vol. 8, no. 1892x, pp. 4230–31; Sutton, <em>Dutch and Flemish Seventeenth-Century Paintings</em>, under no. 37, repr. Fig. 5, pp. 115–16.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/6/298227/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Nicolaes Maes, <em>An Eavesdropper with a Woman Scolding</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/6/298227/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Nicolaes Maes, <em>Eavesdropper</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Anonymous Gift</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1937</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1937.22</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              William R. Valentiner, <em>Nicolaes Maes</em>, Deutsche Verlags-Anstalt (Stuttgart, Germany, 1924), pp. 47-50, repr. fig. 48
+                             </p>
+                                                      <p>
+                                              Agnes Mongan and Paul J. Sachs, <em>Drawings in the Fogg Museum of Art</em>, Harvard University Press (Cambridge, 1940), vol. 1, cat. no. 514, p. 271; vol. 3, repr. fig. 259
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 84, p. 20
+                             </p>
+                                                      <p>
+                                              Werner Sumowski, <em>Drawings of the Rembrandt School</em>, ed. Walter Strauss, Abaris Books (New York, NY, 1979), vol. 8 (1984), pp. 3984-85, no. 1769, p. 4006, under no. 1780,  p. 4190, under no. 1873x, p. 4230, under 1892x, p. 4376, under no. 1960x, p. 4384, under no. 1964x, p. 4386, under no. 1965x, p. 4392, under no. 1966bx
+                             </p>
+                                                      <p>
+                                              <em>The Draughtsman at Work. Drawing in the Golden Century of Dutch Art</em>, checklist (unpublished, 1980), no. 40
+                             </p>
+                                                      <p>
+                                              Werner Sumowski, <em>Gemälde der Rembrandt-Schüler in vier Banden</em> (Landau, 1983), vol. 3, p. 2018, under no. 1353
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton, <em>Dutch & Flemish Seventeenth-century Paintings: The Harold Samuel Collection</em>, Cambridge University Press (Cambridge, U.K., 1992), p. 116, under no. 37
+                             </p>
+                                                      <p>
+                                              Andreas Hahn, <em>"--dat zy de aanschouwers schynen te willen aanspreken" : Untersuchungen zur Rolle des Betrachters in der Niederlandischen Malerei des 17. Jahrhunderts</em>, Tuduv-Verlagsgesellschaft (München, 1996), p. 183
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "The Early Works of Nicolaes Maes, 1653 to 1661" (1996), Harvard University, vol. 1, pp. 112-13, p. 243, no. A13a, vol. 2, fig. A-13a
+                             </p>
+                                                      <p>
+                                              León Krempel, <em>Studien zu den datierten Gemälden des Nicolaes Maes</em>, Michael Imhof-Verlag (Petersberg, 2000), under cat. no. A5, p. 280
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>The Draughtsman at Work. Drawing in the Golden Century of Dutch Art</em>, Fogg Art Museum, Cambridge, 11/21/1980 - 01/04/1981
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71346_dynmc?width=200&height=200" alt="The Eavesdropper">
+                <span class="popup__artwork-info-id">1937.22</span>
+        <span class="popup__artwork-info-author">
+                                    Nicolaes Maes
+                              </span>
+        <span class="popup__artwork-info-title">The Eavesdropper</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20298227%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298227">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298227" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Eavesdropper+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F298227" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/298227" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9c387096ff7f4fc6f2ace74a01c847b4" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

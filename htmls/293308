@@ -1,0 +1,635 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Outskirts of a Village with Peasants </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Outskirts of a Village with Peasants" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/293308"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:huam:DDC101617_prdwork?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Outskirts of a Village with Peasants" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_6606687" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:huam:DDC101617_prdwork?width=3000&height=3000" data-initial-image-id="6606687" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?293308" data-behavior="add_to_collection tooltip" data-artwork="293308" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=293308&amp;image_id=DDC101617" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/293308/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC101617">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:DDC101617_prdwork?width=3000&height=3000" data-zoom-enabled="1" data-people="Hans Bol"  title="The Outskirts Of A Village With Peasants" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="6606687" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:DDC101617_prdwork?width=125&height=125" alt="The Outskirts Of A Village With Peasants">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="40230">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:40230_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hans Bol"  title="The Outskirts Of A Village With Peasants" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182388" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:40230_dynmc?width=125&height=125" alt="The Outskirts Of A Village With Peasants">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2001.54</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28680>Hans Bol</a>, Netherlandish                                                                                                                                                                                                                                                                          (Mechelen, Belgium 1534 - 1593 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Outskirts of a Village with Peasants</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1589</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/293308">https://hvrd.art/o/293308</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Opaque and transparent watercolor over traces of black chalk and graphite on antique laid paper mounted overall to wood panel, framing lines in shell gold and dark red opaque watercolor</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>11.1 x 15 cm (4 3/8 x 5 7/8 in.)<br />
+framed: 16.5 x 22.2 cm (6 1/2 x 8 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Signed and dated, lower left, shell gold: HANS BOL / 1589
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso of panel, on outer (cream) layer of paper, center, blue ball point ink: 86140
+                        </li>
+                                              <li data-a="2">
+                          label: verso, board, Christie's label, blue ball point ink: HW 344 / 14
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Possibly [Sotheby’s, London, 8 February 1950, lot 2]; to R. Frank. Carel Goldschmidt, New York, sold; [Christie's, New York, 12 January 1995, lot 214, repr.]; to [Vermeer Associates, Ltd., Brampton, Ontario] sold; to Harvard University Art Museums, 2001; The Kate, Maurice R. and Melvin R. Seiden Special Purchase Fund in honor of Virginia Deknatel and in memory of Lucy Rowland, Paul J. Sachs Memorial Fund, Marian H. Phinney Fund, Agnes Mongan Purchase Fund, Drawing Department Acquisition Fund, and Drawing Department Discretionary Fund, and through the generosity of an anonymous donor, David Giles Carter, the DBH Foundation, and the B. Walter and Geraldine E. Sterenfeld Foundation, 2001.54</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 10a by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Hans Bol left his native city of Mechelen in 1572 and moved to Antwerp, joining the Guild of Saint Luke in 1574. He initially specialized in painting with watercolor and tempera on large canvases. Few of these works survive.<sup class="footnote" id="fnrev11929750445ef66418c6df4-1"><a href="#fn11929750445ef66418c6df4-1">1</a></sup> According to Karel van Mander, artists in Antwerp copied Bol’s large canvases and sold them as originals, so he switched to miniature painting because forgers could not replicate his refined, exacting technique in that format. In 1584, he joined the thousands of Protestants who emigrated from the southern Netherlands to the north, stopping in Bergen op Zoom, Dordrecht, and Delft before settling in Amsterdam.<sup class="footnote" id="fnrev11929750445ef66418c6df4-2"><a href="#fn11929750445ef66418c6df4-2">2</a></sup></p>
+
+<p>Bol was a prolific artist, and thanks to the research of Stefaan Hautekeete, we now understand the size and scope of his oeuvre. <em>Outskirts of a Village with Peasants</em> and <em>Abraham and the Angels</em> are two of around one hundred independent compositions in opaque and transparent watercolors; dated examples survive from 1579 to 1593, the year of his death.<sup class="footnote" id="fnrev11929750445ef66418c6df4-3"><a href="#fn11929750445ef66418c6df4-3">3</a></sup> He painted on both paper and parchment supports over preliminary sketches in graphite or black chalk, adhering the finished works to small panels. Nearly all of these miniatures represent landscapes with small figures that enact biblical histories, mythological subjects, or scenes from daily life. In the same media, Bol also produced three albums containing a total of nearly three hundred miniatures of mammals, fish, and birds, and in 1582 he illustrated a prayer book for François, duc d’Anjou, then the sovereign ruler of the Netherlands. While he executed only about a dozen autograph etchings, the artist designed more than three hundred plates engraved by professional printmakers. Of the approximately 260 drawings in ink or ink and wash that survive, about 100 are studies or models for prints.<sup class="footnote" id="fnrev11929750445ef66418c6df4-4"><a href="#fn11929750445ef66418c6df4-4">4</a></sup></p>
+
+<p>Bol’s exquisite small works in transparent and opaque watercolors, as well as his impressive output as a designer of prints, earned him international renown. It is indicative of his European reputation that during and shortly after his lifetime, his art was avidly collected at Central European courts. The 1587 inventory of the Dresden <em>Kunstkammer</em> lists sixteen “beautifully painted” miniatures whose acquisition was personally authorized by the Saxon elector. By 1595, that number had increased to twenty-six, all of which had been installed in gilt frames.<sup class="footnote" id="fnrev11929750445ef66418c6df4-5"><a href="#fn11929750445ef66418c6df4-5">5</a></sup> Miniatures by Bol in ebony frames were displayed in the private gallery of the Bavarian duke (and later elector) Maximilian I (r. 1597–1651), whose father, Duke Wilhelm V, may have acquired them from the artist.<sup class="footnote" id="fnrev11929750445ef66418c6df4-6"><a href="#fn11929750445ef66418c6df4-6">6</a></sup> The three albums with mammals, fish, and birds mentioned above belonged to Emperor Rudolf II by the early seventeenth century.<sup class="footnote" id="fnrev11929750445ef66418c6df4-7"><a href="#fn11929750445ef66418c6df4-7">7</a></sup></p>
+
+<p>A study by Bol that came to light in 2014 established a previously unsuspected connection between the two miniatures catalogued here: it became apparent that Bol initially designed and executed them as a single composition with the biblical narrative of Abraham and the Angels set in an oblong, naturalistic Dutch landscape (Fig. 1).<sup class="footnote" id="fnrev11929750445ef66418c6df4-8"><a href="#fn11929750445ef66418c6df4-8">8</a></sup> The two miniatures are identical in size and, placed side by side, their compositions align nearly seamlessly, which affirms that Bol produced them as a single work based on the drawing. He opted for the pronounced horizontal format of the study in a few other miniatures, including a view of Amsterdam dated to the same year as the Harvard works.<sup class="footnote" id="fnrev11929750445ef66418c6df4-9"><a href="#fn11929750445ef66418c6df4-9">9</a></sup> For unknown reasons Bol divided this work into two, and on all four sides of each half he added the borders that he routinely used to frame his miniatures—a thin line in shell gold and a thicker one in dark red opaque watercolor. Only <em>Outskirts of a Village</em> is signed and dated. Perhaps Bol sold the two miniatures as a pair, so only one required his signature.</p>
+
+<p>The drawing (see Fig. 1) was trimmed at the left and originally showed more of the large tree and church that appear at the left in <em>Outskirts of a Village</em>. Bol based much of the setting in the right half of the study—the bridge, nearby dock and rowboat, houses at the far right, and canal flanked by roads—on a <em>plein-air</em> sketch in metalpoint of a site near Delft (Fig. 2).<sup class="footnote" id="fnrev11929750445ef66418c6df4-10"><a href="#fn11929750445ef66418c6df4-10">10</a></sup> The metalpoint sketch is datable to between 1584, the year Bol left Antwerp for the northern Netherlands, and 1586, when he consulted it for the background in an earlier miniature of <em>Abraham and the Angels</em>, which is now in Dresden.<sup class="footnote" id="fnrev11929750445ef66418c6df4-11"><a href="#fn11929750445ef66418c6df4-11">11</a></sup> The oblong composition study (see Fig. 1) postdates the Dresden miniature. Details of the landscape and the figures of Abraham and his heavenly guests in the study relate more closely to the Harvard watercolors of 1589 than to the Dresden work of 1586.</p>
+
+<p><em>Abraham and the Angels</em> is one of several miniatures and drawings of this subject by Bol.<sup class="footnote" id="fnrev11929750445ef66418c6df4-12"><a href="#fn11929750445ef66418c6df4-12">12</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-1"><sup><a href="#fnrev11929750445ef66418c6df4-1">1</a></sup> Stefaan Hautekeete, “New Insights into the Working Methods of Hans Bol,” <em>Master Drawings</em>, vol. 50, no. 3 (Fall 2012): 329–56, pp. 329 and 352 (n. 7).</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-2"><sup><a href="#fnrev11929750445ef66418c6df4-2">2</a></sup> Karel van Mander, <em>The Lives of the Illustrious Netherlandish and German Painters, from the First Edition of the Schilder-boeck (1603–04)</em>, Hessel Miedema, ed. (Doornspijk, Netherlands, 1994–99), vol. 1, pp. 298–301, and vol. 4, pp. 208–18; Hautekeete, pp. 329–30.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-3"><sup><a href="#fnrev11929750445ef66418c6df4-3">3</a></sup> The earliest dated miniature is from 1579 (Weimar, Staatliche Kunstsammlungen, G 884), and there are several dated examples from 1593; Hautekeete, email correspondence with the author, 2 April 2014.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-4"><sup><a href="#fnrev11929750445ef66418c6df4-4">4</a></sup> Hautekeete, pp. 329 and 352 (nn. 4–9).</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-5"><sup><a href="#fnrev11929750445ef66418c6df4-5">5</a></sup> Christien Melzer, <em>Von der Kunstkammer zum Kupferstich-Kabinett. Zur Frühgeschichte des Graphiksammelns in Dresden (1560–1738)</em> (Hildesheim, Germany; Zurich; and New York, 2010), p. 208.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-6"><sup><a href="#fnrev11929750445ef66418c6df4-6">6</a></sup> In all, twenty-one miniatures by Bol entered the Bavarian ducal collection at an early date; Hans Buchheit and Rudolf Oldenbourg, <em>Das Miniaturenkabinett der Münchener Residenz</em> (Munich, 1921), p. 4; Herbert Brunner, <em>Die Kunstschätze der Münchner Residenz</em> (Munich, 1977), p. 84; Konstanze Krüger, “Die Miniaturen von Hans Bol in Dresden,” in <em>Die Glückseligkeit besteht wesentlich in der Ruhe und Heiterkeit der Seele. Festschrift zum 80. Geburtstag von Anneliese Mayer-Meintschel am 26. Juni 2008</em> (Dresden, 2008) p. 132; Thea Vignau-Wilberg in <em>In Europa zu Hause: Niederländer in München um 1600</em> (Munich: Staatliche Graphische Sammlung München, 2005), under cats. D41–42, p. 268.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-7"><sup><a href="#fnrev11929750445ef66418c6df4-7">7</a></sup> The three albums now in Copenhagen were cited in the 1607–11 inventory of the Prague Kunstkammer; Peter Dreyer, “Zeichnungen von Hans Verhagen dem Stummen von Antwerpen: Ein Beitrag zu den Vorlagen der Tierminiaturen Hans Bols und Georg Hoefnagels.” In <em>Jahrbuch der Kunsthistorischen Sammlungen in Wien</em>, vols. 82–83 (1986–87): p. 129.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-8"><sup><a href="#fnrev11929750445ef66418c6df4-8">8</a></sup> Hans Bol, <em>View of Delfgauw with Abraham and the Angels</em> (Fig. 1). Brown ink, light blue wash. 100 × 282 mm. Sale, Christie’s, London, 10 July 2014, lot 132. The drawing was known to A. E. Popham, who cited it in a catalogue entry on the metalpoint study in the British Museum (see n. 10 below); Arthur Ewart Popham, <em>Dutch and Flemish Drawings of the XV and <span class="caps">XVI</span> Centuries</em>, Vol. 5 in <em>Catalogue of Drawings by Dutch and Flemish Artists Preserved in the Department of Prints and Drawings in the British Museum</em> (London, 1932), under cat. 5 verso, p. 95. It was first reproduced and discussed extensively by Sarah Vowles, with help from Hautekeete, in the catalogue of the 2014 Christie’s sale.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-9"><sup><a href="#fnrev11929750445ef66418c6df4-9">9</a></sup> <em>View of Amsterdam from the South</em>, 1589, 117 × 331 mm. Collection of Eijk and Rose-Marie van Otterloo, Boston; Ariane van Suchtelen, “Hans Bol: Een van de Eerste Schilders van het Hollandse Stadgezicht,” <em>Antiek</em>, vol. 28, no. 5 (Dec. 1993): 220–27, p. 221, fig. 2. Other miniatures of oblong format include <em>Imaginary View of Antwerp</em>, 1591, 81 × 235 mm, in 1991 with Haboldt &amp; Co., Paris and New York; <em>View of Antwerp</em>, 1583, 230 × 590 mm, Van Suchtelen, p. 222, fig. 3, sold Sotheby’s, London, 12 December 2002, lot 7; <em>View of the Hofvijver in The Hague</em>, 1586, 125 × 580 mm, Dresden, Staatliche Kunstsammlungen, Gemäldegalerie, 822; <em>View of the Hofvijver in The Hague</em>, 1589, 195 × 625 mm, Copenhagen, Statens Museum for Kunst, Van Suchtelen, p. 223, fig. 4; <em>An Elegant Hunting Party before the Abbey of Rouge-Cloître</em>, 1591, 81 × 235 mm, Sotheby’s, London, 7 July 2011, lot 10. The series of fifty-four engravings of hunts designed by Bol, engraved in the workshop of Philips Galle, and published in 1582, also makes use of a long, low format; Manfred Sellink and Marjolein Leesberg in <em>New Hollstein</em>, Philips Galle, part 4, no. R20, p. 250.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-10"><sup><a href="#fnrev11929750445ef66418c6df4-10">10</a></sup> Hans Bol, <em>View from a Bridge near Delfgauw</em> (Fig. 2). Metalpoint on ivory-colored prepared paper. 128 × 406 mm. London, British Museum, 1895,0915.983 (verso, right side). Inscribed by the artist, metalpoint, upper left, <em>delfs ghouw</em>; Popham, cat. 5, verso, p. 95; Van Suchtelen, pp. 223–24, fig. 6; Michiel Plomp in Walter A. Liedtke, Michiel Plomp, and Axel Rüger, <em>Vermeer and the Delft School</em>, (New York: Metropolitan Museum of Art; London: National Gallery, 2001), p. 172, repr. fig. 181.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-11"><sup><a href="#fnrev11929750445ef66418c6df4-11">11</a></sup> Hans Bol, <em>Abraham and the Angels</em>, 1586. Dresden, Staatliche Kunstsammlungen, Gemäldegalerie Alte Meister, 826; Van Suchtelen, pp. 221, repr. fig. 2; Krüger, pp. 129–30, repr. fig. 2.</p>
+
+<p class="footnote" id="fn11929750445ef66418c6df4-12"><sup><a href="#fnrev11929750445ef66418c6df4-12">12</a></sup> In addition to the Dresden miniature (see n. 11 above), other illustrations by Bol of <em>Abraham and the Angels</em> include a miniature dated 1585, formerly in the collection of Einar Perman, Stockholm, exhibited in 1969 at Kunsthandel Gebr. Douwes, Amsterdam; and drawings in Chicago, Art Institute of Chicago, 1922.3705, dated 1567; Leipzig, Museum der Bildenden Künste, N. I. 414, dated 1568; Vienna, Albertina Museum, 7902, dated 1580; sale, Sotheby’s, Amsterdam, 17 December 2007, lot 518, dated 1589; and Weimar, Stiftung Weimarer Klassik und Kunstsammlungen, KK 4497, dated 159(?).</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/293308/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Hans Bol, <em>View of Delfgauw with Abraham and the Angels</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/293308/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Hans Bol, <em>View from a Bridge near Delfgauw</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, The Kate, Maurice R. and Melvin R. Seiden Special Purchase Fund in honor of Virginia Deknatel and in memory of Lucy Rowland, Paul J. Sachs Memorial Fund, Marian H. Phinney Fund, Agnes Mongan Purchase Fund, Drawing Department Acquisition Fund, and Drawing Department Discretionary Fund, and through the generosity of an anonymous donor, David Giles Carter, the DBH Foundation, and the B. Walter and Geraldine E. Sterenfeld Foundation</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2001</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2001.54</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Old Master & British Drawings & Watercolors</em>, auct. cat. (London, July 10, 2014), under lot 132, p. 28, repr. fig. 1
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 18; cat. no. 10a, pp. 55-57, repr. p. 56
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:huam:DDC101617_prdwork?width=200&height=200" alt="The Outskirts Of A Village With Peasants">
+                <span class="popup__artwork-info-id">2001.54</span>
+        <span class="popup__artwork-info-author">
+                                    Hans Bol
+                              </span>
+        <span class="popup__artwork-info-title">The Outskirts of a Village with Peasants</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20293308%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F293308">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F293308" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Outskirts+of+a+Village+with+Peasants+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F293308" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/293308" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_bff7086a94a3d5ccb27d1e094f7cde4e" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

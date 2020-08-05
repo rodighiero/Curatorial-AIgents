@@ -1,0 +1,744 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Misfortunes of Silenus </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Misfortunes of Silenus" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299818"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC253161_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Misfortunes of Silenus" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47808941" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC253161_dynmc?width=3000&height=3000" data-initial-image-id="47808941" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299818" data-behavior="add_to_collection tooltip" data-artwork="299818" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299818&amp;image_id=DDC253161" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299818/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC253161">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC253161_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47808941" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC253161_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30072">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:30072_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="44645408" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:30072_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="37747">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS37747_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20677629" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS37747_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="37748">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS37748_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20677630" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS37748_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="37749">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS37749_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20677631" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS37749_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="37751">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS37751_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20677633" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS37751_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="37752">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS37752_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Piero di Cosimo"  title="The Misfortunes Of Silenus" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20677634" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS37752_dynmc?width=125&height=125" alt="The Misfortunes Of Silenus">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This panel, along with a companion showing the Discovery of Honey, was probably commissioned as a nuptial gift to adorn the bedchamber in the Florentine palace of Giovanni Vespucci and his bride; both panels are described by the artist and biographer Giorgio Vasari in his Life of Piero di Cosimo. Wasps (vespe in Italian) adorned the family’s coats of arms, and the scenes were certainly chosen as humorous but cautionary tales for the newlyweds. The story is based on passages from Ovid’s Fasti, where Silenus, looking for honey, climbs on the back of his donkey to reach into the hollow of a tree. Inside, he discovers a wasp’s nest, setting off a series of misfortunes: the branch on which he was leaning breaks, and he falls from his donkey, is kicked by an ass, and is stung by the wasps he disturbed. At the left of this panel, Bacchus and Ariadne watch as Silenus’s stings are treated with mud.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1940.85</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28072>Piero di Cosimo</a>, Italian                                                                                                                                                                                                                                                                          (Florence (?), Italy c. 1462 - 1522 Florence(?), Italy)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Misfortunes of Silenus</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1500</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Europe, Italy, Tuscany, Florence                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>Italian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299818">https://hvrd.art/o/299818</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2540, European Art, 13th–16th century, The Renaissance<br>
+            <a href="/visit/floor-plan/2?gallery=2540" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on panel</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>80.1 x 129.3 cm (31 9/16 x 50 7/8 in.)<br />
+frame: 97.2 x 147.3 x 8.9 cm (38 1/4 x 58 x 3 1/2 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Possibly commissioned from the artist to Guidantonio di Giovanni Vespucci, Florence, c. 1500, gift; to Giovanni di Guidantonio Vespucci and Namiciana di Benedetto Nerli on the occasion of their wedding, Florence, 1500, acquired; by Piero Salviati (1), Florence, 1533, bequeathed; to his wife, Ginevra Bartolini Salimbeni, Florence, 1564, bequeathed; to her daughter Maddalena Salviati, by descent; to Giovanni de’ Bardi di Vernio and his wife, Lucrezia Salviati (daughter of Piero Salviati), by descent; to Cosimo Ridolfi (son of Piero Ridolfi and Maddalena Salviati) sold; to the Baglioni family, acquired; by [Monte Comune  (public bank)] to Lodovico Incontri (1676). [Giovanni Freppa, Florence, by 1851]. Sir Thomas Sebright, Beechwood, England, by 1857, by descent?; to Sir Giles Sebright Beechwood, England, until 1935, sold; to Mrs. (Jean) R. Langton Douglas, London and Waycross, Georgia, and Vitale Bloch, London, each as 50% owners, by 1937, sold; to Fogg Art Museum, 1940. (2)<br />
+<br />
+Notes: <br />
+<br />
+(1) Vasari records seeing the painting, along with its companion “The Discovery of Honey” in the Worcester Art Museum (1937.76) in the Palazzo Salviati c. 1550. <br />
+<br />
+(2)The paintings in the Worcester and Harvard Art Museums shared a common provenance until the “Discovery of Honey” was sold in 1937 to the Worcester Art Museum and the “Misfortunes of Silenus” was sold in 1940 to the Fogg Art Museum. The Fogg Art Museum purchased the painting directly from Mrs. Douglas.<br />
+<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Alpheus Hyatt Purchasing Fund and Friends of Art, Archaeology and Music</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1940</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1940.85</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Gustav Friedrich Waagen, <em>Galleries and cabinets of art in Great Britain: being an account of more than forty collections of paintings, drawings, sculptures, mss., &c. &c. visited in 1854 and 1856, and now for the first time described</em>, John Murray (London, England, 1857), p. 327
+                             </p>
+                                                      <p>
+                                              Giorgio Vasari, <em>Le Vitte de'più eccellenti pittori scultori ed architettori</em>, ed. Gaetano Milanesi, G. C. Sansoni, Editore (Florence, 1879), pp. 141-142
+                             </p>
+                                                      <p>
+                                              Hermann Ulmann, "Piero di Cosimo", <em>Jahrbuch der Königlich Preuszischen Kunstsammlungen</em>, Staatliche Museen zu Berlin--Preussischer Kulturbesitz (1896), Vol. 17, pp. 120-142, p. 129
+                             </p>
+                                                      <p>
+                                              Fritz Knapp, <em>Piero di Cosimo: ein Übergangsmeister vom Florentiner quattrocento zum cinquecento</em>, Verlag von Wilhelm Knapp (Halle, Germany, 1899), pp. 86-87
+                             </p>
+                                                      <p>
+                                              Paul Schubring, <em>Cassoni: Truhen und Truhenbilder der italienischen Frührenaissance, Ein Beitrag zur Profanmalerei im Quattrocento</em>, Verlag von Karl W. Hiersemann (Leipzig, 1915), p. 312-313, no. 392 [as by Bartolommo di Giovanni]
+                             </p>
+                                                      <p>
+                                              Erwin Panofsky, "The 'Discovery of Honey' by Piero di Cosimo", <em>Worcester Art Museum Annual</em> (Worcester, Massachusetts, 1936-1937), Vol. II, pp. 33-43, pp. 34-36, 41, 43, fig. 2. fig 9,
+                             </p>
+                                                      <p>
+                                              "The Discovery of Honey", <em>Worcester Art Museum News Bulletin and Calendar</em> (Worcester, MA, October 1937), Vol. 3, No. 1, pp. 1-2, p. 1
+                             </p>
+                                                      <p>
+                                              Georges Pudelko, "Piero di Cosimo, Peintre Bizarre", <em>Minotaure</em> (Paris, May 15, 1938), Vol. 5, No. 11, p. 24, repr.
+                             </p>
+                                                      <p>
+                                              <em>Piero di Cosimo</em>, exh. cat., Schaeffer Galleries (New York, 1938), p. 26, under cat. no. 5
+                             </p>
+                                                      <p>
+                                              Erwin Panofsky, <em>Studies in Iconology: Humanistic Themes in the Art of the Renaissance</em>, Oxford University Press (NY) and Oxford University Press (UK) (Oxford, England, 1939), pp.59-60, repr. as fig. 32, plate XVIII
+                             </p>
+                                                      <p>
+                                              Jane Watson, "News and Comment", <em>Magazine of Art</em> (Washington, D.C., May 1940), Vol. 33, pp. 304-10, 317, pp. 304-306, repr. p. 304
+                             </p>
+                                                      <p>
+                                              Carol Rothschild, "Recent Museum Acquisitions", <em>Parnassus</em>, College Art Association of America (May 1940), Vol. 12, No. 5, pp. 46-50, 56, pp. 47-48, repr. p. 47
+                             </p>
+                                                      <p>
+                                              The Fine Arts: The Misfortunes of Silenus, by Piero di Cosimo, <em>Boston Evening Transcript</em> (Boston, April 13, 1940), Part Five, p. 7, repr.
+                             </p>
+                                                      <p>
+                                              R. Langton Douglas, "The Fall of Man by Piero di Cosimo", <em>The Burlington Magazine</em> (June 1945), Vol. 86, No. 507, pp. 134-139, pp. 137-138
+                             </p>
+                                                      <p>
+                                              Robert Langton Douglas, <em>Piero di Cosimo</em>, University of Chicago Press (Chicago, IL, 1946), pp. 61-64, repr. as plates XLIV and XLV (detail)
+                             </p>
+                                                      <p>
+                                              Paola Morselli, "Ragioni di un pittore fiorentino: Piero di Cosimo", <em>L' Arte</em> (Milan, 1958), pp. 3-65, pp. 21, 49
+                             </p>
+                                                      <p>
+                                              Paola Morselli, "Saggio di un catalogo delle opere di Piero di Cosimo", <em>L'arte</em> (Milan, January - March 1958), Vol. 23, pp. 67-92, p. 76
+                             </p>
+                                                      <p>
+                                              Bernard Berenson, <em>Italian Pictures of the Renaissance: a list of the principal artists and their works, with an index of places.  Florentine School.</em>, Phaidon Publishers and New York Graphic Society (Greenwich, CT, 1963), p. 175
+                             </p>
+                                                      <p>
+                                              Everett Fahy, "Some Later Works of Piero di Cosimo", <em>Gazette des Beaux-Arts</em> (Paris, April 1965), pp. 201-212, pp. 201-203, 211
+                             </p>
+                                                      <p>
+                                              Mina Bacci, <em>Piero di Cosimo</em>, Bramante (Milan, Italy, 1966), pp. 92-93, cat. no. 36
+                             </p>
+                                                      <p>
+                                              Burton B. Fredericksen and Federico Zeri, <em>Census of Pre-Nineteenth-Century Italian Paintings in North American Public Collections</em>, Harvard University Press (Cambridge, MA, 1972), p. 164
+                             </p>
+                                                      <p>
+                                              Andrea Kirsh, "Worlds Below: An Investigation of Infrared Reflectography" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, April 1973), Unpublished, pp. 1-25 passim
+                             </p>
+                                                      <p>
+                                              Mina Bacci, <em>L'opera completa di Piero di Cosimo</em>, Rizzoli (Milan, 1976), pp. 92-93, no. 35, repr. as tav. IL, L (detail), and LI (detail)
+                             </p>
+                                                      <p>
+                                              Paul Barolsky, <em>Infinite Jest: Wit and Humor in Italian Renaissance Art</em>, University of Missouri Press (Columbia and London, 1978), p. 49, repr. as fig. 2-16
+                             </p>
+                                                      <p>
+                                              Everett Fahy, <em>Italian Paintings at Fenway Court and Elsewhere</em>, Isabella Stewart Gardner Museum (Boston, 1978), p. 41
+                             </p>
+                                                      <p>
+                                              Caroline Houser, <em>Dionysos and His Circle: Ancient Through Modern</em>, exh. cat., Fogg Art Museum (Cambridge, 1979), pp. 62-64, cat. no. 42, repr. p. 63
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 170, p. 151, repr.
+                             </p>
+                                                      <p>
+                                              Richard Wollheim, "Painting as an Art [The A.W. Mellon Lectures in the Fine Arts, 1984]", <em>Bollingen Series</em> (Princeton, NJ, 1987), Vol. 35, No. 33, p. 56, repr. as fig. 33 and 34 (detail)
+                             </p>
+                                                      <p>
+                               Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990)
+                                            </p>
+                                                      <p>
+                                              Sharon Fermor, <em>Piero di Cosimo: Fiction, Invention, and Fantasia</em>, Reaktion Books (London, 1993), pp. 81-86, repr. as fig. 29
+                             </p>
+                                                      <p>
+                                              Anne B. Barriault, <em>Spalliera Paintings of Renaissance Tuscany: Fables of Poets for Patrician Homes</em>, Pennsylvania State University Press (University Park, Pennsylvania, 1994), p. 153, cat. no. 11.2, repr.
+                             </p>
+                                                      <p>
+                                              James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), pp. 166-7
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Malcolm Bull, <em>The Mirror of the Gods: Classical Mythology in Renaissance Art</em>, Allen Lane (London and New York, 2005), pp. 231-232; repr. in b/w as fig. 85
+                             </p>
+                                                      <p>
+                                              Dennis Geronimus, <em>Piero di Cosimo: Visions Beautiful and Strange</em>, Yale University Press (U.S.) (New Haven and London, 2006), pp. 21, 82-83, 100-106, 125, 302 n. 184, and 317 n. 104; repr. in color p. 103 as Fig. 71.
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 64, repr.
+                             </p>
+                                                      <p>
+                                              Maurizia Tazartes, <em>Piero di Cosimo: "ingegno astratto e difforme"</em> (Florence, 2010), p. 91 repr. in color as fig. 40
+                             </p>
+                                                      <p>
+                                              "Frame by Frame: Out on a limb with 'Discover of Honey'; Treasures Tucked Away in our Museums' Permanent Collections", <em>The Boston Globe</em> (Boston, June 21, 2011), p. G3
+                             </p>
+                                                      <p>
+                                              Antonio Natali and Serena Padovani, <em>Piero di Cosimo 1462-1522: Pittore eccentrico fra Rinascimento e Maniera</em>, exh. cat., Galleria degli Uffizi (Florence, 2015), cat. no. 35b;  repr. p. 283; repr. 191, fig. 9; pp. 36, 154, 175, 181, 186, 192
+                             </p>
+                                                      <p>
+                                              Dennis Geronimus and Gretchen Hirschauer, <em>Piero di Cosimo: The Poetry of Painting in Renaissance Florence</em>, exh. cat., National Gallery of Art (Washington, D.C., 2015), pp. 5, 10, 18, 48, 52-53, 75, 77-78, 87-88, 144-48 as cat. 15b, 151, 174, 195, 204 and repr. in color pp. 74 (detail), 144 (detail), and 147
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Dionysos and His Circle: Ancient through Modern</em>, Fogg Art Museum, Cambridge, 12/10/1979 - 02/10/1980
+                            </p>
+                          <p>
+                              <em>Re-View: S422  Ancient & Byzantine Art & Numismatics</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/12/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 2540 Renaissance</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/07/2015; Harvard Art Museums, Cambridge, 09/01/2016 - 01/31/2017; Harvard Art Museums, Cambridge, 07/18/2018 - 01/01/2050
+                            </p>
+                          <p>
+                              <em>Piero di Cosimo (1462-1522): Painter-Poet of Renaissance Florence</em>, National Gallery of Art, Washington, 02/01/2015 - 05/03/2015; Galleria degli Uffizi, Florence, 06/23/2015 - 09/27/2015
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/346986">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR006456_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "trials Of Silenus"">
+                                    <span class="related-artwork__obj">Straus.7493</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Piero di Cosimo</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Trials of Silenus"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC253161_dynmc?width=200&height=200" alt="The Misfortunes Of Silenus">
+                <span class="popup__artwork-info-id">1940.85</span>
+        <span class="popup__artwork-info-author">
+                                    Piero di Cosimo
+                              </span>
+        <span class="popup__artwork-info-title">The Misfortunes of Silenus</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299818%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299818">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299818" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Misfortunes+of+Silenus+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299818" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299818" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_0292b53179556f2e54505d54df016033" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

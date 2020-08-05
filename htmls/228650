@@ -1,0 +1,759 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Red Boats, Argenteuil </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Red Boats, Argenteuil" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/228650"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC231457_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Red Boats, Argenteuil" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_46080098" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC231457_dynmc?width=3000&height=3000" data-initial-image-id="46080098" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?228650" data-behavior="add_to_collection tooltip" data-artwork="228650" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=228650&amp;image_id=DDC231457" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/228650/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC231457">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC231457_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Claude Monet"  title="Red Boats, Argenteuil" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46080098" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC231457_dynmc?width=125&height=125" alt="Red Boats, Argenteuil">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC245420">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC245420_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Claude Monet"  title="Red Boats, Argenteuil" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46080100" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC245420_dynmc?width=125&height=125" alt="Red Boats, Argenteuil">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30367">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS30367_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Claude Monet"  title="Red Boats, Argenteuil" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673713" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS30367_dynmc?width=125&height=125" alt="Red Boats, Argenteuil">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30464">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:30464_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Claude Monet"  title="Red Boats, Argenteuil" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17357776" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:30464_dynmc?width=125&height=125" alt="Red Boats, Argenteuil">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>For most of the 1870s, Monet lived in Argenteuil, a town on the Seine only seventeen miles from Paris and accessible to the city by train. He often worked outdoors in his own boat and painted this basin several times, though the lower vantage point of this scene suggests a perspective from the shoreline. Eliminating the factory smokestacks that were in fact visible at this location, Monet instead highlights the area’s picturesque and recreational aspects, including the boat rental area on the left.</p>
+<p>Impressionist painters like Monet deliberately eschewed the finished structure and line of academic painting, but the irresolution of this painting has led to its occasional categorization as a “study.” As revealed in x-radiographs, the artist reworked the composition in several areas, removing a sixth paddling duck on the left, for example, by painting over it. The band of lavender brushstrokes along the horizon line is the site of a similar revision.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1951.54</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27651>Claude Monet</a>, French                                                                                                                                                                                                                                                                          (Paris, France 1840 - 1926 Giverny, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Red Boats, Argenteuil</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Les Bateaux Rouges, Argenteuil / Les Bateaux d'Argenteuil<br>                                                                                                              Alternate Title: Red Boats II                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1875</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/228650">https://hvrd.art/o/228650</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 1, Room 1220, European Art, 19th–20th century, Collection of Maurice Wertheim, Class of 1906<br>
+            <a href="/visit/floor-plan/1?gallery=1220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>61.8 x 82.5 cm (24 5/16 x 32 1/2 in.)<br />
+framed: 91 x 111.2 x 10.2 cm (35 13/16 x 43 3/4 x 4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l. Claude Monet 75
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>?J. B. Faure, Paris, 1876. [Durand-Ruel, New York], sold; James F. Sutton, (1893 - 1917) sold; ([his sale, through Durand-Ruel, 1917, no. 137]. Émile Laffon, Paris, sold; [through his sale]; to Paul Rosenberg, New York, sold; to Maurice Wertheim, (1943-1951), bequest; to Fogg Art Museum, 1951.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1951</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1951.54</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK HAS SIGNIFICANT LOAN RESTRICTIONS BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>2e Exposition de peinture</em>, exh. cat., Galerie Durand-Ruel (Paris, France, 1876), no. 160
+                             </p>
+                                                      <p>
+                                              <em>Monet-Rodin</em>, exh. cat., Galerie Georges Petit (Paris, France, 1889), no. 27
+                             </p>
+                                                      <p>
+                                              Arsène Alexandre, "La Collection E. L.", <em>La Renaissance</em> (October 1933 - November 1933), vol. XVI, pp. 182, 193
+                             </p>
+                                                      <p>
+                                              Alfred M. Frankfurter, "Today's Collectors: Modern Milestones", <em>Art News</em> (June 1946), vol. XLV, no. 4, p. 64
+                             </p>
+                                                      <p>
+                                              <em>French Painting since 1870, lent by Maurice Wertheim, Class of 1906</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1946), p. 10, repr. p. 11
+                             </p>
+                                                      <p>
+                                              John Rewald, <em>The History of Impressionism [1st ed.]</em>, Museum of Modern Art, New York (New York, NY, 1946), p. 347, repr. p. 285
+                             </p>
+                                                      <p>
+                                              Oscar Reuterswärd, <em>Monet, en konstnarshistorik</em>, Albert Bonniers Förlag (Stockholm, Sweden, 1948), p. 282
+                             </p>
+                                                      <p>
+                                              <em>La Peinture Française Depuis 1870: Collection Maurice Wertheim</em>, exh. cat., Tom Taylor (Québec, Canada, 1949), no. 3, pp. 9-10
+                             </p>
+                                                      <p>
+                                              <em>A Collector's Exhibition: Impressionist and Post-Impressionist Masterpieces from the Collections of Members of the Advisory Committee of the Institute of Fine Arts.</em>, exh. cat., Knoedler & Co. Inc. (New York, NY, 1950), no. 4
+                             </p>
+                                                      <p>
+                                              Howard Devree, "By French Masters: The Metropolitan Shows Wertheim Collection", <em>The New York Times</em> (New York, NY, July 6 1952), p. 6, p. 6
+                             </p>
+                                                      <p>
+                                              John Canaday, <em>Mainstreams of Modern Art</em>, Henry Holt and Co. (New York, NY, 1959), repr. p. 96
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Catalogue: Modern French Art-- Monet to Picasso</em>, exh. cat., North Carolina Museum of Art (Raleigh, NC, 1960), p. 28, repr. p. 28
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, exh. cat., The Museum of Fine Arts, Houston (Houston, TX, 1962), p. 32, pl. 11
+                             </p>
+                                                      <p>
+                                              <em>L'Opera completa di Claude Monet, 1870-1889</em>, Rizzoli (Milan, Italy, 1972), p. 97; repr. p. 96
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection</em>, exh. cat., Maine State Museum (Augusta, ME, 1972), no. 20
+                             </p>
+                                                      <p>
+                                              Daniel Wildenstein, <em>Claude Monet: Biographie et Catalogue Raisonné</em>, La Bibliothèque des Arts (Lausanne, Switzerland, 1974 - 1991), no. 369
+                             </p>
+                                                      <p>
+                                              Robert L. Herbert, "Method and Meaning in Monet", <em>Art In America</em> (September 1979), vol. 67, pp. 90-108, p. 108
+                             </p>
+                                                      <p>
+                                              Paul Hayes Tucker, <em>Monet at Argenteuil</em>, Yale University Press (New Haven, CT and London, England, 1982), pl. XX, pp. 118-120, 149
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 219, p. 192, repr. in color
+                             </p>
+                                                      <p>
+                                              Helen Langdon, <em>Impressionist Seasons</em>, Phaidon Press (Oxford, England, 1986), repr. in color no. 11, p. 37; text p. 36
+                             </p>
+                                                      <p>
+                                              John House, <em>Monet: Nature into Art</em>, Yale University Press (New Haven, CT and London, England, 1986), pl. 20, pp. 18, 83
+                             </p>
+                                                      <p>
+                                              Bernard Denvir, <em>The Impressionists at First Hand</em>, Thames & Hudson (London, England, 1987), repr. in b/w, p. 81
+                             </p>
+                                                      <p>
+                                              John O'Brian, <em>Degas to Matisse: the Maurice Wertheim Collection</em>, Harry N. Abrams, Inc. and Fogg Art Museum (New York, NY and Cambridge, MA, 1988), no. 4, p. 45-47, repr. in color p. 46
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 120; repr. as no. 348
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, exh. cat., Harry N. Abrams, Inc. (New York, NY, 1990), repr. in color no. 5, p. 41
+                             </p>
+                                                      <p>
+                                              Richard Mühlberger, <em>O Que Faz de um Monet um Monet?</em>, The Metropolitan Museum of Art (New York, 1993), pp. 48-49, repr. in color with detail
+                             </p>
+                                                      <p>
+                                              Richard Mühlberger, <em>What Makes a Monet a Monet?</em>, Metropolitan Museum of Art / Viking (New York, NY, 1993), repr. in color inside back cover and details, p. 48
+                             </p>
+                                                      <p>
+                                              Lawrence S. Cunningham and John J. Reich, <em>Culture and Values: A Survey of the Western Humanities</em>, Harcourt Brace College Publishers (New York, NY, 1994), pp. 365-366, repr. in color fig 16.7
+                             </p>
+                                                      <p>
+                                              Lynn Federle Orr, <em>Monet: Late Paintings of Givenchy from the Musée Marmottan</em>, exh. cat., Fine Arts Museums of San Francisco (San Francisco, CA, 1994), p. 18, repr. in color fig. 4
+                             </p>
+                                                      <p>
+                                              H. W. Janson and Anthony F. Janson, <em>History of Art [5th ed.]</em>, Harry N. Abrams, Inc. (New York, NY, 1995), pp. 705-706, repr. in color, fig. 949
+                             </p>
+                                                      <p>
+                                              H. W. Janson and Anthony F. Janson, <em>History of Art for Young People</em>, Harry N. Abrams, Inc. (New York, NY, 1997), p. 462, fig. 396
+                             </p>
+                                                      <p>
+                                              <em>Christie's Impressionist and Nineteenth Century Art</em>, auct. cat., Christie's, New York (New York NY, November 18 1998), under no. 13, repr. in color as fig. 3
+                             </p>
+                                                      <p>
+                                              Norio Shimada and Keiko Sakagami, <em>Claude Monet 1881-1926</em>, exh. cat., Toppan Tanc (Japan, 2001), p. 92, fig. 66, repr. in color
+                             </p>
+                                                      <p>
+                                              Lawrence S. Cunningham and John J. Reich, <em>Culture & Values: A Survey of the Humanities</em>, Thomson Wadsworth (Belmont, CA, 2006), pp. 491-492, repr. in color as fig.18.7
+                             </p>
+                                                      <p>
+                                              Elizabeth M. Rudy, "Researching the Wertheim Collection at the Harvard Art Museums", <em>Collections: A Journal for Museum and Archives Professionals</em> (Summer 2014), Vol. 10, No. 3, pp. 301-6, p. 303
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Deuxieme exposition de peinture</em>, Rue le Peletier, Paris, 04/01/1876 - 04/30/1876
+                            </p>
+                          <p>
+                              <em>Monet-Rodin</em>, Galerie Georges Petit, Paris, 01/01/1889 - 12/31/1889
+                            </p>
+                          <p>
+                              <em>French Painting since 1870 lent by Maurice Wertheim, Class of 1906</em>, Fogg Art Museum, Cambridge, 06/01/1946 - 09/07/1946; National Gallery of Art, Washington, 07/01/1953 - 09/13/1953
+                            </p>
+                          <p>
+                              <em>La Peinture Française depuis 1870</em>, Musée de la Province de Quebec, 07/12/1949 - 08/07/1949
+                            </p>
+                          <p>
+                              <em>A Collector's Exhibition</em>, M. Knoedler & Co., Newport, 02/06/1950 - 02/25/1950
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, The Metropolitan Museum of Art, New York, 07/01/1952 - 09/14/1952
+                            </p>
+                          <p>
+                              <em>French Paintings Since 1870 from the Maurice Wertheim Collection</em>, National Gallery of Art, Washington, 06/01/1953 - 09/30/1953
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Philadelphia Museum of Art, Philadelphia, 06/15/1957 - 09/15/1957
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Minneapolis Institute of Arts, Minneapolis, 06/10/1958 - 08/31/1958
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Modern French Art--Monet to Picasso</em>, North Carolina Museum of Art, Raleigh, 06/17/1960 - 09/04/1960
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, The Museum of Fine Arts, Houston, Houston, 06/13/1962 - 09/02/1962
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Baltimore Museum of Art, Baltimore, 06/20/1963 - 09/01/1963
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Currier Museum of Art, Manchester, 06/24/1965 - 09/07/1965
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Rhode Island School of Design Museum, Providence, 09/03/1968 - 09/22/1968
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Montgomery Museum of Art, Montgomery, 06/01/1971 - 09/30/1971
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Maine State Museum, Augusta, 06/01/1972 - 09/01/1972
+                            </p>
+                          <p>
+                              <em>Manet to Matisse: The Maurice Wertheim Collection</em>, IBM Gallery of Science and Art, New York, 04/09/1985 - 05/25/1985
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, Isetan Department Store, Tokyo, 03/01/1990 - 04/10/1990; Yamaguchi Prefectural Museum of Art, 04/14/1990 - 05/13/1990
+                            </p>
+                          <p>
+                              <em>Re-View: S427  Impressionist & Postimpressionist Art</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/02/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 1220 Wertheim</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347901">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011974_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "red Boats At Argenteuil"">
+                                    <span class="related-artwork__obj">Straus.8408</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Claude Monet</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Red Boats at Argenteuil"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC231457_dynmc?width=200&height=200" alt="Red Boats, Argenteuil">
+                <span class="popup__artwork-info-id">1951.54</span>
+        <span class="popup__artwork-info-author">
+                                    Claude Monet
+                              </span>
+        <span class="popup__artwork-info-title">Red Boats, Argenteuil</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20228650%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228650">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228650" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Red+Boats%2C+Argenteuil+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F228650" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/228650" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9e753dce642a6622f68916af517e8efc" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

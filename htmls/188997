@@ -1,0 +1,666 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Seated Peasant Drinking; verso: Blank page </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Seated Peasant Drinking; verso: Blank page" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/188997"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC104813_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Seated Peasant Drinking; verso: Blank page" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_8376281" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC104813_dynmc?width=3000&height=3000" data-initial-image-id="8376281" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">recto</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?188997" data-behavior="add_to_collection tooltip" data-artwork="188997" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=188997&amp;image_id=DDC104813" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/188997/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC104813">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC104813_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Adriaen van Ostade"  title="Seated Peasant Drinking; Verso: Blank Page" data-object-caption="recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="8376281" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104813_dynmc?width=125&height=125" alt="Seated Peasant Drinking; Verso: Blank Page">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC104814">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC104814_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Adriaen van Ostade"  title="Seated Peasant Drinking; Verso: Blank Page" data-object-caption="verso" data-object-copyright="President and Fellows of Harvard College" data-image-id="8376282" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104814_dynmc?width=125&height=125" alt="Seated Peasant Drinking; Verso: Blank Page">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="60912">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS60912_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Adriaen van Ostade"  title="Seated Peasant Drinking; Verso: Blank Page" data-object-caption="recto" data-object-copyright="President and Fellows of Harvard College" data-image-id="20683491" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS60912_dynmc?width=125&height=125" alt="Seated Peasant Drinking; Verso: Blank Page">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1999.123.10</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27926>Adriaen van Ostade</a>, Dutch                                                                                                                                                                                                                                                                          (Haarlem 1610 - 1685 Haarlem)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Seated Peasant Drinking; verso: Blank page</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            album page,                                          drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1637</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/188997">https://hvrd.art/o/188997</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk on parchment</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>15.2 × 11 cm (6 × 4 5/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Lower right, black chalk: Av [in ligature] Ostade
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Possibly Pieter Spiering, Delft and The Hague. Private collection, United Kingdom, sold [private sale, via Sotheby's, London]; to Maida and George Abrams, Boston, 1987 (Lugt 3306, without their mark), gift; to Harvard Art Museums, 1999</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 62 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Adriaen van Ostade sketched this seated drinker in an album of fifty-two vellum leaves of uniform size in a plain black leather binding. Forty-one full-page drawings are executed directly onto the bound sheets—some on the recto, some on the verso of a leaf. They include signed or securely attributed works by twenty-seven draftsmen, whose contributions illustrate subjects ranging from mythological themes to genre scenes, landscapes, single figures, heads, animals, and still lifes. In addition to Adriaen van Ostade, other outstanding Dutch painters are represented, such as Govert Flinck, Jan van Goyen, Simon de Vlieger, Cornelis Saftleven, Emanuel de Witte, and Leonaert Bramer. Seven artists contributed two drawings apiece, and two—De Vlieger and Joris van der Haagen—executed three each.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-1"><a href="#fn18654226265ef6642f46ce8-1">1</a></sup> Preserved within the album are the only drawings known today by several masters, including De Witte, Christiaen van Couwenbergh, and Willem van Aelst.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-2"><a href="#fn18654226265ef6642f46ce8-2">2</a></sup> Ten sheets, scattered throughout the volume in no discernible sequence, bear dates from 1635 to 1641.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-3"><a href="#fn18654226265ef6642f46ce8-3">3</a></sup> The authors of two drawings remain unidentified, and a few pages bear indecipherable scribbles or childish doodles.</p>
+
+<p>We know little of the album’s provenance between the seventeenth century and its appearance on the London art market in 1987.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-4"><a href="#fn18654226265ef6642f46ce8-4">4</a></sup> Circumstantial evidence suggests that its original owner resided in Delft or the Hague, and its binding may provide conclusive proof of his identity. A dozen of the identified draftsmen worked in Delft, and a majority lived there or a few kilometers away in the Hague when they executed their drawing(s) in the book.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-5"><a href="#fn18654226265ef6642f46ce8-5">5</a></sup> The raised bands on the spine and dyed black leather of the binding match those of more than twenty albums of various sizes that are stamped with the year 1637, although the Harvard volume lacks the dates and gold-tooled Dutch titles that decorate the larger “1637” portfolios.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-6"><a href="#fn18654226265ef6642f46ce8-6">6</a></sup> The owner of those albums was very likely Pieter Spiering (c. 1595–1652), who from 1630 managed the sales and finances of the Delft tapestry works founded by his father, and who later served as Swedish resident in the Hague and purveyor of art to Queen Christina.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-7"><a href="#fn18654226265ef6642f46ce8-7">7</a></sup> To the art historian Joachim von Sandrart, who knew him, Spiering was a “world-famous” connoisseur, whose “incomparable” collection included drawings by Albrecht Dürer, Raphael, Giulio Romano, Titian, and Paolo Veronese, and a complete oeuvre of “the most perfect impressions” of Lucas van Leyden’s prints.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-8"><a href="#fn18654226265ef6642f46ce8-8">8</a></sup> When Nicodemus Tessin the Younger visited Spiering’s heir in 1687, she still owned more than a hundred albums of drawings and prints.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-9"><a href="#fn18654226265ef6642f46ce8-9">9</a></sup> That Spiering also supported artists of his own time is attested by the impressive marble busts of himself and his wife that he commissioned from François Dieussart as well as the annuity he paid to Gerrit Dou for the right of first refusal to purchase that Leiden master’s paintings.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-10"><a href="#fn18654226265ef6642f46ce8-10">10</a></sup> If the binding of the Harvard album strongly suggests its provenance from Spiering’s collection—and this seems probable, although not certain—it has led us to the volume’s most likely owner. Not only did Spiering reside in both Delft and the Hague, but his collection and reputation as a patron would have attracted the local and visiting artists who contributed drawings to the book. The purpose of this unique volume was likely similar to that of a friendship album or <em>album amicorum</em>, although it consists entirely of drawings and lacks the textual components that were an essential feature of an <em>album amicorum</em> of the period.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-11"><a href="#fn18654226265ef6642f46ce8-11">11</a></sup></p>
+
+<p>The Haarlem painter of peasant genre subjects Adriaen van Ostade is, as far as we know, the only artist from that city whose work appears in the album. The vigorous zigzag lines that shade the figure and stool in this signed drawing of a seated peasant holding a jug and pipe are comparable to the modeling strokes in his impressive figure studies in black chalk on blue paper, the earliest of which date from the middle 1640s.<sup class="footnote" id="fnrev18654226265ef6642f46ce8-12"><a href="#fn18654226265ef6642f46ce8-12">12</a></sup> However, the jagged contours, pose, and exaggerated coarseness of the features imply an earlier date, which is supported by comparison with a similarly reclining toper in a painting dated 1637 (Fig. 1).<sup class="footnote" id="fnrev18654226265ef6642f46ce8-13"><a href="#fn18654226265ef6642f46ce8-13">13</a></sup> A second drawing in the album, although unsigned and perhaps unfinished, is identical in technique to <em>Seated Peasant Drinking</em> and unmistakably also the work of Adriaen van Ostade (Fig. 2).<sup class="footnote" id="fnrev18654226265ef6642f46ce8-14"><a href="#fn18654226265ef6642f46ce8-14">14</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-1"><sup><a href="#fnrev18654226265ef6642f46ce8-1">1</a></sup> The artists represented by two drawings are: Cornelis Saftleven (<a href="https://www.harvardartmuseums.org/collections/object/188682?position=0">1999.123.4</a> and <a href="https://www.harvardartmuseums.org/collections/object/188866?position=0">1999.123.47</a>); Leonaert Bramer (<a href="https://www.harvardartmuseums.org/collections/object/188735?position=0">1999.123.6</a> and <a href="https://www.harvardartmuseums.org/collections/object/188989?position=0">1999.123.20</a>); Jan van Goyen (<a href="https://www.harvardartmuseums.org/collections/object/188990?position=0">1999.123.8</a> and <a href="https://www.harvardartmuseums.org/collections/object/188868?position=0">1999.123.45</a>); Adriaen van Ostade (<a href="https://www.harvardartmuseums.org/collections/object/188997?position=0">1999.123.10</a> and <a href="https://www.harvardartmuseums.org/collections/object/188857?position=0">1999.123.38</a>); François Rijckhals (<a href="https://www.harvardartmuseums.org/collections/object/188861?position=0">1999.123.23</a> and <a href="https://www.harvardartmuseums.org/collections/object/188891?position=0">1999.123.25</a>); Ludolf de Jongh (<a href="https://www.harvardartmuseums.org/collections/object/188937?position=0">1999.123.29</a> and <a href="https://www.harvardartmuseums.org/collections/object/188858?position=0">1999.123.32</a>); and Petrus Staverenus (Pieter van Staveren) (<a href="https://www.harvardartmuseums.org/collections/object/188856?position=0">1999.123.39</a> and <a href="https://www.harvardartmuseums.org/collections/object/188962?position=0">1999.123.50</a>). The three drawings by Van der Haagen are <a href="https://www.harvardartmuseums.org/collections/object/188678?position=0">1999.123.5</a>, <a href="https://www.harvardartmuseums.org/collections/object/188981?position=0">1999.123.37</a>, and <a href="https://www.harvardartmuseums.org/collections/object/188964?position=0">1999.123.48</a>; Wiliam Robinson, “Early Drawings by Joris van der Haagen,” <em>Master Drawings</em>, vol. 28 (1990), pp. 305–9, repr. pp. 307–8, figs. 4–6. The three by De Vlieger are <a href="https://www.harvardartmuseums.org/collections/object/188679?position=0">1999.123.11</a>, <a href="https://www.harvardartmuseums.org/collections/object/188987?position=0">1999.123.21</a>, and <a href="https://www.harvardartmuseums.org/collections/object/188737?position=0">1999.123.35</a>; Christiaan P. van Eeghen, “Simon de Vlieger as a Draftsman, II: Chalk Drawings Other than Pure Landscapes,” <em>Master Drawings</em>, vol. 49, no. 2 (Summer 2011): 179–221, pp. 212 and 221 (n. 82), repr. p. 213, figs. 78 and 79.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-2"><sup><a href="#fnrev18654226265ef6642f46ce8-2">2</a></sup> William Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Vienna: Albertina; New York: Pierpont Morgan Library; Cambridge: Harvard University Art Museums, 1991), cat. 20, pp. 58–59, and Michiel Plomp in Walter A. Liedtke, Michiel Plomp, and Axel Rüger, <em>Vermeer and the Delft School</em> (New York: Metropolitan Museum of Art; London: National Gallery, 2001), cat. 94d, pp. 440–43, repr. and pp. 175 and 180 (De Witte), and pp. 175 and 180, repr. p. 175, fig. 184 (Couwenbergh), and Arthur Wheelock in Tanya Paul, James Clifton, Julie Berger Hochstrasser, and Arthur K. Wheelock, Jr., <em>Elegance and Refinement: The Still‑Life Paintings of Willem van Aelst</em> (Houston: Museum of Fine Arts; Washington, DC: National Gallery of Art, 2012), cat. 29, pp. 170–71 (Van Aelst). Other artists whose only known drawing is in the album include Joris Crudaen (<a href="https://www.harvardartmuseums.org/collections/object/188894?position=0)-the">1999.123.16</a> sole surviving work by this Gorcum master); Pieter van Groenewegen (<a href="https://www.harvardartmuseums.org/collections/object/188871?position=0">1999.123.22</a>), Evert van Aelst (<a href="https://www.harvardartmuseums.org/collections/object/188988?position=0">1999.123.15</a>); Palamedes Palamedesz. (<a href="https://www.harvardartmuseums.org/collections/object/188892?position=0">1999.123.18</a>); and Petrus Staverenus (Pieter van Staveren) (<a href="https://www.harvardartmuseums.org/collections/object/188856?position=0">1999.123.39</a> and <a href="https://www.harvardartmuseums.org/collections/object/188962?position=0">1999.123.50</a>). A second drawing by Pieter van Asch (<a href="https://www.harvardartmuseums.org/collections/object/188895?position=0">1999.123.13</a>) was identified in Hamburg by Annemarie Stefes on the basis of its similarity to the signed work in the album (Annemarie Stefes, <em>Niederländische Zeichnungen 1450–1850: Kupferstichkabinett der Hamburger Kunsthalle</em>, Cologne, 2011, vol. 1, cat. 16, p. 73, repr. vol. 2, p. 8, fig. 16).</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-3"><sup><a href="#fnrev18654226265ef6642f46ce8-3">3</a></sup> On this album, see Robinson (1991), cat. 20, pp. 58–59; Robinson (1990), pp. 303–9; Michiel Plomp in Liedtke et al., pp. 175, 182, 185–88, and 440–43; William Robinson, “The Abrams Album: An Album Amicorum of Seventeenth-Century Dutch Drawings,” <em>Master Drawings</em>, vol. 53, no. 1 (Spring 2015): 3–58. In my entry in the 1991 catalogue, I stated that the earliest dated drawing in the album was from 1629. The third digit of the date on a drawing by Pieter Steenwyck (<a href="https://www.harvardartmuseums.org/collections/object/188996?position=0">1999.123.17</a>) is difficult to read and might be a <em>2</em> or a <em>3</em>. In agreement with colleagues who have examined the date, I now see it as more likely to be 1639 than 1629. Thus the earliest date on a drawing in the album is 1635, which appears on two works, one by Palamedes Palamedesz (<a href="https://www.harvardartmuseums.org/collections/object/188892?position=0">1999.123.18</a>) and one by Leonaert Bramer (<a href="https://www.harvardartmuseums.org/collections/object/188989?position=0">1999.123.20</a>). Other dated drawings are by Jan van Goyen (<a href="https://www.harvardartmuseums.org/collections/object/188990?position=0">1999.123.8</a> and <a href="https://www.harvardartmuseums.org/collections/object/188868?position=0">1999.123.45</a>; both 1637), Pieter Quast (<a href="https://www.harvardartmuseums.org/collections/object/188860?position=0">1999.123.31</a> and <a href="https://www.harvardartmuseums.org/collections/object/188963?position=0">1999.123.43</a>; both 1637), Govert Flinck (<a href="https://www.harvardartmuseums.org/collections/object/187470?position=0">1999.123.46</a>; 1638), Hendrik Verschuring (<a href="https://www.harvardartmuseums.org/collections/object/188867?position=0">1999.123.34</a>; 1640), and Cornelis Saftleven (<a href="https://www.harvardartmuseums.org/collections/object/188866?position=0">1999.123.47</a>; 1641).</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-4"><sup><a href="#fnrev18654226265ef6642f46ce8-4">4</a></sup> The album was certainly in the United Kingdom in the nineteenth century. Printed texts pasted down on the inside front cover of the binding, although only partially preserved, attest that the album was included in a (book?) sale in the United Kingdom, which, to judge from the language and the typeface, evidently took place in the late eighteenth or early nineteenth century. One lot description must refer to this album. Its decipherable text reads: <em>A volume of Original D[rawings?] . . . em . . ne[nt?] [= eminent?] / . . . &#176;f the Flemish School done upon Vellum / This Bijou may justly merit a distinguished p[lace?] [in the?] / Cabinet of the most fastidious Connoisseur</em> . . . . Pasted directly beneath this text is another printed lot description, presumably from the same sale catalogue, that refers to a red morocco–bound copy of Jean de la Fontaine, <em>Contes et nouvelles en vers</em>, “Amsterdam” (i.e. Paris, Barbou), 1762, with eighty engraved plates after drawings by Eisen—the so-called “Fermiers Généraux” edition.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-5"><sup><a href="#fnrev18654226265ef6642f46ce8-5">5</a></sup> As many as nineteen of the identified artists worked in Delft or the Hague in the 1630s and early 1640s. Of those, the majority (twelve) are recorded in Delft during that period. Michiel Plomp has studied the importance of the album for our knowledge of drawing in Delft; see Plomp in Liedtke et al., pp. 175, 182, 185–88, and 440–43.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-6"><sup><a href="#fnrev18654226265ef6642f46ce8-6">6</a></sup> On the 1637 albums, see Jan Gerrit van Gelder and Ingrid Jost, <em>Jan de Bisschop and His “Icones” and “Paradigmata,”</em> (Doornspijk, 1985), pp. 200–205; John Rowlands, <em>Drawings by German Artists and Artists from German-Speaking Regions of Europe in the Department of Prints and Drawings in the British Museum: The Fifteenth Century, and the Sixteenth Century by Artists Born before 1530</em> (London, 1993), vol. 1, pp. xi–xiv; Th. Laurentius, <em>Tekeningen, prenten en kunstboeken</em> (Middelburg, Netherlands, 2009), cat. 68, pp. 58–59. Egbert Haverkamp-Begemann (in correspondence with the author, 4 February 1988) first noted a possible connection between the album then in the Abrams collection and the 1637 volumes. In 2002, when the Abrams album was exhibited at the Fondation Custodia, Frits Lugt Collection, Paris, Mària van Berge-Gerbaud, Hans Buijs, and Stijn Alsteens (in conversation with the author) compared its binding to those on the three 1637 albums in the Fondation Custodia’s collection and agreed on the close similarity between the album’s cover and those on the two 1637 volumes.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-7"><sup><a href="#fnrev18654226265ef6642f46ce8-7">7</a></sup> Van Gelder and Jost, pp. 200–5; Rowlands, vol. 1, pp. xi–xiv; Laurentius, cat. 68, pp. 58–59. As noted by Van Gelder and Jost as well as Rowlands, Sandrart cited in Spiering’s collection a specific group of drawings by Heinrich Aldegrever that were certainly preserved in one of the 1637 albums in the British Museum. In my view, this is compelling evidence that Spiering was the owner of the 1637 albums. Sandrart knew Spiering when the artist was in the Netherlands from 1637 to 1645.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-8"><sup><a href="#fnrev18654226265ef6642f46ce8-8">8</a></sup> Joachim von Sandrart, ed. A. R. Peltzer, <em>Teutsche Academie der edlen Bau‑, Bild‑, und Mahlerey-Künste</em> (1st ed. 1675; reprint, Munich, 1925), pp. 32–33, 66–67, 86, 337, and 417 (n. 1358); Charles Avery, “François Dieussart in the United Provinces and the Ambassador of Queen Christina,” <em>Bulletin van het Rijksmuseum</em>, vol. 19 (1971): 143–64, pp. 156–63; Van Gelder and Jost, pp. 204–6; Rowlands, vol. 1, pp. xi–xiii.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-9"><sup><a href="#fnrev18654226265ef6642f46ce8-9">9</a></sup> Van Gelder and Jost, p. 206.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-10"><sup><a href="#fnrev18654226265ef6642f46ce8-10">10</a></sup> Dieussart’s busts are in the Rijksmuseum, Amsterdam, BK-1971-115-A and B; Avery, pp. 143–64. For the annuity Spiering paid to Dou, see Sandrart, pp. 195–96, and Avery, pp. 161–62. Spiering also commissioned portraits of himself and his wife from Sandrart, and of himself, his wife, and his daughter from Dou; Avery, p. 161.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-11"><sup><a href="#fnrev18654226265ef6642f46ce8-11">11</a></sup> For the character and history of the <em>album amicorum</em> in the Netherlands in the sixteenth and seventeenth centuries, see Kees Thomassen et al., <em>Alba Amicorum: Vijf Eeuwen Vriendschap op Papier Gezet; Het Album Amicorum en het Poëziealbum in de Nederlanden</em> (The Hague: Rijksmuseum Meermanno-Westreenianum, Huis van het Boek, 1990), pp. 9–19, and nos. 1–64. A drawing by Leonaert Bramer in the Harvard album that represents an elderly couple singing or reading does include the text of a poem or song about medicine and its powers. However, there is no evidence that it refers in any way to the owner of the volume.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-12"><sup><a href="#fnrev18654226265ef6642f46ce8-12">12</a></sup> Bernhard Schnackenburg, <em>Adriaen van Ostade, Isack van Ostade: Zeichnungen und Aquarelle</em> (Hamburg, 1981), vol. 1, p. 40 and cats. 45–47, p. 89, repr. vol. 2, pls. 24–25.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-13"><sup><a href="#fnrev18654226265ef6642f46ce8-13">13</a></sup> Adriaen van Ostade, <em>Peasant Family in an Interior</em> (Fig. 1), 1637. Oil on panel. Signed and dated, lower left, <em>A v Ostade 1637</em>. Whereabouts unknown. Last known location, in 1959, with the art dealer J. Dik, Jr., Amsterdam and La Tour-de-Peilz, Switzerland; <span class="caps">RKD</span> image number 0000142639.</p>
+
+<p class="footnote" id="fn18654226265ef6642f46ce8-14"><sup><a href="#fnrev18654226265ef6642f46ce8-14">14</a></sup> Adriaen van Ostade, <em>Seated Peasant</em> (Fig. 2). Black chalk on vellum. 110 × 152 mm. Fol. 38, recto, <a href="https://www.harvardartmuseums.org/collections/object/188857?position=0">1999.123.38</a>. William Robinson, “The Abrams Album: An Album Amicorum of Seventeenth-Century Dutch Drawings,” <em>Master Drawings</em>, vol. 53, no. 1 (Spring 2015): 3–58, fol. 38, pp. 40–41. Like other entries by artists who contributed more than one drawing to the album, the two works by Ostade are not on contiguous pages. The figure’s pose is comparable to that of a seated man who tucks his right arm in his jacket and raises a glass with his left in a painting sold at Christie’s, Amsterdam, 7 May 1996, lot 54; that work is signed and dated 1636.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/188997/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Adriaen van Ostade, <em>Peasant Family in an Interior</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/188997/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Adriaen van Ostade, <em>Seated Peasant</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1999</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1999.123.10</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>This sheet forms part of a seventeenth-century Dutch album, in its original binding, which contains 41 small, full-page drawings on parchment by more than 27 different artists.</dd>
+                                                       </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Anna Knaap, "From Lowlife to Rustic Idyll:  The Peasant Genre in 17th-Century Dutch Drawings and Prints", <em>Harvard University Art Museums Bulletin</em>, Harvard University Art Museums (Cambridge, MA, 1996), vol. IV, no. 2, pp. 31-59, cat. no. 44, p. 58
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "The Abrams Album: An 'Album Amicorum' of Dutch Drawings from the Seventeeth Century", <em>Master Drawings</em> (Spring 2015), LIII, no. 1, pp. 3-58, pp. 15-16, 40, repr. p. 15 as fig. 13
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, p. 532
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 20; cat. no. 62, pp. 213-215, repr. p. 214
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>From Lowlife to Rustic Idyll:  The Peasant Genre in 17th-Century Dutch Drawings and Prints</em>, Harvard University Art Museums, Cambridge, 03/29/1997 - 06/22/1997
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/294019">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104793_dynmc?width=3000&height=3000" alt="Abrams Album">
+                                    <span class="related-artwork__obj">1999.123.1-53</span>
+                                      <h4 class="related-artwork__artist">Various Artists</h4>
+                                                        <h3 class="related-artwork__title">Abrams Album</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104813_dynmc?width=200&height=200" alt="Seated Peasant Drinking; Verso: Blank Page">
+                <span class="popup__artwork-info-id">1999.123.10</span>
+        <span class="popup__artwork-info-author">
+                                    Adriaen van Ostade
+                              </span>
+        <span class="popup__artwork-info-title">Seated Peasant Drinking; verso: Blank page</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20188997%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F188997">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F188997" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Seated+Peasant+Drinking%3B+verso%3A+Blank+page+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F188997" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/188997" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_4d97340ab1eea07969d0612e6f75d27d" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

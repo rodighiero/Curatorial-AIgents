@@ -1,0 +1,927 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Skating </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Skating" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299842"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC252083_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Skating" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47208090" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC252083_dynmc?width=3000&height=3000" data-initial-image-id="47208090" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299842" data-behavior="add_to_collection tooltip" data-artwork="299842" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299842&amp;image_id=DDC252083" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299842/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC252083">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC252083_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Edouard Manet"  title="Skating" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47208090" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252083_dynmc?width=125&height=125" alt="Skating">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC252038">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC252038_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Edouard Manet"  title="Skating" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47208347" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252038_dynmc?width=125&height=125" alt="Skating">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="21330">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:21330_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Edouard Manet"  title="Skating" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17328898" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:21330_dynmc?width=125&height=125" alt="Skating">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Although he never exhibited with the impressionists, Manet had a formative influence on the group. He shared their commitment to depicting modern pastimes, as in this scene of a popular roller skating rink. The sport had exploded as a fashionable French pursuit in the 1870s, with five lavish rinks opening in Paris over a two-year period. The main figure here wears a chic outfit, which is displayed at its most alluring angle, accentuating its wearer’s curves. The dress contrasts starkly with the more typical all-black day dresses of the women in the middle ground. As he worked on this composition, Manet made the young child in the foreground increasingly indistinct, focusing the viewer’s attention almost exclusively on her stylish and attractive mother. The model for this figure, Henriette Hauser, was the mistress of the Prince of Orange and an aspiring actress. Manet painted her several times.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1951.50</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27349>Edouard Manet</a>, French                                                                                                                                                                                                                                                                          (Paris 1832 - 1883 Paris)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Skating</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Au Skating                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1877</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299842">https://hvrd.art/o/299842</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 1, Room 1220, European Art, 19th–20th century, Collection of Maurice Wertheim, Class of 1906<br>
+            <a href="/visit/floor-plan/1?gallery=1220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>92 x 71.7 cm (36 1/4 x 28 1/4 in.)<br />
+framed: 112.4 x 92.7 x 9.5 cm (44 1/4 x 36 1/2 x 3 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: in red paint l.r.: Manet
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso (back of frame), handwritten in blue crayon: 8192
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Edouard Manet, Paris (1877-1883), sold; [through Vente Manet, Hotel Drouot, Paris, February 4, 1884, no. 8];  to Emanuel Chabrier (1884-1896) sold; [through Hotel Drouot, March 26, 1896, no. 9] to Manet family (1896-1897), sold; [Durand-Ruel, 1897]; to Auguste Pellerin, 1897. [Bernheim-Jeune, Paris, 1909] sold; to Joseph Hessel, 1909. Mme. Hugo Furstenberg-Cassirer, Berlin. [Paul Cassirer Gallery, Berlin (by 1925)]; Mme. Hugo Furstenberg-Cassirer, Berlin (by 1941); to [Galerie Thannhauser, New York 1946]. Maurice Wertheim, New York, 1949, bequest; to Fogg Art Museum, 1951.<br />
+<br />
+Footnotes:<br />
+This work was in Manet's studio at his death (inventory #25). <br />
+Seligman list of French paintings at present in the U.S.A. May 1941, lists Manet, Skating as property of Mme. F., Paris<br />
+Galerie Thannhauser records list the painting in their Lagerkartei New York from 1941-1969.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest from the Collection of Maurice Wertheim, Class of 1906</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1951</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1951.50</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK HAS SIGNIFICANT LOAN RESTRICTIONS BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Manet Oeuvres Nouvelles</em>, exh. cat., Galerie de "La Vie Moderne" (Paris, France, 1880), no. 7
+                             </p>
+                                                      <p>
+                                              Edmond Bazire, <em>Manet</em>, A. Quantin (Paris, France, 1884), p. 130
+                             </p>
+                                                      <p>
+                                              <em>Manet: Exhibition Posthume</em>, exh. cat., Ecole des Beaux-Arts (Paris, France, 1884), no. 89
+                             </p>
+                                                      <p>
+                                              P. Eudel, <em>L'Hotel Drouot et la Curiosité en 1883-1884</em> (Paris, France, 1885), p. 173
+                             </p>
+                                                      <p>
+                                              J. L., "Exposition d'Oeuvres de Manet chez Durand-Ruel", <em>La Chronique des arts et de la curiosité</em> (December 12, 1896), p. 367
+                             </p>
+                                                      <p>
+                                              Theodore Duret, <em>Histoire d'Edouard Manet et de son oeuvre [1st ed.]</em>, Henri Floury (Paris, France, 1902), p. 249, #225
+                             </p>
+                                                      <p>
+                                              Theodore Duret, <em>Edouard Manet : sein Leben und seine Kunst</em>, Paul Cassirer Gallery (Berlin, Germany, 1910), repr. p. 161
+                             </p>
+                                                      <p>
+                               <em>Les manet de la Collection Pellerin</em>, exh. cat., Paul Cassirer Gallery (Berlin, Germany, 1910)
+                                            </p>
+                                                      <p>
+                                              Antonin Proust, <em>Edouard Manet: Souvenirs</em> (Paris, France, 1913), p. 89, repr. p. 24
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>L'Amour de l'Art</em> (1922), repr. p. 259
+                             </p>
+                                                      <p>
+                                              Emil Waldmann, <em>Edouard Manet</em>, Paul Cassirer Gallery (Berlin, Germany, 1923), repr. pp. 85, 109, 119
+                             </p>
+                                                      <p>
+                               <em>Impressionisten Ausstellung</em>, exh. cat., Paul Cassirer Gallery (Berlin, Germany, 1925)
+                                            </p>
+                                                      <p>
+                                              Etienne Moreau-Nélaton, <em>Manet raconté par lui-meme</em>, H. Laurens (Paris, France, 1926), no. 218; repr. fig. 214. pp. 44-45, 67
+                             </p>
+                                                      <p>
+                                              Julius Meier-Graefe, <em>Manet</em> (1927), p. 250
+                             </p>
+                                                      <p>
+                                              Adolphe Tabarant, <em>Manet: Histoire Catalographique</em>, Ed. Montaigne (Paris, France, 1931), no. 262, pp. 314-315
+                             </p>
+                                                      <p>
+                                              Paul Jamot and Georges Wildenstein, <em>Manet</em>, Les Beaux-Arts (Paris, France, 1932), v. 1, no. 279; repr. v. II, fig. 160
+                             </p>
+                                                      <p>
+                                              Paul Colin, <em>Manet</em>, Librairie Floury (Paris, France, 1937), repr. pl. [p.?] 104
+                             </p>
+                                                      <p>
+                                              <em>La Pintura Francesa de David a Nuestros Dias</em>, exh. cat., Museo Nacional de Bellas Artes, Buenos Aires (Buenos Aires, Argentina, 1939), No. 86
+                             </p>
+                                                      <p>
+                                              René Huyghe, <em>La Pintura francesa desde 1800 hasta nuestros dias</em> (Paris, France, 1939), repr. pl. 37
+                             </p>
+                                                      <p>
+                                              Lionello Venturi, <em>Les Archives de l'Impressionisme</em> (Paris, France, 1939), vol. II, p. 214
+                             </p>
+                                                      <p>
+                                              <em>Painting of France since the Revolution</em>, exh. cat., M.H. de Young Memorial Museum (San Francisco, CA, 1940), no. 67, repr. pl. 77
+                             </p>
+                                                      <p>
+                                              Walter Heil, <em>The Painting of France</em>, M.H. de Young Memorial Museum (San Francisco, CA, 1940), p. 67
+                             </p>
+                                                      <p>
+                                              <em>French Painting from David to Toulouse-Lautrec</em>, exh. cat., George Grady (New York, NY, 1941), no. 80, repr. fig. 36
+                             </p>
+                                                      <p>
+                                              <em>Masterpieces of French Art lent by the museums and collectors of France</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1941), no. 97, repr. pl. 30
+                             </p>
+                                                      <p>
+                                              Adolphe Tabarant, <em>Manet et ses oeuvres</em> (Paris, France, 1947), no. 280. pp. 314, 315, 376, 491, 54, 612
+                             </p>
+                                                      <p>
+                                              <em>La Peinture Française Depuis 1870: Collection Maurice Wertheim</em>, exh. cat., Tom Taylor (Québec, Canada, 1949), no. 6, pp. 17-19
+                             </p>
+                                                      <p>
+                                              "Names Withheld", <em>Art News</em> (February 1950), repr. in color
+                             </p>
+                                                      <p>
+                                              <em>A Collector's Exhibition: Impressionist and Post-Impressionist Masterpieces from the Collections of Members of the Advisory Committee of the Institute of Fine Arts.</em>, exh. cat., Knoedler & Co. Inc. (New York, NY, 1950), repr. p. 5
+                             </p>
+                                                      <p>
+                                              "19th and 20th Century Art", <em>Think</em> (September 1952), pp. 18-19, 32. repr.
+                             </p>
+                                                      <p>
+                                              George Heard Hamilton, <em>Manet and his Critics</em>, Yale University Press (New Haven, CT, 1954), p. 271
+                             </p>
+                                                      <p>
+                                              <em>Edouard Manet : paintings and drawings</em>, Phaidon Press/Garden City Books (London, England and New York, NY, 1958), repr., color
+                             </p>
+                                                      <p>
+                                              John Canaday, <em>Mainstreams of Modern Art</em>, Henry Holt and Co. (New York, NY, 1959), p. 178; repr. p. 177
+                             </p>
+                                                      <p>
+                                              John Canaday, <em>Metropolitan Seminars in Art: Great Periods in Painting</em> (New York, NY, 1960), repr. in color, pl. 9
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Catalogue: Modern French Art-- Monet to Picasso</em>, exh. cat., North Carolina Museum of Art (Raleigh, NC, 1960), p. 20; repr. p. 21
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, exh. cat., The Museum of Fine Arts, Houston (Houston, TX, 1962), p. 24, rpl. 7
+                             </p>
+                                                      <p>
+                                              Roger Delage, "Chabrier et ses amis Impressionistes", <em>L'oeil</em> (December 1963), no. 17, repr.
+                             </p>
+                                                      <p>
+                                              Paolo Lecaldano, ed., <em>The Complete Paintings of Manet</em>, Rizzoli (New York, NY, 1967), repr. in color
+                             </p>
+                                                      <p>
+                                              William Leonard Langer, <em>Western Civilization</em>, American Heritage (New York, NY, 1968), repr. in color, vol. 2, p. 565
+                             </p>
+                                                      <p>
+                                              <em>L'Art Modern du Monde: Manet</em>, Zauho Press (Tokyo, Japan, 1970), repr. in color, no. 46
+                             </p>
+                                                      <p>
+                                              Denis Rouart and Sandra Orienti, <em>Tout L'Oeuvre Peint d'Edouard Manet</em> (Paris, France, 1970), no. 234
+                             </p>
+                                                      <p>
+                                              James Nelson, "Impressionism Ridiculed by 19th Century Critics", <em>The Montgomery Advertiser Journal</em> (Montgomery, AL, June 6, 1971), repr.
+                             </p>
+                                                      <p>
+                                              Germain Bazin, <em>Edouard Manet</em> (Milan, Italy, 1972), pps. 9, 53, 80
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection</em>, exh. cat., Maine State Museum (Augusta, ME, 1972), No. 13, repr.
+                             </p>
+                                                      <p>
+                                              Werner Hofmann, <em>Nana: Mythos und Wirklichkeit</em>, DuMont Schauberg (Cologne, Germany, 1973), p. 11, fig. 12
+                             </p>
+                                                      <p>
+                                              Denis Rouart and Daniel Wildenstein, <em>Edouard Manet: Catalogue Raisonné</em>, La Bibliothèque des Arts (Lausanne, Switzerland and Paris, France, 1975), no. 260, p. 210
+                             </p>
+                                                      <p>
+                                              Anne Coffin Hanson, <em>Manet and the Modern Tradition</em>, Yale University Press (New Haven, CT and London, England, 1977), repr. no. 91, pps. 132, 175, 204
+                             </p>
+                                                      <p>
+                                              [Reproduction only], <em>Apollo</em>, (June 1978)., repr. in color on cover
+                             </p>
+                                                      <p>
+                                              Charles F. Stuckey, <em>Toulouse-Lautrec: Paintings</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1979), repr. in b/w, fig. 4, p. 185
+                             </p>
+                                                      <p>
+                                              John Canaday, <em>Mainstreams of Modern Art [2nd ed.]</em>, Holt, Rinehart & Winston (New York, NY, 1981), repr.in  b/w no. 261, p. 217; detail, no. 262, p. 217; text p. 217
+                             </p>
+                                                      <p>
+                                              Deborah Ann Gribbon, "Manet: The Development of His Art Between 1868 and 1876" (Ph.D. Diss., Harvard University, 1982), Unpublished, pp. 191-194, 199 - 204, fig 79
+                             </p>
+                                                      <p>
+                                              Charles F. Stuckey, <em>Manet</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1983), repr. in color no. 14, text p. 14
+                             </p>
+                                                      <p>
+                                              Françoise Cachin and Charles S. Moffett, <em>Manet, 1832-1883</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1983), pp. 182, 407, 441
+                             </p>
+                                                      <p>
+                                              Joan Samuels, "Technical Study of Skating by Edouard Manet" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, July 1984), Unpublished, pp. 1-27 passim
+                             </p>
+                                                      <p>
+                                              Vivien Raynor, "Art: Impressionist Show at the I.B.M. Gallery" [review], <em>The New York Times</em> (New York, NY, April 26, 1985), p. C24
+                             </p>
+                                                      <p>
+                                              G. Freisinger, "Second Impressions", <em>Harvard Magazine</em> (Cambridge, MA, May 1985 - June 1985), pp. 40, 41, ill.
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 216, p. 190, repr. b/w
+                             </p>
+                                                      <p>
+                                              Kathleen Adler, <em>Manet</em>, Phaidon Press (Oxford, England, 1986), p. 214, pl. 207
+                             </p>
+                                                      <p>
+                                              John O'Brian, <em>Degas to Matisse: the Maurice Wertheim Collection</em>, Harry N. Abrams, Inc. and Fogg Art Museum (New York, NY and Cambridge, MA, 1988), no. 11, pp. 66-69, repr. in color p. 67
+                             </p>
+                                                      <p>
+                                              T. A. Gronberg, <em>Manet: A Retrospective</em>, Hugh Lauter Levin Associates, Inc. (New York, NY, 1988), p. 223, 251; color plate no. 77, p. 255
+                             </p>
+                                                      <p>
+                                              Edward Lucie-Smith, <em>Impressionist Women</em>, Weidenfeld & Nicolson (London, England, 1989), p. 23, repr. p. 15, fig. 7
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 85, color plate; pp. 117, 247, repr. b/w cat. no. 351
+                             </p>
+                                                      <p>
+                                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, exh. cat., Harry N. Abrams, Inc. (New York, NY, 1990), repr. in color no. 3, p. 37
+                             </p>
+                                                      <p>
+                                              Eric Darragon, <em>Manet</em>, Editions Citadelles (Paris, France, 1991), repr. in color fig. 194, p. 274
+                             </p>
+                                                      <p>
+                                              <em>Edouard Manet</em>, Orion Press (Tokyo, Japan, 1992), repr. in color, p. 49
+                             </p>
+                                                      <p>
+                                              <em>Vincent van Gogh and Japan</em>, exh. cat., National Museum of Modern Art, Kyoto (Kyoto, Japan, 1992), fig. 16, p. 174, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Françoise Cachin, <em>Manet: "J'ai fait ce que j'ai vu"</em>, Gallimard/Reunion des Musées Nationaux (Paris, France, 1994), repr. in color, p. 120
+                             </p>
+                                                      <p>
+                                              James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), p. 190, ill. p. 191
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              <em>Modern Art at Harvard</em>, exh. cat., Nihon Keizai Shimbun, Inc. (Tokyo, Japan, 1999), no. 12, p. 49
+                             </p>
+                                                      <p>
+                                              Belinda Thomson, <em>Impressionism:  Origins, Practice, Reception</em>, Thames and Hudson, Ltd. (London, 2000), pp. 205, 207, 208, repr. in color
+                             </p>
+                                                      <p>
+                                              Dr. Ina Conzen, <em>Edouard Manet und die Impressionisten</em>, exh. cat., Hatje Cantz Verlag (Ostfildern-Ruit, 2002), no. 48, repr. in color; p. 119
+                             </p>
+                                                      <p>
+                                              Carol Armstrong, <em>Manet Manette</em>, Yale University Press (New Haven and London, 2002), pp. 250-251, no. 123, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Svetlana Alpers, <em>The Vexations of Art: Velazquez and Others</em>, Yale University Press (New Haven, CT, and London, 2005), p. 244; repr. in b/w p. 245 as fig. 151
+                             </p>
+                                                      <p>
+                                              Nancy H. Yeide, "The Spirit of France: The 1940-46 Exhibition of French Art in the United States", <em>The Burlington Magazine</em> (London, August 2012), Vol. CLIV, August 2012, pp 564-569, p. 565, 569, repr. as fig. 35
+                             </p>
+                                                      <p>
+                                              Charles-Arthur Boyer, <em>Petites histoires de corsets au temps des impressionistes</em>, Editions de La Martinière (Paris, France, 2012), pp. 108-109, reproduced [in color]
+                             </p>
+                                                      <p>
+                                              Review of "Anders Zorn", <em>The Burlington Magazine</em> (June 2013), CLV, pp. 436-437, p. 437
+                             </p>
+                                                      <p>
+                               Elizabeth M. Rudy, "Researching the Wertheim Collection at the Harvard Art Museums", <em>Collections: A Journal for Museum and Archives Professionals</em> (Summer 2014), Vol. 10, No. 3, pp. 301-6
+                                            </p>
+                                                      <p>
+                                              Cristóbal Amunátegui, Circles, Circuts, Cycles, <em>AA Files</em> (London, 2015), 71, pp. 75-89, p. 89, repr.
+                             </p>
+                                                      <p>
+                                              Christie McDonald and François Proulx, ed., <em>Proust and the Arts</em>, Cambridge University Press (Cambridge, 2015), p. 3, fig. 1.1; also reproduced on front and back covers
+                             </p>
+                                                      <p>
+                                              Scott Allan, Emily Beeny, and Gloria Groom, ed., <em>Manet and Modern Beauty: The Artist's Last Years</em>, exh. cat., J. Paul Getty Museum and The Art Institute of Chicago (Los Angeles, 2019), pp. 59-61, 63, 68, 190, 278-279, 287-288, cat. no. 7, repr. pp. 190 and 278
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Manet Oeuvres Nouvelles</em>, Galerie de "La Vie Moderne", Paris, 01/01/1880 - 12/31/1880
+                            </p>
+                          <p>
+                              <em>Manet: Exhibition Posthume</em>, Ecole des Beaux-Arts, Paris, 01/01/1884 - 12/31/1884
+                            </p>
+                          <p>
+                              <em>Oeuvres de Manet</em>, Durand-Ruel Paris, Paris, 01/01/1896 - 12/31/1896
+                            </p>
+                          <p>
+                              <em>Exposition Manet de la collection Pellerin</em>, Moderne Galerie Thannhauser, Munich, 01/01/1910 - 12/31/1910; Paul Cassirer Gallery, Berlin, 01/01/1910 - 12/31/1910; Galerie Bernheim Jeune, Paris, 06/01/1910 - 06/17/1910
+                            </p>
+                          <p>
+                              <em>Impressionisten Ausstellung</em>, Paul Cassirer Gallery, Berlin, 01/01/1925 - 12/13/1925
+                            </p>
+                          <p>
+                              <em>La Pintura Francesa de David a Nuestros Dias</em>, Museo Nacional de Bellas Artes, Buenos Aires, Buenos Aires, 07/01/1939 - 07/31/1939; Museo Nacional de Bellas Artes, Rio de Janeiro, Rio de Janeiro, 01/01/1940 - 12/31/1940; Comisionade Nacional de Bellas Artes, Montevideo, 01/04/1940 - 12/31/1940
+                            </p>
+                          <p>
+                              <em>The Painting of France Since the Revolution</em>, M.H. de Young Memorial Museum, San Francisco, 12/01/1940 - 12/31/1940
+                            </p>
+                          <p>
+                              <em>French Painting from David to Toulouse-Lautrec</em>, The Metropolitan Museum of Art, New York, 02/06/1941 - 03/26/1941
+                            </p>
+                          <p>
+                              <em>Masterpieces of French Art</em>, The Art Institute of Chicago, Chicago, 04/10/1941 - 05/20/1941; Los Angeles County Museum of Art, Los Angeles, 06/01/1941 - 07/31/1941
+                            </p>
+                          <p>
+                              <em>La Peinture Française depuis 1870</em>, Musée de la Province de Quebec, 07/12/1949 - 08/07/1949
+                            </p>
+                          <p>
+                              <em>A Collector's Exhibition</em>, M. Knoedler & Co., Newport, 02/06/1950 - 02/25/1950
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, The Metropolitan Museum of Art, New York, 07/01/1952 - 09/14/1952
+                            </p>
+                          <p>
+                              <em>French Paintings Since 1870 from the Maurice Wertheim Collection</em>, National Gallery of Art, Washington, 06/01/1953 - 09/30/1953
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Philadelphia Museum of Art, Philadelphia, 06/15/1957 - 09/15/1957
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Council of Jewish Women, 1957</em>, Council of Jewish Women, New York, 10/25/1957 - 11/02/1957
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Minneapolis Institute of Arts, Minneapolis, 06/10/1958 - 08/31/1958
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Modern French Art--Monet to Picasso</em>, North Carolina Museum of Art, Raleigh, 06/17/1960 - 09/04/1960
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection: Manet to Picasso</em>, The Museum of Fine Arts, Houston, Houston, 06/13/1962 - 09/02/1962
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Baltimore Museum of Art, Baltimore, 06/20/1963 - 09/01/1963
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Currier Museum of Art, Manchester, 06/24/1965 - 09/07/1965
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Rhode Island School of Design Museum, Providence, 09/03/1968 - 09/22/1968
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Montgomery Museum of Art, Montgomery, 06/01/1971 - 09/30/1971
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection</em>, Maine State Museum, Augusta, 06/01/1972 - 09/01/1972
+                            </p>
+                          <p>
+                              <em>Manet to Matisse: The Maurice Wertheim Collection</em>, IBM Gallery of Science and Art, New York, 04/09/1985 - 05/25/1985
+                            </p>
+                          <p>
+                              <em>Masterpieces of European Art</em>, Busch-Reisinger Museum, Cambridge, 06/22/1985 - 09/15/1985
+                            </p>
+                          <p>
+                              <em>The Maurice Wertheim Collection and Selected Impressionist and Post-Impressionist Paintings and Drawings in the Fogg Art Museum</em>, Isetan Department Store, Tokyo, 03/01/1990 - 04/10/1990; Yamaguchi Prefectural Museum of Art, 04/14/1990 - 05/13/1990
+                            </p>
+                          <p>
+                              <em>Modern Art at Harvard</em>, Bunkamura Museum of Art, Tokyo, 07/31/1999 - 09/26/1999; Takamatsu City Museum of Art, Kagawa, 10/09/1999 - 11/14/1999; Matsuzakaya Art Museum, Nagoya, 12/02/1999 - 12/27/1999; Oita City Museum, Oita, 01/06/2000 - 02/06/2000; Museum of Modern Art, Ibaraki, Ibaraki, 02/11/2000 - 03/26/2000
+                            </p>
+                          <p>
+                              <em>Edouard Manet und die Impressionisten</em>, Staatsgalerie Stuttgart, Stuttgart, 09/21/2002 - 02/09/2003
+                            </p>
+                          <p>
+                              <em>Re-View: S427  Impressionist & Postimpressionist Art</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/02/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 1220 Wertheim</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 09/26/2019; Harvard Art Museums, Cambridge, 12/20/2019 - 01/01/2050
+                            </p>
+                          <p>
+                              <em>Manet and Modern Beauty</em>, J. Paul Getty Museum, Los Angeles, 10/08/2019 - 01/12/2020
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347609">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR008106_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "le Skating"">
+                                    <span class="related-artwork__obj">Straus.8116</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Edouard Manet</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Le Skating"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252083_dynmc?width=200&height=200" alt="Skating">
+                <span class="popup__artwork-info-id">1951.50</span>
+        <span class="popup__artwork-info-author">
+                                    Edouard Manet
+                              </span>
+        <span class="popup__artwork-info-title">Skating</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299842%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299842">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299842" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Skating+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299842" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299842" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_bdac860d850d8189d701133149093339" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

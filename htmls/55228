@@ -1,0 +1,1428 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Liber Veritatis, I </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Liber Veritatis, I" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/55228"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV207330_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Liber Veritatis, I" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_12654817" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV207330_dynmc?width=3000&height=3000" data-initial-image-id="12654817" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?55228" data-behavior="add_to_collection tooltip" data-artwork="55228" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=55228&amp;image_id=INV207330" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/55228/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="INV207330">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV207330_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Richard Earlom"  title="Liber Veritatis, I" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12654817" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV207330_dynmc?width=125&height=125" alt="Liber Veritatis, I">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV175873">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV175873_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Richard Earlom"  title="Liber Veritatis, I" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="8287710" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV175873_dynmc?width=125&height=125" alt="Liber Veritatis, I">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV175876">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV175876_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Richard Earlom"  title="Liber Veritatis, I" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="8287711" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV175876_dynmc?width=125&height=125" alt="Liber Veritatis, I">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>G7864.-G7964</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/31901>Richard Earlom</a>, British                                                                                                                                                                                                                                                                          (London, England 1743 - 1822 London, England)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Liber Veritatis, I</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Liber Veritatis, I                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            book                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>18th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/55228">https://hvrd.art/o/55228</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Mezzotint</dd>
+           
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gray Collection of Engravings Fund</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>G7864.-G7964</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/273511">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176889_dynmc?width=3000&height=3000" alt="Claude Lorrain">
+                                    <span class="related-artwork__obj">G7864</span>
+                                      <h4 class="related-artwork__artist">Josiah Boydell</h4>
+                                                        <h3 class="related-artwork__title">Claude Lorrain</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275198">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176896_dynmc?width=3000&height=3000" alt="View Of A Seaport">
+                                    <span class="related-artwork__obj">G7866</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Seaport</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275199">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176906_dynmc?width=3000&height=3000" alt="Landscape, With Banditti">
+                                    <span class="related-artwork__obj">G7867</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Banditti</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275205">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177018_dynmc?width=3000&height=3000" alt="Landscape, With Peasants And Cattle">
+                                    <span class="related-artwork__obj">G7882</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275206">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177020_dynmc?width=3000&height=3000" alt="View Of A Seaport, With A Sunset And A Roman Arch">
+                                    <span class="related-artwork__obj">G7883</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Seaport, with a Sunset and a Roman Arch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275207">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177021_dynmc?width=3000&height=3000" alt="Landscape, With Peasants And Cattle">
+                                    <span class="related-artwork__obj">G7884</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275208">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177023_dynmc?width=3000&height=3000" alt="Scene By The Riverside, Men Building Boats">
+                                    <span class="related-artwork__obj">G7885</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Scene by the Riverside, Men Building Boats</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275209">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7906</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275210">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7907</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275215">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7924</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle and the Representation of the Flight into Egypt</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275216">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7925</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport, with Buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275264">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7960</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport, with Buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275265">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7961</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with St. John the Baptist Lying under a Tree</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275266">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7934</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Buildings and a View of the Sea</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275267">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7935</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of the Sea, with a Representation of the Trojan Women Burning the Ships</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275268">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7940</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Jupiter in the Form of Diana Tempting Callisto</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275269">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7941</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of Narcissus and Echo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275270">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7944</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport with Ulysses Restoring Chryseis to Chryses, the Priest of Apollo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275271">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7945</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants and Cattle Passing a Ford</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275375">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7942</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape at Sunset, with Peasants Driving Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275376">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7943</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants and Cattle, and the Temple of the Sibyl</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275385">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7948</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275386">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7949</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle and Buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275387">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7950</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275388">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7951</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275406">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7952</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">A Rest on the Flight into Egypt</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275407">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7953</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Mountains</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275408">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7954</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape at Sunset, with Cattle or View of Ponte Mole near Rome</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275409">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7955</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275410">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7956</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Mercury Driving Away the Herds of Admetus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275411">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7957</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275412">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7964</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of Cephalus and Procris</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275460">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176981_dynmc?width=3000&height=3000" alt="View Of A Setting Sun And Ornamented Buildings">
+                                    <span class="related-artwork__obj">G7870</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Setting Sun and Ornamented Buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275461">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176983_dynmc?width=3000&height=3000" alt="An Inland Scene Of A Mountainous Country With Cattle">
+                                    <span class="related-artwork__obj">G7871</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">An Inland Scene of a Mountainous Country with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275462">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176988_dynmc?width=3000&height=3000" alt="Woody Scene And Water">
+                                    <span class="related-artwork__obj">G7872</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Woody Scene and Water</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275463">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176994_dynmc?width=3000&height=3000" alt="Seaport, With A Market On Shore, And Magnificent Buildings Adjoining">
+                                    <span class="related-artwork__obj">G7873</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport, with a Market on Shore, and magnificent Buildings adjoining</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275464">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176998_dynmc?width=3000&height=3000" alt="View Of The Forum, Or Campo Vaccino, At Rome With The Arch Of Septimius Severus, And The Three Columns Of Jupiter Stator">
+                                    <span class="related-artwork__obj">G7874</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of the Forum, or Campo Vaccino, at Rome with the Arch of Septimius Severus, and the Three Columns of Jupiter Stator</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275465">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177000_dynmc?width=3000&height=3000" alt="Scene Of Water And A Mill, With A Herdsman And Cattle">
+                                    <span class="related-artwork__obj">G7875</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Scene of Water and a Mill, with a Herdsman and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275466">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177001_dynmc?width=3000&height=3000" alt="View Of A Sunrise">
+                                    <span class="related-artwork__obj">G7876</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Sunrise</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275470">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177002_dynmc?width=3000&height=3000" alt="Landscape, With Peasants Dancing, Called By Le Bas "la Recompense Villageoise"">
+                                    <span class="related-artwork__obj">G7877</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants Dancing, called by Le Bas "La Recompense villageoise"</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275554">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176893_dynmc?width=3000&height=3000" alt="View In Rome, With Three Columns Of Jupiter Stator And The Colosseum">
+                                    <span class="related-artwork__obj">G7865</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View in Rome, with Three Columns of Jupiter Stator and the Colosseum</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275582">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177025_dynmc?width=3000&height=3000" alt="View Of A Ferry, With Cattle">
+                                    <span class="related-artwork__obj">G7886</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Ferry, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275583">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177028_dynmc?width=3000&height=3000" alt="View Of A Portico By The Side Of A River, With Herdsmen And Cattle">
+                                    <span class="related-artwork__obj">G7887</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Portico by the Side of a River, with Herdsmen and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275584">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7890</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of the Sea, with Sunset</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275585">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7891</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Peasants Driving Cattle and the Sea in the Distance</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275586">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7904</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants Driving Cattle through a Valley</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275587">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7905</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Herdsmen and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275588">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7908</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with a distant View of the Sea, and Claude Himself Drawing</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275589">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7909</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of Marsyas Flayed by the Order of Apollo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275590">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177003_dynmc?width=3000&height=3000" alt="A Seaport, With A Sunset And Many Figures On Shore">
+                                    <span class="related-artwork__obj">G7878</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">A Seaport, with a Sunset and Many Figures on Shore</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275591">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177004_dynmc?width=3000&height=3000" alt="Landscape, With A Herdsman And Cattle">
+                                    <span class="related-artwork__obj">G7879</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with a Herdsman and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275592">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177012_dynmc?width=3000&height=3000" alt="Landscape, With Peasants Taking Their Repast">
+                                    <span class="related-artwork__obj">G7880</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants Taking Their Repast</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275593">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177016_dynmc?width=3000&height=3000" alt="Seaport, With Sailors Loading Merchandise">
+                                    <span class="related-artwork__obj">G7881</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport, with Sailors Loading Merchandise</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275594">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177031_dynmc?width=3000&height=3000" alt="View Near A Village, With A Ruined Building, And Claude Himself Drawing">
+                                    <span class="related-artwork__obj">G7888</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View Near a Village, with a Ruined Building, and Claude Himself Drawing</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275595">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV177033_dynmc?width=3000&height=3000" alt="Landscape, With Peasants And Cattle">
+                                    <span class="related-artwork__obj">G7889</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275596">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7896</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Scene of a Ruined building, with the Temptation of St. Anthony</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275597">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7897</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Scene of a Storm, with a Vessel Wrecked</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275598">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7898</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants Driving Cattle, and Banditti in a Wood</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275599">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7899</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with distant View of Castel Gandolfo by the Side of the Lake Albano</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275600">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7902</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">A Rest on the Flight into Egypt</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275601">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7903</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275602">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7910</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Distant View of the Sea</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275603">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7911</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of Finding Moses</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275617">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7922</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with an Arch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275618">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7923</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, by Moonlight, with Peasants Lighting a Fire</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275619">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7926</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Peasants and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275620">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7927</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport, with Buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275621">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7930</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">The Flight into Egypt</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275622">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7931</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Travellers Passing over a Bridge, and the Temple of the Sibyl</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275624">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7938</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of the Sea during a Storm</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275625">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7939</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscapes, with Peasants and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275626">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7946</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape at Sunset, with a Ruined ARch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275627">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7947</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle Passing a Ford</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275645">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7892</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport at Sunset, with Many Figures</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275646">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7893</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Seaport, with a Vessel Approaching the Shore</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275647">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7894</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View with Several Vessels Close to the Shore</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275648">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7895</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View at Sunset, with many Figures, and the Temple of the Sibyl Introduced on a Hill to the Left</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275649">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7900</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle, and Peasants Reposing in the Shade</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275650">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7901</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with a Party Going to Hunt</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275651">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7912</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape with the Colosseum and other Buildings</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275652">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7913</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Seaport, with Buildings and Many Figures</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275667">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7914</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Tobias and the Angel</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275668">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7916</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Herdsmen and Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275669">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7917</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Herdsmen and Cattle and a Distant View of the Sea</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275670">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7918</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Seaport with the Embarkation of St. Ursula with Her Eleven Thousand Virgins</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275671">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7919</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with a Satyr and Nymphs</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275672">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7920</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275673">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7921</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of Diana and Actaeon</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275699">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7915</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">The Delivery of Saint Peter Out of Prison</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275700">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7928</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Buildings and a Distant View of the Sea</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275701">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7929</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape with Tobias and the Angel</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275702">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7932</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape at Sunset and Fishermen Drawing a Net</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275703">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7933</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with a Grand Portico in which Samuel Is Anointing David</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275704">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7936</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Scene of a Shipwreck, with Rocks and a Castle</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275705">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7937</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with St. George Combatting the Dragon</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275716">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7958</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of the Judgment of Paris</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275717">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7959</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with the Story of Apollo and Marsyas</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275718">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7962</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with Cattle Passing a Ford</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/275719">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">G7963</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">Landscape, with a Ruined Building and a Prospect of the Sea</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/276007">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV176969_dynmc?width=3000&height=3000" alt="View Of A Seaport">
+                                    <span class="related-artwork__obj">G7868</span>
+                                      <h4 class="related-artwork__artist">Richard Earlom</h4>
+                                                        <h3 class="related-artwork__title">View of a Seaport</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV207330_dynmc?width=200&height=200" alt="Liber Veritatis, I">
+                <span class="popup__artwork-info-id">G7864.-G7964</span>
+        <span class="popup__artwork-info-author">
+                                    Richard Earlom
+                              </span>
+        <span class="popup__artwork-info-title">Liber Veritatis, I</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2055228%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55228">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55228" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Liber+Veritatis%2C+I+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F55228" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/55228" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_77401ccd750fa4bac68bdba81f8efe26" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

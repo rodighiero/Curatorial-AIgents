@@ -1,0 +1,684 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Charles Bulfinch (1763-1844) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Charles Bulfinch (1763-1844)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299910"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC230683_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Charles Bulfinch (1763-1844)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_44233363" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC230683_dynmc?width=3000&height=3000" data-initial-image-id="44233363" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299910" data-behavior="add_to_collection tooltip" data-artwork="299910" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299910&amp;image_id=DDC230683" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299910/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC230683">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC230683_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Mather Brown"  title="Charles Bulfinch (1763-1844)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="44233363" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC230683_dynmc?width=125&height=125" alt="Charles Bulfinch (1763-1844)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="245146">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS245146?width=3000&height=3000" data-zoom-enabled="1" data-people="Mather Brown"  title="Charles Bulfinch (1763-1844)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="425332944" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS245146?width=125&height=125" alt="Charles Bulfinch (1763-1844)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="245147">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS245147?width=3000&height=3000" data-zoom-enabled="1" data-people="Mather Brown"  title="Charles Bulfinch (1763-1844)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="425332949" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS245147?width=125&height=125" alt="Charles Bulfinch (1763-1844)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="47844">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS47844_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Mather Brown"  title="Charles Bulfinch (1763-1844)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20681923" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS47844_dynmc?width=125&height=125" alt="Charles Bulfinch (1763-1844)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="64552">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS64552_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Mather Brown"  title="Charles Bulfinch (1763-1844)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20684368" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS64552_dynmc?width=125&height=125" alt="Charles Bulfinch (1763-1844)">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>H428</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29669>Mather Brown</a>, American                                                                                                                                                                                                                                                                          (Boston, MA 1761 - 1831 London, England)
+                                            <br>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/10907>Charles Bulfinch</a>                                                                                                                                                                      (1763-1844)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Charles Bulfinch (1763-1844)</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1786</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Europe, United Kingdom, England, London                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299910">https://hvrd.art/o/299910</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>74.9 x 62.9 cm (29 1/2 x 24 3/4 in.)<br />
+framed: 88.9 x 76.2 x 5.1 cm (35 x 30 x 2 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          label: back of frame: Portrait of Charles Bulfinch, Architect - Painted in/ London by Browne, in 1786 - Age 23. The property of Ellen Susan Bulfinch, Cambridge
+                        </li>
+                                              <li data-a="2">
+                          label: back of frame: From National Portrait Gallery/This New Man/Sept. 28-Dec. 31 1968/Opening Exhibit
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Commissioned by Charles Bulfinch, 1786; owned by Thomas Bulfinch, Boston, MA, in 1855;  by descent in family to Ellen Susan Bulfinch, Cambridge, MA; to Francis V. Bulfinch, 1918; his gift to Harvard University, 1933.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard University Portrait Collection, Gift of Francis V. Bulfinch to Harvard University, 1933</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>H428</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              "Fashioning an American Diplomat: The Mather Brown Portrait of Thomas Jefferson", p. 22, fig. 3
+                             </p>
+                                                      <p>
+                                              Ellen Susan Bulfinch, ed., <em>The Life and Letters of Charles Bulfinch, Architect, with other Family Papers</em>, Houghton Mifflin Company, p. 56, ill.
+                             </p>
+                                                      <p>
+                               [Letter from Charles Bulfinch to his mother], September 17, 1786, Unpublished, Houghton Library, Harvard University
+                                            </p>
+                                                      <p>
+                                              Proceedings, Massachusetts Historical Society (Boston, MA, October 1913-June 1914), vol. XLVII, p. 292
+                             </p>
+                                                      <p>
+                                              Martha A. S. Shannon, "The Architecture of Charles Bulfinch", <em>The American Magazine of Art</em> (1925), vol. 16, pp. 431-437, ill. p. 432
+                             </p>
+                                                      <p>
+                                              Charles A. Place, <em>Charles Bulfinch, Architect and Citizen</em>, Houghton Mifflin Company (Boston and New York, 1925), p. 8-11, 60, ill. n.p.
+                             </p>
+                                                      <p>
+                                              Talbot Faulkner Hamlin, <em>The American Spirit in Architecture</em>, Yale University Press (U.S.) (New Haven, 1926), p. 100, fig. 216
+                             </p>
+                                                      <p>
+                                              Cuthbert Lee, <em>Early American Portrait Painters: The Fourteen Principal Earliest Native-born Painters</em>, Yale University Press (New Haven, CT, 1929), p. 283
+                             </p>
+                                                      <p>
+                                              Laura M. Huntsinger, <em>Harvard Portraits: A Catalogue of Portrait Paintings at Harvard University</em>, ed. Alan Burroughs, Harvard University Press (Cambridge, MA, 1936), pp. 32-33
+                             </p>
+                                                      <p>
+                                              Historical Records Survey, Division of Professional and Service Projects, Works Progress Administration, <em>American Portraits, 1620-1825, found in Massachusetts, Volumes 1 and 2</em>, Historical Records Survey (Boston, MA, 1939), p. 61, cat. 324
+                             </p>
+                                                      <p>
+                                              Helen Comstock, "Portraits of American craftsmen", <em>The Magazine Antiques</em> (October 1959), vol. LXXVI, no. 4, pp. 320-327, ill. p. 322
+                             </p>
+                                                      <p>
+                                              Alice Winchester, <em>Collectors & Collections: The Antiques Anniversary Book</em>, Antiques (New York, NY, 1961), ill. p. 126
+                             </p>
+                                                      <p>
+                                              Harold Kirker and James Kirker, <em>Bulfinch's Boston, 1787-1817</em>, Oxford University Press (UK) (New York, NY, 1964), pp. 4-6, pl. 1
+                             </p>
+                                                      <p>
+                                              Jules David Prown, <em>John Singleton Copley</em>, Harvard University Press (Cambridge, MA, 1966), p. 315
+                             </p>
+                                                      <p>
+                                              Charles Nagel and Oscar Handlin, <em>This New Man: A Discourse in Portraits</em>, exh. cat., ed. J. Benjamin Townsend, National Portrait Gallery and Smithsonian Institution Press (Washington, DC, 1968), ill. p. 186
+                             </p>
+                                                      <p>
+                                              William Dunlap, <em>History of the Rise and Progress of the Arts of Design in the United States</em>, Dover Publications Inc. (New York, 1969), vol. I, p. 228, pl. 71
+                             </p>
+                                                      <p>
+                                              Harold Kirker, <em>The Architecture of Charles Bulfinch</em>, Harvard University Press (Cambridge, MA, 1969), frontispiece, p. 1
+                             </p>
+                                                      <p>
+                                              Richard McLanathan, <em>Art in America: A Brief History</em>, Harcourt Brace Jovanovich (New York, 1973), p. 76
+                             </p>
+                                                      <p>
+                                              Wendy Ann Cooper, "Paul Revere's Boston, 1735-1818", <em>The Magazine Antiques</em> (July 1975), vol. 108, pp. 80-93, p. 89, fig. 10
+                             </p>
+                                                      <p>
+                                              L. D. Geller, <em>The Architecture of Elegance: The Tradition of Charles Bulfinch and the Plymouth Federal Savings Bank</em>, The Pilgrim Society (Plymouth, MA, 1976), frontispiece
+                             </p>
+                                                      <p>
+                                              Franklin P. Cole, <em>Mather Books & Portraits Through Six Early American Generations, with Biographical Sketches</em>, Casco Printing Company (Portland, ME, 1978), pp. 208-209, 215, 217, ill. p. 218
+                             </p>
+                                                      <p>
+                                              Norman K. Risjord, <em>Representative Americans: The Revolutionary Generation</em>, D. C. Heath and Co. (Lexington, MA and Toronto, 1980), ill. p. 121
+                             </p>
+                                                      <p>
+                                              Joseph Jacobs Thorndike, Jr., ed., <em>Three Centuries of Notable American Architects</em>, American Heritage Publishing Co. (New York, NY, 1981), ill. p. 11.
+                             </p>
+                                                      <p>
+                                              Dorinda Evans, <em>Mather Brown: Early American Artist in England</em>, Wesleyan University Press (Middletown, CT, 1982), p. 54,  fig. 32, p. 200
+                             </p>
+                                                      <p>
+                                              Diane Maddex, ed., <em>Master Builders: A Guide to Famous American Architects</em>, National Trust for Historic Preservation (Washington, DC, 1985), ill. p. 21
+                             </p>
+                                                      <p>
+                                              Lisa Koenigsberg, "'Lifewriting': First  American Biographers of Architects and Their Works", <em>The Architectural Historian in America: A Symposium in Celebration of the Fiftieth Anniversary of the Founding of the Society of Architectural Historians</em>, ed. Elisabeth Blair MacDougall, National Gallery of Art and University Press of New England (Hanover and London, 1990), p. 51, fig. 11
+                             </p>
+                                                      <p>
+                                              Lawrence W. Kennedy, <em>Planning the City Upon a Hill: Boston Since 1630</em>, University of Massachusetts at Boston (Boston, MA, 1992), p. 25, fig. 2.1
+                             </p>
+                                                      <p>
+                                              Eleanor Bailey, "Who They Were", <em>The Old-House Journal</em> (Brooklyn, NY, September 1994 - October 1994), vol. XXII, no. 6, pp. 24-26, ill. p. 24
+                             </p>
+                                                      <p>
+                                              Michael Wentworth and Elizabeth Lamb Clark, <em>Boston Library Society. 1794-1994</em>, exh. cat., Boston Athenaeum (Boston, MA, 1995), p. 30, pl. III
+                             </p>
+                                                      <p>
+                                              The Johns Hopkins University Press, <em>Thomas Jefferson's Travels in Europe, 1784-1789</em>, George Green Shackelford (Baltimore and London, 1995), p. 164
+                             </p>
+                                                      <p>
+                                              Moying Li-Marcus, <em>Beacon Hill: The Life & Times of a Neighborhood</em>, Northeastern University Press (Boston, MA, 2002), ill. p. 12
+                             </p>
+                                                      <p>
+                                              Hugh Howard, <em>Dr. Kimball and Mr. Jefferson: Rediscovering the Founding Fathers of American Architecture</em>, Bloomsbury (New York, 2006), ill. p. 185
+                             </p>
+                                                      <p>
+                                              Jay Wickersham, "The Financial Misadventures of Charles Bulfinch", <em>The New England Quarterly</em> (September 2010), vol LXXXIII, no. 3, pp. 413-481, p. 416, fig. 1
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr. and Melissa Renn, <em>American Paintings at Harvard, Volume One: Paintings, Watercolors, and Pastels by Artists Born before 1826</em>, Yale University Press (U.S.) and Harvard Art Museums (Cambridge and New Haven, 2014), pp. 106-07, cat. 59, ill.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>This New Man: A Discourse in Portraits</em>, National Portrait Gallery, Washington, 09/28/1968 - 12/31/1968
+                            </p>
+                          <p>
+                              <em>Paul Revere's Boston 1735-1818</em>, Museum of Fine Arts, Boston, Boston, 04/18/1975 - 10/12/1975
+                            </p>
+                          <p>
+                              <em>The Old State House</em>, Old State House, Hartford, 05/19/1979 - 09/30/1979
+                            </p>
+                          <p>
+                              <em>Bicentennial of the Boston Library Society</em>, Rodney Armstrong, Boston, 02/13/1995 - 04/01/1995
+                            </p>
+                          <p>
+                              <em>The History of the Boston Library Society Exhibition</em>, Rodney Armstrong, Boston, 02/13/1995 - 04/01/1995
+                            </p>
+                          <p>
+                              <em>Temple of Liberty: Building a Capitol for a New Nation</em>, Library of Congress, Washington D.C., 02/22/1995 - 06/24/1995
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC230683_dynmc?width=200&height=200" alt="Charles Bulfinch (1763-1844)">
+                <span class="popup__artwork-info-id">H428</span>
+        <span class="popup__artwork-info-author">
+                                    Mather Brown
+                          Charles Bulfinch
+                              </span>
+        <span class="popup__artwork-info-title">Charles Bulfinch (1763-1844)</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299910%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299910">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299910" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Charles+Bulfinch+%281763-1844%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299910" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299910" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_5b352f0366bbd3c230853add1503ee03" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

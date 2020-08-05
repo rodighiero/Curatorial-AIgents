@@ -1,0 +1,791 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Julia Domna </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Julia Domna" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/312252"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC251034_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Julia Domna" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_46585814" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC251034_dynmc?width=3000&height=3000" data-initial-image-id="46585814" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?312252" data-behavior="add_to_collection tooltip" data-artwork="312252" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=312252&amp;image_id=DDC251034" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/312252/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC251034">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251034_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46585814" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251034_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC107049">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC107049_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="11434620" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC107049_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251053">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251053_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46585819" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251053_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251054">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251054_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46585820" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251054_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251055">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251055_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="46585821" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251055_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR010381">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR010381_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="" data-image-id="45611702" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR010381_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR010382">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR010382_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="" data-image-id="45611703" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR010382_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR010383">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR010383_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="" data-image-id="45611704" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR010383_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR010384">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR010384_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="" data-image-id="45611705" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR010384_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017800">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017800?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="404823057" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017800?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017801">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017801?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="404823061" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017801?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="44962">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:44962_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182700" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:44962_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="44963">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:44963_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182701" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:44963_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="44964">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:44964_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182702" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:44964_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="44965">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:44965_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Julia Domna" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182703" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:44965_dynmc?width=125&height=125" alt="Julia Domna">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>The daughter of the priest of the sun god in Emesa (Syria), Julia Domna (170–217 CE) married Septimius Severus (see coin 28), a general from Lepcis Magna (Libya) who was proclaimed Roman emperor by the military in 193. Her distinctive coiffure (see coin 29), with loose waves framing her face and a large bun (separately made but now lost), was a change from the hairstyles of second-century empresses, who wore their hair entirely up, often sculpted of elaborate braids. The head, reportedly found in Syria not far from her hometown, would have been set into a separately made body or bust. Traces of gold on the back of the neck are evidence that the head was once gilded, which would have been appropriate for imperial statues. It may have stood in a sebasteion (shrine dedicated to the imperial cult), where emperors and their close family members were venerated.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1956.19</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Julia Domna</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture,                                          head                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>193-211 CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Asia, Syria                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Roman Imperial period, Middle</dd>
+                                        <dt>Culture</dt>
+                <dd>Roman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/312252">https://hvrd.art/o/312252</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 3, Room 3700, Ancient Mediterranean and Near Eastern Art, Roman Art<br>
+            <a href="/visit/floor-plan/3?gallery=3700" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leaded bronze, gilded</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>36 x 22 x 20 cm (14 3/16 x 8 11/16 x 7 7/8 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: XRF data from Tracer<br />
+Alloy: Leaded Bronze<br />
+Alloying Elements: copper, tin, lead<br />
+Other Elements: iron, silver, antimony<br />
+Comments: There are small patches of gold on the back of the neck of the object.<br />
+<br />
+K. Eremin, January 2014</p>
+                                      <p class="divider">Chemical Composition: SEM-WDS data from sample, 1956.19.B, Leaded bronze:<br />
+Overall Alloy: Cu, 76.2; Sn, 8.2; Pb, 15.6; Zn, 0.13; Fe, nd; Ni, nd; Ag, nd; Sb, 0.17; As, 0.13; Co, nd<br />
+Copper phase around lead inclusions: Cu, 90.2; Sn, 8.6; Pb, 0.62<br />
+Comments: Copper sulfide inclusions. Large region SEM/EDS analysis used to indicate overall lead content of alloy. <br />
+ <br />
+R. Newman, June 2015</p>
+                                      <p class="divider">Chemical Composition: <br />
+Lead Isotope Analysis (Pb, 15.6%): <br />
+<br />
+Pb206/Pb204, 18.58825; Pb207/Pb204, 15.66532; Pb208/Pb204, 38.73287; Pb, 207/Pb206, 0.84275; Pb 208/Pb206, 2.08373; Pb208/Pb207, 2.47252<br />
+<br />
+<br />
+P. Degryse </p>
+                                      <p class="divider">Technical Observations: The removal of burial accretions from much of the interior surface of this portrait revealed numerous drip marks and a close conformation between interior and exterior surfaces. The interior also exhibits two vents connecting the tear duct areas of the eyes to the upper portion of the forehead. The vents, which measure 0.65 cm in diameter, would have been added as wax rods to the wax model to reduce the chances of air bubble flaws forming at the eyes. These features indicate that the bronze was produced using an indirect casting procedure. The incised lines in the hair and the finer features in the eyes appear to have been added directly to the wax model. The iris and pupil portions of the eyes are depicted in a shallow relief that would not have retained inlay material. <br />
+ <br />
+Many areas of the neck exhibit coarse scrape and scratch marks that predate the formation of corrosion products and appear to be related to the original finishing of the bronze casting. Unlike the broader scrape marks associated with the finishing of the Running Boy at the Walters Art Gallery (1) and the Statue of a Youth at the Toledo Museum of Art (2), these scratches measure only about 0.15 cm or less. Traces of a gilt layer, some of which are embedded in the corrosion layers, are present at the back and proper left side of the neck. The band of light gray patina (2 –  3 cm wide) at the lower edge of the neck appears to be the remains of lead that was added at this location to secure the head to a torso. The bronze at this leaded surface exhibits a higher concentration of scratch marks related to surface preparation than is present at other areas of the neck. The patina covering the exterior surface is a varied green with areas of brown burial accretions. The distortion of the nose and most of the ragged break at the top and reverse sides predate the formation of corrosion products. <br />
+ <br />
+Chaplet holes are visible at the lower ears, the proper left and possibly the proper right sides of the neck, the lower front edge in the leaded area, and under the chin. All of these holes are fairly square and measure between 0.20 and 0.45 cm. The ear chaplets, which are positioned in a manner that may have assisted in holding earrings, and the chaplet at the proper left side of the neck were never patched. The proper left ear chaplet hole shows a substantial flanged periphery at the interior, which is indicative of piercing a soft wax or using a warm chaplet. The wall thickness of the casting at points in the region of the neck above the lead residue measures 0.17, 0.27, 0.15, 0.26, 0.28, 0.11, and 0.19 cm. Areas in the upper portion of the forehead measure 0.17, 0.08, and 0.07 cm. The thinness of the casting in this critical area emphasizes the need for the internal vents noted above to help prevent flaws.<br />
+ <br />
+NOTES:<br />
+1. Inv. no. 23.71; see C. C. Mattusch, The Fire of Hephaistos: Large Classical Bronzes from North American Collections, exh. cat., Arthur M. Sackler Museum, Harvard University; Toledo Museum of Art; Tampa Museum of Art (Cambridge, MA, 1996) 247-51, no. 28.<br />
+ <br />
+2. Inv. no. 1966.126; see ibid., 232-36, no. 24.<br />
+ <br />
+ <br />
+Henry Lie (submitted 1997)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>D. Kelekian collection, New York, NY, (by 1951). C. Ruxton Love, Jr., New York, NY, (by 1954-1956), gift; to Fogg Art Museum, 1956.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. C. Ruxton Love, Jr.</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1956</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1956.19</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>In 187 CE, Julia Domna, the daughter of the priest of the sun god at Emesa in Syria, married emperor Septimius Severus (193-211 CE), who was only a general at the time. Their sons, the later emperors Caracalla and Geta, were born in 188 and 189 CE, respectively. <br />
+ <br />
+The fleshy face, strong nose and chin, and long, thick neck are characteristic features of the empress. She appears to be wearing a wig, parted in the center and descending in sausage-like waves on either side of her face. Wisps of her own hair escape onto her cheeks (1).<br />
+ <br />
+The head, as cast, consisted only of a face framed by curls; the back of the head had been covered by a large, separately cast bun. Small, rectangular chaplet holes at the correct locations for ear lobes were never patched and were probably used to attach earrings. Another unpatched chaplet hole in the left side of the neck might have been hidden by a veil. The eyes are solid cast, with a ring marking the iris and a shallow semicircular depression marking the pupil. The details of the eyes and the incised strands of hair were cut in the wax working model. The head was gilded, and minute traces of leaf gilding can be seen among the corrosion products on the back of the neck. The left side of the face is collapsed from the cheekbone upward, including the eye and the hair, and the long nose is bent toward the right side of the face. There is also a break above the mouth. These damages predate the formation of the corrosion products and suggest that the statue of Julia Domna was deliberately destroyed. The hair is broken at the back of the head, leaving only a short section of finished edge on the right side. The back of the neck is also broken, but the original curving edge of the casting is preserved in front. The curving lower edge of the bronze is original, and a gray area following the line of the lower edge represents the lead that was used to attach the neck to the inside of a separately cast torso. Thus, it appears that the head was inserted into the neckline of a garment belonging to a draped statue.<br />
+ <br />
+Stolen by a student in 1956, the head of Julia Domna was soon found in the student’s dormitory room on the campus of Harvard University (2). <br />
+ <br />
+NOTES:<br />
+ <br />
+1. For more information on the Harvard head and on comparable portraits of Julia Domna, see C. C. Mattusch, The Fire of Hephaistos: Large Classical Bronzes from North American Collections, exh. cat., Arthur M. Sackler Museum, Harvard University; Toledo Museum of Art; Tampa Museum of Art (Cambridge, MA, 1996) 302-305, no. 42.<br />
+ <br />
+2. The Harvard Crimson, Tues. Jan. 17, 1956.<br />
+ <br />
+ <br />
+Carol Mattusch</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Ancient Art in American Private Collections</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1954), no. 178, pl. 54.
+                             </p>
+                                                      <p>
+                               George M. A. Hanfmann, "A Bronze Portrait of Julia Domna", <em>Fogg Art Museum Annual Report 1955-1956</em> (1955-1956), 42-43.
+                                            </p>
+                                                      <p>
+                                              "Accessions of American and Canadian Museums, January-March, 1956", <em>The Art Quarterly</em> (1956), Vol. 19, No. 1, 302-313, p. 302.
+                             </p>
+                                                      <p>
+                                              Ulrich W. Hiesinger, "Julia Domna: Two Portraits in Bronze", <em>American Journal of Archaeology</em> (1969), Vol. 73, No. 1, 39-44, p. 39-42, pls. 15.1-4, 16.1.
+                             </p>
+                                                      <p>
+                                              Rendel Schlüter, "Die Bildnisse der Kaiserin Iulia Domna" (1971), Westfälische Wilhelms-Universität zu Münster, (Ph.D. diss.), p. 37-42, 130-31.
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III, <em>Greek and Roman Sculpture in America</em>, University of California Press (Berkeley and Los Angeles, CA, 1981), p. 348, no. 299.
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III, <em>Roman Imperial Art in Greece and Asia Minor</em>, Belknap Press of Harvard University Press (Cambridge, MA, 1981), p. 299, 304, no. 158 (figs.).
+                             </p>
+                                                      <p>
+                                              David Gordon Mitten and Amy Brauer, <em>Dialogue with Antiquity, The Curatorial Achievement of George M. A. Hanfmann</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1982), p. 16, no. 58, ill. back cover.
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), p. 115, no. 129, ill.
+                             </p>
+                                                      <p>
+                                              Nancy Ramage and Andrew Ramage, <em>Roman Art Romulus to Constantine</em>, Prentice Hall (Upper Saddle River, NJ, 1996), p. 235, fig. 9.4
+                             </p>
+                                                      <p>
+                                              Carol C. Mattusch, <em>The Fire of Hephaistos: Large Classical Bronzes from North American Collections</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 1996), p. 302-305, no. 42, color pl. 9 and 16.
+
+                             </p>
+                                                      <p>
+                                              Ilona Stupinska-Løvset, <em>Portraiture in Roman Syria: A Study in Social and Regional Differentiation within the Art of Portraiture</em>, Wydawn Uniwersytetu Lodzkiego (Lodz, Poland, 1999), pp. 103-104, ill.
+                             </p>
+                                                      <p>
+                                              Amy Snodgrass, "Analysis of gilding and other decorative metals from selected bronzes in the exhibition The Fire of Hephaistos", <em>From the Parts to the Whole: Acta of the 13th International Bronze Congress</em>, ed. Carol C. Mattusch, Amy Brauer, and Sandra E. Knudsen, Journal of Roman Archaeology (Portsmouth, RI, 2000), Vol. 1, 276-81, fig. 1.
+                             </p>
+                                                      <p>
+                                              Christine Kondoleon, ed., <em>Antioch: The Lost Ancient City</em>, exh. cat., Princeton University Press (Princeton, NJ, 2000), p. 127, no. 17.
+                             </p>
+                                                      <p>
+                                              Christine Kondoleon, ed., <em>Antioch: The Lost Ancient City</em>, exh. cat., Princeton University Press (Princeton, 2000), p. 127 no. 17
+                             </p>
+                                                      <p>
+                                              Baltimore Museum of Art, "Driving Force", <em>BMA Today</em> (2001), Vol. 92, 4-5, cover photo.
+                             </p>
+                                                      <p>
+                                              [Reproduction Only], <em>Persephone</em>, (Fall 2006)., [cover illustration].
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>Harvard Art Museum/Handbook</em> (Cambridge, Massachusetts, 2008), p. 25.
+                             </p>
+                                                      <p>
+                                              Carol C. Mattusch, "Artists and Workshops: The Craft and the Product", <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, ed. Susanne Ebbinghaus, Harvard Art Museums (Cambridge, MA, 2014), 112-31, pp. 112 and 125-27, fig. 5.7.a-b.
+                             </p>
+                                                      <p>
+                                              Henry Lie and Francesca Bewer, "Ex Aere Factum: Technical Notes on Ancient Bronzes", <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, ed. Susanne Ebbinghaus, Harvard Art Museums (Cambridge, MA, 2014), 38-63, pp. 47, 50, and 52.
+                             </p>
+                                                      <p>
+                                              Susanne Ebbinghaus, ed., <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, Harvard Art Museum/Yale University Press (Cambridge, MA, 2014), pp. 50, 52, 66, 82, 112, 125-127, fig. 5.7a-b
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Dialogue with Antiquity: The Curatorial Achievement of George M.A. Hanfmann</em>, Fogg Art Museum, 05/07/1982 - 06/26/1982
+                            </p>
+                          <p>
+                              <em>Ancient Art in American Private Collections</em>, Fogg Art Museum, 12/28/1954 - 02/15/1955
+                            </p>
+                          <p>
+                              <em>The Fire of Hephaistos: Large Classical Bronzes from North American Collections</em>, Harvard Art Museums/Arthur M. Sackler Museum, 04/20/1996 - 08/11/1996; Toledo Museum of Art, 10/13/1996 - 01/05/1997; Tampa Museum of Art, 02/02/1997 - 04/13/1997
+                            </p>
+                          <p>
+                              <em>Roman Gallery Installation (long-term)</em>, Harvard University Art Museums, Cambridge, 09/16/1999 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>Antioch: The Lost Ancient City</em>, Worcester Art Museum, 10/07/2000 - 02/04/2001; Cleveland Museum of Art, 03/18/2001 - 06/03/2001; Baltimore Museum of Art, 09/16/2001 - 12/30/2001
+                            </p>
+                          <p>
+                              <em>Gods in Color: Painted Sculpture of Classical Antiquity</em>, Harvard University Art Museums, Cambridge, 09/22/2007 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>Re-View: S422  Ancient & Byzantine Art & Numismatics</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 04/12/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013
+                            </p>
+                          <p>
+                              <em>32Q: 3700 Roman</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251034_dynmc?width=200&height=200" alt="Julia Domna">
+                <span class="popup__artwork-info-id">1956.19</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Julia Domna</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20312252%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312252">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312252" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Julia+Domna+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312252" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/312252" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b8a6a4ef11dd852429590ff8782adeb7" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

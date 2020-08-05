@@ -1,0 +1,964 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Sketchbook </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Sketchbook" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/306778"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV209023_dynmc?width=256&amp;height=256" />
+<meta property="og:description" content=" Sketchbook" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_12782128" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV209023_dynmc?width=256&height=256" data-initial-image-id="12782128" data-zoom-enabled="0"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?306778" data-behavior="add_to_collection tooltip" data-artwork="306778" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=306778&amp;image_id=INV209023" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/306778/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="INV209023">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV209023_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Lewis W. Rubenstein"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12782128" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV209023_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC111935">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC111935_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Lewis W. Rubenstein"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="26739093" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111935_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC111936">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC111936_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Lewis W. Rubenstein"  title="Sketchbook" data-object-caption="" data-object-copyright="" data-image-id="26739094" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111936_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV209020">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV209020_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Lewis W. Rubenstein"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12782125" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV209020_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV209021">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV209021_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Lewis W. Rubenstein"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12782126" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV209021_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="INV209022">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:INV209022_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Lewis W. Rubenstein"  title="Sketchbook" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="12782127" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV209022_dynmc?width=125&height=125" alt="Sketchbook">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1934.210.1-46</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28401>Lewis W. Rubenstein</a>, American                                                                                                                                                                                                                                                                          (Buffalo, NY 1908 - 2003 Shelburne, VT)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Sketchbook</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Two Sketchbooks Containing Drawings and Watercolors                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sketchbook                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1931 - 1932</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/306778">https://hvrd.art/o/306778</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Watercolor, graphite and ink on off-white wove paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>41.7 x 33 cm (16 7/16 x 13 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Cover, black ink: L.W.R.; Lewis W. Rubenstein
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Lewis W. Rubenstein, gift; to Fogg Art Museum, 1934.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Lewis W. Rubenstein, Class of 1930</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1934</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1934.210.1-46</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>Comprising two sketchbooks, one with pages with rounded edges, one with pages with square edges; both sketchbooks have perforated left edges.  One of the covers is now lost and the sketchbook pages are unbound. Cover is brown cardboard. There are two blank pages between .25 and .26 (note that .25 is blank, but has a number inscribed at the lower right corner). Page numbers 1-25 are on sheets with rounded edges; 26-46 on sheets with square edges.</dd>
+                                                       </dl>
+          </dd>
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31004">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111941_dynmc?width=256&height=256" alt="Noli Me Tangere, After Titian; Verso: Diagrams And Sketches">
+                                    <span class="related-artwork__obj">1934.210.3</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Noli me Tangere, after Titian; verso: Diagrams and sketches</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/31005">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111939_dynmc?width=256&height=256" alt="Inscription">
+                                    <span class="related-artwork__obj">1934.210.2</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47188">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111973_dynmc?width=256&height=256" alt="Detail Of  Verification Of The True Cross, After Piero Della Francesca">
+                                    <span class="related-artwork__obj">1934.210.19</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Detail of  Verification of the True Cross, after Piero della Francesca</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47189">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111951_dynmc?width=256&height=256" alt="Inscription; With Faint Sketch After El Greco; Verso: River God From The Parthenon">
+                                    <span class="related-artwork__obj">1934.210.8</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Inscription; with faint sketch after El Greco; verso: River God from the Parthenon</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47655">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111967_dynmc?width=256&height=256" alt="The Funeral Of Phocion, After Nicolas Poussin">
+                                    <span class="related-artwork__obj">1934.210.16</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">The Funeral of Phocion, after Nicolas Poussin</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47656">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111961_dynmc?width=256&height=256" alt="Tree, After "david In The Cave Of Abdullah" By Claude Lorrain">
+                                    <span class="related-artwork__obj">1934.210.13</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Tree, after "David in the Cave of Abdullah" by Claude Lorrain</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47657">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111953_dynmc?width=256&height=256" alt="River God From The Parthenon; Verso: Sketch Of East Frieze Of Parthenon Verso: Sketch Of East Frieze Of Parthenon">
+                                    <span class="related-artwork__obj">1934.210.9</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">River God from the Parthenon; verso: Sketch of East Frieze of Parthenon verso: Sketch of East Frieze of Parthenon</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47658">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111943_dynmc?width=256&height=256" alt="Bacchus And Ariadne, After Titian">
+                                    <span class="related-artwork__obj">1934.210.4</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Bacchus and Ariadne, after Titian</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47971">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111981_dynmc?width=256&height=256" alt="Blank; Verso: Rhythmic Scheme Of The Portinari Altarpiece, After Hugo Van Der Goes">
+                                    <span class="related-artwork__obj">1934.210.23</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Blank; verso: Rhythmic Scheme of the Portinari Altarpiece, after Hugo van der Goes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47972">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111979_dynmc?width=256&height=256" alt="The Story Of Adam, After Piero Della Francesca; Verso: Madonna, After Simone Martini">
+                                    <span class="related-artwork__obj">1934.210.22</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">The Story of Adam, after Piero della Francesca; verso: Madonna, after Simone Martini</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47973">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111965_dynmc?width=256&height=256" alt="Madonna And Child With The Infant Baptist, After Raphael; Verso: Diagrams And Notes Related To "the Funeral Of Phocion" By Poussin">
+                                    <span class="related-artwork__obj">1934.210.15</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Madonna and Child with the Infant Baptist, after Raphael; verso: Diagrams and notes related to "The Funeral of Phocion" by Poussin</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47974">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111963_dynmc?width=256&height=256" alt="The Lesson, After Chardin; Verso: Three Diagrams Of "madonna And Child With The Infant Baptist," After Raphael">
+                                    <span class="related-artwork__obj">1934.210.14</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">The Lesson, after Chardin; verso: Three diagrams of "Madonna and Child with the Infant Baptist," after Raphael</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47975">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111955_dynmc?width=256&height=256" alt="Equestrian Figures From The Parthenon">
+                                    <span class="related-artwork__obj">1934.210.10</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Equestrian Figures from the Parthenon</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47976">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111947_dynmc?width=256&height=256" alt="Rocky Landscape, After Cézanne">
+                                    <span class="related-artwork__obj">1934.210.6</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Rocky Landscape, after Cézanne</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/47977">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111945_dynmc?width=256&height=256" alt="Unfaithfulness, After Veronese, And Diagrams; Verso: Diagrams">
+                                    <span class="related-artwork__obj">1934.210.5</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Unfaithfulness, after Veronese, and Diagrams; verso: Diagrams</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48978">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111991_dynmc?width=256&height=256" alt="Copies After Giotto">
+                                    <span class="related-artwork__obj">1934.210.28</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Copies after Giotto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48979">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111975_dynmc?width=256&height=256" alt="Details From The Legend Of The True Cross, After Piero Della Francesca; Verso: Sketch And Color Wheel With Notes">
+                                    <span class="related-artwork__obj">1934.210.20</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Details from the Legend of the True Cross, after Piero della Francesca; verso: Sketch and color wheel with notes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48982">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112023_dynmc?width=256&height=256" alt="Two Studies Of Life Of St. Francis, After Giotto; Verso: Baptism Of Christ, After El Greco">
+                                    <span class="related-artwork__obj">1934.210.44</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Two Studies of Life of St. Francis, after Giotto; verso: Baptism of Christ, after El Greco</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48983">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112007_dynmc?width=256&height=256" alt="Two Dogs, Women With Headdresses (Camera Degli Sposi), After Mantegna">
+                                    <span class="related-artwork__obj">1934.210.36</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Two Dogs, Women with Headdresses (Camera degli sposi), after Mantegna</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48984">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111995_dynmc?width=256&height=256" alt="Vices, After Giotto">
+                                    <span class="related-artwork__obj">1934.210.30</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Vices, after Giotto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48985">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111993_dynmc?width=256&height=256" alt="Joachim And The Shepherds, After Giotto">
+                                    <span class="related-artwork__obj">1934.210.29</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Joachim and the Shepherds, after Giotto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48986">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111987_dynmc?width=256&height=256" alt="Inscription; Verso: Diagrams And Notes">
+                                    <span class="related-artwork__obj">1934.210.26</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Diagrams and notes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48987">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111971_dynmc?width=256&height=256" alt="Inscription; Verso: Sketch With Perspective Lines">
+                                    <span class="related-artwork__obj">1934.210.18</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Inscription; verso: Sketch with perspective lines</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48988">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111969_dynmc?width=256&height=256" alt="Trees">
+                                    <span class="related-artwork__obj">1934.210.17</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Trees</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48989">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111959_dynmc?width=256&height=256" alt="Agony In The Garden, After Mantegna">
+                                    <span class="related-artwork__obj">1934.210.12</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Agony in the Garden, after Mantegna</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48990">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111957_dynmc?width=256&height=256" alt="Copies Of Assyrian Bas-Reliefs; Verso: Sketches, Notes, And Diagrams">
+                                    <span class="related-artwork__obj">1934.210.11</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Copies of Assyrian Bas-Reliefs; verso: Sketches, notes, and diagrams</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/48991">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111949_dynmc?width=256&height=256" alt="Female Figure, After  "unfaithfulness" By Veronese">
+                                    <span class="related-artwork__obj">1934.210.7</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Female Figure, after  "Unfaithfulness" by Veronese</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49008">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112025_dynmc?width=256&height=256" alt="Adoration Of The Shepherds, After El Greco">
+                                    <span class="related-artwork__obj">1934.210.45</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Adoration of the Shepherds, after El Greco</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49009">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:huam:DDC112013_dynmc?width=256&height=256" alt="Funeral Of St. Jerome And Baptism Of The Selenites, After Carpaccio; Verso: Entrance Wall, Scuola Di San Rocco, After Tintoretto">
+                                    <span class="related-artwork__obj">1934.210.39</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Funeral of St. Jerome and Baptism of the Selenites, after Carpaccio; verso: Entrance Wall, Scuola di San Rocco, after Tintoretto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49010">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112009_dynmc?width=256&height=256" alt="The Miracle Of Loaves And Fishes, After Tintoretto; Verso: Last Supper, After Tintoretto, With Notes And Diagrams">
+                                    <span class="related-artwork__obj">1934.210.37</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">The Miracle of Loaves and Fishes, after Tintoretto; verso: Last Supper, after Tintoretto, with notes and diagrams</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49011">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112001_dynmc?width=256&height=256" alt="The Martyrdom Of St. James, After Mantegna; Verso: Two Diagrams">
+                                    <span class="related-artwork__obj">1934.210.33</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">The Martyrdom of St. James, after Mantegna; verso: Two Diagrams</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49066">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:huam:DDC112021_dynmc?width=256&height=256" alt="Sketches After Simone Martini, St. Martin's Chapel, Assisi">
+                                    <span class="related-artwork__obj">1934.210.43</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Sketches after Simone Martini, St. Martin's Chapel, Assisi</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49067">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112019_dynmc?width=256&height=256" alt="Queen Of Sheba, After Piero Della Francesca">
+                                    <span class="related-artwork__obj">1934.210.42</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Queen of Sheba, after Piero della Francesca</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49068">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112017_dynmc?width=256&height=256" alt="Court Of Justinian At Ravenna">
+                                    <span class="related-artwork__obj">1934.210.41</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Court of Justinian at Ravenna</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49069">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112015_dynmc?width=256&height=256" alt="Blank Page; Verso: Copy After Maximian At Ravenna">
+                                    <span class="related-artwork__obj">1934.210.40</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Blank page; verso: Copy after Maximian at Ravenna</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49070">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111989_dynmc?width=256&height=256" alt="Plan Of Arena Chapel, Padua, After Giotto; Verso: Copies After Giotto">
+                                    <span class="related-artwork__obj">1934.210.27</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Plan of Arena Chapel, Padua, after Giotto; verso: Copies after Giotto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49072">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111983_dynmc?width=256&height=256" alt="Right Panel Of The Portinari Altarpiece, After Hugo Van Der Goes">
+                                    <span class="related-artwork__obj">1934.210.24</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Right Panel of the Portinari Altarpiece, after Hugo van der Goes</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49073">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111977_dynmc?width=256&height=256" alt="Notes And Diagram Of  The Legend Of The True Cross By Piero Della Francesca">
+                                    <span class="related-artwork__obj">1934.210.21</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Notes and diagram of  the Legend of the True Cross by Piero della Francesca</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49326">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111937_dynmc?width=256&height=256" alt="Table Of Contents With Faint Sketch Of Figures; Verso: Diagrams Showing Color And Intensity">
+                                    <span class="related-artwork__obj">1934.210.1</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Table of Contents with faint sketch of figures; verso: Diagrams showing color and intensity</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49327">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112011_dynmc?width=256&height=256" alt="Last Supper, After Tintoretto">
+                                    <span class="related-artwork__obj">1934.210.38</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Last Supper, after Tintoretto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49328">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112005_dynmc?width=256&height=256" alt="The Meeting, After Mantegna">
+                                    <span class="related-artwork__obj">1934.210.35</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">The Meeting, after Mantegna</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49329">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC112003_dynmc?width=256&height=256" alt="Camera Degli Sposi (Left Wall), After Mantegna; Verso: The Meeting">
+                                    <span class="related-artwork__obj">1934.210.34</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Camera Degli Sposi (left wall), after Mantegna; verso: The Meeting</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49330">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111999_dynmc?width=256&height=256" alt="Inscription">
+                                    <span class="related-artwork__obj">1934.210.32</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Inscription</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/49333">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC111997_dynmc?width=256&height=256" alt="Flight Into Egypt, After Giotto">
+                                    <span class="related-artwork__obj">1934.210.31</span>
+                                      <h4 class="related-artwork__artist">Lewis W. Rubenstein</h4>
+                                                        <h3 class="related-artwork__title">Flight into Egypt, after Giotto</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV209023_dynmc?width=256&height=256" alt="Sketchbook">
+                <span class="popup__artwork-info-id">1934.210.1-46</span>
+        <span class="popup__artwork-info-author">
+                                    Lewis W. Rubenstein
+                              </span>
+        <span class="popup__artwork-info-title">Sketchbook</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20306778%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F306778">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F306778" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Sketchbook+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F306778" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_65dcde498f63a5752c4e7aa98580a4fb" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,711 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Wilmarth's Artist Supply Cart </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Wilmarth&#039;s Artist Supply Cart" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/95264"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Wilmarth&#039;s Artist Supply Cart" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?95264" data-behavior="add_to_collection tooltip" data-artwork="95264" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=95264" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/95264/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>CW2001.1943</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/34147>Unidentified Artist</a>                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Wilmarth's Artist Supply Cart</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Archival Material</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            archival material                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>20th century</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/95264">https://hvrd.art/o/95264</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Metal cart with wooden top on wheels</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>76.71 x 76.71 x 60.2 cm (30 3/16 x 30 3/16 x 23 11/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, The Christopher Wilmarth Archive, Gift of Susan Wilmarth-Rabineau</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© Estate of Christopher Wilmarth / Susan Wilmarth-Rabineau</dd>
+            
+                          <dt>Accession Year</dt>
+              <dd>2001</dd>
+            
+            <dt>Object Number</dt>
+            <dd>CW2001.1943</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>Drawer L1- labeled "ERASURES /SHARPENERS<br />
+4 wrapped DESIGN brand Kneaded Rubber erasers<br />
+2 DESIGN brand ArtGum art eraser/cleaner<br />
+1 box containing DIETZGEN SKUM-X drawing cleaning pad (box is ripped)<br />
+1 Faber-Caster brand eraser<br />
+1 orange base with black top plastic pencil sharpener<br />
+1 unmarked square used eraser<br />
+3-? sticks with sand paper<br />
+<br />
+Drawer L2- labeled "PENCILS /LEADS"<br />
+4 Eberhard Faber brand DESIGN Drawing 3800 green pencils, unsharpened (2 3B, 2 6B)<br />
+1-? stick with sand paper<br />
+1 KOH-I-NOOR RAPIDOGRAPH, INC Sketching pencil 355 6B, brown, unsharpened<br />
+1 piece of wood, broken wih 2 notches<br />
+1 tiny sharpened brown pencil<br />
+1 timy piece of graphite, sharpened<br />
+1box KOH-I-NOOR KREIDESTABCHEN chalks 6 pieces 2206/6B graphite, unopened<br />
+1box KOH-I-NOOR KREIDESTABCHEN chalks 12 pieces 2205/4B graphite, unopened<br />
+2 boxes KOH-I-NOOR KREIDESTABCHEN chalks 12 pieces 2205/2B graphite, unopened<br />
+1box KOH-I-NOOR KREIDESTABCHEN chalks 12 pieces 2205/4B graphite, missing one piece<br />
+1 box KOH-I-NOOR HARDTMUTH graphite drawing sticks 2206 1/24 gross containing 2 unused pieces and 7 used pieces of graphite<br />
+7 CASTELL brand green plastic graphite cases with clear caps, 9032, marked in black marker with "62" (1 5B, 1 2B, 2 2H, 1 3H, 1 6B, 1 HB), more than one piece in each case<br />
+2 AUSTRIA-KOH-I-NOOR brand red plastic graphite cases, 2200 D-F, marked in black marker with "63", 1 piece of graphite in both cases<br />
+2 loose pieces of graphite<br />
+<br />
+23 sharpened colored pencils labeld in gold ink-EAGLE Prismacolor: 1 Black 935. 1  Dark Green 908. 1 Sienna Brown 945. 1 Lemon Yellow 915. 1 Orange 918. 1 Gold 950.  1 True Blue 903. 1 Indigo Blue 901. 1 Grass Green 909. 1 Olive Green 911. 1 Vermilion Red 921. 1 Aquamarine 905. 1 Slate Gray 936. 1 Carmine (no. sharpened off). 1 Pink 929. 1 Violet 932.  1 Purple 931. 1 Flesh 939. 1 Yellow Orange 917. 1 Burnt Ochre (no. sharpened off). 1 Canary Yellow 916. 1 Yellow Ochre 942. 1 Ultramarine 902. <br />
+<br />
+1 plastic yellow BIC pen.  no cap.<br />
+2 sharpened green graphite pencils. labeled-AW FABER CASTELL 9000 Germany. 1 8B. 1 3B.<br />
+1 sharpened green colored pencil with gold colored metal end.  labeld- Woodclinched, Eberhard Faber, USA, MONGOL, Emerald Green 878.<br />
+2 sharpened colored pencils labeld OZARK, USA, Serv-Wel Copying Ink. 1 Lt Blue No. 563. 1 Lt. Blue No. 363.<br />
+1 unsharpened colored pencil labeld made in USA OZARK Pencil Co. 360 Serv-Wel Colored Green<br />
+1 sharpened colored pencil labeld made in USA OZARK Pencil Co. Thin Lead Black 706.<br />
+1 sharpened colored pencil labeld USA 24 VENUS Paradise-114 Lemon Yellow 24<br />
+1 sharpened thick black pencil labeled Leadfast USA DIXON'S MARKE (rest of label is sharpened off)<br />
+1 very sharpened waxy white pencil. fraction of label reads "isdell Nick and" <br />
+<br />
+Drawer L3- labeled "FASTENERS, PINS, ETC. GLUE"<br />
+1 clear container with 36 silver push pins<br />
+1 torn piece of paper "push pins-varied lengths small nails"<br />
+1 clear top with blue bottom container with many small nails, one needle, and one curved needle<br />
+1 green and yellow bottle of DEVCON Duco cement 1 3/4 Fl oz<br />
+<br />
+Drawer L4- labeled "W/C PANS"<br />
+4 identical stackable pans with stains<br />
+5 identical white pans with rims, price tag on bottom "18c"<br />
+<br />
+Drawer L5- labeled "NEW CHARCOALS"<br />
+1 torn piece of paper "chamois"<br />
+3 box CONTE brand, 12 carres noirs, 2460-2B, soft (2 unopened, 1 4 missing)<br />
+1 box CONTE a PARIS brand, 12 carres noirs, 2460-BB, soft, unopened<br />
+1 box CONTE brand, 12 carres bistre, 2454, 4 missing<br />
+1 box CONTE a PARIS brand, 12 Carres Dessin, carres noirs, N 3, 2 missing<br />
+2 box CONTE a PARIS brand, 12 carres sanguine, 2450 (1 unopened, 1 2 missing)<br />
+1 box CONTE a PARIS brand, 12 Carres Dessin, carres sanguine, medicis 2453, 4 missing<br />
+1 box CONTE a PARIS brand, no label, 1 missing, 3 in pieces<br />
+4 used blue Chamios cloths<br />
+<br />
+Drawer L6- labeled "W/ COLOR BRUSHES/ FOLDING BONE, KNIFE"<br />
+1 brown paper box with 12 pieces of chalk packed with cotton: 1 white, 11-shades of green <br />
+1 CONTE a PARIS box with clear lid white bottom: 5 pieces of charcoal under brown padding<br />
+1 brown paper box with 13 written in top left corner in pencil. contains: 17 pieces of colored chalk- shades of blue, blue gray, and green<br />
+1 box CONTE brand, 12 carres bistre, carres blancs, 2456, 2B, soft, 6 whole pieces, one broken piece<br />
+1 box REMBRANDT brand, soft pastels for artists, black, 6x 700.5 A,  3 whole pieces, one large used piece<br />
+1 ivory colored bone folder<br />
+1 large paint brush with light wood handle and thick dark bristles, SAUR, 760, DAVID DAVIS<br />
+1 long paint brush with dark wood handle and light bristles, SAUR, 840, DAVID DAVIS<br />
+1 small thin paint brush with orange handle and dark short bristles, 10-10 (markings obstructed with blue paint)<br />
+1 agate burnisher with light wood handle and metal rim<br />
+1 large, thick paint brush, yellow wood handle and blondish thick bristles, 24, A Langnickel series 666 L<br />
+1 dark wood handled burnisher (etching and engraving) labeled: Sam Flax<br />
+<br />
+Drawer L7- labeled "MARKERS/LISTO-GLASS/MAGIC"<br />
+1 green and white  FABER CASTELL brand TG adaptor box , 402/55, $1.65 Pearl price tag.  black plastic adaptor inside<br />
+1 white and black box, LISTO brand Marking Leads, No. 162: 6 yellow Listo Lead boxes in side each containing 6 yellow leads, 4 metal (tin?) lead holders<br />
+1 green and white box, DIXON brand, Phano China Marking red paper wrapped markers, 6 markers inside<br />
+1 piece of stearlite (?)<br />
+<br />
+Drawer L8- labeled "CHAMOIS FOR PASTEL"<br />
+6 plastic bags containing 6 used Chamois cloths (2 with a red tint, 1 brown tint, 1 black tint, 1 blue tint)<br />
+<br />
+Drawer L9- labeled "CHAMOIS -CHARCOAL"<br />
+4 used (black with charcoal) Chamois cloths in a plastic bag<br />
+4 loose in drawer used Chamois cloths<br />
+<br />
+Drawer L10- labeled "TAPES- MASKING & PH TAPE"<br />
+1 gray electric engraver with grey cord DREMEL, red on off switch at the end and 1-5 speed dial on the side, piece of tape: "steel only"<br />
+1 green electric engraver with white (dirty) cord, Vibro-Marker, DURGESS, <br />
+<br />
+Drawer R1- labeled "CHARCOAL CONTE"<br />
+1 cardboard box with 16 pieces of charcoal: 3-6 in long  x 1/4 in thick piece (1 in a plastic bag), 2-6 in long x 1 in thick pieces, 9 1/4 in thick broken pieces, 2 1/2 in thick broken pieces<br />
+1 cardbord box with 4 broken pieces of charcoal, label-Morilla Charcoal, soft, No. 800/3s-Fine Artists' Quality<br />
+1 carboard box with lid, label-Morilla Charcoal, soft, No. 800/3s-Fine Artists' Quality, containing 8 plastic bags of 4-6 in pieces of charcoal, and 1 plastic bag with 2-6 in pieces of charcoal<br />
+1 black and white box, label- ROWNEY, Willow Charcoal, 25 Thin. 21 sticks remaining<br />
+1 red and white box, label- WINDSOR & NEWTON INC., No. 4 Medium, 24 sticks WIndsor Charcoal.  Box Contains: 1 6 in thick stick of charcoal, 1 half thick stick of charcoal, 6 plastic bags of 3 medium sticks of charcoal, 1 chamois cloth dirty with charcoal<br />
+1 used chamois cloth<br />
+2 plastic bags with 3 pieces of 6 in medium charcoal<br />
+1 DIXON Craft 1109 eraser<br />
+2 rows of staples: 1inch and 2 3/4 inches<br />
+1 1 1/2 inch long lose piece of charcoal<br />
+1 blue and white box, label- WINDSOR & NEWTON INC, No. 3 Hard, 24 sticks Windsor Charcoal. Contains 7 plastic bags of 3 pieces of charcoal, 2 broken lose pieces of charcoal<br />
+1 yellow and brown box , label- GRUMBACHER, No. 2 Extra soft, thin vine, 25 sticks, Finest Quality artist's charcoal.  All 25 sticks in box plus red nail file.<br />
+1 yellow and brown box , label- GRUMBACHER, No. 2 Extra soft, thin vine, 25 sticks, Finest Quality artist's charcoal.  Contains: 14 intact sticks, 14 broken sticks of charcoal, and one plastic bag with 2 intact sitcks and one broken piece<br />
+3 used pieces of artists' Kneaded Rubber erasers<br />
+1 used artist's' eraser pad- cloth material, damp, rust stains from drawer<br />
+<br />
+Drawer R2- labeled "CUTTING-RAZOR/SURGICAL"<br />
+1 yellow and black box, label- GENERAL, 100 Untility (.017 Thick), No 851-100 Knife Blades, for Nos. 850 and 855. Contains: 3 lose blades, 6 closed white envelopes with blades, 1 open white envelope wih 1 blade, 1 open white envelope with 4 blades<br />
+1 white and blue box, label-Fits All Standard Razor Blade Tools, .012", Heavy Duty, For industrial Use Only, 100 Single Edge Industrial Blades. Contains: 9 blades (blade covered with brown paper), 1 blade covered with tape<br />
+1 white and black box, label-Fits All Standard Razor Blade Tools, .012", Heavy Duty, For industrial Use Only, 100 Single Edge Industrial Blades. Contains: 1 blade not covered<br />
+1 clear plastic case with hinged lid. Contains: 1 blue and white sealed packet, label-M-S-P Means Sharper Products, stainless steel with one blade inside. 3 groved wood cutting gauges, 6 knive blades<br />
+1 clear plastic case with lid-labeled Royal Sovereign. Contains: 1 Swann Morton  (BS2982) metal knife with blade<br />
+1 No 10 Large Black Binder Clip<br />
+1 silver Grifhold No. 113 knife with blade<br />
+1 empty gray and red packaging for Grifhold 112-B replacement blades for #111 knife<br />
+3 lose silver rectangular replacement blades with notches in both sides<br />
+3 lose silver trapezoid replacement blades with three nothes on top<br />
+1 lose small silver replacement blade, BP No 10<br />
+1 ripped white box inscriped "sharp pointed knives" with black marker.  Label- Arista Surgical Co. Stamped with- Sterile one gross #11.  Contains: 21 sealed silver and green packets, label- BP Bard Parker, Becton Dickson and Company, Stainless Steel Surgical Blade.<br />
+1 cardboard box with lid containing 4 pieces of black charcoal, 2 pieces of white charcoal, and 1 piece of red charcoal, housed between pieces of cotton<br />
+1 opened white paper packet with three trapazoid relplacement blades with 3 notches in the top<br />
+1 small used piece of white chalk<br />
+5 stripes of card stock taped together: 6.5 inches wide and 1.75 inched long. template?<br />
+5 blue and white sealed packet, label-M-S-P Means Sharper Products, stainless steel with one blade inside.<br />
+4 groups of 6 white and green packets connected with perforated lines labeled BP Carbon Steel Rib-Back Blade, Non-Sterile. 2 blades missing out of 24.<br />
+1 lose empty white and green packet labeled BP Carbon Steel Rib-Back Blade, Non-Sterile.<br />
+<br />
+Drawer R3- labeled "PASTELS"<br />
+1 cardboard box with lid containing 10 pastels housed in cotton: 2 sea green, 2 yellow-green, 2 dark teal, 2 yellow-olive, 1 dark orange<br />
+1 carboard box with lid containing 9 used pieces of pastels( 1 white, 1 light blue, 6 blue, and 1 orange) and 5 smaller broken pieces of pastel ( 3 black, 2 white) housed in cotton<br />
+<br />
+1 faux wood finish cardborad box with lid. Inside lid label: GRUMBACHER, Finest Soft Pastels for artists, Set 1, 12 Pastels, Artists' Sketching Assortment.  Box is divided into 12 slots. Slot 1- half labeled piece of red, small piece of orange, blue and purple. Slot 2- small pieces: 2 light blue, 1 purple, 2 pink, 1 orange, 1 red, 1 gray, 1 black. Slot 3- small pieces: 2 purple, 1 orange, 1 pink, gray. Slot 4- small pieces: 1 yellow, 1 peach, 1 blue, one larger blue green piece.  Slot 5- small pieces: 1 blue, 1 purple, 1 green, 1 pink,  1 dark blue. Slot 6- small pieces: 1 green, 1 light purple, 1 dark purple, 2 red, and 1 larger coral piece. Slot 7- 1 large rectangular coral pastel, 1 small piece of green.  Slot 8- 1 large rectangular gray pastel. Slot 9- 1 large rectangular white pastel, 1 small light purple piece, 1 small purple piece. Slot 10- 1 large rectangular purple pastel, 1 small blue piece. Slot 11- small pieces: 1 light purple, 1 purple, 1 dark blue, 1 light blue. Slot 12- 1 intact, slightly used, labeled- burt sienna pastel<br />
+<br />
+1 dark wood box with metal hook and lid, label on inside of lid: SARGENT, Artists' soft pastels, Assortment No. 20, American Artist's Color Works, Inc., Bush Building No. 3, Brooklyn NY. Contains: 2 REMBRANDT brand pastels, labeled, used, Permanent Red Light No.37, 5-B and Flesh Ochre No. 30, 5-A. 3 GRUMBACHER brand pastels, labeled, used 21H English Red Deep, Gr.1,  26A, Burnt Sienna, Gr.1, and unreadable label (black).  6 SARGENT brand used, labeled pieces: Yellow Light, Chrome Orange, Ultramarine Blue, Red Orange, Red Violet, and unreadable label (purple). 13 piece of pastels: rectangular brown, 2 small reds, 1 skinny black, 1 small brown, 1 blue, 1 pink, 1 orange, 1 blue green, 1 English red deep?, 1 green, 1 round unreadable label (red).<br />
+<br />
+1 carboard bow with lid, label: Cleaner Stronger than Pastels, NUPASTEL, Color Sticks, EBERHARD FABER. Contains: 2 full magenta, 1 full dark turquoise and 2 half pieces, 1 burnt sienna, 1 peach, 1 brown, 1 light blue, 1 dark blue, 1 ochre, 1 yellow, 2 half piece of coral, 1 half piece of dark yellow, 1 half piece of orange brown, 1 small piece of blue, 1 small piece of blue-green<br />
+<br />
+1 faux wood finish cardborad box with lid. Inside lid label: GRUMBACHER, Finest Soft Pastels for artists, Set C, 30 Half Length Pastels, Introductory Set.  Box is divided into 30 slots. Slot 1- full yellow. Slot 2- full dark purple.  Slot 3- full purple. Slot 4- half dark yellow. Slot 5- two pieces of  spring green. Slot 6- full flesh. Slot 7- half  orange. Slot 8- 1 piece of gray and 1 piece of light blue. Slot 9- full piece of green. Slot 10- empty. Slot 11- 1 piece of blue and 1 piece of burnt sienna. Slot 12- piece of bright blue. Slot 13- piece of yellow.  Slot 14- piece of green. Slot 15- piece gray. Slot 16- full orange. Slot 17- full dark brown. Slot 18- full purple. Slot 19- full dark yellow. Slot 20- full light purple. Slot 21- full white. Slot 22- full burnt sienna. Slot 23- full brown. Slot 24- 2 pieces of mutted yellow. Slot 25- half reddish brown and piece of pink. Slot 26- piece of green and dark purple. Slot 27- full light gray. Slot 28- full black. Slot 29- empty. Slot 30- full white.<br />
+<br />
+1 cardboard white box with lid, number 1 written in pencil on lid. label on side: Pastel Tendres A L'ecu, A, No. 517, Sennelier Paris. Contains: 10 labeled pastels- no 7 (black), no 9 (brown), no 4 (dark blue), no 5 (purple), no 6 (light blue), no 10 (red), no 2 (blue), no 3 (blue), no 1 (white), no 8 (dark red)<br />
+<br />
+1 cardboard white box with lid, number 2 written in pencil on lid. label on side: Pastel Tendres A L'ecu, H, No. 297, Sennelier Paris. Contains: 10 labeled pastels- no 15 (black gray), no 13 (pale gray), no 17 (gray purple), no 16 ( light gray), no 11 (blue gray), no 14 (gray), no 12 (dark gray), no 18 (peach), no 19 (yellow green), no 20 (bright orange).<br />
+<br />
+1 cardboard white box with lid, number 3 written in pencil on lid. label on side: Pastel Tendres A L'ecu, H, No. 525, Sennelier Paris. Contains: 10 labeled pastels- no 21(pale yellow), no 23 (black), no 22 (yellow), no. 26 (pale purple) no. 25 (pink). no. 24 (orange). no. 29 (red). no. 27 (dark magenta) no. 28 (dark pink) no 30 (red)<br />
+<br />
+1 cardboard white box with lid, number 4 written in pencil on lid. label on side: Pastel Tendres A L'ecu, C, No. 526, Sennelier Paris. Contains: 10 labeled pastels- no 38 (red orange) no. 31 (dark red) no. 32 (maroon) no. 39 (dark green) no. 33 (black) no. 35 (brown) no. 36 (redish brown) no. 37 (orange brown) no. 34 (dark brown) no. 40 (aquamarine)<br />
+<br />
+1 cardboard white box with lid, number 5 written in pencil on lid. label on side: Pastel Tendres A L'ecu, B, No. 307, Sennelier Paris. Contains: 10 labeled pastels- 2 no. 48 (dark brown) no 47 (dark purple) no 46 (olive green) no. 44 (dark forest green) no. 45 (green) no. 42 (dark yellow green) no. 43 (dark aqua) no. 41 (forest green)<br />
+<br />
+1 white and gray cardboard box with lid. label-REMBRANDT, artist's pastels, 370, 3. Contains: 1 REMBRANDT colbalt blue 512,3.  1 REMBRANDT caput mortuum red 343,5. 1 REMBRANDT ultramarine deep 506,7. 1 REMBRANDT bluish green 640,5. 1 SENNELIER PARIS Pastel A Lecu, no 149 prix. 1 SENNELIER PARIS Pastel A Lecu, no 257 prix. 2 pieces of pastels: dark blue and aquamarine.<br />
+<br />
+1 white and gray cardboard box with lid "red" written in pencil on lid. label-REMBRANDT, artist's pastels, 371, 8. Contains: 1 REMBRANDT carmine 318,5, 1 REMBRANDT  deep rose 362,3, 1 half unlabeled piece of coral, 5 pieces of coral, 5 small pieces of dark red, 1 piece of white, and 2 tiny pieces of dark purple.<br />
+<br />
+1 white and gray cardboard box with lid, label-REMBRANDT, artist's pastels, 506,5 Contains: 1 REMBRANDT raw umber 408,9. 1 REMBRANDT half piece __ umber 409.5. 1 REMBRANDT half piece burnt sienna 411,3. 1REMBRANDT half piece english red 339,3. 4 lose pieces of __umber. 1 lose piece of burnt sienna. 1 lose piece of english red. 10 tiny piece of differnt color browns. 1 half piece not labeled of light grayish purple.<br />
+<br />
+1 white and gray cardboard box with lid, label-REMBRANDT, artist's pastels, 371,3 Contains: 1REMBRANDT blue violet 548,3. 1 REMBRANDT mars violet 538,5. 1 REMBRANDT english red 339,5. 1 REMBRANDT half 506,3. 1 REMBRANDT half 508,5. 1 unlabled broken dark red. 1 small piece dark blue. 1 small piece dark purple. 1 tiny piece light blue. 1 1 SENNELIER PARIS Pastel A Lecu, no 50 prix. 1 CRAYOLA half piece green <br />
+<br />
+1 white and gray cardboard box with lid, label-REMBRANDT, artist's pastels, 227,8 Contains:1 REMBRANDT half orange 235, 5. 1 REMBRANDT full deep yellow 202,5. 1 REMBRANDT half light yellow 201,5.  2 lose pieces of light yellow. 1 lose piece of orange. 1 SENNELIER PARIS Pastel A Lecu, no 91 prix. 1 piece of a deep maroon SENNELIER PARIS Pastel A Lecu.<br />
+<br />
+1 white and gray cardboard box with lid, label-REMBRANDT, artist's pastels, 100,5 Contains: 1 half REMBRANDT permanent green 618,5. 4 small lose pieces of permanent green. 1 piece of light yellow green. 2 pieces of dark turquoise. 1 piece of forest green. 3 SENNELIER PARIS Pastel A Lecu, no 250, no 180, no 169, no 184<br />
+<br />
+1 white and gray cardboard box with lid "blue" written in pencil on lid. label-REMBRANDT, artist's pastels, 727,3. Contains: 1 half  REMBRANDT permanment green 619,3.  4 pieces of royal blue. 3 pieces of midnight blue. 3 pieces of navy blue. 3 pieces of light blue. 2 pieces of gray. 2 pieces of bluish gray. 2 tiny pieces of blue green, 2 pieces of dark turquiose.<br />
+<br />
+1 large faux wood finish cardborad box with lid. Inside lid label: GRUMBACHER, Finest Soft Pastels for artists, Set 34, 40 Pastels, General Assortment.  Box is divided into 40 slots. Slot 1- 38F Crimson Red Gr. 2. Slot 2- 102M Sunproof Yel. Lt. Gr 1. Slot 3- 13F Lemon Yellow Gr. 1. Slot 4- 102 D Sunproof Yel. Lt. Gr. 2. Slot 5- 8H Cadmium Yel. Dp. Gr3. Slot 6- 103K Sunproof Yell. Dp. Gr.1. Slot 7- piece of light khaki. Slot 8- 101H Sunproof Orange Gr1. Slot 9- 12K Chrome Orange sh. Gr1. Slot 10- 33M Permanment Red, Lt. Gr1. Slot 11- 33F Permanment Red, Lt.  Gr1. Slot 12- 9D Cadminum Orange Gr3. Slot 13- 34K Permanent Red Dp. Gr1. Slot 14- 38M Carmine Red Gr1. Slot 15- unlabled green. Slot 16- 39D Purple II Gr3. Slot 17- 93H Purple Madder Gr2.  Slot 18- 105K Sunfast Thio Violet Gr1. Slot 19- 40M Reddish Violet Gr1. Slot 20- 37H Permanent Rose Gr1. Slot  21-empty. Slot 22- 16C Flesh Ochre Gr1. Slot 23- 99M Red Brown Ochre Gr1. Slot 24- 26C Burnt Sienna Gr1. Slot 25-67D Deep Green Gr1. Slot 26- empty. Slot 27- 104K Permanment Green Gr1. Slot 28- unlabled light yellow. Slot 29- 46B Ultramarine Blue Deep Gr2. Slot 30- empty. Slot 31- 50F Greenish Blue Gr2. Slot 32- 46H Ultramarine Blue Dp. Gr1. Slot 33- 16M Flesh Ochre Gr1. Slot 34- 97K Bluish Green. Slot 35- 25M Burnt Sienna Gr 1. Slot 36- 21M English Red, Dp. Gr1. Slot 37- 44M Reddish Blue Gr1. Slot 38- 68H Permanent Green Dp Gr1. Slot 39- 23M Caput Mortuum Dp Gr1 Slot 40- empty.<br />
+<br />
+Drawer R4- labeled "PENS/INKS"<br />
+1 white plastic penholder with clear plastic sleve. CASTELL TG brand. label on side: Drawing Pen, Germany, 405 01/000. Holds: Black pen with cap, yellow band with 0.1 inscribed. and yellow plastic cartridge holder with black lettering: CASTELL TG 40254 Germany.<br />
+1 plastic jar with black twist off lid. labeld in red on side of jar: KOH-I-NOOR, Rapido-EZE, Pen cleaner for Rapidograph pens, No.3068, 2 fl oz. jar is empty except for twist in pen top. inside of jar is coated with black substance<br />
+1 olive green and blue cloth covered pen case with hinged lid.  Empty<br />
+1 clear plastic tube with blue lid. REXALL brand.  paper taped to side of jar "Christopher Wilmarth see ID".  jar is empty but coated with black substance.<br />
+1 small plastic tray with 4 dividers<br />
+1 black plastic pen with cap. inscriped on silver clip "PENTEL Japan"<br />
+<br />
+1 gold colored ribbed mechanical pencil  no cap. black lettering on side reads "JERSEY CITY WELDING AND MACHINE WORKS, INC. 400 Grand St. J.C, N.J. 07302, 201-434-0511. graphine still in pencil<br />
+<br />
+1off white pen, black ink. labeled: Item no SDK 150 Sakura color products corp. Japan. MICRON/PIGMA 03 Micro pigment ink for water proof and fade proof  fine lines. <br />
+1off white pen, black ink. labeled: Item no SDK 150 Sakura color products corp. Japan. MICRON/PIGMA 05 Micro pigment ink for water proof and fade proof  fine lines. <br />
+1off white pen, black ink. labeled: Item no SDK 150 Sakura color products corp. Japan. MICRON/PIGMA 01 Micro pigment ink for water proof and fade proof  fine lines. <br />
+1 orange pen with black cap, black ink. labeled: NIKKO Finepoint 99-L Japan.<br />
+1 pale yellow black ink pen, no cap, detachable silver clip. labeled: #AF-69 Accountant Fine Pt. BIC 69c.<br />
+1 black pen with with cap, red ends, and clear plastic band under below cap. labeled with sliver: reform/refograph. Germany 30/00<br />
+1 clear plastic black in BIC pen. no cap, cracked at ink end, dirty.<br />
+1 orange wood calligraphy pen (no tip), cork rim, black and white ink stains. labeled: 395 American Pencil Company, NY<br />
+1black wood calligraphy pen (no tip), cork rim, black ink stains. labeled 1004 Eagle Pencil Co. USA.<br />
+1 wood calligraphy pen with pen nip, metal rim inscriped with "stoakes", black ink stains.<br />
+2 thin and short wood calligraphy pens with nip, metal rims inscriped with "Pume Lilliput, France Blanzy Poure & CIE No 320<br />
+1 unsharpened black pencil inscriped in gold ink: OZARK USA ServWel copying ink Black No.366<br />
+1 black plastic pen cap with silver clip and clear plastic top<br />
+1 yellowish tube with circular opening on top and rectagular opening on bottom (cartridge holder?)<br />
+1black  holder...labeled: RUSH-ERASER<br />
+2 lose rusty metal wood cutting attachments<br />
+1 small silver metal container with lid containing 4 large and 3 small  pen nips<br />
+1 small rusty brass container with lid containing 4 pen nips<br />
+<br />
+Drawer R5- labeled "WATERCOLORS"<br />
+6 black and white rectangular box labeled: FUSAINS FINS, soft-round, No. 320, Iken-Art-Car-Mfg, Co. Made in Japan. 4 contain 10 long thin pieces of charcoal wrapped in paper. 1 contains 7 long thin pieces of charcoal wrapped in paper and 1 contains 1-8 whole long thin pieces and 2 half pieces of charcoal wrapped in paper.<br />
+2 dado blades for a circular saw. "Wilmarth" written on them.<br />
+1 brown cardboard box with lid. Contains: 4 whole pieces of white chalk. 3 whole pieces of blue chalk. 1 whole piece of deep blue chalk. 2 whole pieces of light blue chalk. All housed in cotton.<br />
+1 brown cardboard box with lid. Contains 1 whole and 1 half piece of pink chalk. 2 whole pieces of red chalk. 2 whole pieces of purple chalk. 1 whole piece of reddish purple chalk, 1 whole piece of dark bluish green chalk. 2 whole pieces of blue chalk. and 1 whole piece of dark pink chalk. All housed in cotton.<br />
+1 brown cardboard box with lid. Contains 2 whole pieces of yellow green chalk. 1 whole piece of light green chalk. 2 half pieces of greenish yellow chalk. 2 half pieces of light army green chalk. 1 broken piece and 2 small pieces of olive green chalk. 1 piece of pale yellow chalk. 1 half piece of greenish orange chalk.  All housed in cotton.<br />
+2 white and gray cardboard boxes with lids. label-REMBRANDT, soft pastels for artists, made in apeldoorn holland. 6x 700.5A. Contains: 5 black REMBRANDT pastels.<br />
+<br />
+Drawer R6- labeled "DRAFTING TOOLS ETC."<br />
+1 clear protractor with black writing : KEUFFEL & ESSER CO. 1274-8<br />
+1 clear plastic 30 60 90 triangle with green writing: 57 0220-14 Luxylite KEUFFEL & ESSER CO Denmark<br />
+1 rusty metal (brass?) compass one sharp end, one dull end. Inscriped with HORMES, NY.<br />
+1 cardboard box covered with tape. body slides out of lid. Empty<br />
+1 brown leather case with 2 snaps. Contains 1 metal compass, 1 small screwdriver and 1 case with replacement end. K&E CO. Germany.<br />
+2 pieces of 12x9 inch photo engravers' metal metal wrapped in tissue paper. labeled on back: ZOMC BACKOTE. Made in USA Reg US Pat off. 1 piece is an intact rectangle. 1 piece has 2 notches cut out of either side.<br />
+<br />
+Gray ArtBin brand container stored on wooden top of cart. hinged top. three layers of trays inside, each tray has 44 slots. filled with colored pastels. <br />
+Tray 1:  79 pieces of pastels in blue and purple hues, with many broken pieces. 5 empty slots<br />
+Tray 2: 90 pieces of pastels in yellow, gray, brown and orange hues, with many broken pieces. 3 empty slots<br />
+Tray 3: 68 pieces of pastels in red, pink, dark green, and dark purple hues, with many broken pieces. 7 empty slots.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</dd>
+                                                       </dl>
+          </dd>
+        
+        
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">CW2001.1943</span>
+        <span class="popup__artwork-info-author">
+                                    Unidentified Artist
+                              </span>
+        <span class="popup__artwork-info-title">Wilmarth's Artist Supply Cart</span>
+        <span class="popup__artwork-info-class">Archival Material</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2095264%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F95264">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F95264" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Wilmarth%27s+Artist+Supply+Cart+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F95264" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/95264" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_9fc75ae1b455d43a51c39af1d479f40b" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

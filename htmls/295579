@@ -1,0 +1,672 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections View of Dordrecht </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections View of Dordrecht" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/295579"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71361_prdwork?width=3000&amp;height=3000" />
+<meta property="og:description" content=" View of Dordrecht" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_273789" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71361_prdwork?width=3000&height=3000" data-initial-image-id="273789" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?295579" data-behavior="add_to_collection tooltip" data-artwork="295579" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=295579&amp;image_id=71361" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/295579/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71361">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71361_prdwork?width=3000&height=3000" data-zoom-enabled="1" data-people="Nicolaes Maes"  title="View Of Dordrecht" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="273789" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71361_prdwork?width=125&height=125" alt="View Of Dordrecht">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011756">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011756_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Nicolaes Maes"  title="View Of Dordrecht" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435536478" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011756_dynmc?width=125&height=125" alt="View Of Dordrecht">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1979.210</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27324>Nicolaes Maes</a>, Dutch                                                                                                                                                                                                                                                                          (Dordrecht 1634 - 1693 Amsterdam)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>View of Dordrecht</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1653-1660</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/295579">https://hvrd.art/o/295579</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink, brown wash, and touches of white opaque watercolor on light tan antique laid paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>12.3 × 25.7 cm (4 13/16 × 10 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          watermark: Cross of Lorraine; related to Heawood 2888–94 (1602–39) and 2896–98 (1644–46)
+                        </li>
+                                              <li data-a="2">
+                          inscription: lower center, brown ink: Dordregt
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 912
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower right, black ink, stamp: L. 909 (Edward Utterson)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Edward Vernon Utterson, London (L. 909, lower right), sold; [Christie’s, London, 24 February 1857, lot 537 (as Rembrandt)]; to Ripp. [William H. Schab, New York] sold; to Philip and Frances L. Hofer (L. 2087a, without his mark), 1945; bequest of Frances L. Hofer, 1979.210<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 52 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>No landscape paintings by Nicolaes Maes are known today, but he evidently produced at least one. An inventory compiled in 1663 of the contents of a house in Delft lists “een landschap van Maes van Dordrecht.”<sup class="footnote" id="fnrev10001139965ef6642e8c614-1"><a href="#fn10001139965ef6642e8c614-1">1</a></sup> All that remains of his achievement as a landscapist is a small group of drawings. None of them are signed, and their attribution rests on their resemblance to a small sketch on the recto of a sheet that, on its verso, bears a study for Maes’s painting <em>Christ Blessing the Children</em>.<sup class="footnote" id="fnrev10001139965ef6642e8c614-2"><a href="#fn10001139965ef6642e8c614-2">2</a></sup> The painting probably dates from circa 1652–53, near the end of the artist’s training in Rembrandt’s workshop. Since the Harvard sheet and the closely related <em>View of the Vriesepoort, Dordrecht</em> (Fig. 1)<sup class="footnote" id="fnrev10001139965ef6642e8c614-3"><a href="#fn10001139965ef6642e8c614-3">3</a></sup> represent scenery on the outskirts of Dordrecht, it is likely that they should be dated after he returned to his native city in 1653.</p>
+
+<p>In the composition and technique of this drawing, Maes emulated works by Rembrandt from around 1650, such as <em>Landscape with the House with the Little Tower</em> (Fig. 2).<sup class="footnote" id="fnrev10001139965ef6642e8c614-4"><a href="#fn10001139965ef6642e8c614-4">4</a></sup> He followed Rembrandt’s model by sketchily articulating the foreground field with long, horizontal strokes and extensive reserves, while the trees, mills, and other buildings that constitute the main motif are executed in greater detail. The lines that crisscross the field in Maes’s work, some lightly smudged or accentuated by a sawtooth pattern, imitate the delicate strokes that evoke the expanse of the river and watery meadow in Rembrandt’s drawing.</p>
+
+<p>Maes sketched the view in the Harvard work from the polder south of the city. Drained in the early seventeenth century, the fields in this area—some used for bleaching cloth (see Fig. 1)—were planted with trees and gardens and dotted with mills. The summarily outlined features of Dordrecht’s distant skyline include, at the left, the Grote Kerk (Great Church), the city’s most prominent landmark, and just left of center, the cupola of the Stadhuis (Town Hall).</p>
+
+<p>The hand that wrote <em>Dordregt</em> at the bottom of the Harvard sheet also annotated the view of bleaching fields outside the Vriesepoort and at least three other drawings.<sup class="footnote" id="fnrev10001139965ef6642e8c614-5"><a href="#fn10001139965ef6642e8c614-5">5</a></sup> The ink used for the Harvard drawing and the ink of its inscription are either identical or were concocted contemporaneously from the same, or a very similar, recipe.<sup class="footnote" id="fnrev10001139965ef6642e8c614-6"><a href="#fn10001139965ef6642e8c614-6">6</a></sup> It is therefore very likely that these annotations were written by the artist himself.<sup class="footnote" id="fnrev10001139965ef6642e8c614-7"><a href="#fn10001139965ef6642e8c614-7">7</a></sup> Four of the inscribed drawings—the Harvard work, <em>View of the Vriesepoort, Dordrecht</em>, and two studies depicting the Belvedere in Nijmegen can be attributed with confidence to Maes because their technique resembles that of the sketch on the recto of his study for <em>Christ Blessing the Children</em>.<sup class="footnote" id="fnrev10001139965ef6642e8c614-8"><a href="#fn10001139965ef6642e8c614-8">8</a></sup> Another inscribed drawing represents a purely architectural motif, the tower of the Westerkerk in Amsterdam.<sup class="footnote" id="fnrev10001139965ef6642e8c614-9"><a href="#fn10001139965ef6642e8c614-9">9</a></sup> Although the ink-and-wash technique of this last-mentioned study differs from that of the landscapes, it does recall the handling of other drawings by the artist and may plausibly be attributed to him.<sup class="footnote" id="fnrev10001139965ef6642e8c614-10"><a href="#fn10001139965ef6642e8c614-10">10</a></sup> Three or four additional landscapes, which do not bear inscriptions, are also attributable to Maes.<sup class="footnote" id="fnrev10001139965ef6642e8c614-11"><a href="#fn10001139965ef6642e8c614-11">11</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-1"><sup><a href="#fnrev10001139965ef6642e8c614-1">1</a></sup> G. H. Veth, “Aanteekeningen omtrent eenige Dordrechtse Schilders, <span class="caps">XXVIII</span>. Nicolaes Maes,” <em>Oud Holland</em>, vol. 8 (1890): 125–42, p. 141; William W. Robinson, “The Early Works of Nicolaes Maes, 1653 to 1661,” Ph.D. diss., Harvard University (Cambridge, 1996), p. 286.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-2"><sup><a href="#fnrev10001139965ef6642e8c614-2">2</a></sup> Werner Sumowski, <em>Drawings of the Rembrandt School</em> (New York, 1979), vol. 8, cat. 1763, pp. 3962–63; Holm Bevers, Lee Hendrix, William W. Robinson, and Peter Schatborn, <em>Drawings by Rembrandt and His Pupils: Telling the Difference</em> (Los Angeles: J. Paul Getty Museum, 2009) pp. 180–81, and fig. 29c; William W. Robinson, “Landscape Drawings by Nicolaes Maes,” <em>Kroniek van het Rembrandthuis</em> (2012): 42–47, pp. 43–44, repr. p. 44, fig. 2. For the study for <em>Christ Blessing the Children</em> on the verso of the sheet, see Sumowski (1979), vol. 8, cat. 1761, pp. 3958–59. For the painting, see Werner Sumowski, <em>Gemälde der Rembrandt‑Schüler in vier Bänden</em> (Landau, Germany, 1983), vol. 3, cat. 1312, p. 2005.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-3"><sup><a href="#fnrev10001139965ef6642e8c614-3">3</a></sup> Nicolaes Maes, <em>View of the Vriesepoort, Dordrecht</em> (Fig. 1). Brown ink, brown wash. 187 × 265 mm. Inscribed, lower right, brown ink, <em>D vriese Poort tot Dordt</em>. Amsterdam, Stichting P. en N. de Boer, B 681; Sumowski (1979), vol. 8, cat. 1900x, pp. 4250–51. Bevers et al., pp. 180–81, and fig. 29b. Robinson (2012), pp. 43–47, repr. p. 44, fig. 3. Peter Schatborn in Hans Buijs, <em>From Goltzius to Van Gogh: Drawings and Paintings from the P. and N. de Boer Foundation</em> (Paris: Fondation Custodia, 2014), cat. 59.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-4"><sup><a href="#fnrev10001139965ef6642e8c614-4">4</a></sup> Rembrandt van Rijn, <em>Landscape with the House with the Little Tower</em> (Fig. 2). Brown ink, brown wash. 97 × 215 mm. Los Angeles, The J. Paul Getty Museum, 83.GA.363. Otto Benesch, <em>The Drawings of Rembrandt</em>, enlarged and edited by Eva Benesch (Oxford, 1973), vol. 6, cat. 1307. For the Harvard drawing and the Rembrandt, see Bevers et al., cats. 29.1 and 29.2, pp. 178–81.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-5"><sup><a href="#fnrev10001139965ef6642e8c614-5">5</a></sup> In addition to the Harvard sheet and <em>View of the Vriesepoort, Dordrecht</em> (Fig. 1; see n. 3), the following bear inscriptions in the same hand, identifying the sites represented in the drawings: <em>Belvedere and Kalverbos in Nijmegen</em>, Berlin, Kupferstichkabinett, KdZ 1116, Sumowski (1979), vol. 8, cat. 1899ax, pp. 4248–49; <em>Belvedere and Forecourt in Nijmegen</em>, Netherlands, private collection (formerly collection of W. Argoutinsky-Dolgoroukoff, St. Petersburg, sale R. W. P. de Vries, Amsterdam, 27 March 1925, lot 176), see Benjamin P. J. Broos, <em>Rembrandt en tekenaars uit zijn omgeving</em> (Amsterdam, 1981), p. 86; and <em>Tower of the Westerkerk, Amsterdam</em>, Amsterdam Museum, TA 10288, Broos, cat. 19, pp. 82–86. See also Robinson (2012), pp. 42–45, figs. 1, 3, and 4, for the inscribed drawings. Another drawing possibly annotated by the same hand is a panoramic vista of Dordrecht’s harbor from the northeast, which is inscribed <em>Dordregt</em> in brown ink at the bottom of the sheet (Sumowski, 1979, vol. 10, cat. 2274x, p. 5140, as Roelant Roghman; sale, Christie’s, London, 7 July 1992, lot 88, as “Dutch School, mid-17th Century”). This drawing is now in a private collection in Amsterdam. As Susan Anderson pointed out in conversation, the form of the <em>D</em> differs from the <em>D</em> in the inscriptions on the Harvard sheet and on the <em>View of the Vriesepoort, Dordrecht</em>. However, the remaining letters, <em>ordregt</em>, are comparable to those in the other inscribed works, and the drawing could well be by Maes.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-6"><sup><a href="#fnrev10001139965ef6642e8c614-6">6</a></sup> Examination of the Harvard drawing using the Video Spectral Comparator (<span class="caps">VSC</span>) 5000’s spotlight fluorescence and infrared and ultraviolet illumination revealed no difference in the inks, suggesting that they are either the same or very similar. Microscopic examination indicated that the ink of the drawing is slightly cooler (grayer) and more granular than the ink of the inscription, which appears slightly more golden. The differences could be attributable to two inks from different batches made up from a similar recipe. Another possibility is that the author of the inscription used the same ink batch as in the drawing, but later, when the ink had settled. The inscription was also probably done with a finer pen than that used in the drawing. My thanks to Penley Knipe for these observations.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-7"><sup><a href="#fnrev10001139965ef6642e8c614-7">7</a></sup> Comparison of the inscriptions on the drawings with Maes’s signature on archival documents is inconclusive: some letters are similarly written; others differ. For examples of Maes’s signature on documents, see Abraham Bredius, “Bijdragen tot een biografie van Nicolaes Maes,” <em>Oud Holland</em>, vol. 41 (1923–24): 207–14, pp. 210–12. The more formal character of the inscriptions on the drawings may account for some of the differences. For example, the <em>N</em> in the annotations on the two drawings of Nijmegen closely resembles the <em>N</em> in signatures on Maes’s paintings. For illustrations of the signatures on paintings, see León Krempel, <em>Studien zu den datierten Gemälden des Nicolaes Maes (1634–1693)</em> (Petersberg, Germany, 2000), p. 29.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-8"><sup><a href="#fnrev10001139965ef6642e8c614-8">8</a></sup> Sumowski (1979), vol. 8, cat no. 1900x, pp. 4250–51, and cat. 1899ax, pp. 4248–49; and William Robinson, “Nicolaes Maes as a Draughtsman,” <em>Master Drawings</em>, vol. 27, no. 2 (Summer 1989): 146–62, pp. 159 and 162. <em>Belvedere and Forecourt in Nijmegen</em> (see n. 5 above) was attributed to Maes in 2009 by Peter Schatborn and the present author in conversation with Johan Bosch van Rosenthal, who showed us an image of the drawing.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-9"><sup><a href="#fnrev10001139965ef6642e8c614-9">9</a></sup> Broos, cat. 19, pp. 82–86.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-10"><sup><a href="#fnrev10001139965ef6642e8c614-10">10</a></sup> Ibid., p. 86. Broos was the first to note that the inscription on the drawing of the Westerkerk tower was in the same hand as the annotations on the two views of Nijmegen. Broos assigned all three drawings to an unidentified pupil of Rembrandt. Benjamin Binstock (“Samuel van Hoogstraten’s Westertoren,” <em>Master Drawings</em>, vol. 45, no. 2 (Summer 2007): 187–200, pp. 191–92) attributed the views of the Westerkerk and of Nijmegen to Samuel van Hoogstraten, but he was unaware of, or ignored, the evidence adduced by Sumowski that related the Nijmegen views to Maes’s work.</p>
+
+<p class="footnote" id="fn10001139965ef6642e8c614-11"><sup><a href="#fnrev10001139965ef6642e8c614-11">11</a></sup> See Sumowski (1979), vol. 8, cat. 1899x, pp. 4246–47, and cat. 1901x, pp. 4252–53 (now in the Metropolitan Museum of Art, 2002.90); and William Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Vienna: Albertina; New York: Pierpont Morgan Library; Cambridge: Harvard University Art Museums, 2009), cat. 60, pp. 138–39 (now in the Maida and George Abrams Collection, Fogg Art Museum/Harvard Art Museums, <a href="https://www.harvardartmuseums.org/collections/object/199371?position=0">2008.255</a>). Another landscape that exhibits Maes’s distinctive handling of foliage, as well as figures similar to those in his <em>View of the Vriesepoort</em>, is a study in the British Museum, 1895,0915.1277. The British Museum work was attributed by Sumowski (1979, vol. 2, cat. 337x) to Anthonie van Borssom and by Martin Royalton-Kisch (Catalogue of Drawings by Rembrandt and His School in the British Museum, London, 2010, <a href="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=710422&amp;partId=1&amp;searchText=1895,0915.1277&amp;page=1">Hoogstraten.5</a> to Samuel van Hoogstraten. For the attribution to Maes, see Robinson (2012), pp. 46–47, repr. p. 47, fig. 6.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/295579/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Nicolaes Maes, <em>View of the Vriesepoort, Dordrecht</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/295579/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Rembrandt van Rijn, <em>Landscape with the House with the Little Tower</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Frances L. Hofer</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1979</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1979.210</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 76, p. 18 (as Abraham Furnerius)
+                             </p>
+                                                      <p>
+                                              Philip Hofer, <em>"A Collector's Approach to Drawings"</em>, The Drawing Society (New York, NY, 1963), pp. 16-18 (as probably by Abraham Funerius)
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum, <em>Fogg Art Museum Annual Report, 1978-1980</em> (Cambridge, MA, 1982), pp. 137-8
+                             </p>
+                                                      <p>
+                                              Eunice Williams, <em>Master Drawings and Watercolors: The Hofer Collection</em>, exh. cat., ed. Konrad Oberhuber and William W. Robinson, Harvard University Art Museums (Cambridge, 1984), cat. no. 15, pp. 26-27, repr. p. 90 (as Follower of Rembrandt)
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "Nicolaes Maes as a Draughtsman", <em>Master Drawings</em> (Summer 1989), vol. 27, no. 2, pp. 146-162, pp. 159 and 162 (n. 37), repr. p. 160, fig. 36
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), under cat. no. 60, p. 138 (n. 4), repr. fig. 2
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp, <em>Hartstochtelijk Verzameld: 18de-eeuwse Hollandse verzamelaars van tekeningen en hun collecties</em>, Fondation Custodia (Paris, France, 2001), p. 213 (n. 50)
+                             </p>
+                                                      <p>
+                                              Ivan Gaskell, <em>Rembrandt and the Aesthetics of Technique</em>, brochure, Harvard University Art Museums (Cambridge, MA, 2006), checklist
+                             </p>
+                                                      <p>
+                                              Holm Bevers, Lee Hendrix, William W. Robinson, and Peter Schatborn, <em>Drawings by Rembrandt and his Pupils: Telling the Difference</em>, exh. cat., J. Paul Getty Museum (Los Angeles, 2009), cat. no. 29.2, pp. 180-181 and 258, repr. p. 179
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "Landscape Drawings by Nicolaes Maes", <em>Kroniek van het Rembrandthuis</em> (2012), pp. 42-7, pp. 45 and 47
+                             </p>
+                                                      <p>
+                                              Ger Luijten and Hans Buijs, <em>From Goltzius to Van Gogh: drawings and paintings from the P. & N. de Boer Foundation
+</em>, exh. cat., Thoth Publishers (Bussum, Netherlands, 2014), p. 184, under cat. no. 82, repr. fig. 82a
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 17; cat. no. 52, pp. 182-184, repr. p. 183; watermark p. 378
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>Master Drawings and Watercolors: The Hofer Collection</em>, Tampa Museum of Art, Tampa, 04/15/1984 - 07/07/1984; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/05/1984 - 11/29/1984
+                            </p>
+                          <p>
+                              <em>Rembrandt and His School: Drawings from the Museum Boymans-van Beuningen Rotterdam</em>, Arthur M. Sackler Museum, Cambridge, 12/02/1989 - 01/28/1990
+                            </p>
+                          <p>
+                              <em>Rembrandt and the Aesthetics of Technique</em>, Harvard University Art Museums, Busch-Reisinger Museum, 09/09/2006 - 12/10/2006
+                            </p>
+                          <p>
+                              <em>Drawings by Rembrandt and His Pupils: Telling the Difference</em>, J. Paul Getty Museum, Los Angeles, 12/08/2009 - 02/28/2010
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71361_prdwork?width=200&height=200" alt="View Of Dordrecht">
+                <span class="popup__artwork-info-id">1979.210</span>
+        <span class="popup__artwork-info-author">
+                                    Nicolaes Maes
+                              </span>
+        <span class="popup__artwork-info-title">View of Dordrecht</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20295579%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295579">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295579" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=View+of+Dordrecht+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295579" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/295579" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_dc8a79568d5225f03e4504dfb82bce06" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

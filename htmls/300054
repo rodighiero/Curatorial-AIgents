@@ -1,0 +1,716 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Actors </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Actors" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/300054"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC251690_dynmc?width=256&amp;height=256" />
+<meta property="og:description" content=" Actors" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47262098" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC251690_dynmc?width=256&height=256" data-initial-image-id="47262098" data-zoom-enabled="0"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?300054" data-behavior="add_to_collection tooltip" data-artwork="300054" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=300054&amp;image_id=DDC251690" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/300054/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC251690">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251690_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Max Beckmann"  title="Actors" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47262098" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC251690_dynmc?width=125&height=125" alt="Actors">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="19675">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:19675_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Max Beckmann"  title="Actors" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181874" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:19675_dynmc?width=125&height=125" alt="Actors">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="78637">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:78637_dynmc?width=256&height=256" data-zoom-enabled="0" data-people="Max Beckmann"  title="Actors" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18204849" class="openseadragon__thumb">
+                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:78637_dynmc?width=125&height=125" alt="Actors">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>In the early 1930s, in the face of escalating threats by nationalist critics to practitioners of the German avant-garde, Beckmann increasingly turned to allegorical and mythical subjects and began to work in an ambitious triptych format. The triptych, or painting in three parts, references the tradition of religious painting in the West, but also, as a result of its sheer size, makes a claim for public recognition. Painted during World War II while Beckmann was in exile in Amsterdam, Actors depicts a theater rehearsal. The construction of space challenges illusionistic perspective, as evident in the disjointed stage occupied both above and below, and jolts viewers out of passive spectatorship. For Beckmann, theater was a direct metaphor for existence in wartime. Several figures here are often identified as the artist’s fellow émigrés, and the self-sacrificing king at center as Beckmann in younger years. Tired of the “lousy, uncreative efforts” of the “unknown stage directors” orchestrating wailing sirens or bombing campaigns, Beckmann designed his own “stage sets” of complex, layered meanings.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1955.174.A-C</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27201>Max Beckmann</a>, German                                                                                                                                                                                                                                                                          (Leipzig, Germany 1884 - 1950 New York, N.Y., USA)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Actors</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Schauspieler<br>                                                                                                              Former Title: The Actors                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1941-1942</dd>
+                                                                <dt>Culture</dt>
+                <dd>German</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/300054">https://hvrd.art/o/300054</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 1, Room 1330, Modern and Contemporary Art, New Images<br>
+            <a href="/visit/floor-plan/1?gallery=1330" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>left panel: 199.4 x 83.7 cm (78 1/2 x 32 15/16 in.)<br />
+center panel: 199.4 × 150 cm (78 1/2 × 59 1/16 in.)<br />
+right panel: 199.4 × 83.7 cm (78 1/2 × 32 15/16 in.)<br />
+overall framed: 207.3 × 341.9 × 6.4 cm (81 5/8 × 134 5/8 × 2 1/2 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Beckmann A 42
+                      </li>
+                    
+                    
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Buchholz Gallery, New York, New York (1946-47)], sold; to Lois Orswell, Pomfret Center, Connecticut, (1947-1955), gift; to Fogg Art Museum, 1955.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Lois Orswell</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© <a href="https://www.arsny.com/">Artists Rights Society (ARS), New York</a> / VG Bild-Kunst, Bonn</dd>
+            
+                          <dt>Accession Year</dt>
+              <dd>1955</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1955.174.A-C</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>The Actors by Beckmann</em>, exh. cat., Buchholz Gallery (New York, NY, 1946), Cat. No. 3, ill.
+                             </p>
+                                                      <p>
+                                              <em>Max Beckmann Retrospective Exhibition</em>, exh. cat., City Art Museum of St. Louis (St. Louis, MO, 1948), no. 30, repr. pp. 68-69; checklist p. 96
+                             </p>
+                                                      <p>
+                                              Max Beckmann, <em>Tagebücher 1940-1950</em>, A. Langen-G. Müller (Munich, Germany, 1955), see May 1941-July 1942
+                             </p>
+                                                      <p>
+                                              Charles Scott Chetham, [Unidentified article], <em>Fogg Art Museum Annual Report 1955-1956</em>, Fogg Art Museum (Cambridge, MA, 1956), pps. 54, 62-64, reproduced in b/w p. 55
+                             </p>
+                                                      <p>
+                                              Stephan Lackner, <em>Max Beckmann 1884-1950 Die Neun Triptychen</em>, Im Safari-Verlag (Berlin, Germany, 1965), pps. 16-19, reproduced in color p. 17
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967), n.p.
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, exh. cat., Albright-Knox Art Gallery (Buffalo, NY, 1967), cat.. 41
+                             </p>
+                                                      <p>
+                                              Charles S. Kessler, <em>Max Beckmann's Triptychs</em>, Belknap Press of Harvard University Press (Cambridge, MA, 1970), pps. 51-62, 99, 106; reproduced in color facing p. 51
+                             </p>
+                                                      <p>
+                                              Charles Werner Haxthausen, "The Busch-Reisinger Museum, Harvard: the Germanic Tradition", <em>Apollo</em> (May 1978), vol. 107, no. 195, pp. 403-413, p. 410, repr. p. 409 as fig. 6 [all three parts of triptych]
+                             </p>
+                                                      <p>
+                                              Charles Werner Haxthausen, <em>The Busch-Reisinger Museum, Harvard University</em>, Abbeville Press (New York, NY, 1980), p. 20, repr.
+                             </p>
+                                                      <p>
+                                              William Feaver, "Max Beckmann's Theatre of Disguises and Burlesques", <em>Art News</em> (March 1981), reproduced in b/w, p. 147
+                             </p>
+                                                      <p>
+                                              <em>Max Beckmann: The Triptychs</em>, exh. cat., Whitechapel Art Gallery (London, England, 1981), reproduced in color opposite p. 46 and color detail p. 17; text, p. 17-18
+                             </p>
+                                                      <p>
+                                              Laszlo Glozer, <em>Westkunst: Zeitgenössische Kunst seit 1939</em>, exh. cat., DuMont (Cologne, Germany, 1981), reproduced in b/w no. 36, p. 343
+                             </p>
+                                                      <p>
+                                              Charles Werner Haxthausen, ed., <em>Deutsche Kunst des 20. jahrhunderts aus dem Busch-Reisinger Museum</em>, Harvard University (Cambridge, MA, 1983), reproduced in b/w XI 8, p. 219
+                             </p>
+                                                      <p>
+                                              Carla Hoffmann-Schulz and Judith C. Weitz, ed., <em>Max Beckmann: Retrospective</em>, exh. cat., St. Louis Art Museum and Prestel-Verlag (St. Louis, MO and Munich, Germany, 1984), pp. 43, 125, 463, fig. 20, detail, fig. 8, ill. (b/w)
+                             </p>
+                                                      <p>
+                                              Caroline A. Jones, Modern Art at Harvard: The Formation of the Nineteenth- and Twentieth-Century Collections of the Harvard University Art Museums (New York, NY and Cambridge, MA, Harvard University Art Museums and Abbeville Press, 1985). With an essay by John Coolidge and a preface by John M. Rosenfield.  To accompany the inaugural exhibition at the Sackler Museum, Oct 21 1985 - Jan 5 1986, reproduced in color fig. 97, p. 102
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 382, p. 319, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Von Heinz Jatho, <em>Max Beckmann: Schauspieler-Triptychon</em>, Insel Verlag (Baden-Baden, 1989), Fold-out color ill. in back
+                             </p>
+                                                      <p>
+                                              <em>Max Beckmann in Exile</em>, exh. cat., Guggenheim Museum Publications (New York, NY, 1996), detail on cover; central panel p. 63; full repro. cat. no. 11; credits, p. 143.
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Reinhard Spieler, <em>Max Beckmann: Bildwelt und Weltbilt in den Triptychen</em>, DuMont Buchverlag (Cologne, Germany, 1998), pp. 26-27, ill. (color)
+                             </p>
+                                                      <p>
+                                              Pia Gottschaller, "Max Beckmann: His Painting Materials and Technique" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, 1998), Unpublished, pp. 1-33 passim
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn and Sarah Kianovsky, <em>Lois Orswell, David Smith, and Modern Art</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2002), cat. no. 5, fig. 20; pp. 48-49 (repr. color), 306, 374
+                             </p>
+                                                      <p>
+                                              Sean Rainbird, ed., <em>Max Beckmann</em>, exh. cat., Museum of Modern Art, New York (New York, 2003), pp. 142, 200-201, cat. no. 107, ill. (color)
+                             </p>
+                                                      <p>
+                                              Stephen Diederich and Paola Malavassi, ed., <em>Max Beckmann, Fernand Léger: Unerwartete Begegnungen</em>, Museum Ludwig and DuMont Literatur und Kunst Verlag (Cologne, 2005), p. 113
+                             </p>
+                                                      <p>
+                                              Beatrice von Bormann, <em>Max Beckmann in Amsterdam 1937-1947</em>, exh. cat., Van Gogh Museum (Amsterdam, 2007), pp. 53, 56
+                             </p>
+                                                      <p>
+                                              Pinakothek der Moderne, ed., <em>Max Beckmann: Exile in Amsterdam</em>, exh. cat., Hatje Cantz Verlag (Munich, 2007), pp. 48, 51-52, 95, 100, 186-189, fig. 12, ill. (color)
+                             </p>
+                                                      <p>
+                                              Deborah Schultz and Edward Timms, Politics and Pictorial Narrative in the Nazi Period: Autobiographical motifs in the paintings of Felix Nussbaum, Taylor and Francis Group (2008), p. 245, fig. 21
+                             </p>
+                                                      <p>
+                                              Peter Chametzky, <em>Objects as History in Twentieth Century German Art: Beckmann to Beuys</em>, University of California Press (Berkeley, Los Angeles, London, 2010), pp. 26-27, ill. (black and white)
+                             </p>
+                                                      <p>
+                                              Susanne Petri and Hans-Werner Schmidt, <em>Max Beckmann: Von Angesicht zu Angesicht</em>, exh. cat., Hatje Cantz and Museum der bildenden Kunste Leipzig (Leipzig, Germany, 2011), pp. 38-41, 43, 45-46, 48, 53, ill. (color)
+                             </p>
+                                                      <p>
+                                              <em>"Für Max Beckmann war die Welt ein Theater"</em>, website, 2017, lead image, ill. (color)
+                             </p>
+                                                      <p>
+                                              Lynette Roth, <em>Max Beckmann: The World as a Stage</em>, exh. cat., ed. Kunsthalle Bremen and Museum Barberini, Prestel (Munich, London, New York, 2017), pp. 74-75, 109, 122-123, 211, fig. 8 (cat. 31), ill. (color)
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>The Actors by Beckmann</em>, Buchholz Gallery, 11/19/1946 - 12/07/1946
+                            </p>
+                          <p>
+                              <em>20th Century Abstract Painting and Sculpture</em>, Rhode Island School of Design Museum, Providence, 04/16/1947 - 05/18/1947
+                            </p>
+                          <p>
+                              <em>Max Beckmann Retrospective Exhibition</em>, City Art Museum of St. Louis, St. Louis, 05/01/1948 - 05/31/1948; Busch-Reisinger Museum, 12/06/1948 - 01/07/1949
+                            </p>
+                          <p>
+                              <em>Max Beckmann Exhibition</em>, Fogg Art Museum, Cambridge, 02/23/1956 - 05/19/1956
+                            </p>
+                          <p>
+                              <em>Max Beckmann</em>, Museum of Fine Arts, Boston, Boston, 10/01/1964 - 11/15/1964; Museum of Modern Art, New York, New York, 12/14/1964 - 01/31/1965; The Art Institute of Chicago, Chicago, 03/12/1965 - 04/11/1965; Kunstverein Hamburg, Hamburg, 05/10/1965 - 07/04/1965; Kunstverein Frankfurt, Frankfurt, 07/15/1965 - 09/09/1965; Tate Gallery, London, 09/25/1965 - 11/08/1965
+                            </p>
+                          <p>
+                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, Albright-Knox Art Gallery, Buffalo, 05/08/1967 - 06/11/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Max Beckmann 1884-1950: The Triptychs</em>, Whitechapel Art Gallery, London, 11/11/1980 - 12/31/1980; Stedelijk Museum, Amsterdam, 01/01/1981 - 02/28/1981; Städelsches Kunstinstitut, Frankfurt, 04/15/1981 - 06/21/1981
+                            </p>
+                          <p>
+                              <em>Beckmann Triptych</em>, Whitechapel Art Gallery, London, 11/11/1980 - 12/31/1980
+                            </p>
+                          <p>
+                              <em>Contemporary Art since 1939</em>, Museum of the City of Cologne, Cologne, 05/30/1981 - 08/16/1981
+                            </p>
+                          <p>
+                              <em>Modern Art at Harvard</em>, Harvard University Art Museums, Cambridge, 10/21/1985 - 01/05/1986
+                            </p>
+                          <p>
+                              <em>Hinter der Buhne (Backstage): Max Beckmann 1950</em>, Museum der bildenden Künste, Leipzig, 07/20/1990 - 09/19/1990; Stadtische Galerie im Stadelschen Kunstinstitut, Frankfurt, 10/10/1990 - 01/13/1991
+                            </p>
+                          <p>
+                              <em>Max Beckmann in Exile</em>, Solomon R. Guggenheim Museum, New York, 10/09/1996 - 01/15/1997
+                            </p>
+                          <p>
+                              <em>Max Beckmann</em>, Museum of Modern Art, New York, New York, 06/25/2003 - 09/30/2003
+                            </p>
+                          <p>
+                              <em>Lois Orswell, David Smith, and Modern Art</em>, Harvard University Art Museums, Cambridge, 09/21/2002 - 02/16/2003
+                            </p>
+                          <p>
+                              <em>Max Beckmann in Amsterdam</em>, Van Gogh Museum, Amsterdam, 04/06/2007 - 08/19/2007; Pinakothek der Moderne, Munchen, 09/13/2007 - 01/27/2008
+                            </p>
+                          <p>
+                              <em>32Q: 1330 Mid-Century Figurative</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 08/11/2017; Harvard Art Museums, Cambridge, 07/26/2018 - 01/01/2050
+                            </p>
+                          <p>
+                              <em>Max Beckmann: The World as a Stage</em>, Kunsthalle Bremen, Bremen, 09/30/2017 - 02/04/2018; Museum Barberini, Potsdam, 02/23/2018 - 06/10/2018
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:DDC251690_dynmc?width=256&height=256" alt="Actors">
+                <span class="popup__artwork-info-id">1955.174.A-C</span>
+        <span class="popup__artwork-info-author">
+                                    Max Beckmann
+                              </span>
+        <span class="popup__artwork-info-title">Actors</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20300054%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F300054">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F300054" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Actors+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F300054" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_bf53383e1f8c62698b4fd10e5a18b0e6" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

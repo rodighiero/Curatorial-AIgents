@@ -1,0 +1,614 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Landscape with Doorwerth Castle </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Landscape with Doorwerth Castle" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/212407"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:72002_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Landscape with Doorwerth Castle" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481504" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:72002_dynmc?width=3000&height=3000" data-initial-image-id="18481504" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?212407" data-behavior="add_to_collection tooltip" data-artwork="212407" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=212407&amp;image_id=72002" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/212407/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1999.180</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29331>Anthonie Waterloo</a>, Dutch                                                                                                                                                                                                                                                                          (Lille, France 1609 - 1690 Utrecht, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Landscape with Doorwerth Castle</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1650-1670</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/212407">https://hvrd.art/o/212407</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk, charcoal, gray wash, and some white opaque watercolor on cream antique laid paper, partial framing line in brown ink at bottom</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>25.2 x 40.5 cm (9 15/16 x 15 15/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          watermark: Strasbourg Lily; variant of Heawood 1782 (n.d.)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower right, black ink stamp: L. 1272 (Bernard Houthakker)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower right, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Bernard Houthakker, Amsterdam (L. 1272, verso, lower right), sold; [Sotheby Mak van Waay, Amsterdam, 17-18 November, 1975, lot 128, repr.].  [P. & D. Colnaghi & Co. Ltd., London], sold; to Maida and George Abrams, Boston, 1976 (L. 3306, verso, lower right; The Maida and George Abrams Collection, 1999.180.<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 97 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The landscapist Anthonie Waterloo produced hundreds of drawings and nearly 130 etchings, but only a few of his paintings are known today.<sup class="footnote" id="fnrev516518675ef6643e40163-1"><a href="#fn516518675ef6643e40163-1">1</a></sup> His drawings are remarkable for their diverse scenery, technical ingenuity, and occasionally unconventional compositions and motifs. Many are finished works, made for sale. Like Lambert Doomer and Roelant Roghman (<a href="https://www.harvardartmuseums.org/collections/object/199374?position=0">2011.516</a>, <a href="https://www.harvardartmuseums.org/collections/object/4726?position=0">2005.252</a>), Waterloo catered to the demand from collectors who assembled albums with images of cities, towns, buildings, and other notable sites, and his large, meticulously detailed topographical views are his most impressive achievements. A drawing of this type from 1649, showing a picturesque log shack on the Amstel river in Amsterdam, is his earliest dated work,<sup class="footnote" id="fnrev516518675ef6643e40163-2"><a href="#fn516518675ef6643e40163-2">2</a></sup> and similarly finished renderings of the city’s gates and ramparts followed in the early 1650s. During the 1650s, Waterloo undertook at least two extended journeys, and he used the sketches made on those trips to produce finished drawings of the sites he had visited. Like many landscapists (e.g., Aelbert Cuyp; see <a href="https://www.harvardartmuseums.org/collections/object/297063?position=0">1949.33</a>), he traveled along the Lower Rhine, making studies in and around Utrecht, Rhenen, Arnhem, Amersfoort, Nijmegen, and Cleves. About 1658, he embarked on a tour through northern Germany that might have lasted two or three years, and that likely took him as far east as the Baltic port of Danzig (Gdansk). Drawings of Hamburg and its surroundings, Lüneburg, and the Oliva monastery near Danzig resulted from this trip.<sup class="footnote" id="fnrev516518675ef6643e40163-3"><a href="#fn516518675ef6643e40163-3">3</a></sup></p>
+
+<p>Waterloo’s landscapes include panoramas, winter scenes, forest interiors with quiet pools, woodlands with rugged banks and waterfalls, and cottages or small villages nestled among tall trees. Some of the woodland scenes recall paintings by Jacob van Ruisdael, but drawings by Simon de Vlieger must have provided his most influential models, particularly for his charmingly eccentric close-up studies of tree trunks and rustic buildings engulfed by foliage and undergrowth.<sup class="footnote" id="fnrev516518675ef6643e40163-4"><a href="#fn516518675ef6643e40163-4">4</a></sup> Waterloo’s most original works are compositions in a vertical format, dominated by a single tree or clump of trees set against a landscape background—in some examples, at twilight or in winter. Through technical improvisation and the combination of various media—colored chalks, pastels, charcoal, and opaque watercolor, in addition to ink and wash—he created a remarkable range of pictorial effects in these drawings.<sup class="footnote" id="fnrev516518675ef6643e40163-5"><a href="#fn516518675ef6643e40163-5">5</a></sup></p>
+
+<p>In the Harvard panorama, the trees at the right, the shaded foreground, and the gray wash in the sky at upper left all frame the castle and its dependent structures against the sunlit woods before it and the river beyond. Feathery trees on high ground similarly serve as framing devices in other panoramas by Waterloo, such as <em>View of Haarlem and the Ruins of Brederode</em> (Fig. 1).<sup class="footnote" id="fnrev516518675ef6643e40163-6"><a href="#fn516518675ef6643e40163-6">6</a></sup> There, he depicted the distant city within an encompassing, detailed representation of its surrounding topography. The Harvard drawing, too, is not merely a finished landscape in which a castle figures as a picturesque motif, but the record of a particular house and its setting. The property is almost certainly Kasteel Doorwerth, a moated brick structure that still stands on the floodplain of the Lower Rhine east of Arnhem in the province of Gelderland (Fig. 2).<sup class="footnote" id="fnrev516518675ef6643e40163-7"><a href="#fn516518675ef6643e40163-7">7</a></sup> Several Waterloo drawings of Arnhem are known, but to our knowledge, this is his only view of Doorwerth.<sup class="footnote" id="fnrev516518675ef6643e40163-8"><a href="#fn516518675ef6643e40163-8">8</a></sup></p>
+
+<p>The handling of the foreground of the Harvard sheet illustrates the technical ingenuity and care that Waterloo invested in his finished drawings. In the foliage of the two prominent trees and those in shadow below, Waterloo created selective highlights by exposing the underlying white paper, perhaps by blotting the wet wash. These small glimmers of white lend a translucency and shimmer to otherwise undifferentiated pas- sages of shading.</p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn516518675ef6643e40163-1"><sup><a href="#fnrev516518675ef6643e40163-1">1</a></sup> Benjamin P. J. Broos, “Waterloo, Antoni,” in Jane Turner, ed., <em>The Dictionary of Art</em> (New York, 1996), vol. 32, pp. 907–8. Peter Morse in Adam von Bartsch, ed. Walter L. Strauss, <em>The Illustrated Bartsch</em> (Norwalk, Connecticut, 1978–), vol. 2 (Commentary), p. x, accepts 128 prints as Waterloo productions.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-2"><sup><a href="#fnrev516518675ef6643e40163-2">2</a></sup> Stadsarchief Amsterdam, Van Eeghen Collection of Drawings, 10055.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-3"><sup><a href="#fnrev516518675ef6643e40163-3">3</a></sup> See the excellent summary of Waterloo’s career by B. P. J. Broos (pp. 907–8), and the biographical information on the <span class="caps">RKD</span> Artists website, record no. <a href="https://rkd.nl/en/explore/artists/record?query=83001&amp;start=0">83001</a>. For works executed on Waterloo’s journey through northern Germany, see Lotte Stubbe and Wolf Stubbe, <em>Um 1660 auf Reisen gezeichnet: Anthonie Waterloo, 1610–1690; Ansichten aus Hamburg, Altona, Blankenese, Holstein, Bergedorf, Lüneburg und Danzig‐Oliva</em> (Hamburg, 1983), and Annemarie Stefes, <em>Niederländische Zeichnungen 1450–1850: Kupferstichkabinett der Hamburger Kunsthalle</em>, (Cologne, 2011), vol. 2, pp. 602–3.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-4"><sup><a href="#fnrev516518675ef6643e40163-4">4</a></sup> Anthonie Waterloo, <em>A Shepherd’s Hut among Trees</em>, Amsterdam, Rijksmuseum, RP-T-1902-A-4644; <em>A Shed in a Landscape</em>, Frankfurt am Main, Städelsches Kunstinstitut, 869; <em>A Woodland Study</em>, Cambridge, U.K., Fitzwilliam Museum, PD 903-1963, recto and verso; David Scrase, <em>Das Goldene Jahrhundert: Holländische Meisterzeichnungen aus dem Fitzwilliam Museum Cambridge / The Golden Century: Dutch Drawings from the Fitzwilliam Museum</em> (Munich: Staatliche Graphische Sammlung München; Heidelberg: Kurpfälzisches Museum; Braunschweig: Herzog Anton Ulrich Museum; Cambridge, UK: Fitzwilliam Museum, 1995), cat. 34.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-5"><sup><a href="#fnrev516518675ef6643e40163-5">5</a></sup> Anthonie Waterloo, <em>Tall Pines at the Edge of a Wood</em>, Amsterdam, Rijksmuseum, RP-T-1958-35; <em>An Autumn Landscape with a Bridge</em>, Cambridge, U.K., Fitzwilliam Museum, PD 893-1963, David Scrase, <em>Das Goldene Jahrhundert: Holländische Meisterzeichnungen aus dem Fitzwilliam Museum Cambridge / The Golden Century: Dutch Drawings from the Fitzwilliam Museum</em> (Munich: Staatliche Graphische Sammlung München; Heidelberg: Kurpfälzisches Museum; Braunschweig: Herzog Anton Ulrich Museum; Cambridge, UK: Fitzwilliam Museum, 1995), cat. 32; <em>The Edge of a Wood</em>, Weimar, Klassik Stiftung Weimar und Kunstsammlungen, KK 5602, Charles Dumas and Bob van den Boogert, <em>Goethe &amp; Rembrandt: Tekeningen uit Weimar</em> (Amsterdam: Museum het Rembrandthuis, 1999), pp. 114–15, repr.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-6"><sup><a href="#fnrev516518675ef6643e40163-6">6</a></sup> Anthonie Waterloo, <em>View of Haarlem and the Ruins of Brederode</em> (Fig. 1). Black chalk, oiled charcoal, black ink, gray wash, 417 × 643 mm. Amsterdam, Rijksmuseum, RP-T-1905-18B. This drawing is the right half of an enormous panorama of Haarlem, of which the left half is also in the Rijksmuseum, RP-T-1905-18A. The ruins of Brederode appear in the left half.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-7"><sup><a href="#fnrev516518675ef6643e40163-7">7</a></sup> That the castle could be identified as Doorwerth was suggested in an unsigned annotation—“Doorwerth?”—on the mount of a photograph of the drawing in the Rijksbureau voor Kunsthistorische Documentatie. When I first wrote about the drawing in <em>Seventeenth‐Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Vienna: Albertina; New York: Pierpont Morgan Library; Cambridge: Harvard University Art Museums, 1991 cat. 41, pp. 100–101), I rejected this identification, but, with many more images of the castle now available, decided to revisit it. My thanks to Laurens Shoemaker, assistant curator of historical topography, Rijksbureau voor Kunsthistorische Documentatie, who confirmed that the drawing very likely depicts Doorwerth and called my attention to the watercolor attributed to J. P. van Wisselingh, <em>Doorwerth Castle</em>, watercolor, 260 × 427 mm. Gelders Archief, Topografisch-historische Atlas Gelderland, 1551-GM 09613. This sheet also depicts the property from the south. Thanks, too, to Erik Löffler, curator of Dutch and Flemish Old Master drawings and prints, Rijksbureau voor Kunsthistorische Documentatie, who concurred and communicated Mr. Shoemaker’s conclusion. Peter Schatborn noted in correspondence with the author (27 December 2013) that a signed painting by Lambert Doomer includes a view of the castle from the southeast. See Lambert Doomer, <em>Country Lane with Cart near Doorwerth Castle</em> (Fig. 2). Oil on panel, 47 × 63.7 cm. (Formerly?) with Galerie Hans, Hamburg. In addition to this painting and a drawing by Doomer in Saint Petersburg (Wolfgang Schulz, <em>Lambert Doomer: Sämtliche Zeichnungen</em>, Berlin and New York, 1974, cat. 169, p. 79, repr. pl. 84), there are seventeenth-century views of Doorwerth by Herman Saftleven; Wolfgang Schulz, <em>Herman Saftleven, 1609–1685: Leben und Werke; Mit einem kritischen Katalog der Gemälde und Zeichnungen</em> (Berlin and New York, 1982), cats. 647–49. Doorwerth was built from the thirteenth century to about 1560. It was largely destroyed during the heavy fighting in this area in 1944, but was reconstructed to its original appearance in the 1950s.</p>
+
+<p class="footnote" id="fn516518675ef6643e40163-8"><sup><a href="#fnrev516518675ef6643e40163-8">8</a></sup> Views of Arnhem by Waterloo include, among others: Arnhem, in Jeanine Otten, Alexander Ver Huell, and Cornelis Schepel, <em>Getekende stadsen dorpsgezichten uit de Topografische Atlas Gelderland</em>, (Gemeentelijke Musea, Arnhem, Netherlands, 2000), cats. 42, 49, and 50; Vienna, Albertina Museum, 10026, as Daniël Schellinks; Rotterdam, Museum Boijmans Van Beuningen, A. Waterloo 2; Amsterdam, Rijksmuseum, RP-T-1879-A-74 and RP-T-1879-A-75&#174;.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212407/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047" title="right half">Anthonie Waterloo, <em>View of Haarlem and the Ruins of Brederode</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/212407/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Lambert Doomer, <em>Country Lane with Cart near Doorwerth Castle</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1999</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1999.180</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Hans Redeker, <em>De Verzameling van Bernard Houthakker</em>, ed. J. W. Niemeijer, Rijksmuseum Amsterdam (Amsterdam, 1964), cat. no. 110, p. 39
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of Dutch and Flemish Drawings: 16th-19th Century</em>, auct. cat., P. & D. Colnaghi & Co. Ltd. (London, 1976), cat. no. 33, n.p., repr. no. 33
+                             </p>
+                                                      <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 41, pp. 100-101, repr.
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 20; cat. no. 97, pp. 318-320, repr. p. 319; watermark p. 382
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>De verzameling van Bernard Houthakker</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 08/01/1964 - 11/30/1964
+                            </p>
+                          <p>
+                              <em>Exhibition of Dutch and Flemish Drawings: 16th-19th Century</em>, P. & D. Colnaghi & Co. Ltd., London, 07/06/1976 - 08/06/1976
+                            </p>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>Abrams 50th reunion exhibition</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 06/01/2004 - 06/14/2004
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:72002_dynmc?width=200&height=200" alt="Landscape With Doorwerth Castle">
+                <span class="popup__artwork-info-id">1999.180</span>
+        <span class="popup__artwork-info-author">
+                                    Anthonie Waterloo
+                              </span>
+        <span class="popup__artwork-info-title">Landscape with Doorwerth Castle</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20212407%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212407">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212407" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Landscape+with+Doorwerth+Castle+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F212407" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/212407" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_01d64db1800eb960f77c35ba0f9d53fd" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,641 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections View of Hagestein Castle </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections View of Hagestein Castle" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297012"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71781_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" View of Hagestein Castle" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481307" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71781_dynmc?width=3000&height=3000" data-initial-image-id="18481307" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297012" data-behavior="add_to_collection tooltip" data-artwork="297012" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297012&amp;image_id=71781" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297012/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71781">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71781_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Herman Saftleven"  title="View Of Hagestein Castle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18481307" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71781_dynmc?width=125&height=125" alt="View Of Hagestein Castle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011609">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011609_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Herman Saftleven"  title="View Of Hagestein Castle" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535259" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011609_dynmc?width=125&height=125" alt="View Of Hagestein Castle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011612">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011612_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Herman Saftleven"  title="View Of Hagestein Castle" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618237" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011612_dynmc?width=125&height=125" alt="View Of Hagestein Castle">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1960.212</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28454>Herman Saftleven</a>, Dutch                                                                                                                                                                                                                                                                          (Rotterdam, Netherlands 1609 - 1685 Utrecht, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>View of Hagestein Castle</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1651</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297012">https://hvrd.art/o/297012</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk and gray and brown wash on light tan antique laid paper, framing line in brown ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>37 x 48.2 cm (14 9/16 x 19 in.)<br />
+mount: 42.2 x 53.5 cm (16 5/8 x 21 1/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower center, graphite: 't Huijs te Hagestijn
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper left, graphite: 34 [encircled]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, black chalk: N: 280 [upside down, underlined]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 8 - 00wf [upside down, crossed out]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: D24308
+                        </li>
+                                              <li data-a="2">
+                          watermark: Strasbourg Lily with reversed 4 and WR below, with countermark cross atop IHS; variant of Heawood 1788 and Churchill 427 (1645)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower center, violet ink, stamp: L. 873b (E. J. Otto)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower center, black ink, stamp: L. 1199 (Auguste Grahl)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>August Grahl, Dresden (L. 1199, lower center), sold; [Sotheby’s, London, 27-28 April 1885, lot 281.] E.J. Otto, Celles near Hanover (L. 873b, verso, lower center), sold; to [P. & D. Colnaghi, London, 5 March 1960], sold; to Dr. Fritz. B. Talbot, Boston, 25 April 1960; Gift of Dr. Fritz B. Talbot, 1960.212<br />
+<br />
+NOTE: Colnaghi information from the company's stock books.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 79 by Susan Anderson:  </p>
+                    
+              <div class="entry-text">
+                <p>Of Herman Saftleven’s over 1,400 accepted drawings, almost 1,300 depict recognizable or invented landscapes, including cities, villages, and architectural structures. Saftleven resided in Utrecht from about 1632 until his death in 1685, having become a citizen in 1659. He drew countless aspects of his adopted city while walking through its streets, most famously capturing the destruction caused by a fierce storm in 1674.</p>
+
+<p>The Treaty of Münster, which ended the Thirty Years’ War in 1648, lessened the dangers of travel. Saftleven and others took advantage of the peace to visit the provinces most affected by the conflict, especially Gelderland and the Lower Rhine, the latter recorded in over fifty of Saftleven’s sheets. Like his contemporaries Roelant Roghman (<a href="https://www.harvardartmuseums.org/collections/object/4726?position=0">2005.252</a>) and Jan van Goyen (<a href="https://www.harvardartmuseums.org/collections/object/296617?position=0">1965.204</a>), Saftleven traveled the countryside in the vicinity of his home to draw from observation, resulting in many views of cities, towns, churches, and castles. Wolfgang Schulz concludes that Saftleven took two trips through Utrecht’s environs: one in 1644, during which he produced his vast panoramas, and another commencing shortly after 1650. This drawing, depicting Hagestein Castle, is among Saftleven’s larger topographical sheets and likely dates from around 1651, in the course of his later journey.<sup class="footnote" id="fnrev17708861975ef66427cba5b-1"><a href="#fn17708861975ef66427cba5b-1">1</a></sup> Unlike Roghman, who captured a flatter and more monumental facade of Hagestein from the lower vantage point of the water’s edge (Fig. 1),<sup class="footnote" id="fnrev17708861975ef66427cba5b-2"><a href="#fn17708861975ef66427cba5b-2">2</a></sup> Saftleven situated the castle more intimately, with a corner view that emphasizes the structure’s placement amid several tall trees. Two points of entry invite the visitor: a path that recedes and slopes downward toward a footbridge leading to the moat, and a tended boat at the dock. The focal point of the drawing, the wooden post supporting a cantilevered portion of the castle, further accentuates the intimacy and relative fragility of the structure. Saftleven apparently also recorded Hagestein in ink and wash in a drawing last known in an 1806 Amsterdam auction.<sup class="footnote" id="fnrev17708861975ef66427cba5b-3"><a href="#fn17708861975ef66427cba5b-3">3</a></sup></p>
+
+<p>Beginning in the thirteenth century, three structures have stood as Hagestein Castle, all situated along the Lek River on the outskirts of Vianen in the southern portion of Utrecht province. The first, founded before 1252, was destroyed in 1331 by Count Willem <span class="caps">III</span> of Holland. Another castle appeared shortly thereafter, and in 1360 its owner, Otto van Arkel, encircled it with walls and a moat. While under the care of his son, Jan, the castle was destroyed in 1405 as a casualty of the town’s occupation by the united armies of Holland, Utrecht, and Vianen. Count Willem VI of Holland commanded the armies while in service to the bishop Frederik of Utrecht, who, after his victory, asserted the Catholic Church’s rights to the land. Hagestein fell under the ownership of the canons of the Dom and Oudmunster chapters of the Church in 1510 and remained so until 1674, when it was sold to the prince of Waldeck. The third and final Hagestein Castle, captured here by Saftleven, was commissioned by the Church as a rough copy of the castle of Gijsbert van Zuilen of Vleuten. The architects Marcelis Keldermans and Willem van Noort drafted a proposal in 1546 that was carried out by Volken van den Bosch of Utrecht. A. J. van der Aa described the castle in 1843 much as it appeared when Saftleven came upon it: “still a rather good building, standing in a spacious canal and encircled by many trees.”<sup class="footnote" id="fnrev17708861975ef66427cba5b-4"><a href="#fn17708861975ef66427cba5b-4">4</a></sup> It was demolished in 1855, leaving behind a flat field.<sup class="footnote" id="fnrev17708861975ef66427cba5b-5"><a href="#fn17708861975ef66427cba5b-5">5</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn17708861975ef66427cba5b-1"><sup><a href="#fnrev17708861975ef66427cba5b-1">1</a></sup> Wolfgang Schulz, <em>Herman Saftleven, 1609–1685: Leben und Werke; Mit einem kritischen Katalog der Gemälde und Zeichnungen</em> (Berlin and New York, 1982), pp. 53 and 73–74.</p>
+
+<p class="footnote" id="fn17708861975ef66427cba5b-2"><sup><a href="#fnrev17708861975ef66427cba5b-2">2</a></sup> Roelant Roghman, <em>Hagestein Castle</em> (Fig. 1), black chalk, 157 × 400 mm. Amsterdam, Rijksmuseum, RP-T-1898-A-3660. See H. W. M. van der Wyck, J. W. Niemeijer, and W. Th. Kloek, <em>De kasteeltekeningen van Roelant Roghman</em> (Alphen aan den Rijn, Netherlands, 1989–90), vol. 1, p. 79, repr.</p>
+
+<p class="footnote" id="fn17708861975ef66427cba5b-3"><sup><a href="#fnrev17708861975ef66427cba5b-3">3</a></sup> Sale, Van der Schley et al., Amsterdam, 24 November 1806, <em>Kunstboek</em> K, lot 34, “Het Huis Hagestyn, met hoog Geboomte, stille Gragt en stoffagie van Beeldjes; natuurlyk met O. I. Inkt en Roet, door H. Saftleeven.”</p>
+
+<p class="footnote" id="fn17708861975ef66427cba5b-4"><sup><a href="#fnrev17708861975ef66427cba5b-4">4</a></sup> A. J. van der Aa, <em>Aardrijkskundig Woordenboek der Nederlanden</em> (Gorinchem, Netherlands, 1839–51), vol. 5, p. 93: “. . . nog een vrij goed gebouw, staande in eene ruime gracht, en omringd van veel geboomte.”</p>
+
+<p class="footnote" id="fn17708861975ef66427cba5b-5"><sup><a href="#fnrev17708861975ef66427cba5b-5">5</a></sup> Catharina L. van Groningen, <em>De Vijfheerenlanden met Asperen, Heukelum en Spijk</em> (The Hague, 1989), pp. 155–56; J. Heniger, “Beleg van Hagestein,” <em>In het land van Brederode</em>, vol. 7, no. 2/3 (1982): 32–44; T. J. Hoekstra, “Een nieuw kasteel,” <em>In het land van Brederode</em>, vol. 7, no. 2/3 (1982): 29–31.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/297012/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Roelant Roghman, <em>Hagestein Castle</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Dr. Fritz B. Talbot</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1960</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1960.212</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Exhibition of Old Master Drawings</em>, auct. cat., P. & D. Colnaghi & Co. Ltd. (London, England, 1960), cat. no. 34, n.p., repr. pl. VI
+                             </p>
+                                                      <p>
+                                              <em>Fogg Art Museum Acquisitions, 1959-1962</em>, Harvard University (Cambridge, MA, 1963), p. 116
+                             </p>
+                                                      <p>
+                                              W. Schulz, <em>Herman Saftleven, 1609-1685: Leben und Werke: mit einem kritischen Katalog...</em>, De Gruyter (Berlin, Germany and New York, NY, 1982), cat. no. 667, p. 307
+                             </p>
+                                                      <p>
+                                              Linda Wolk-Simon, "'If You Like the Photographs You Will Like the Originals': Robert Lehman, James Byam Shaw, and the Lehman Collection of Old Master Drawings", <em>Master Drawings</em> (2000), vol. 38, no. 3, pp. 317-37, p. 323
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 79, pp. 266-268, repr. p. 267; watermark and countermark p. 381
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of Old Master Drawings</em>, P. & D. Colnaghi & Co. Ltd., London, 04/28/1960 - 05/28/1960
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71781_dynmc?width=200&height=200" alt="View Of Hagestein Castle">
+                <span class="popup__artwork-info-id">1960.212</span>
+        <span class="popup__artwork-info-author">
+                                    Herman Saftleven
+                              </span>
+        <span class="popup__artwork-info-title">View of Hagestein Castle</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297012%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297012">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297012" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=View+of+Hagestein+Castle+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297012" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297012" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_b9286f47ecbe2ef79fe659c8bd0c86df" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

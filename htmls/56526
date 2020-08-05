@@ -1,0 +1,1404 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Signorum veterum icones </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Signorum veterum icones" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/56526"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV166751_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Signorum veterum icones" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_20419901" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV166751_dynmc?width=3000&height=3000" data-initial-image-id="20419901" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?56526" data-behavior="add_to_collection tooltip" data-artwork="56526" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=56526&amp;image_id=INV166751" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/56526/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>R5871-R5970</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28103>Jan de Bisschop</a>, Dutch                                                                                                                                                                                                                                                                          (Amsterdam, Netherlands 1628 - 1671 The Hague, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Signorum veterum icones</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Signorum veterum icones                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            book                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>17th century</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Europe, Netherlands                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/56526">https://hvrd.art/o/56526</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Etching</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>open: 31.8 × 41.9 cm (12 1/2 × 16 1/2 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Belinda L. Randall from the collection of John Witt Randall</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>R5871-R5970</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/186721">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV165552_dynmc?width=3000&height=3000" alt="Paradigmata Graphices Variorum Artificum">
+                                    <span class="related-artwork__obj">R5814-R5870</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Paradigmata graphices variorum artificum</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242523">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166658_dynmc?width=3000&height=3000" alt="Plate 76: Aphrodite And Eros">
+                                    <span class="related-artwork__obj">R5947</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 76: Aphrodite and Eros</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242524">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166659_dynmc?width=3000&height=3000" alt="Plate 77: Crouching Aphrodite">
+                                    <span class="related-artwork__obj">R5948</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 77: Crouching Aphrodite</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242537">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166281_dynmc?width=3000&height=3000" alt="Plate 31: Female Figure, Restored As A Muse, And Called Urania">
+                                    <span class="related-artwork__obj">R5902</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 31: Female Figure, restored as a Muse, and called Urania</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242546">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166274_dynmc?width=3000&height=3000" alt="Plate 27: Torso Of A Draped Male Statue, With Fragments Of Two Columns Leaning Against A Wall">
+                                    <span class="related-artwork__obj">R5898</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 27: Torso of a Draped Male Statue, with Fragments of Two Columns Leaning Against a Wall</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242547">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166279_dynmc?width=3000&height=3000" alt="Plate 29: Female Statue With A Bird, Possibly Leda">
+                                    <span class="related-artwork__obj">R5900</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 29: Female Statue with a Bird, possibly Leda</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242548">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166280_dynmc?width=3000&height=3000" alt="Plate 30: Female Statue With A Bird, Possibly Leda">
+                                    <span class="related-artwork__obj">R5901</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 30: Female Statue with a Bird, possibly Leda</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242550">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166730_dynmc?width=3000&height=3000" alt="Plate 93: Draped Female Figure">
+                                    <span class="related-artwork__obj">R5963</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 93: Draped Female Figure</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242558">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166656_dynmc?width=3000&height=3000" alt="Plate 74: Togatus">
+                                    <span class="related-artwork__obj">R5945</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 74: Togatus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242559">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166657_dynmc?width=3000&height=3000" alt="Plate 75: Captive Barbarian">
+                                    <span class="related-artwork__obj">R5946</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 75: Captive Barbarian</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242814">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166647_dynmc?width=3000&height=3000" alt="Plate 65: Draped Herm: Terminal Statue Of A Boy Wrapped In Himation, With A Club">
+                                    <span class="related-artwork__obj">R5936</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 65: Draped Herm: Terminal Statue of a Boy Wrapped in Himation, with a Club</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242815">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166406_dynmc?width=3000&height=3000" alt="Plate 54: Bacchus With Satyr">
+                                    <span class="related-artwork__obj">R5925</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 54: Bacchus with Satyr</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242816">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166155_dynmc?width=3000&height=3000" alt="Plate 5: Apollo Belevedere">
+                                    <span class="related-artwork__obj">R5876</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 5: Apollo Belevedere</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242817">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166219_dynmc?width=3000&height=3000" alt="Plate 19: Two Wrestlers">
+                                    <span class="related-artwork__obj">R5890</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 19: Two Wrestlers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242818">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166256_dynmc?width=3000&height=3000" alt="Plate 22: Two Wrestlers">
+                                    <span class="related-artwork__obj">R5893</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 22: Two Wrestlers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242819">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166648_dynmc?width=3000&height=3000" alt="Plate 66: Infant Dionysus">
+                                    <span class="related-artwork__obj">R5937</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 66: Infant Dionysus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242820">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166654_dynmc?width=3000&height=3000" alt="Plate 72: The So-Called Arundel Homer">
+                                    <span class="related-artwork__obj">R5943</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 72: The so-called Arundel Homer</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242821">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166276_dynmc?width=3000&height=3000" alt="Plate 28: Female Statue With A Bird, Possibly Leda">
+                                    <span class="related-artwork__obj">R5899</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 28: Female Statue with a Bird, possibly Leda</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242905">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166164_dynmc?width=3000&height=3000" alt="Plate 6: Fleeing Son Of Niobe">
+                                    <span class="related-artwork__obj">R5877</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 6: Fleeing Son of Niobe</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242906">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166168_dynmc?width=3000&height=3000" alt="Plate 7: Dying Son Of Niobe">
+                                    <span class="related-artwork__obj">R5878</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 7: Dying Son of Niobe</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242907">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166198_dynmc?width=3000&height=3000" alt="Plate 12: Hermes, Often Called The Belvedere Antinous">
+                                    <span class="related-artwork__obj">R5883</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 12: Hermes, often called the Belvedere Antinous</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242908">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166201_dynmc?width=3000&height=3000" alt="Plate 13: Hermes, Often Called The Belvedere Antinous">
+                                    <span class="related-artwork__obj">R5884</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 13: Hermes, often called the Belvedere Antinous</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242909">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166244_dynmc?width=3000&height=3000" alt="Plate 20: Two Wrestlers">
+                                    <span class="related-artwork__obj">R5891</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 20: Two Wrestlers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242910">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166252_dynmc?width=3000&height=3000" alt="Plate 21: Two Wrestlers">
+                                    <span class="related-artwork__obj">R5892</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 21: Two Wrestlers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242911">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:760987?width=3000&height=3000" alt="Plate 25: The So-Called Belvedere Torso">
+                                    <span class="related-artwork__obj">R5896</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 25: The so-called Belvedere Torso</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242912">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166651_dynmc?width=3000&height=3000" alt="Plate 69: Meleager">
+                                    <span class="related-artwork__obj">R5940</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 69: Meleager</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242913">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166652_dynmc?width=3000&height=3000" alt="Plate 70: Gaul Killing His Wife And Himself, Known As The Ludovisi Group">
+                                    <span class="related-artwork__obj">R5941</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 70: Gaul Killing his Wife and Himself, known as the Ludovisi Group</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242914">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166653_dynmc?width=3000&height=3000" alt="Plate 71: The So-Called Arundel Homer">
+                                    <span class="related-artwork__obj">R5942</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 71: The so-called Arundel Homer</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242920">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166407_dynmc?width=3000&height=3000" alt="Plate 55: Marsyas">
+                                    <span class="related-artwork__obj">R5926</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 55: Marsyas</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242921">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166191_dynmc?width=3000&height=3000" alt="Plate 8: So-Called Farnese Hercules">
+                                    <span class="related-artwork__obj">R5879</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 8: So-called Farnese Hercules</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242922">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166194_dynmc?width=3000&height=3000" alt="Plate 9: So-Called Farnese Hercules">
+                                    <span class="related-artwork__obj">R5880</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 9: So-called Farnese Hercules</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242923">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166196_dynmc?width=3000&height=3000" alt="Plate 10: So-Called Farnese Hercules">
+                                    <span class="related-artwork__obj">R5881</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 10: So-called Farnese Hercules</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242924">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166197_dynmc?width=3000&height=3000" alt="Plate 11: So-Called Farnese Hercules">
+                                    <span class="related-artwork__obj">R5882</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 11: So-called Farnese Hercules</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242925">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166649_dynmc?width=3000&height=3000" alt="Plate 67: Dionysus And Satyr">
+                                    <span class="related-artwork__obj">R5938</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 67: Dionysus and Satyr</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242926">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166650_dynmc?width=3000&height=3000" alt="Plate 68: Apollo With The Omphalos">
+                                    <span class="related-artwork__obj">R5939</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 68: Apollo with the Omphalos</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242927">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166267_dynmc?width=3000&height=3000" alt="Plate 24: The So-Called Belvedere Torso">
+                                    <span class="related-artwork__obj">R5895</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 24: The so-called Belvedere Torso</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/242928">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166655_dynmc?width=3000&height=3000" alt="Plate 73: Togatus, Caninius">
+                                    <span class="related-artwork__obj">R5944</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 73: Togatus, Caninius</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243088">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166140_dynmc?width=3000&height=3000" alt="Title Page: Personification Of The Art Of Sculpture And Painting">
+                                    <span class="related-artwork__obj">R5871</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Title Page: Personification of the Art of Sculpture and Painting</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243102">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166216_dynmc?width=3000&height=3000" alt="Plate 18: Two Wrestlers">
+                                    <span class="related-artwork__obj">R5889</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 18: Two Wrestlers</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243113">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166749_dynmc?width=3000&height=3000" alt="Plate 99: Artemis, Known As The Diana Of Versailles">
+                                    <span class="related-artwork__obj">R5969</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 99: Artemis, known as the Diana of Versailles</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243114">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166750_dynmc?width=3000&height=3000" alt="Plate 100: Draped Female Statue">
+                                    <span class="related-artwork__obj">R5970</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 100: Draped Female Statue</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243115">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166282_dynmc?width=3000&height=3000" alt="Plate 32: Female Figure, Restored As A Muse, And Called Urania">
+                                    <span class="related-artwork__obj">R5903</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 32: Female Figure, restored as a Muse, and called Urania</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243116">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166283_dynmc?width=3000&height=3000" alt="Plate 33: Fleeing Daughter Of Niobe">
+                                    <span class="related-artwork__obj">R5904</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 33: Fleeing Daughter of Niobe</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243134">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166382_dynmc?width=3000&height=3000" alt="Plate 42: Female Statue, Known As The Farnese Flora">
+                                    <span class="related-artwork__obj">R5913</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 42: Female Statue, known as the Farnese Flora</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243135">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166394_dynmc?width=3000&height=3000" alt="Plate 48: Aphrodite, Known As The Venus De' Medici">
+                                    <span class="related-artwork__obj">R5919</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 48: Aphrodite, known as the Venus de' Medici</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243136">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166396_dynmc?width=3000&height=3000" alt="Plate 49: Aphrodite, Known As The Venus De' Medici">
+                                    <span class="related-artwork__obj">R5920</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 49: Aphrodite, known as the Venus de' Medici</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243140">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166724_dynmc?width=3000&height=3000" alt="Plate 88: Draped Female Statue">
+                                    <span class="related-artwork__obj">R5958</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 88: Draped Female Statue</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243141">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166726_dynmc?width=3000&height=3000" alt="Plate 89: Draped Female Funerary Statue">
+                                    <span class="related-artwork__obj">R5959</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 89: Draped Female Funerary Statue</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243142">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166398_dynmc?width=3000&height=3000" alt="Plate 50: Aphrodite, Known As The Venus De' Medici">
+                                    <span class="related-artwork__obj">R5921</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 50: Aphrodite, known as the Venus de' Medici</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243143">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166399_dynmc?width=3000&height=3000" alt="Plate 51: Apollo Sauroctonos (With The Cithara)">
+                                    <span class="related-artwork__obj">R5922</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 51: Apollo Sauroctonos (with the Cithara)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243151">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166389_dynmc?width=3000&height=3000" alt="Plate 45: Sabina, Also Called Agrippina">
+                                    <span class="related-artwork__obj">R5916</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 45: Sabina, also called Agrippina</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243157">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166722_dynmc?width=3000&height=3000" alt="Plate 87: Sleeping Nymph Or Ariadne">
+                                    <span class="related-artwork__obj">R5957</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 87: Sleeping Nymph or Ariadne</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243158">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166146_dynmc?width=3000&height=3000" alt="Plate I: Satyr Beating Time With A Wooden Foot-Clapper">
+                                    <span class="related-artwork__obj">R5872</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate I: Satyr Beating Time with a Wooden Foot-clapper</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243159">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166148_dynmc?width=3000&height=3000" alt="Plate 2: Back View Of Satyr Beating Time With A Wooden Foot-Clapper">
+                                    <span class="related-artwork__obj">R5873</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 2: Back View of Satyr Beating Time with a Wooden Foot-clapper</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243161">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166150_dynmc?width=3000&height=3000" alt="Plate 3: Front View Of Satyr Beating Time With A Wooden Foot-Clapper">
+                                    <span class="related-artwork__obj">R5874</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 3: Front View of Satyr Beating Time with a Wooden Foot-clapper</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243210">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166405_dynmc?width=3000&height=3000" alt="Plate 53: Bacchus With Satyr">
+                                    <span class="related-artwork__obj">R5924</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 53: Bacchus with Satyr</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243228">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166664_dynmc?width=3000&height=3000" alt="Plate 83: Leda And The Swan">
+                                    <span class="related-artwork__obj">R5953</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 83: Leda and the Swan</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243229">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166404_dynmc?width=3000&height=3000" alt="Plate 52: Bacchus With Satyr">
+                                    <span class="related-artwork__obj">R5923</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 52: Bacchus with Satyr</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243230">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166708_dynmc?width=3000&height=3000" alt="Plate 86: Artemis">
+                                    <span class="related-artwork__obj">R5956</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 86: Artemis</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243249">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166411_dynmc?width=3000&height=3000" alt="Plate 58: Reclining Pan">
+                                    <span class="related-artwork__obj">R5929</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 58: Reclining Pan</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243252">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166412_dynmc?width=3000&height=3000" alt="Plate 59: Seated Pan Holding The Syringes (Slide Whistles) In Both Hands">
+                                    <span class="related-artwork__obj">R5930</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 59: Seated Pan Holding the Syringes (slide whistles) in Both Hands</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243275">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166729_dynmc?width=3000&height=3000" alt="Plate 92: Draped Female Statue">
+                                    <span class="related-artwork__obj">R5962</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 92: Draped Female Statue</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243278">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166367_dynmc?width=3000&height=3000" alt="Plate 39: Female Statue, Restored As A Nike">
+                                    <span class="related-artwork__obj">R5910</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 39: Female Statue, restored as a Nike</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243282">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166408_dynmc?width=3000&height=3000" alt="Plate 56: Elder Son Of Laocoon And Part Of Laocoon's Left Leg">
+                                    <span class="related-artwork__obj">R5927</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 56: Elder Son of Laocoon and part of Laocoon's Left Leg</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243283">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166409_dynmc?width=3000&height=3000" alt="Plate 57: Reclining Pan">
+                                    <span class="related-artwork__obj">R5928</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 57: Reclining Pan</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243284">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166153_dynmc?width=3000&height=3000" alt="Plate 4: Apollo Belvedere">
+                                    <span class="related-artwork__obj">R5875</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 4: Apollo Belvedere</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243285">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166204_dynmc?width=3000&height=3000" alt="Plate 14: Hermes, Often Called The Belvedere Antinous">
+                                    <span class="related-artwork__obj">R5885</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 14: Hermes, often called the Belvedere Antinous</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243286">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166207_dynmc?width=3000&height=3000" alt="Plate 15: Hermes, Often Called The Belvedere Antinous">
+                                    <span class="related-artwork__obj">R5886</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 15: Hermes, often called the Belvedere Antinous</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243287">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166263_dynmc?width=3000&height=3000" alt="Plate 23: Apollo">
+                                    <span class="related-artwork__obj">R5894</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 23: Apollo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243289">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166272_dynmc?width=3000&height=3000" alt="Plate 26: Torso Of A Draped Male Statue, With Fragments Of Two Columns Leaning Against A Wall">
+                                    <span class="related-artwork__obj">R5897</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 26: Torso of a Draped Male Statue, with Fragments of Two Columns Leaning Against a Wall</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243326">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166727_dynmc?width=3000&height=3000" alt="Plate 90: Athena - Minerva">
+                                    <span class="related-artwork__obj">R5960</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 90: Athena - Minerva</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243327">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166728_dynmc?width=3000&height=3000" alt="Plate 91: Athena">
+                                    <span class="related-artwork__obj">R5961</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 91: Athena</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243328">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166660_dynmc?width=3000&height=3000" alt="Plate 78: Crouching Aphrodite Or Artemis">
+                                    <span class="related-artwork__obj">R5949</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 78: Crouching Aphrodite or Artemis</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243329">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166661_dynmc?width=3000&height=3000" alt="Plate 79: Crouching Aphrodite(?)">
+                                    <span class="related-artwork__obj">R5950</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 79: Crouching Aphrodite(?)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243351">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166663_dynmc?width=3000&height=3000" alt="Plate 81: Aphrodite (Two Views)">
+                                    <span class="related-artwork__obj">R5952</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 81: Aphrodite (two views)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243352">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166665_dynmc?width=3000&height=3000" alt="Plate 84: Draped Female Figure, Known As "the Spinner"">
+                                    <span class="related-artwork__obj">R5954</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 84: Draped Female Figure, known as "the Spinner"</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243363">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166741_dynmc?width=3000&height=3000" alt="Plate 97: Caryatid Or Canephore">
+                                    <span class="related-artwork__obj">R5967</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 97: Caryatid or Canephore</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243364">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166746_dynmc?width=3000&height=3000" alt="Plate 98: Seated Muse, Clio(?)">
+                                    <span class="related-artwork__obj">R5968</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 98: Seated Muse, Clio(?)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243365">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166732_dynmc?width=3000&height=3000" alt="Plate 94: Draped Female Statue, Perhaps Of Hygieia">
+                                    <span class="related-artwork__obj">R5964</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 94: Draped Female Statue, perhaps of Hygieia</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243366">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166733_dynmc?width=3000&height=3000" alt="Plate 95: Athene - Minerva">
+                                    <span class="related-artwork__obj">R5965</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 95: Athene - Minerva</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243402">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166366_dynmc?width=3000&height=3000" alt="Plate 38: Female Statue, Restored As A Nike">
+                                    <span class="related-artwork__obj">R5909</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 38: Female Statue, restored as a Nike</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243403">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166705_dynmc?width=3000&height=3000" alt="Plate 85: Dancing Muse In A Himation Of The So-Called Anchyrrhoe Type">
+                                    <span class="related-artwork__obj">R5955</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 85: Dancing Muse in a Himation of the So-called Anchyrrhoe Type</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243404">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166413_dynmc?width=3000&height=3000" alt="Plate 60: Dionysus">
+                                    <span class="related-artwork__obj">R5931</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 60: Dionysus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243405">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166415_dynmc?width=3000&height=3000" alt="Plate 61: Dionysus">
+                                    <span class="related-artwork__obj">R5932</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 61: Dionysus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243406">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166416_dynmc?width=3000&height=3000" alt="Plate 62: Dionysus With Kneeling Satyr">
+                                    <span class="related-artwork__obj">R5933</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 62: Dionysus with Kneeling Satyr</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243407">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166645_dynmc?width=3000&height=3000" alt="Plate 63: Dionysus And Satyr">
+                                    <span class="related-artwork__obj">R5934</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 63: Dionysus and Satyr</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243408">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166646_dynmc?width=3000&height=3000" alt="Plate 64: The Infant Hercules, Or The Infant Dionysus In The Costume Of Hercules">
+                                    <span class="related-artwork__obj">R5935</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 64: The Infant Hercules, or The Infant Dionysus in the Costume of Hercules</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243409">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166384_dynmc?width=3000&height=3000" alt="Plate 43: Thusnelda">
+                                    <span class="related-artwork__obj">R5914</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 43: Thusnelda</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243410">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166386_dynmc?width=3000&height=3000" alt="Plate 44: Sabina, Also Called Sibylla">
+                                    <span class="related-artwork__obj">R5915</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 44: Sabina, also called Sibylla</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243411">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166391_dynmc?width=3000&height=3000" alt="Plate 46: The Cnidian Aphrodite">
+                                    <span class="related-artwork__obj">R5917</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 46: The Cnidian Aphrodite</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243412">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166392_dynmc?width=3000&height=3000" alt="Plate 47: Aphrodite, Known As The Venus De' Medici">
+                                    <span class="related-artwork__obj">R5918</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 47: Aphrodite, known as the Venus de' Medici</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243742">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV167104_dynmc?width=3000&height=3000" alt="Title Page">
+                                    <span class="related-artwork__obj">R6011</span>
+                                      <h4 class="related-artwork__artist">Gérard de Lairesse</h4>
+                                                        <h3 class="related-artwork__title">Title Page</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243879">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166735_dynmc?width=3000&height=3000" alt="Plate 96: Athena Or Minverva">
+                                    <span class="related-artwork__obj">R5966</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 96: Athena or Minverva</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/243996">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166662_dynmc?width=3000&height=3000" alt="Plate 80: Crouching Aphrodite(?)">
+                                    <span class="related-artwork__obj">R5951</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 80: Crouching Aphrodite(?)</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/245633">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166209_dynmc?width=3000&height=3000" alt="Plate 16: Laocoon And His Sons">
+                                    <span class="related-artwork__obj">R5887</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 16: Laocoon and his Sons</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/245634">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166213_dynmc?width=3000&height=3000" alt="Plate 17: Laocoon And His Sons">
+                                    <span class="related-artwork__obj">R5888</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 17: Laocoon and his Sons</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/245875">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166370_dynmc?width=3000&height=3000" alt="Plate 41: Female Statue, Known As The Farnese Flora">
+                                    <span class="related-artwork__obj">R5912</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 41: Female Statue, known as the Farnese Flora</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/249731">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166362_dynmc?width=3000&height=3000" alt="Plate 34: Statue Of A Woman, Usually Called A Vestal Virgin">
+                                    <span class="related-artwork__obj">R5905</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 34: Statue of a Woman, usually called a Vestal Virgin</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/249813">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166364_dynmc?width=3000&height=3000" alt="Plate 36: Female Figure, Known As The Cesi Juno">
+                                    <span class="related-artwork__obj">R5907</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 36: Female Figure, known as the Cesi Juno</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/249834">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166363_dynmc?width=3000&height=3000" alt="Plate 35: Sleeping Ariadne">
+                                    <span class="related-artwork__obj">R5906</span>
+                                      <h4 class="related-artwork__artist">Jan de Bisschop</h4>
+                                                        <h3 class="related-artwork__title">Plate 35: Sleeping Ariadne</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV166751_dynmc?width=200&height=200" alt="Signorum Veterum Icones">
+                <span class="popup__artwork-info-id">R5871-R5970</span>
+        <span class="popup__artwork-info-author">
+                                    Jan de Bisschop
+                              </span>
+        <span class="popup__artwork-info-title">Signorum veterum icones</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%2056526%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F56526">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F56526" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Signorum+veterum+icones+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F56526" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/56526" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_d618cf01c08c362001f438dca5a84b68" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

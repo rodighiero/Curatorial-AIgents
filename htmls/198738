@@ -1,0 +1,616 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Sheet of Studies with Six Figures </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Sheet of Studies with Six Figures" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/198738"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71853_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Sheet of Studies with Six Figures" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481363" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71853_dynmc?width=3000&height=3000" data-initial-image-id="18481363" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?198738" data-behavior="add_to_collection tooltip" data-artwork="198738" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=198738&amp;image_id=71853" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/198738/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71853">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71853_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Isaac van Ostade"  title="Sheet Of Studies With Six Figures" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18481363" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71853_dynmc?width=125&height=125" alt="Sheet Of Studies With Six Figures">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011723">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011723_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Isaac van Ostade"  title="Sheet Of Studies With Six Figures" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535737" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011723_dynmc?width=125&height=125" alt="Sheet Of Studies With Six Figures">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1999.160</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/27928>Isaac van Ostade</a>, Dutch                                                                                                                                                                                                                                                                          (Haarlem, Netherlands 1621 - 1649 Haarlem, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Sheet of Studies with Six Figures</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1643-1646</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/198738">https://hvrd.art/o/198738</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink and gray wash over graphite and black chalk on cream antique laid paper, framing line in black ink and gold wash; verso: graphite tracing of two figures from upper left recto</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>18.6 x 18.7 cm (7 5/16 x 7 3/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: lower right, brown ink: AVO [in ligature] stad [cut off]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower center, graphite: eit-
+                        </li>
+                                              <li data-a="2">
+                          watermark: Arms of Bern; related to Lindt 131 (House of Gruner, Zeender, and Koch, “Zu Thal” mill, Bern, 1640– 43)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink stamp: L. 3306 (Maida and George Abrams)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Christie's, Amsterdam, 18 November 1985, lot 66, repr. pl. 32], sold; to Maida and George Abrams, Boston, 1985 (L. 3306, verso, lower left); The Maida and George Abrams Collection, 1999.160.</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 65 by Susan Anderson:  </p>
+                    
+              <div class="entry-text">
+                <p>An unidentified previous owner mistakenly inscribed this sheet with Adriaen van Ostade’s signature—a practice carried out on many drawings originating from within his immediate circle. Instead, the conception and execution of the figures, particularly the facial types, secure this sheet as the work of his brother, Isaac. When Bernhard Schnackenburg published his catalogue raisonné of Adriaen and Isaac van Ostade’s drawings in 1981, this sheet had not yet come to light. For the sale of 1985 in which it appeared, however, Schnackenburg authenticated this drawing based on a comparison with a similar sheet of studies in Hamburg that he dated to around 1643.<sup class="footnote" id="fnrev9400234665ef664395be1b-1"><a href="#fn9400234665ef664395be1b-1">1</a></sup> The combination of individual and grouped figures, as well as the vigorous use of chalk underdrawing and jolly, caricatured faces, make this comparison especially apt. The group of four merry drinkers at the lower right finds further parallels with a compositional study of <em>Six Peasants at a Table, Drinking, in an Interior</em>, in the British Museum, London.<sup class="footnote" id="fnrev9400234665ef664395be1b-2"><a href="#fn9400234665ef664395be1b-2">2</a></sup> Both include a <em>kannekijker</em> (a character looking into his beer mug), a man with a potato nose and dimpled grin, and more than one crooked nose drawn with one or two deft strokes.</p>
+
+<p>As William W. Robinson has noted, the two figures of a fiddler and bagpiper that Isaac sketched at the upper left of our drawing appear in his painting of 1646 in the collection of the Duke of Sutherland (Fig. 1).<sup class="footnote" id="fnrev9400234665ef664395be1b-3"><a href="#fn9400234665ef664395be1b-3">3</a></sup> In the drawing, the smaller figure drapes his bagpipes over his left arm, while the taller one holds his fiddle in his left hand against his partner’s back. In the painting, the two (without their instruments) walk toward the distance at the upper left next to the wagon wheel, away from the action of the village. The smaller boy’s gait is that seen in Isaac’s black chalk underdrawing, instead of the twisting posture found in his subsequent campaign of brown ink. That Isaac would elect to use his initial idea for the painting suggests that these study sheets acted as an exercise and reference tool for later works, to be consulted, quoted, and manipulated according to the aesthetic demands of the painting at hand.<sup class="footnote" id="fnrev9400234665ef664395be1b-4"><a href="#fn9400234665ef664395be1b-4">4</a></sup></p>
+
+<p>Isaac and Adriaen both created study sheets in ink and wash over graphite and black chalk, with several single or small groups of figures appearing on one sheet. Only a few fragmentary drawings of figures in pen and ink by Adriaen survive from before Isaac’s death in 1649.<sup class="footnote" id="fnrev9400234665ef664395be1b-5"><a href="#fn9400234665ef664395be1b-5">5</a></sup> During Isaac’s lifetime, Adriaen remained partial to single-figure studies in rapidly applied black chalk on blue paper, reserving pen and ink for full compositional studies.<sup class="footnote" id="fnrev9400234665ef664395be1b-6"><a href="#fn9400234665ef664395be1b-6">6</a></sup> Isaac, then, truly developed this type of drawing—multiple studies of figures or groups appearing together—in sheets such as this one, many of which now survive in fragments as small drawings, often overworked with brown wash. (The wash was probably applied by Cornelis Dusart after 1685.)<sup class="footnote" id="fnrev9400234665ef664395be1b-7"><a href="#fn9400234665ef664395be1b-7">7</a></sup> Adriaen dabbled in pen-and-ink figures in Isaac’s manner over the course of the 1650s and 1660s, ultimately resulting in his small, refined, and often colored drawings of single figures from 1670 and later.<sup class="footnote" id="fnrev9400234665ef664395be1b-8"><a href="#fn9400234665ef664395be1b-8">8</a></sup> This chronological development emphasizes Isaac’s contributions to peasant genre drawings, despite his short life and posthumous reputation in the shadow of his brother.</p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-1"><sup><a href="#fnrev9400234665ef664395be1b-1">1</a></sup> Bernhard Schnackenburg, <em>Adriaen van Ostade, Isack van Ostade: Zeichnungen und Aquarelle</em> (Hamburg, 1981), cat. 460; see also Annemarie Stefes, <em>Niederländische Zeichnungen 1450–1850: Kupferstichkabinett der Hamburger Kunsthalle</em> (Cologne, 2011), vol. 2, cat. 791, p. 431.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-2"><sup><a href="#fnrev9400234665ef664395be1b-2">2</a></sup> Isaac van Ostade, <em>Six Peasants at a Table, Drinking, in an Interior</em>, c. 1643. Brown ink, gray and brown wash, 128 × 171 mm. London, British Museum, 1895,0915.1245. See Schnackenburg, cat. 481.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-3"><sup><a href="#fnrev9400234665ef664395be1b-3">3</a></sup> Isaac van Ostade, <em>Merrymakers in Front of a Tavern</em> (Fig. 1), 1646. Oil on panel, 52.5 × 74.2 cm. Duke of Sutherland, Mertoun House, St. Boswells, Scottish Borders, Scotland. See HdG 18.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-4"><sup><a href="#fnrev9400234665ef664395be1b-4">4</a></sup> Schnackenburg, vol. 1, p. 55; William Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em> (Amsterdam: Rijksmuseum, Rijksprentenkabinet; Vienna: Albertina; New York: Pierpont Morgan Library; Cambridge: Harvard University Art Museums, 1991), cat. 89, pp. 196–97.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-5"><sup><a href="#fnrev9400234665ef664395be1b-5">5</a></sup> Schnackenburg, cats. 26, 42–44, and 61.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-6"><sup><a href="#fnrev9400234665ef664395be1b-6">6</a></sup> Ibid., cats. 1–66, especially nos. 45–47 and 62–66.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-7"><sup><a href="#fnrev9400234665ef664395be1b-7">7</a></sup> Ibid., especially cats. 432–41, 446–74, and 482–509.</p>
+
+<p class="footnote" id="fn9400234665ef664395be1b-8"><sup><a href="#fnrev9400234665ef664395be1b-8">8</a></sup> Ibid., cats. 151–63, 188–93, and 293–389. Schnackenburg views some of Adriaen’s drawings of single figures from the 1650s and ’60s as fragments of larger sheets and others as independent drawings of single figures. Adriaen produced and refined these independent drawings through the 1670s; see idem, pp. 44–45.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/198738/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Isaac van Ostade, <em>Merrymakers in Front of a Tavern</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>The Maida and George Abrams Collection, Fogg Art Museum, Harvard University, Cambridge, Massachusetts</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1999</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1999.160</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              William W. Robinson, <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, exh. cat., H. O. Zimman, Inc. (Lynn, MA, 1991), cat. no. 89, pp. 196-7, repr.
+                             </p>
+                                                      <p>
+                                              Anna Knaap, "From Lowlife to Rustic Idyll:  The Peasant Genre in 17th-Century Dutch Drawings and Prints", <em>Harvard University Art Museums Bulletin</em>, Harvard University Art Museums (Cambridge, MA, 1996), vol. IV, no. 2, pp. 31-59, cat. no. 51, p. 58
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 65, pp. 222-224, repr. p. 223; watermark p. 379
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Seventeenth-Century Dutch Drawings: A Selection from the Maida and George Abrams Collection</em>, Rijksprentenkabinet, Rijksmuseum, Amsterdam, 02/23/1991 - 04/18/1991; Albertina Gallery, Vienna, 05/16/1991 - 06/30/1991; Pierpont Morgan Library, New York, 01/22/1992 - 04/22/1992; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/10/1992 - 12/06/1992
+                            </p>
+                          <p>
+                              <em>From Lowlife to Rustic Idyll:  The Peasant Genre in 17th-Century Dutch Drawings and Prints</em>, Harvard University Art Museums, Cambridge, 03/29/1997 - 06/22/1997
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71853_dynmc?width=200&height=200" alt="Sheet Of Studies With Six Figures">
+                <span class="popup__artwork-info-id">1999.160</span>
+        <span class="popup__artwork-info-author">
+                                    Isaac van Ostade
+                              </span>
+        <span class="popup__artwork-info-title">Sheet of Studies with Six Figures</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20198738%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F198738">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F198738" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Sheet+of+Studies+with+Six+Figures+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F198738" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/198738" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_18ce2547bc77d9840bc88b53614dc46a" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

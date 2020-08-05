@@ -1,0 +1,712 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Cottage with a Bleaching Yard </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Cottage with a Bleaching Yard" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/295552"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71310_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Cottage with a Bleaching Yard" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18480915" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71310_dynmc?width=3000&height=3000" data-initial-image-id="18480915" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?295552" data-behavior="add_to_collection tooltip" data-artwork="295552" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=295552&amp;image_id=71310" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/295552/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71310">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71310_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Lambert Doomer"  title="Cottage With A Bleaching Yard" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18480915" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71310_dynmc?width=125&height=125" alt="Cottage With A Bleaching Yard">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="17240">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS17240_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Lambert Doomer"  title="Cottage With A Bleaching Yard" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20671961" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS17240_dynmc?width=125&height=125" alt="Cottage With A Bleaching Yard">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1979.51</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/18370>Lambert Doomer</a>, Dutch                                                                                                                                                                                                                                                                          (Amsterdam, Netherlands 1624 - 1700 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Cottage with a Bleaching Yard</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1660's</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/295552">https://hvrd.art/o/295552</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink, brown wash and gray wash mixed with white opaque watercolor over graphite on off-white antique laid paper, framing line in brown ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>22.7 x 36.1 cm (8 15/16 x 14 3/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower left, graphite: f r:v:-
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, center, brown ink: 1283 [underlined]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, red pastel: 3
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: H van Domer geb 1647.
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 130.
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, purple ink, stamp: L. 2879 (Max von Heyl zu Herrnsheim)
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, brown ink, stamp: L. 561 (Cornelis Hofstede de Groot)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: Inv. 206
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: ...FP6 [? erased, illegible]
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>De Bèze, sold; [Pierre Remy, Paris, 3 April 1775 and following days, lot 226]; to Sr. Yver. R. Pott, sold; [A.J. Lamme, Rotterdam, 11 October 1855 and following days, kunstboek 3, lot 61]; to D. Vis Blokhuyzen, Rotterdam, sold; [Lamme, Rotterdam, 23 October 1871 and following days, lot 160; to Linnig (possibly Jos. Linnig). Freiherr Max von Heyl zu Herrnsheim, Darmstadt (L. 2879, verso, lower left) sold; [H. G. Gutekunst, Stuttgart, 25-26 May 1903, lot 118]; to Cornelis Hofstede de Groot, The Hague (L. 561, verso, lower left), sold; [C. G. Boerner, Leipzig, 4 November 1931, lot 81, repr. pl. 7.]; to [P. & D. Colnaghi & Co. Ltd., London], sold; to Philip and Frances L. Hofer, Cambridge (L. 2087a, without his mark); bequest of Frances L. Hofer, 1979.51.<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 24 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The son of a successful cabinetmaker who fashioned ebony and whalebone into frames and other luxury furnishings, Lambert Doomer enjoyed a comfortable income that evidently enabled him to practice his art as an amateur, albeit a talented and productive one. Documents from his lifetime refer to him as “painter,” and over the course of his long career he executed dozens of pictures that represent a wide range of subjects.<sup class="footnote" id="fnrev16838555555ef6641b172c2-1"><a href="#fn16838555555ef6641b172c2-1">1</a></sup> Doomer’s oeuvre of more than four hundred drawings includes biblical and mythological compositions, genre scenes, copies after other artists, and a few studies of figures and animals.<sup class="footnote" id="fnrev16838555555ef6641b172c2-2"><a href="#fn16838555555ef6641b172c2-2">2</a></sup> However, the vast majority depict landscapes, and they constitute his principal contribution to seventeenth-century Dutch art.</p>
+
+<p>We have no conclusive evidence of Doomer’s training. While he must have known Rembrandt, who painted portraits of his parents, the assumption that Doomer was his pupil in the early 1640s remains unproven. He eventually adopted Rembrandt’s drawing technique and emulated his landscape compositions, but this probably occurred only after he acquired five albums of drawings from the sales of Rembrandt’s goods in 1657 and 1658.<sup class="footnote" id="fnrev16838555555ef6641b172c2-3"><a href="#fn16838555555ef6641b172c2-3">3</a></sup></p>
+
+<p>Most of Doomer’s landscapes—including those he copied after other artists, as well as those based on his own studies—represent sites in France, Germany, Central Europe, and the Netherlands. His works of this type responded to Dutch collectors’ avid interest in topographical images during the latter half of the seventeenth century (see <a href="https://www.harvardartmuseums.org/collections/object/199374?position=0">2011.516</a>). A few drawings feature motifs, such as the unpretentious cottage depicted in the Harvard work, that seem too commonplace to have figured in a collection of topographically significant material.<sup class="footnote" id="fnrev16838555555ef6641b172c2-4"><a href="#fn16838555555ef6641b172c2-4">4</a></sup></p>
+
+<p>Singled out by several authorities as a surpassing example of Doomer’s draftsmanship, <em>Cottage with a Bleaching Yard</em> probably dates from the early 1660s.<sup class="footnote" id="fnrev16838555555ef6641b172c2-5"><a href="#fn16838555555ef6641b172c2-5">5</a></sup> Its composition and technique are comparable to those of landscapes executed in 1663 during the artist’s trip to the eastern Netherlands and the Rhineland. The impressive scale and close, frontal view of the cottage recall his expansive rendering of the buildings in works such as <em>Dymbkes Gate in Anrath</em> (Fig. 1).<sup class="footnote" id="fnrev16838555555ef6641b172c2-6"><a href="#fn16838555555ef6641b172c2-6">6</a></sup> The pen work of the foliage and the clearly defined contours, as well as the skillful blending of the rose-brown and gray washes that evoke the weathered textures of walls and chimneys, are comparable to Doomer’s handling of the media in this and other drawings from the Rhine journey.<sup class="footnote" id="fnrev16838555555ef6641b172c2-7"><a href="#fn16838555555ef6641b172c2-7">7</a></sup></p>
+
+<p>In the right foreground, a woman, assisted by a man who holds a basket, spreads clothing or pieces of unfinished linen on the ground. Doomer quoted her figure from a painting of a slaughtered ox hanging in an interior, where a woman bends down to wipe the animal’s blood from the floor. Although formerly attributed to Rembrandt, the picture is now regarded as a product of his workshop or school (Fig. 2).<sup class="footnote" id="fnrev16838555555ef6641b172c2-8"><a href="#fn16838555555ef6641b172c2-8">8</a></sup> Doomer might have owned this painting.<sup class="footnote" id="fnrev16838555555ef6641b172c2-9"><a href="#fn16838555555ef6641b172c2-9">9</a></sup> Seventeenth-century images of linen bleaching almost invariably depicted the fields outside Haarlem, the area that dominated the industry.<sup class="footnote" id="fnrev16838555555ef6641b172c2-10"><a href="#fn16838555555ef6641b172c2-10">10</a></sup> Although the view in Doomer’s drawing is too limited to identify the location, it is possible, even likely, that the cottage and the structures behind it belonged to a bleaching operation on the outskirts of that city.<sup class="footnote" id="fnrev16838555555ef6641b172c2-11"><a href="#fn16838555555ef6641b172c2-11">11</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-1"><sup><a href="#fnrev16838555555ef6641b172c2-1">1</a></sup> Stijn Alsteens and Hans Buijs, <em>Paysages de France: Dessinés par Lambert Doomer et les artistes hollandais et flamands des <span class="caps">XVI</span>e et <span class="caps">XVII</span>e siècles</em> (Paris, 2008), p. 38 (n. 36). Dated paintings survive from 1648 to 1695. See Werner Sumowski, <em>Gemälde der Rembrandt‑Schüler in vier Bänden</em> (Landau, Germany, 1983), vol. 1, pp. 463–95, and Wolfgang Schulz, “Lambert Doomer 1624–1700 Leben und Werke,” Thesis, University of Berlin, (Berlin, 1972), vol. 2, pp. 442–72. Schulz catalogues seventy-five paintings, including many that are recorded in early inventories but untraceable today.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-2"><sup><a href="#fnrev16838555555ef6641b172c2-2">2</a></sup> On Doomer’s drawings, see Wolfgang Schulz, <em>Lambert Doomer: Sämtliche Zeichnungen</em> (Berlin and New York, 1974), Werner Sumowski, <em>Drawings of the Rembrandt School</em> (New York, 1979), vol. 2, cats. 368–525xx, pp. 738–1125, Alsteens and Buijs, pp. 29–39, and pp. 74–189, throughout.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-3"><sup><a href="#fnrev16838555555ef6641b172c2-3">3</a></sup> Despite the absence of documentary proof, Doomer is often designated unequivocally as a Rembrandt pupil. See Schulz (1974), pp. 9–14; Sumowski (1983), vol. 1, p. 463. Peter Schatborn, “[Review] <em>Wolfgang Schulz, Lambert Doomer: Sämtliche Zeichnungen</em>,” <em>Simiolus</em>, vol. 9, no. 1 (1977): 48–55, pp. 48–49, first noted that Doomer’s Rembrandtesque phase evidently postdated his purchases at Rembrandt’s bankruptcy sales. See also Alsteens and Buijs, p. 30.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-4"><sup><a href="#fnrev16838555555ef6641b172c2-4">4</a></sup> Schulz (1974), cats. 24, 27, 28, 163, and 205–7.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-5"><sup><a href="#fnrev16838555555ef6641b172c2-5">5</a></sup> Otto Hirschmann, “Die Handzeichnungen‑Sammlung Dr. Hofstede de Groot im Haag. <span class="caps">III</span>. (Schluss) Die Rembrandt‑Schüler,” <em>Der Cicerone</em>, vol. 9, no. 11/12 (June 1917): 199–211, p. 206; Felix Becker, <em>Handzeichnungen höllandischer Meister aus der Sammlung Dr. C. Hofstede de Groot</em> (Leipzig, 1923), p. 8; Hans Tietze, <em>European Master Drawings in the United States</em> (New York, 1947), p. 152; Schulz (1972), vol. 1, p. 49; Schulz (1974), p. 21. For the date of the drawing, see Schulz (1972), vol. 1, p. 49; Schulz (1974), p. 21; Sumowski (1979), vol. 2, cat. 490x, p. 1046.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-6"><sup><a href="#fnrev16838555555ef6641b172c2-6">6</a></sup> Schulz (1974), pp. 23–24. Schulz refers to these as the “London Group,” because many are preserved in the British Museum. <em>Dymbkes Gate in Anrath</em> (Fig. 1) is in brown ink, brown, yellow-brown, and touches of gray wash over graphite. 149 × 187 mm. London, British Museum, 1895,0915.1147. Martin Royalton‑Kisch, <em>Catalogue of Drawings by Rembrandt and His School in the British Museum</em> (London, 2010), <a href="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=711275&amp;partId=1&amp;searchText=1895,0915.1147&amp;page=1">Doomer 7</a>, with earlier references.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-7"><sup><a href="#fnrev16838555555ef6641b172c2-7">7</a></sup> A work that exhibits similar handling of the wash is <em>The Fountain at Cleves with an Artist Sketching</em>. Brown ink, brown and gray wash, touches of yellow-brown wash, over graphite. 245 × 368 mm. London, British Museum, 1886,1012.539. Royalton-Kisch, <a href="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=711282&amp;partId=1&amp;searchText=1886,1012.539&amp;page=1">Doomer 6</a>, with earlier references.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-8"><sup><a href="#fnrev16838555555ef6641b172c2-8">8</a></sup> <em>The Slaughtered Ox</em> (Fig. 2). Panel; 73.5 × 51.5 cm. Signed and partially dated <em>Rembrandt.f.16</em>. Glasgow, Kelvingrove Art Gallery and Museum, Abraham Bredius, <em>Rembrandt Gemälde, 630 Abbildungen</em> (Vienna, 1935), cat. 458. Josua Bruyn et al., <em>A Corpus of Rembrandt Paintings</em> (The Hague and Boston, 1982–2014), vol. 3, cat. C122, pp. 764–70. The authors of this six-volume <em>Corpus of Rembrandt Paintings</em>, as well as Frederik J. Duparc in <em>Carel Fabritius 1622–1654</em> (The Hague: Royal Cabinet of Paintings Mauritshuis; Schwerin, Germany: Staatliches Museum Schwerin, 2004), p. 34, have dated the Glasgow painting to the early 1640s and very tentatively attributed it to Carel Fabritius, an attribution vigorously questioned by Sumowski (1983), vol. 6, p. 3530 (n. 21). In a variant of the Glasgow work in the Walker Art Gallery, Liverpool, 820, a woman bends down near the ox’s carcass, but her pose and location in the composition differ from those of the figure in the Glasgow painting and the Harvard drawing. Walker Art Gallery, <em>Foreign schools catalogue</em> (Liverpool, 1963), vol. 1, cat. 820, p. 58 (as “Dutch School, <span class="caps">XVII</span> Century”). Fred G. Meijer (mount annotation on photograph at <span class="caps">RKD</span>) has suggested that the Liverpool painting might be by Doomer.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-9"><sup><a href="#fnrev16838555555ef6641b172c2-9">9</a></sup> An inventory of property belonging to Doomer, drafted shortly before the death of his first wife (Metje Harmens.) in January 1677, lists a painting of “een Os van Rembrandt” (an ox by Rembrandt); Th. Wortel, “Lambert Doomer te Alkmaar,” <em>Oud Holland</em>, vol. 46 (1929): 171–87, p. 176. While this could have been the painting in the Louvre (Alsteens and Buijs, pp. 30 and 38, n. 18), the possible derivation of the female figure in the Harvard drawing from the one in the Glasgow painting raises the prospect that the latter may have belonged to Doomer. Schulz (1972), p. 147 (n. 262), alluded to the close relationship of the Glasgow painting and the drawing.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-10"><sup><a href="#fnrev16838555555ef6641b172c2-10">10</a></sup> Linda Stone-Ferrier, “Views of Haarlem: Reconsiderations of Ruisdael and Rembrandt,” <em>The Art Bulletin</em>, vol. 67, no. 3 (Sept. 1985): 417–36, pp. 418–19 and 422.</p>
+
+<p class="footnote" id="fn16838555555ef6641b172c2-11"><sup><a href="#fnrev16838555555ef6641b172c2-11">11</a></sup> For images of Haarlem bleaching fields, see ibid., figs. 12–14, and Walter S. Gibson, <em>Pleasant Places: The Rustic Landscape from Bruegel to Ruisdael</em> (Berkeley, Los Angeles, and London, 2000), fig. 68. These etchings by Claes Jansz. Visscher and Jan van de Velde and a drawing by Jan Luyken from the 1690s (Stone-Ferrier, fig. 6) include female workers who, like the woman in Doomer’s drawing, bend to spread linen on the ground.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/295552/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Lambert Doomer, <em>Dymbkes Gate in Anrath</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/295552/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Rembrandt Workshop (Carel Fabritius?), <em>The Slaughtered Ox</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Frances L. Hofer</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1979</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1979.51</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Tentoonstelling van Teekeningen van Oud-Nederlandsche Meesters</em>, exh. cat., Vereeniging die Laecken-Halle te Leiden (Leiden, 7-28 October 1903), cat. no. 89, p. 5
+                             </p>
+                                                      <p>
+                                              Abraham Bredius, "Lambert Doomer (1622-1700)", <em>Revue de l'art ancien et moderne</em> (December 1910), vol. 28, no. 165, pp. 401-418, repr. p. 409
+                             </p>
+                                                      <p>
+                                              <em>Tentoonstelling in Het Stedelijk Museum de Lakenhal te Leiden, van Teekeningen van Hollandsche Meesters uit de Verzameling van Dr. C. Hofstede de Groot</em>, exh. cat., Stedelijk Museum de Lakenhal (Leiden, 12 May - 14 June 1916), cat. no. 41, n.p.
+                             </p>
+                                                      <p>
+                                              Otto Hirschmann, "Die Handzeichnungen-Sammlung Dr. Hofstede de Groot im Haag.  III. (Schluss) Die Rembrandt-Schüler", <em>Der Cicerone</em> (June 1917), vol. 9, no. 11/12, pp. 199-211, p. 206
+                             </p>
+                                                      <p>
+                                              Felix Becker, <em>Handzeichnungen höllandischer Meister aus der Sammlung Dr. C. Hofstede de Groot.  Neue Folge.</em>, Bernhard Tauchnitz (Leipzig, Germany, 1923), cat. no. 8 (n.s.), pp. 7-8, and p. 13, repr. pl. 8
+                             </p>
+                                                      <p>
+                                              <em>Verzameling Dr. C. Hofstede de Groot</em>, exh. cat., Gemeentemuseum (The Hague, 16 August - 16 September 1930), cat. no. 42, p. 10
+                             </p>
+                                                      <p>
+                                              Erhard Göpel, "Der Sammler Hofstede de Groot", <em>Kunst und Künstler</em> (February 1931), vol. 29, no. 5, pp. 195-202, repr. p. 201
+                             </p>
+                                                      <p>
+                                              Winslow Ames, <em>Drawings: Fourth Anniversary Exhibition</em>, exh. cat., Lyman Allyn Museum (New London, CT, 1936), cat. no. 82
+                             </p>
+                                                      <p>
+                                              Hans Tietze, <em>European Master Drawings in the United States</em>, J. J. Augustin, Inc. (New York, 1947), cat. no. 76, pp. 152-53, repr.
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 74, p. 17
+                             </p>
+                                                      <p>
+                                              Wolfgang Schulz, "Lambert Doomer 1624-1700 Leben und Werke" (Thesis, University of Berlin?, 1972), Unpublished, vol. 1, pp. 49 and 147 (n. 262); vol. 2, cat. no. 32, p. 227
+                             </p>
+                                                      <p>
+                                              Wolfgang Schulz, <em>Lambert Doomer:  Sämtliche Zeichnungen</em>, Walter de Gruyter and Co. (Berlin, Germany and New York, NY, 1974), cat. no. 30, p. 44, and pp. 20-21, repr. fig. 17
+                             </p>
+                                                      <p>
+                                              Werner Sumowski, <em>Drawings of the Rembrandt School</em>, ed. Walter Strauss, Abaris Books (New York, NY, 1979), vol. 2, cat. no. 490x, pp. 1046-1047, repr.
+                             </p>
+                                                      <p>
+                                              William W. Robinson, "[Review] Werner Sumoski: Drawings of the Rembrandt School, vols. 1-3", <em>Master Drawings</em> (Autumn 1982), vol. 20, no. 3, pp. 280-285, p. 285
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum, <em>Fogg Art Museum Annual Report, 1978-1980</em> (Cambridge, MA, 1982), p. 121
+                             </p>
+                                                      <p>
+                                              Eunice Williams, <em>Master Drawings and Watercolors: The Hofer Collection</em>, exh. cat., ed. Konrad Oberhuber and William W. Robinson, Harvard University Art Museums (Cambridge, 1984), cat. no. 16, pp. 27-28, and p. 10, repr. p. 91
+                             </p>
+                                                      <p>
+                                              Matthias Waschek, Marjorie B. Cohn, Judith Mann, and Stephan Wolohojian, <em>Ideal [Dis-] Placements: Old Masters at the Pulitzer</em>, exh. cat., Pulitzer Arts Foundation (St. Louis, 2008), cat. no. 36, p. 36, repr. pp. 34-35
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 17; cat. no. 24, pp. 98-100, repr. p. 99
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Fourth Anniversary Exhibition; Drawings</em>, Lyman Allyn Museum, New London, 03/02/1936 - 04/15/1936
+                            </p>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>Master Drawings and Watercolors: The Hofer Collection</em>, Tampa Museum of Art, Tampa, 04/15/1984 - 07/07/1984; Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/05/1984 - 11/29/1984
+                            </p>
+                          <p>
+                              <em>Rembrandt and His School: Drawings from the Museum Boymans-van Beuningen Rotterdam</em>, Arthur M. Sackler Museum, Cambridge, 12/02/1989 - 01/28/1990
+                            </p>
+                          <p>
+                              <em>Ideal [Dis-] Placements: Old Masters at the Pulitzer</em>, Pulitzer Arts Foundation, St. Louis, 10/24/2008 - 10/03/2009
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71310_dynmc?width=200&height=200" alt="Cottage With A Bleaching Yard">
+                <span class="popup__artwork-info-id">1979.51</span>
+        <span class="popup__artwork-info-author">
+                                    Lambert Doomer
+                              </span>
+        <span class="popup__artwork-info-title">Cottage with a Bleaching Yard</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20295552%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295552">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295552" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Cottage+with+a+Bleaching+Yard+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F295552" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/295552" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_d2f9f7f979f48b84608814a33c81ad8b" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

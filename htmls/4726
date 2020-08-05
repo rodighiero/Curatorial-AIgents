@@ -1,0 +1,663 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A View of Cronesteyn Castle, near Leiden </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A View of Cronesteyn Castle, near Leiden" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/4726"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:758650?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A View of Cronesteyn Castle, near Leiden" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_408378981" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:758650?width=3000&height=3000" data-initial-image-id="408378981" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?4726" data-behavior="add_to_collection tooltip" data-artwork="4726" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=4726&amp;image_id=758650" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/4726/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="758650">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758650?width=3000&height=3000" data-zoom-enabled="1" data-people="Roelant Roghman"  title="A View Of Cronesteyn Castle, Near Leiden" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408378981" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758650?width=125&height=125" alt="A View Of Cronesteyn Castle, Near Leiden">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758648">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758648?width=3000&height=3000" data-zoom-enabled="1" data-people="Roelant Roghman"  title="A View Of Cronesteyn Castle, Near Leiden" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408378989" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758648?width=125&height=125" alt="A View Of Cronesteyn Castle, Near Leiden">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758649">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758649?width=3000&height=3000" data-zoom-enabled="1" data-people="Roelant Roghman"  title="A View Of Cronesteyn Castle, Near Leiden" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408378985" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758649?width=125&height=125" alt="A View Of Cronesteyn Castle, Near Leiden">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC111727">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC111727_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Roelant Roghman"  title="A View Of Cronesteyn Castle, Near Leiden" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="23074190" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC111727_dynmc?width=125&height=125" alt="A View Of Cronesteyn Castle, Near Leiden">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011837">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011837_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Roelant Roghman"  title="A View Of Cronesteyn Castle, Near Leiden" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618462" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011837_dynmc?width=125&height=125" alt="A View Of Cronesteyn Castle, Near Leiden">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2005.252</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28341>Roelant Roghman</a>, Dutch                                                                                                                                                                                                                                                                          (Amsterdam, Netherlands 1627 - 1692 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A View of Cronesteyn Castle, near Leiden</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1646-1647</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/4726">https://hvrd.art/o/4726</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Gray wash, black chalk and graphite on cream antique laid paper, framing lines in brown ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>37.6 x 51.7 cm (14 13/16 x 20 3/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: black ink, lower right: . R. Roghman.
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower left, graphite: huys te kroonesteyn buyte Leyden in Soeterwoude / N4
+                        </li>
+                                              <li data-a="2">
+                          watermark: Grapes below a fleur-de-lys; variant of Heawood 2341 (Amsterdam, 1647)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 10
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Possibly Albert Bentes, Amsterdam, by descent; to Hillebrand Bentes, Amsterdam, sold by his heirs; [Amsterdam, 16 October 1708] [1]; probably to Christiaan van Hoeck, Ouderhoek, by descent; to his son, Anthonie van Hoeck, Ouderhoek, by descent; to his nephew, Jean de Wolff, Ouderhoek. Cornelis Ploos van Amstel, Amsterdam, sold; [Van der Schley et al., Amsterdam, 3 March 1800, kunstboek KK, lot 6]; to [C. S. Roos, Amsterdam.] Probably H. Kneppelhout van Sterkenburg, Utrecht [?]. Cornelis Hofstede de Groot, The Hague, sold by his hiers; to Jonkheer Dr. Willem Adriaan Beelaerts van Blokland, 1930; consigned by his heirs; to [Art Consult, Amsterdam, 2004] sold; to Harvard University Art Museums; The Marian H. Phinney Fund, Paul J. Sachs Memorial Fund, and purchase through the generosity of Anthony Meier, David and Julie Tobey, Mr. and Mrs. Walter C. Klein, and the Bunge Corporation Foundation, 2005.252.<br />
+<br />
+1. Cronesteyn was no. 127 on the list drawn up by the antiquary Cornelis Alkemade before the sale. In the advertisement for the sale, the drawings were described as part of Bentes's library: "de fraje en nette bibliotheek van wijlen den Hr. Schepen Hillebrand Bentes...mitsgaders omtrent 250 tekeningen van Kasteelen en Adelijke huysen in de Provincies van Holland en Utregt, door Roeland Roghman."<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 73 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Roelant Roghman’s oeuvre comprises about forty prints of topographical views and alpine landscapes; some thirty-five paintings, most depicting forest and mountain scenes;<sup class="footnote" id="fnrev15278429565ef664334ab31-1"><a href="#fn15278429565ef664334ab31-1">2</a></sup> and numerous drawings, which belong to one of two large groups. The first consists of freely invented views of alpine terrain or scenery reminiscent of the Dutch countryside, drawn in a loose, summary manner with ink and wash over a sketch in black chalk.<sup class="footnote" id="fnrev15278429565ef664334ab31-2"><a href="#fn15278429565ef664334ab31-2">3</a></sup> Topographical subjects make up the second group, which includes an exceptional series documenting country houses in the provinces of Holland, Utrecht, and Gelderland. Roghman executed these in 1646 and 1647, when he was barely twenty years old. Distinguished by ingenious compositional variations and a breadth of execution to match their ambitious dimensions and scale, they rank among the masterpieces of seventeenth-century Dutch landscape drawing. An early inventory lists 247 views of 150 different houses, of which more than 220 have been identified and catalogued.<sup class="footnote" id="fnrev15278429565ef664334ab31-3"><a href="#fn15278429565ef664334ab31-3">4</a></sup> As topographically accurate records of historic—and often no longer extant—Dutch houses, they are of inestimable documentary value. Roghman presumably produced the series on commission, but its origin remains a mystery.<sup class="footnote" id="fnrev15278429565ef664334ab31-4"><a href="#fn15278429565ef664334ab31-4">5</a></sup></p>
+
+<p>An eighteenth-century inscription on the verso of the Harvard sheet identifies this castle as Cronesteyn, and the drawing appears on manuscript lists of the castle series compiled in 1708 and around 1730.<sup class="footnote" id="fnrev15278429565ef664334ab31-5"><a href="#fn15278429565ef664334ab31-5">6</a></sup> A print published in 1713 shows a bird’s-eye view of the house and property, which was located southwest of Leiden on the road to the village of Zoeterwoude (Fig. 1).<sup class="footnote" id="fnrev15278429565ef664334ab31-6"><a href="#fn15278429565ef664334ab31-6">7</a></sup> A manor house had stood on the site since the Middle Ages. In 1574, when Spanish armies approached to besiege Leiden, the Dutch partially destroyed Cronesteyn to prevent its use by the enemy.<sup class="footnote" id="fnrev15278429565ef664334ab31-7"><a href="#fn15278429565ef664334ab31-7">8</a></sup> Two years after the siege, Daniel van Wijngaarden acquired the property and undertook the construction of the castle depicted in Roghman’s drawing. Van Wijngaarden sold it in 1605, and in 1620 it came into the hands of Bartholomeus van Panhuys, who enlarged and improved the building. His son, Pieter van Panhuys, owned the castle when Roghman visited.<sup class="footnote" id="fnrev15278429565ef664334ab31-8"><a href="#fn15278429565ef664334ab31-8">9</a></sup> It was demolished in 1787.<sup class="footnote" id="fnrev15278429565ef664334ab31-9"><a href="#fn15278429565ef664334ab31-9">10</a></sup></p>
+
+<p>A proposed reconstruction of Roghman’s itinerary places the Harvard work among the earliest drawings in the series, dating it to 1646.<sup class="footnote" id="fnrev15278429565ef664334ab31-10"><a href="#fn15278429565ef664334ab31-10">11</a></sup> Like the draftsman depicted in another of his early views (Fig. 2),<sup class="footnote" id="fnrev15278429565ef664334ab31-11"><a href="#fn15278429565ef664334ab31-11">12</a></sup> Roghman sat on the opposite bank of the moat. The low viewpoint enhances the monumentality of the castle, and the picturesque composition of the architecture, with its impressive tower and side-by-side step gables, fills much of the sheet. As in other castle drawings, the artist accentuated the vertical lines at the corners of the building, where walls in sunlight intersect those in shadow, a strategy that brings out the volume and mass of the structure. The forceful diagonal recession of the brightly illuminated wall directly across the water establishes a dynamic flow of space that continues through the composition.</p>
+
+<p>Traces of an abandoned sketch, executed primarily in graphite, are visible under infrared light above the round tower and on both of its sides.<sup class="footnote" id="fnrev15278429565ef664334ab31-12"><a href="#fn15278429565ef664334ab31-12">13</a></sup> Partially erased and covered with wash, the sketch is difficult to decipher but is of the type Roghman would use initially to outline the elevation of a building.<sup class="footnote" id="fnrev15278429565ef664334ab31-13"><a href="#fn15278429565ef664334ab31-13">14</a></sup> While enough is legible to ascertain that the architectural features do not correspond to those of the finished composition, it is unclear whether the aborted sketch showed a different view of Cronesteyn or another house.<sup class="footnote" id="fnrev15278429565ef664334ab31-14"><a href="#fn15278429565ef664334ab31-14">15</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-15"><sup>1</sup> (This footnotes refers to the watermark; see &#8220;Inscriptions and Marks&#8221;.) The watermark occurs in several other drawings in Roghman’s castle series; H. W. M. van der Wyck, J. W. Niemeijer, and W. Th. Kloek, <em>De kasteeltekeningen van Roelant Roghman</em> (Alphen aan den Rijn, Netherlands, 1989–90), vol. 2, p. 132, repr.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-1"><sup><a href="#fnrev15278429565ef664334ab31-1">2</a></sup> For the prints, see Hollstein, vol. 20, nos. 1–46, pp. 67–93. For the paintings, see Werner Sumowski, <em>Gemälde der Rembrandt‑Schüler in vier Bänden</em> (Landau, Germany, 1983), vol. 4, cats. 2479–2500; Van der Wyck et al., vol. 2, pp. 40–47.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-2"><sup><a href="#fnrev15278429565ef664334ab31-2">3</a></sup> Van der Wyck et al., vol. 2, pp. 33–35.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-3"><sup><a href="#fnrev15278429565ef664334ab31-3">4</a></sup> Ibid., nos. 1–222, pp. 21–242.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-4"><sup><a href="#fnrev15278429565ef664334ab31-4">5</a></sup> Neither Hillebrand Bentes (1677–1708), the first recorded owner, nor his father (the important Amsterdam collector Albert Bentes [1643–1701], who might have owned the series before his son) could have been the original patron. On the possible patrons of the series, see Van der Wyck et al., vol. 1, pp. 6–7; Michiel C. Plomp, <em>The Dutch Drawings in the Teylers Museum</em> (Ghent and Doornspijk, 1997), p. 322.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-5"><sup><a href="#fnrev15278429565ef664334ab31-5">6</a></sup> The verso inscription is in one of the hands (identified as <em>“handschrift C”</em> by Van der Wyck et al., vol. 1, p. 16) that annotated the versos of many of Roghman’s castle drawings. It is the only view of Cronesteyn on the lists drawn up by the antiquary Cornelis van Alkemade before the 1708 sale and by Abraham de Haen around 1730; Van der Wyck et al., vol. 1, p. 3, no. 127 (Alkemade), p. 12 (De Haen), and cat. 96, p. 116. The drawings were consigned to the 1708 sale by the heirs of Hillebrand Bentes (see n. 5) and described in an advertisement for the sale as part of Bentes’s library: “de fraje en nette bibliotheek van wijlen den Hr. Schepen Hillebrand Bentes . . . mitsgaders omtrent 250 tekeningen van Kasteelen en Adelijke huysen in de Provincies van Holland en Utregt, door Roeland Roghman”; idem, vol. 1, p. 6.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-6"><sup><a href="#fnrev15278429565ef664334ab31-6">7</a></sup> Jan Lamsvelt, <em>Cronesteyn Castle</em> (Fig. 1). Etching, 114 × 203 mm. Page 140 in Gerard Goris’s <em>Les délices de la campagne à l’entour de la ville de Leide</em>, Leiden, Theodore Haak, 1713. Other views of Cronesteyn are reproduced by Ed van der Vlist, ed., <em>Cronesteyn: Van broekland tot polderpark</em> (Leiden, 2004), pp. 55 and 58, and Willem Beelaerts van Blokland and Charles Dumas, <em>De Kasteeltekeningen van Abraham Rademaker</em> (Zwolle, Netherlands, 2006), no. 1:93, p. 146.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-7"><sup><a href="#fnrev15278429565ef664334ab31-7">8</a></sup> Van der Vlist, p. 50.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-8"><sup><a href="#fnrev15278429565ef664334ab31-8">9</a></sup> Ibid., pp. 50–57.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-9"><sup><a href="#fnrev15278429565ef664334ab31-9">10</a></sup> Beelaerts van Blokland and Dumas, p. 435.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-10"><sup><a href="#fnrev15278429565ef664334ab31-10">11</a></sup> Van der Wyck et al., vol. 2, p. 115.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-11"><sup><a href="#fnrev15278429565ef664334ab31-11">12</a></sup> Roelant Roghman, <em>Swieten Castle</em> (Fig. 2). Brown ink, gray wash, over graphite and/or black chalk. 388 × 529 mm. Vienna, Graphische Sammlung Albertina, 15130. Van der Wyck et al., vol. 1, no. 187, p. 206, vol. 2, pp. 127–30. Swieten is near to Cronesteyn, and Roghman probably made the two drawings on the same excursion; Van der Wyck et al., vol. 2, p. 115.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-12"><sup><a href="#fnrev15278429565ef664334ab31-12">13</a></sup> My thanks to Anne Driesse of the Straus Center for Conservation, Harvard Art Museums, for imaging this sketch during treatment of the drawing.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-13"><sup><a href="#fnrev15278429565ef664334ab31-13">14</a></sup> Van der Wyck et al., vol. 2, pp. 119–21.</p>
+
+<p class="footnote" id="fn15278429565ef664334ab31-14"><sup><a href="#fnrev15278429565ef664334ab31-14">15</a></sup> Some architectural elements discernible in the sketch—stepped gable, round-headed windows beneath a small pediment—recall one of Roghman’s views of Swieten (Van der Wyck et al., vol. 1, no. 188, p. 207), which was near Cronesteyn. In idem, vol. 2, pp. 115 and 127–30, note that the four views of Swieten suggest that Roghman might have been experimenting with a working method and that the similarity of the Harvard <em>Cronesteyn</em> and the view of Swieten cited above indicate they were done on the same excursion.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/4726/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Jan Lamsvelt, <em>Cronesteyn Castle</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/4726/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Roelant Roghman, <em>Swieten Castle</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, The Marian H. Phinney Fund, Paul J. Sachs Memorial Fund, and purchase through the generosity of Anthony Meier, David and Julie Tobey, Mr. and Mrs. Walter C. Klein, and the Bunge Corporation Foundation</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2005</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2005.252</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              L. Smids, <em>Schatkamer der nederlandsse Oudheden; of Woordenboek behelsende Nederlands steden en dorpen, kasteelen, sloten en heeren huysen… met LX verbeeldingen... door Roeland Rochman.</em>, Pieter de Coup (Amsterdam, 1711), p. 188
+                             </p>
+                                                      <p>
+                                              Otto Hirschmann, "Die Handzeichnungen-Sammlung Dr. Hofstede de Groot im Haag.  III. (Schluss) Die Rembrandt-Schüler", <em>Der Cicerone</em> (June 1917), vol. 9, no. 11/12, pp. 199-211, p. 204, repr. p. 206, fig. 7
+                             </p>
+                                                      <p>
+                                              Jhr. dr. H. W. M. van der Wyck, J. W. Niemeijer, and W. Th. Kloek, <em>De kasteeltekeningen van Roelant Roghman</em>, Canaletto / Stichting Nederlandse buitenplaatsen en Historische Landschappen (Alphen aan den Rijn, 1989 - 1990), vol. 1, cat. no. 96, p. 116, repr., and vol. 2, pp. 115 and 132
+                             </p>
+                                                      <p>
+                                              Ed van der Vlist, <em>Cronesteyn: Van broekland tot polderpark</em>, Primavera Pers (Leiden, 2004), repr. p. 56
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 73, pp. 247-249, repr. p. 248; watermark p. 380
+                             </p>
+                                    </dd>
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:758650?width=200&height=200" alt="A View Of Cronesteyn Castle, Near Leiden">
+                <span class="popup__artwork-info-id">2005.252</span>
+        <span class="popup__artwork-info-author">
+                                    Roelant Roghman
+                              </span>
+        <span class="popup__artwork-info-title">A View of Cronesteyn Castle, near Leiden</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%204726%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F4726">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F4726" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+View+of+Cronesteyn+Castle%2C+near+Leiden+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F4726" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/4726" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_bc9a8e15fd3d7727db4c518859b8f42f" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

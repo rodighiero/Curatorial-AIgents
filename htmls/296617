@@ -1,0 +1,670 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections On the Seashore </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections On the Seashore" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/296617"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71353_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" On the Seashore" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18480957" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71353_dynmc?width=3000&height=3000" data-initial-image-id="18480957" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?296617" data-behavior="add_to_collection tooltip" data-artwork="296617" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=296617&amp;image_id=71353" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/296617/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71353">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71353_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jan van Goyen"  title="On The Seashore" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18480957" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71353_dynmc?width=125&height=125" alt="On The Seashore">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011573">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011573_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jan van Goyen"  title="On The Seashore" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535257" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011573_dynmc?width=125&height=125" alt="On The Seashore">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1965.204</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/23179>Jan van Goyen</a>, Dutch                                                                                                                                                                                                                                                                          (Leiden, Netherlands 1596 - 1656 The Hague, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>On the Seashore</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1652</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/296617">https://hvrd.art/o/296617</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk and gray wash on cream antique laid paper, framing line in black chalk</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>14.3 x 21.7 cm (5 5/8 x 8 9/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: lower left, black chalk: VG 1652
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          watermark: Horn in shield with crown, and MG below; variant of Churchill 315 (1623– 95); a similar mark appears on other Van Goyen drawings of 1652 (see Beck, H.-U. 1972– 91, vol. 1, p. 329, fig. 18)<br />
+<br />
+<br />
+<br />
+<br />
+ 
+                        </li>
+                                              <li data-a="2">
+                          gallery label: former mount, Keppel Gallery label, printed and inscribed in brown ink: [label proper] From FREDERICK KEPPEL & CO., / Rare Engravings and Etchings / No. 4 East 39th Street, New York. / No. H 7301  [brown ink] Sketch on the Seashore / original drawing by Jan van Goyen / born Leyden 1596 - Died Hague 1666.  Bought in 1912. / Pencil drawing /  on thin old / paper. / Beautiful / atmospheric / quality.  
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, black chalk: 17
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: A71193
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower center, graphite: 64
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, black chalk: EDCV
+                        </li>
+                                              <li data-a="2">
+                          inscription: Former mount, graphite: Dr. Martin says / fine, undoubted Van Goyen / March 30/21
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Perhaps F. Adama van Scheltema, sold; [Muller, Amsterdam, 11-14 June 1912, lot 108, repr.]; to [Otto Gutekunst, London.] [Frederick Keppel & Co., New York, 1912] sold; to Meta and Paul J. Sachs, Cambridge, Mass., (L. 2091, without his mark); Bequest of Meta and Paul J. Sachs, 1965.204<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 45 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>With Pieter de Molijn (<a href="https://www.harvardartmuseums.org/collections/object/293705?position=0">2011.514</a>) and Salomon van Ruysdael, the remarkably productive painter and draftsman Jan van Goyen ranks among the leading exponents of the “tonal phase” of Dutch landscape painting. After his initial training with no fewer than five different masters in Leiden and Hoorn, Van Goyen spent a year (1617–18) in Haarlem with Esaias van de Velde, his most influential teacher (<a href="https://www.harvardartmuseums.org/collections/object/295576?position=0">1979.62</a>, <a href="https://www.harvardartmuseums.org/collections/object/212693?position=0">2015.169</a>, <a href="https://www.harvardartmuseums.org/collections/object/212694?position=0">2015.170</a>). He returned to Leiden and remained there until 1632, when he settled permanently in the Hague. In the late 1620s and 1630s, Van Goyen adopted the innovations of Haarlem landscapists Molijn, Van Ruysdael, and Pieter van Santvoort, painting dunes, rivers, beaches, cottages along country roads, and winter scenes in a monochromatic palette of finely modulated browns, grays, and greens. He later added panoramas, marine vistas, and views of cities to his repertory.<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-1"><a href="#fn5460987965ef6642ce6ac8-1">2</a></sup></p>
+
+<p>Throughout his career, Van Goyen produced finished drawings intended for sale. About eight hundred survive, dating from the middle of the 1620s to the last year of his life. The vast majority bear his signature or the monogram <em>VG</em> and a date. During certain periods he concentrated his efforts on this kind of work rather than on painting; one such time was from 1651 through 1653, when he turned out some 350 finished drawings but relatively few paintings.<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-2"><a href="#fn5460987965ef6642ce6ac8-2">3</a></sup> Although he used colored washes in a few of his early works of this type, during the 1630s and early 1640s Van Goyen executed them in black chalk.<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-3"><a href="#fn5460987965ef6642ce6ac8-3">4</a></sup> From 1647 on, he combined black chalk with a judicious gray or—in a few sheets from 1651—brown wash to evoke shadows and to model forms. In many instances, he developed the compositions of his finished landscapes—both paintings and drawings—from cursory studies jotted down in sketchbooks during his travels. He probably sold many of the drawings in series, some supplied with a title page, but nearly all these suites have been broken up and can no longer be reconstructed.<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-4"><a href="#fn5460987965ef6642ce6ac8-4">5</a></sup></p>
+
+<p>Van Goyen signed and dated more than fifty finished drawings, including <em>On the Seashore</em>, in 1652. It was one of his most productive years for works of this kind, although far more survive from 1651 and 1653. In addition to coastal scenes, his finished landscapes of 1652 depict villages, dunes, rivers, and inland waterways. At least three other drawings dated that year are on papers with a watermark similar to that in the Harvard sheet.<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-5"><a href="#fn5460987965ef6642ce6ac8-5">6</a></sup></p>
+
+<p>The site depicted in the Harvard drawing is not identifiable, and may be a composite view rather than an actual location; low towers of the type shown here figure in several of Van Goyen’s scenes of the Dutch coast and inland waterways (Fig. 1).<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-6"><a href="#fn5460987965ef6642ce6ac8-6">7</a></sup> The artist’s annotation on a sketchbook page identifies one such structure as a “sea beacon” (<em>zeebaken</em>).<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-7"><a href="#fn5460987965ef6642ce6ac8-7">8</a></sup> Precursors of lighthouses, these installations provided and maintained navigational signals. To mark the shoreline for mariners sailing in the dark, an iron basket with burning fuel would have been hoisted with the aid of a pulley up a pole like the one that rises from the balcony in the drawing. In other such works by Van Goyen, the pole stands apart from the tower, in some instances beside a cannon (see Fig. 1). The latter did not serve a defensive purpose, but was fired periodically during a fog to warn shipping of the proximity of shallow water.</p>
+
+<p>A copy of the Harvard drawing is in the Rijksmuseum, Amsterdam.<sup class="footnote" id="fnrev5460987965ef6642ce6ac8-8"><a href="#fn5460987965ef6642ce6ac8-8">9</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-9"><sup>1</sup> (This note refers to the dimensions.) The sheet dimensions include unworked margins of a centimeter or more outside the framing lines on all four sides. The image measures 121 × 196 mm. The latter dimensions are close to those of most of Van Goyen’s finished drawings of 1652, which have presumably been trimmed to the image and measure in the range of 115/120 × 190/200 mm.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-1"><sup><a href="#fnrev5460987965ef6642ce6ac8-1">2</a></sup> Hans‑Ulrich Beck, “Goyen, Jan (Josephsz.) van,” in Jane Turner, ed., <em>The Dictionary of Art</em> (New York, 1996), vol. 13, pp. 255–59.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-2"><sup><a href="#fnrev5460987965ef6642ce6ac8-2">3</a></sup> Hans‑Ulrich Beck, <em>Jan van Goyen 1596–1656: Ein Oeuvreverzeichnis</em> (Amsterdam and Doornspijk, 1972–91), vol. 1, p. 51, and cats. 195–557e, pp. 69–188, vol. 3, cats. 195–557c, pp. 56–96.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-3"><sup><a href="#fnrev5460987965ef6642ce6ac8-3">4</a></sup> For a work of 1627 with extensive colored washes, see Marijn Schapelhouman and Peter Schatborn, <em>Dutch Drawings of the Seventeenth Century in the Rijksmuseum, Amsterdam: Artists Born between 1580 and 1600; Catalogue of Dutch and Flemish drawings in the Rijksprentenkabinet, Rijksmuseum, Amsterdam</em>, vol. 6 (Amsterdam and London, 1998), vol. 1, cat. 130, p. 75, vol. 2, p. 97, fig. 130, and p. 246, color plate VI.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-4"><sup><a href="#fnrev5460987965ef6642ce6ac8-4">5</a></sup> On Van Goyen’s black chalk drawings with gray or brown wash, see Beck (1972–91), vol. 1, pp. 51–53. For finished landscapes based on studies in his travel sketchbooks, see pp. 51–55. Regarding series and difficulties of reconstruction, see pp. 51–52.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-5"><sup><a href="#fnrev5460987965ef6642ce6ac8-5">6</a></sup> For drawings dated 1652, see ibid., vol. 1, cats. 284–331a–m, pp. 102–116, and vol. 3, pp. 67–72, where cats. 297A, 301aA [sic], 303A, 311a, and 311A are additional drawings not catalogued in vol. 1. On drawings dated that year with watermarks similar to that of the Harvard work, see vol. 1, p. 329, fig. 18, and cat. 308, p. 109, cat. 316, p. 112, and cat. 324, pp. 114–15.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-6"><sup><a href="#fnrev5460987965ef6642ce6ac8-6">7</a></sup> Jan van Goyen, <em>River Landscape with a Tower</em> (Fig. 1). Oil on panel. 40.6 × 53.2 cm (oval), signed and dated 1644. Saint Gallen, Kunstmuseum, G1997.4. Beck (1972–91), vol. 2, cat. 142, p. 70; vol. 3, cat. 142, p. 159, repr. For other drawings and paintings with similar towers, see idem, vol. 1, cats. 242, 288, and 502, vol. 2, cats. 415, 632, 704, 706, 735, and 757, vol. 3, cats. 142, 734, 761, 766, and 1168A.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-7"><sup><a href="#fnrev5460987965ef6642ce6ac8-7">8</a></sup> Sotheby’s, New York, 16 January 1985, lot 289. Private collection, New York; Beck (1972–91), vol. 3, p. 19, and cat. 706A, not repr. The black chalk inscription <em>Zeebaken te Petten</em> has been reinforced with brown ink, but Beck accepts the authenticity of the original black chalk annotation. Petten is a village on the North Sea coast between Alkmaar and Den Helder. I am grateful to the owner for bringing this drawing to my attention and for supplying a photograph.</p>
+
+<p class="footnote" id="fn5460987965ef6642ce6ac8-8"><sup><a href="#fnrev5460987965ef6642ce6ac8-8">9</a></sup> Copy after Jan van Goyen, <em>Figures by a Coastal Watchtower</em>, 1652. Black chalk and gray wash, 123 × 196 mm. Rijksmuseum, Rijksprentenkabinet, RP-T-1897-A-3406. Schapelhouman and Schatborn, vol. 1, cat. 197, p. 93, vol. 2, p. 119, fig. 197.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/296617/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Jan van Goyen, <em>River Landscape with a Tower</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Meta and Paul J. Sachs</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1965</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1965.204</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Agnes Mongan and Paul J. Sachs, <em>Drawings in the Fogg Museum of Art</em>, Harvard University Press (Cambridge, 1940), vol. 1, cat. no. 507, p. 268, repr. vol. 2, fig. 260
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 44, p. 11
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>Memorial Exhibition: Works of Art from the Collection of Paul J. Sachs [1878-1965]: given and bequeathed to the Fogg Art Museum, Harvard University, Cambridge, Massachusetts</em>, exh. cat., Harvard University (Cambridge, MA, 1965), cat. no. 25, n.p., repr., and p. 206
+                             </p>
+                                                      <p>
+                                              Fogg Art Museum Acquisitions, 1965, 1966, p. 31
+                             </p>
+                                                      <p>
+                                              Hans-Ulrich Beck, <em>Jan van Goyen 1596-1656</em>, Davaco Publishers (Amsterdam, The Netherlands, 1972 - 1987), vol. 1, cat. no. 289, p. 103, repr., and under fig. 18, p. 329, and vol. 3, cat. no. 289, p. 67
+                             </p>
+                                                      <p>
+                                              Curtis O. Baer, ed., <em>Seventeenth Century Dutch Landscape Drawings and Selected Prints from American Collections</em>, exh. cat., Vassar College Art Gallery (Poughkeepsie, NY, 1976), cat. no. 24, pp. 14, 15 and 42, repr. fig. 24
+                             </p>
+                                                      <p>
+                                              Geneviève Monnier and Bernice Rose, <em>Drawing</em>, Skira Rizzoli (Geneva, Switzerland/New York, NY, 1979), p. 269, repr. p. 167
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Tokyo, 1979), cat. no. 49, n.p., repr. pl. 49
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 15; cat. no. 45, pp. 161-163, repr. p. 162; watermark p. 377
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Drawings from the Fogg Museum of Art, Harvard University (Collected by Paul J. Sachs)</em>, Century Club, New York, 05/12/1947 - 09/25/1947
+                            </p>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>Memorial Exhibition: Works of Art from the Collection of Paul J. Sachs [1878-1965] Given and Bequeathed to the Fogg Art Museum Harvard University Cambridge, Massachusetts</em>, Fogg Art Museum, Cambridge, 11/15/1965 - 01/15/1966; Museum of Modern Art, New York, New York, 12/19/1966 - 02/26/1967
+                            </p>
+                          <p>
+                              <em>Seventeenth Century Dutch Landscape Drawings and Selected Prints from American Collections</em>, Vassar College Art Gallery, Poughkeepsie, 03/28/1976 - 05/07/1976
+                            </p>
+                          <p>
+                              <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 11/03/1979 - 12/16/1979
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71353_dynmc?width=200&height=200" alt="On The Seashore">
+                <span class="popup__artwork-info-id">1965.204</span>
+        <span class="popup__artwork-info-author">
+                                    Jan van Goyen
+                              </span>
+        <span class="popup__artwork-info-title">On the Seashore</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20296617%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296617">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296617" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=On+the+Seashore+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296617" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/296617" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_beaa4c46f6dfd8469e2e7bfaf5500006" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

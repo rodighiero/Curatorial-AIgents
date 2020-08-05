@@ -1,0 +1,644 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Christ's Descent into Hell </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Christ&#039;s Descent into Hell" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/312327"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:74745_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Christ&#039;s Descent into Hell" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17826269" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:74745_dynmc?width=3000&height=3000" data-initial-image-id="17826269" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?312327" data-behavior="add_to_collection tooltip" data-artwork="312327" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=312327&amp;image_id=74745" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/312327/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2003.153</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/34147>Unidentified Artist</a>                                            <br>
+                                                                Previously attributed to <a href=https://www.harvardartmuseums.org/collections/person/26158>Nikolaus Hogenberg</a>, Netherlandish                                                                                                                                                                                                                                                                          (Munich c. 1500 - 1539 Mechelen)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Christ's Descent into Hell</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1550</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/312327">https://hvrd.art/o/312327</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink and brown wash over black chalk on three pieces of cream antique laid paper; some (later?) gray wash on Adam's crotch; partial framing line in brown ink; verso: faint black chalk sketches of architectural motifs</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>diam.: 32.8 cm (12 15/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Mrs. Vivian Neal, sold; [Sotheby's, London, 28 March 1968, lot 121]; to [Heinrich Pilartz, Cologne.] [Sotheby's, London, 9 April 1981, lot 63.] Vermeer Associates Ltd., Brampton, Ontario, sold; to Harvard University Art Museums, 2003; The Kate, Maurice R. and Melvin R. Seiden Special Purchase Fund in honor of Anne and John Straus, the Marian H. Phinney Fund, and the Paul J. Sachs Memorial Fund, inv. no. 2003.153.<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 47 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The production of glass roundels developed by the early sixteenth century into a major artistic industry in the Netherlands, where far more were created than elsewhere in Europe. The small panels of clear glass painted with glass paint and silver stain could be oval, elliptical, rectangular, or square, although most, as the term implies, are circular. Decorated with figural or armorial imagery, roundels were installed in windows in intimate spaces, such as a private home or the cloister or living quarters in a religious community. Glass painters who executed their own designs, such as Dirck Crabeth (<a href="https://www.harvardartmuseums.org/collections/object/47660?position=0">2013.41</a>) and Dirck Vellert, were exceptions. Most adapted their compositions from prints or designs commissioned from a master painter. Since roundels were small and best seen at close range, they lent themselves to sequential viewing, and many belonged to series of multiple panels that depicted religious cycles or secular narratives.<sup class="footnote" id="fnrev12796330645ef664249566b-1"><a href="#fn12796330645ef664249566b-1">1</a></sup></p>
+
+<p><em>Christ’s Descent into Hell</em> belongs to a group of fifteen finished designs for a suite of roundels illustrating scenes from the Passion.<sup class="footnote" id="fnrev12796330645ef664249566b-2"><a href="#fn12796330645ef664249566b-2">2</a></sup> In Christian theology, through his death on the cross Jesus enabled the souls of the righteous who had died before him to gain admission to Heaven. Between his crucifixion and resurrection he descended into the realm of the dead, forcing open the gates of Hell. Represented in European and Byzantine art from the eighth century onward, the subject figures in many medieval and Renaissance Passion cycles.<sup class="footnote" id="fnrev12796330645ef664249566b-3"><a href="#fn12796330645ef664249566b-3">3</a></sup> In images of Christ’s Descent into Hell, the first to be liberated is Adam, whose wrist Jesus grasps in the Harvard drawing. Jesus’s gesture and pose, and the type of the demon hovering above his head are among the numerous details in the series adapted from Albrecht Dürer’s three influential series of prints of the Passion.<sup class="footnote" id="fnrev12796330645ef664249566b-4"><a href="#fn12796330645ef664249566b-4">4</a></sup> Of the fifteen known models for this group, the earliest in the sequence of the biblical narrative depicts the Last Supper and the latest shows the Incredulity of Thomas. The suite might have included additional designs, since certain canonical subjects are not illustrated among those known today.<sup class="footnote" id="fnrev12796330645ef664249566b-5"><a href="#fn12796330645ef664249566b-5">5</a></sup> No roundels related to these designs have been identified.</p>
+
+<p>Most of the drawings in the series are executed primarily in black or dark brown ink with brownish gray wash, in several instances over black chalk. All are virtually identical in size: 330 mm—give or take 2–3 mm—in diameter. This is significantly larger than the standard sixteenth-century roundel, which measures about 220 mm.<sup class="footnote" id="fnrev12796330645ef664249566b-6"><a href="#fn12796330645ef664249566b-6">6</a></sup> All the supports are made up of two, three, or more pieces of paper. More than half of them have been prepared overall with a pink or reddish wash or have been partially tinted by selective rubbing with powdered red chalk. Eight of the designs were formerly mounted back-to-back to other drawings in the series, as if they were the recto and verso of the same sheet. Most have been detached and are now preserved as two separate sheets. On the verso of the <em>Agony in the Garden</em>, the artist sketched revisions to the design on the recto, and a first draft of the <em>Crucifixion</em> appears on the verso of the Morgan <em>Deposition</em>, but no subject occurs twice among the fifteen finished models in the group.<sup class="footnote" id="fnrev12796330645ef664249566b-7"><a href="#fn12796330645ef664249566b-7">7</a></sup> This, when taken with the common provenance of several sheets, their unusual size, and similar styles and techniques, attests that they all belong to a single series.<sup class="footnote" id="fnrev12796330645ef664249566b-8"><a href="#fn12796330645ef664249566b-8">8</a></sup></p>
+
+<p>The challenge of identifying the author of the Passion designs and the three other studies for roundels assigned to the same hand has exercised art historians since the 1920s, but no one has proposed a convincing attribution.<sup class="footnote" id="fnrev12796330645ef664249566b-9"><a href="#fn12796330645ef664249566b-9">9</a></sup> The works were first associated with the Leiden master Aertgen Claesz. van Leyden (c. 1498–1564). While their technique and figural style generally recall drawings of the 1550s ascribed to Aertgen, the roundels are not by his hand.<sup class="footnote" id="fnrev12796330645ef664249566b-10"><a href="#fn12796330645ef664249566b-10">10</a></sup> In 1969, Karel G. Boon argued that they are the work of Nicolaas (Nicolaus) Hogenberg (d. 1539), a printmaker and painter of Netherlandish ancestry, who was born in Munich and who settled in Mechelen in the 1520s. Boon compared the rectangular heads and the line work used to describe the anatomy in the drawings to details in Hogenberg’s graphic works.<sup class="footnote" id="fnrev12796330645ef664249566b-11"><a href="#fn12796330645ef664249566b-11">11</a></sup> However, the resemblance is merely superficial, and Boon’s dating of the series before 1527 seems far too early for the style of the drawings.<sup class="footnote" id="fnrev12796330645ef664249566b-12"><a href="#fn12796330645ef664249566b-12">12</a></sup> The late Hans Mielke, after evaluating the evidence, judiciously concluded, “Yet, it is difficult in the end to attribute the roundels and Hogenberg’s engraving to the same artist. The problem has probably not yet been finally solved.”<sup class="footnote" id="fnrev12796330645ef664249566b-13"><a href="#fn12796330645ef664249566b-13">13</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn12796330645ef664249566b-1"><sup><a href="#fnrev12796330645ef664249566b-1">1</a></sup> William Cole, <em>A Catalogue of Netherlandish and North European Roundels in Britain: Great Britain; Summary Catalogue 1</em>, in <span class="caps">UNESCO</span>–ICOM Corpus Vitrearum Medii Aevi Project series, 1953–[ongoing] (Oxford and New York, 1993), pp. xix–xxii; Timothy Husband, <em>The Luminous Image: Painted Glass in the Lowlands, 1480–1560</em> (New York: Metropolitan Museum of Art, 1995), pp. 10–14.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-2"><sup><a href="#fnrev12796330645ef664249566b-2">2</a></sup> The fifteen designs are: <em>The Last Supper</em>, ink and gray wash on two joined pieces of pink-washed paper, 332 mm diam., Cambridge, U.K., Fitzwilliam Museum, <span class="caps">PDP</span>, 734*3a; <em>The Agony in the Garden</em>, ink and gray wash on two joined pieces of pink-washed paper, 332 mm diam., Cambridge, U.K., Fitzwilliam Museum, <span class="caps">PDP</span>, 734*3b; <em>The Betrayal of Christ</em>, ink and gray wash on two joined pieces of pink-washed paper, 330 mm diam., London, British Museum, 1920,420.6; <em>Christ before Pilate</em>, ink and gray wash on two joined pieces of pink-washed paper, 330 mm diam., London, British Museum, 1920,420.7; <em>The Flagellation</em>, dark brown ink, gray wash, on paper partly tinted in red chalk, rubbed over, 333 mm diam. with a 75 mm (maximum) segment added at top, Paris, Fondation Custodia, Frits Lugt Collection, 7884; <em>Crowning with Thorns</em>, dark brown ink, gray wash, on paper partly tinted in red chalk, rubbed over, 332 mm diam. with a 68 mm (max.) segment added at top, Paris, Fondation Custodia, Frits Lugt Collection, 7885; <em>Christ Seated on the Cross</em>, black ink, wash, traces of black chalk, on four pieces of joined pink-gray-washed paper, 332 mm diam., formerly Amsterdam, Heirs of I. Q. van Regteren Altena. This drawing is on the recto of the drawing mentioned below and was included in the sale at Christie’s, London, 10 July 2014, lot 1; <em>The Crucifixion</em>, brown ink, brown wash, and black chalk, on several pieces of joined paper, 332 mm diam., Amsterdam, formerly Heirs of I. Q. van Regteren Altena, sale, Christie’s, London, 10 July 2014, lot 1; <em>Deposition</em> (verso: <em>Crucifixion</em>, preliminary draft for the final design in the former Van Regteren Altena collection), black chalk, black and brown ink, brown wash on three joined pieces of paper, New York, Morgan Library and Museum, 1990.9; <em>Christ at the Foot of the Cross, Mourned by Mary and John</em>, brown ink, light grayish brown wash, traces of black chalk, on three joined sheets of paper, verso: black chalk, 328 mm diam., New York, Metropolitan Museum of Art, 2002.422; <em>Entombment</em>, brown ink, traces of red chalk (recto), red and black chalk sketches of a female nude and architecture (verso), on three joined pieces of paper, 332 mm diam., sale, Sotheby’s, London, 3 July 2013, lot 11; <em>Christ’s Descent into Hell</em>, brown ink and brown wash over black chalk on three joined pieces of cream antique laid paper; some (later?) gray wash on Adam’s crotch (recto), faint black chalk sketches of architectural motifs (verso), 328 mm diam., Harvard Art Museums/Fogg Museum, <a href="https://www.harvardartmuseums.org/collections/object/312327?position=0">2003.153</a>; <em>Christ and the Magdalene</em> (<em>Noli me tangere</em>), black ink, brown wash on five joined pieces of paper randomly rubbed with red chalk concentrated at the joins, 333 mm diam., New York, Morgan Library and Museum, 1974.51; <em>The Resurrection</em>, gray ink, brownish gray wash, on light-red prepared paper, 334 mm diam., Amsterdam, Rijksmuseum, RP-T-1996-61; <em>The Incredulity of Thomas</em>, brown ink and gray wash, the lines indicating the linear perspective in brown ink, Amsterdam, Rijksmuseum, RP-T-1968-84.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-3"><sup><a href="#fnrev12796330645ef664249566b-3">3</a></sup> Anna D. Kartsonis, <em>Anastasis: The Making of an Image</em> (Princeton, 1986), pp. 4–39 and 67–81.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-4"><sup><a href="#fnrev12796330645ef664249566b-4">4</a></sup> In the Harvard drawing, the stance and gesture of Christ derive from the figure of Jesus in Dürer’s “Small Passion” of 1509 (see Rainer Schoch, Matthias Mende, and Anna Scherbaum, <em>Albrecht Dürer: Das druckgraphische Werk</em>, Munich, 2001–4, vol. 2, p. 211), while the devil and the arched doorway were adapted from <em>Christ’s Descent into Hell</em> in the “Large Passion” of 1510 (idem, p. 164).</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-5"><sup><a href="#fnrev12796330645ef664249566b-5">5</a></sup> Not included in the series of drawings are, among other subjects: Christ Shown to the People, Pilate Washing His Hands, the Carrying of the Cross, the Ascension, and Pentecost.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-6"><sup><a href="#fnrev12796330645ef664249566b-6">6</a></sup> Cole, p. xx.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-7"><sup><a href="#fnrev12796330645ef664249566b-7">7</a></sup> On the verso of the Morgan <em>Deposition</em>, the artist sketched in black chalk a study of the Crucifixion with Mary and John beneath the cross, elaborating the figures of Mary and John in gray ink. This appears to be a first draft of the Crucifixion developed in the finished drawing formerly in the I. Q. van Regteren Altena collection. Between the two standing figures he then added another female form, perhaps an alternative version of Mary. This composition has been interpreted as the Three Marys at the Tomb, but the right-hand figure is definitely a male, and the outlines of the cross and the head and torso of Christ are clearly visible.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-8"><sup><a href="#fnrev12796330645ef664249566b-8">8</a></sup> The eight designs mounted back-to-back obviously share a common early provenance; their pairings were <em>The Last Supper</em> and the <em>Agony in the Garden</em> (Fitzwilliam Museum); <em>Christ Seated on the Cross</em> and <em>The Crucifixion</em> (heirs of I. Q. van Regteren Altena, sold Christie’s, London, 10 July 2014, lot 1, still adhered); <em>The Entombment</em> (sold Sotheby’s, London, 3 July 2013, lot 11) and <em>Christ’s Descent into Hell</em> (Harvard Art Museums/Fogg Museum); and the <em>Deposition</em> (Morgan Library and Museum) and <em>Christ at the Foot of the Cross, Mourned by Mary and John</em> (Metropolitan Museum of Art). The Fitzwilliam <em>Agony in the Garden</em> and four others bear inscriptions in the same (eighteenth-century?) hand, also bearing out a common history. The drawings inscribed by this hand are <em>The Flagellation (No 330)</em>, <em>The Crowning with Thorns (Lot 426– )</em>, <em>The Agony in the Garden</em>, and <em>Christ before Pilate (No 321)</em> (Karel G. Boon, <em>The Netherlandish and German Drawings of the XVth and <span class="caps">XVI</span>th Centuries of the Frits Lugt Collection</em>, Paris, 1992, vol. 1, p. 226, n. 1), and, although not noted by Boon, the Morgan <em>Noli me tangere (No 319)</em>.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-9"><sup><a href="#fnrev12796330645ef664249566b-9">9</a></sup> The three additional drawings attributed to Nicolaas Hogenberg are: <em>The Judgment of Solomon</em>, brown ink, brown wash, on brownish paper, 234 mm diam., Paris, Fondation Custodia, Frits Lugt Collection, 8967 (Boon, vol. 1, cat. 126, pp. 227–28, repr. vol. 2, pl. 22); <em>Christ and the Woman Taken in Adultery</em>, Braunschweig, Herzog Anton Ulrich-Museum, Z 968 (idem, under cat. 126, pp. 227–28, repr. vol. 2, fig. 70); and <em>The Mocking of Job</em>, brown ink and brown wash over touches of black chalk on antique laid paper, toned with red wash and white opaque watercolor, 255/250 mm diam., Harvard Art Museums/Fogg Museum, <a href="https://www.harvardartmuseums.org/collections/object/296007?position=0">1977.44</a></p>
+
+<p class="footnote" id="fn12796330645ef664249566b-10"><sup><a href="#fnrev12796330645ef664249566b-10">10</a></sup> Campbell Dodgson, “Two Drawings by Aert Claesz,” <em>The Burlington Magazine</em>, vol. 38, no. 214 (January 1921): 25–27 (as Aert Claesz.); Arthur Ewart Popham, “Aert Claesz (1498–1562), (attributed to),” <em>Old Master Drawings</em>, vol. 2, no. 7 (Dec. 1927): 37–39 (as attributed to Aert Claesz.); Arthur Ewart Popham, <em>Dutch and Flemish Drawings of the XV and <span class="caps">XVI</span> Centuries</em>, vol. 5 in <em>Catalogue of Drawings by Dutch and Flemish Artists Preserved in the Department of Prints and Drawings in the British Museum</em> (London, 1932), under cat. 2, pp. 7–8 (as Aert Claesz.); I. Q. van Regteren Altena, “Aertgen van Leyden,” <em>Oud Holland</em>, vol. 56 (1939): 17–25, 74–87, 129–38, and 222–35, part 1, pp. 17–18 and 25, part 3, pp. 137–38, and part 4, pp. 224–25, 232–33, and p. 235 (as Aertgen [Claesz.] van Leyden). The far less plausible attribution to the obscure German Abraham Schöpfer (Friedrich Winkler, “Abraham Schöpfer oder Aertgen van Leyden?” <em>Jahrbuch der Preussischen Kunstsammlungen</em>, vol. 56, 1935, 117–30, pp. 117–19, 124, and 129–30; Binder in Ulrich Thieme and Felix Becker, with Hans Vollmer, <em>Allgemeines Lexikon der Bildenden Künstler von der Antike bis zur Gegenwart</em>, Leipzig, 1907–50, vol. 30, p. 237) has been abandoned. On Aertgen Claesz. van Leyden’s drawings of the 1550s, see Winkler, pp. 124–28, Hilbert Lootsma in Thomas Ketelsen, Oliver Hahn, and Petra Kuhlmann-Hodick, eds., <em>Zeichnen im Zeitalter Bruegels: Die niederländischen Zeichnungen des 16. Jahrhunderts im Dresdner Kupferstich-Kabinett; Beiträge zu einer Typologie</em> (Cologne, 2011), pp. 146–51, and Judith Niessen in Yvonne Bleyerveld, Albert J. Elen, Judith Niessen, et al., <a href="http://collectie2008.boijmans.nl/en/onderzoek/nederlandse-tekeningen-15e-16e-eeuw/voorwoord/"><em>Netherlandish Drawings of the Fifteenth and Sixteenth Centuries in the Museum Boijmans Van Beuningen, Rotterdam: Artists born before 1581</em></a> (Rotterdam, 2012), under MB 1699 (PK). Consulted 22 April 2014.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-11"><sup><a href="#fnrev12796330645ef664249566b-11">11</a></sup> Karel G. Boon, “Rondom Aertgen,” <em>Miscellanea I. Q. van Regteren Altena</em> (1969): 55–60, and 271–76, pp. 57–58.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-12"><sup><a href="#fnrev12796330645ef664249566b-12">12</a></sup> For his dating of the series, see Karel G. Boon, <em>Netherlandish Drawings of the Fifteenth and Sixteenth Centuries: Catalogue of Dutch and Flemish Drawings in the Rijksmuseum</em> (The Hague, 1978), vol. 1, under cat. 323, p. 114.</p>
+
+<p class="footnote" id="fn12796330645ef664249566b-13"><sup><a href="#fnrev12796330645ef664249566b-13">13</a></sup> Hans Mielke, “[Review] <em>L’époque de Lucas de Leyde et Pierre Bruegel: Dessins des Anciens Pays-Bas: Collection Frits Lugt</em>. Exh. cat. by Karel G. Boon, Paris, Fondation Custodia, Frits Lugt Collection,” <em>Master Drawings</em>, vol. 23/24, no. 1 (1985–86): 75–90, p. 88.</p>
+              </div>
+                        </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, The Kate, Maurice R. and Melvin R. Seiden Special Purchase Fund in honor of Anne and John Straus, the Marian H. Phinney Fund, and the Paul J. Sachs Memorial Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2003</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2003.153</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>Paper support cut into three parts.</dd>
+                                                       </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Ulrich Thieme, Felix Becker, and Hans Vollmer, <em>Allgemeines Lexikon der Bildenden Künstler von der Antike bis zur Gegenwart</em>, E.A. Seemann Verlag (Leipzig, 1907-1950), vol. 30, p. 237, as Abraham Schöpfer
+                             </p>
+                                                      <p>
+                                              Arthur E. Popham, "Aert Claesz (1498-1562), (attributed to)", <em>Old Master Drawings</em> (December 1927), vol. 2, no. 7, pp. 37-39, pp. 37-39 as attributed to Aert Claesz
+                             </p>
+                                                      <p>
+                                              Arthur E. Popham, <em>Catalogue of Drawings by Dutch and Flemish Artists Preserved in the Department of Prints and Drawings in the British Museum; Vol. V, Dutch and Flemish Drawings of the XV and XVI Centuries</em>, British Museum (London, 1932), vol. 5, under cat. no. 2, p. 8, as Aert Claesz.
+                             </p>
+                                                      <p>
+                                              Friedrich Winkler, "Abraham Schöpfer oder Aertgen van Leyden?", <em>Jahrbuch der Preussischen Kunstsammlungen</em> (1935), vol. 56, pp. 117-30, pp. 118-19, 124, and 129-30, as Abraham Schöpfer
+                             </p>
+                                                      <p>
+                                              I. Q. van Regteren Altena, "Aertgen van Leyden", <em>Oud Holland</em> (1939), vol. 56, pp. 17-25, 74-87, 129-38, and 222-35, part 1, pp. 18 and 25, part 3, pp. 137-38, and part 4, pp. 224-5, no. 105, p. 232, and p. 235 (as Aertgen van Leyden)
+                             </p>
+                                                      <p>
+                                              Paul Wescher, "Aertgen van Leyden: Some Additions", <em>Wallraf-Richartz Jahrbuch</em> (1968), vol. 30, p. 220, as pseudo-Aertgen
+                             </p>
+                                                      <p>
+                                              Karel G. Boon, "Rondom Aertgen", <em>Miscellanea I.Q. van Regteren Altena</em>, Scheltema & Holkema (Amsterdam, 1969), pp. 55-60, 271-276, pp. 56-7 and 60
+                             </p>
+                                                      <p>
+                                              Karel G. Boon, <em>Netherlandish Drawings of the Fifteenth and Sixteenth Centuries. Catalogue of Dutch and Flemish Drawings in the Rijksmuseum, Volume II.</em>, Government Publishing Office (The Hague, 1978), vol. 2, part 1, under cat. no. 323, p. 114, as Hogenberg
+                             </p>
+                                                      <p>
+                                              Virginia Raguin, <em>Northern Renaissance Stained Glass; Continuity and Transformation</em>, exh. cat., Iris and B. Gerald Cantor Gallery, College of the Holy Cross (Warcester, Mass., 1987), cat. no. 22, p. 58, repr.
+                             </p>
+                                                      <p>
+                                              <em>Old Master Drawings</em>, auct. cat., Christie's, London (London, April 9, 1990), under lot 118, p. 85
+                             </p>
+                                                      <p>
+                                              Felice Stampfle, <em>Netherlandish Drawings of the Fifteenth and Sixteenth Centuries and Flemish Drawings of the Seventeenth and Eighteenth Centuries in the Pierpont Morgan Library</em>, Pierpont Morgan Library (New York, 1991), under cat. no. 76, p. 46
+                             </p>
+                                                      <p>
+                                              Karel G. Boon, <em>The Netherlandish and German Drawings of the XVth and XVIth Centuries of the Frits Lugt Collection</em> (Paris, France, 1992), vol. 1, under cat. no. 125, pp. 224 and 226 (n. 8)
+                             </p>
+                                                      <p>
+                                              <em>Old Master Drawings</em>, auct. cat. (July 10, 2002), under lot 104, p. 38
+                             </p>
+                                                      <p>
+                                              <em>Old Master & British Drawings including French Masterworks from the Dormeuil Collection</em>, auct. cat., Sotheby's, London (London, July 3, 2013), under lot 11, p. 19
+                             </p>
+                                                      <p>
+                                              Stijn Alsteens, [Review] William W. Robinson, with Susan Anderson, "Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums", <em>Master Drawings</em> (Winter 2015), LIII, no. 4, pp. 531-534, p. 534
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 47, pp. 167-169, repr. p. 168
+                             </p>
+                                                      <p>
+                                              "Hell through the Ages", <em>Index Magazine</em> (e-journal, February 12, 2018), https://www.harvardartmuseums.org/article/hell-through-the-ages, accessed March 13, 2018
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Northern Renaissance Art: Selected Works</em>, Busch-Reisinger Museum, Cambridge, 02/28/1984 - 04/08/1984
+                            </p>
+                          <p>
+                              <em>Prints and Drawings from the Time of Holbein and Breugel</em>, Busch-Reisinger Museum, Cambridge, 11/21/1985 - 01/12/1986
+                            </p>
+                          <p>
+                              <em>Northern Renaissance Stained Glass: Continuity and Transformations</em>, Iris and B. Gerald Cantor Gallery, College of the Holy Cross, Worcester, 02/02/1987 - 03/08/1987
+                            </p>
+                          <p>
+                              <em>32Q: 2540 Renaissance</em>, Harvard Art Museums, Cambridge, 12/12/2017 - 07/18/2018
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:74745_dynmc?width=200&height=200" alt="Christ's Descent Into Hell">
+                <span class="popup__artwork-info-id">2003.153</span>
+        <span class="popup__artwork-info-author">
+                                    Unidentified Artist
+                          Previously attributed to Nikolaus Hogenberg
+                              </span>
+        <span class="popup__artwork-info-title">Christ's Descent into Hell</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20312327%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312327">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312327" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Christ%27s+Descent+into+Hell+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312327" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/312327" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_22b5a85cefe3a68c7c7b239fc0613af4" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,723 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Album Containing Twenty Etchings of Scenes from the Opera "Il pomo d'oro" </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Album Containing Twenty Etchings of Scenes from the Opera &quot;Il pomo d&#039;oro&quot;" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/100317"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV206539_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Album Containing Twenty Etchings of Scenes from the Opera &quot;Il pomo d&#039;oro&quot;" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_12654526" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV206539_dynmc?width=3000&height=3000" data-initial-image-id="12654526" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?100317" data-behavior="add_to_collection tooltip" data-artwork="100317" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=100317&amp;image_id=INV206539" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/100317/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>M25792.1-20</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/34000>Matthäus Küsel</a>, German                                                                                                                                                                                                                                                                          (Augsburg 1629 - 1681 Augsburg)
+                                            <br>
+                                                                After <a href=https://www.harvardartmuseums.org/collections/person/59022>Lodovico Ottavio Burnacini</a>, Italian                                                                                                                                                                      (1636-1707)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Album Containing Twenty Etchings of Scenes from the Opera "Il pomo d'oro"</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Il Pomo d'Oro                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            album                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1667</dd>
+                                                                <dt>Culture</dt>
+                <dd>German</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/100317">https://hvrd.art/o/100317</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Etching</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>cover: 18.8 x 26 cm (7 3/8 x 10 1/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          label: album spine, brown ink, handwritten, Italian: "BURNACINI  /  SCENE  /  V.E XXXV. 20"  [the 'E' and '20' of the call number are raised above the line]
+                        </li>
+                                              <li data-a="2">
+                          inscription: inside front cover, brown ink, handwritten, Italian: "(1621-1702)  /  Matteo Küssel [underscored] - d' Augusta - fratello di Melchiorre un celebre incisore -  /  Il Matteo [underscored] fu intagliatore celebratissimo (n. nel 1621 - m. 1702 a Vienna) -  /  particolarmente a bulino. Fu nella corte Cesarea e Bavarica auteporte[?]  /  a molti altri excellenti professori. Intaglio' da Lodovico Burancini [underscored]  /  ingegnere di S.M.C alquante scene teatrali con recitanti e comparse -  /  - Gori Gandellini - Notizie degli intagliatori -"<br />
+Translation:<br />
+Matteo Küsse of Augusta - brother of Melchiorre, a celebrated engraver. Matteo was a most celebrated engraver (born 1621 - died 1702 in Vienna) -  /  particularly [for his work] with the burin. He was at the court of Cesarea and Bavarica [?]  /  to many other outstanding teachers [or instructors]. He engraved [designs] by Lodovico Burancini  / engineer of  S.M.C [?]  a good many theater scenes with actors and supernumeraries -  /  - Gori Gandellini - Notizie degli intagliatori -" [This last line indicates that the preceding information is from Gandellini's late-18th-century book "Notizie storiche degli intagliatori".]<br />
+
+                        </li>
+                                              <li data-a="2">
+                          inscription: first page of album, brown ink, handwritten, Italian: "Il Pomo d'Oro [all underscored]  /  Festa teatrale  /  musicale [underscored]  /  rappresentata in Vienna per la nascita del' Arciduca Ferdinando -  /  di  /  Francesco Sbarra [underscored]  /  (con tavole disegnate da Lod. Burnacini  /  ed incise da M. Küsel - ) -  /  [horizontal line]  /  -  Vienna d'Austria, Cosmerovio [?], 1667 . -  molto raro -  /  (V. nel Cat.  Burnacini Lod. [underscored] - scene [?] )"<br />
+Translation:  The Golden Apple  /  Theatrical festival  /  [a] musical  / performed in Vienna for the birth of the Archduke Ferdinand -  /  by  /  Francesco Sbarra  /  (with plates designed by Lod[ovico]. Burnacini  /  and engraved by M. Küsel - ) -  /  [horizontal line]  /  -  Vienna of Austria, Cosmerovio [presumably for Matteo Cosmerovio, printer to the court], 1667 . -  very rare -  /  (see in the cat[alogue]  Burnacini Lod[ovivo] - scenes [?] )<br />
+
+                        </li>
+                                              <li data-a="2">
+                          watermark: first endpage (with handwritten title); left side, one-third down from top edge, paper: Viewed from the recto: 'CB' in script letters above a horizontal stylized tree branch with symmetric leaf patterns, all balanced on a concave mount or fulcrum
+                        </li>
+                                              <li data-a="2">
+                          watermark: second endpage; upper left corner, paper: Viewed from the verso: the letter 'A' centered above the letters 'H' and 'F' ; each letter with rounded serifs or other decorative flourishes
+                        </li>
+                                              <li data-a="2">
+                          watermark: second endpage, near the center of the page, paper: Viewed from the verso: a robust, stylized bird facing right, perhaps holding a leaved branch in its claws
+                        </li>
+                                              <li data-a="2">
+                          watermark: penultimate endpage, near the center, paper: Viewed from the recto: three six-pointed stars (one above two) encircled by a wavy line. This mark is similar to Heawood 3884 (within a circle, three six-pointed stars [two above one], with the initials 'C C'), attributed to Rome, 1646.
+                        </li>
+                                              <li data-a="2">
+                          inscription: penultimate endpage, beginning at top left corner, brown ink, handwritten, Italian: "10 marzo 1766 [year underscored] impegnato da via cesseo [?] [illegible; a seller's price code?]"
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Anne (Nancy) M. and Paul S. Morgan in honor of James Cuno</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2002</dd>
+            
+            <dt>Object Number</dt>
+            <dd>M25792.1-20</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/93087">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206554_dynmc?width=3000&height=3000" alt="Theater Of Austrian Glory">
+                                    <span class="related-artwork__obj">M25792.13</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Theater of Austrian Glory</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/93088">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206560_dynmc?width=3000&height=3000" alt="Kingdom Of Jove With The Banquet Of The Gods">
+                                    <span class="related-artwork__obj">M25792.19</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Kingdom of Jove with the Banquet of the Gods</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/93089">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206561_dynmc?width=3000&height=3000" alt="Kingdom Of Pluto">
+                                    <span class="related-artwork__obj">M25792.20</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Kingdom of Pluto</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/93091">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206558_dynmc?width=3000&height=3000" alt="Courtyard Of The Palace Of Paris">
+                                    <span class="related-artwork__obj">M25792.17</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Courtyard of the Palace of Paris</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98393">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206546_dynmc?width=3000&height=3000" alt="Cavern Of Aeolus">
+                                    <span class="related-artwork__obj">M25792.7</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Cavern of Aeolus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98394">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206547_dynmc?width=3000&height=3000" alt="Marsh Of Triton">
+                                    <span class="related-artwork__obj">M25792.8</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Marsh of Triton</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98395">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206555_dynmc?width=3000&height=3000" alt="Atrium Of The Palace Of Venus">
+                                    <span class="related-artwork__obj">M25792.14</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Atrium of the Palace of Venus</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98396">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206556_dynmc?width=3000&height=3000" alt="Arsenal Of Mars">
+                                    <span class="related-artwork__obj">M25792.15</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Arsenal of Mars</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98397">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206557_dynmc?width=3000&height=3000" alt="Pallas' Temple In Athens">
+                                    <span class="related-artwork__obj">M25792.16</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Pallas' Temple in Athens</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98422">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206552_dynmc?width=3000&height=3000" alt="Seaport">
+                                    <span class="related-artwork__obj">M25792.9</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Seaport</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98423">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206550_dynmc?width=3000&height=3000" alt="Drill Ground">
+                                    <span class="related-artwork__obj">M25792.10</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Drill Ground</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/98424">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206553_dynmc?width=3000&height=3000" alt="Amphitheater">
+                                    <span class="related-artwork__obj">M25792.12</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Amphitheater</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100197">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206542_dynmc?width=3000&height=3000" alt="Air Goddess With The Milky Way And The Sphere Of Fire">
+                                    <span class="related-artwork__obj">M25792.3</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Air Goddess with the Milky Way and the Sphere of Fire</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100198">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206551_dynmc?width=3000&height=3000" alt="Fortress Of Mars">
+                                    <span class="related-artwork__obj">M25792.11</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Fortress of Mars</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100318">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206541_dynmc?width=3000&height=3000" alt="Woods Of Ida">
+                                    <span class="related-artwork__obj">M25792.2</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Woods of Ida</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100319">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206559_dynmc?width=3000&height=3000" alt="Pleasure Garden">
+                                    <span class="related-artwork__obj">M25792.18</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Pleasure Garden</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100554">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206540_dynmc?width=3000&height=3000" alt="Mouth Of Hell">
+                                    <span class="related-artwork__obj">M25792.1</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Mouth of Hell</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100555">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206543_dynmc?width=3000&height=3000" alt="Sea">
+                                    <span class="related-artwork__obj">M25792.4</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Sea</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100556">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206544_dynmc?width=3000&height=3000" alt="Square Of The Castle Of Mars">
+                                    <span class="related-artwork__obj">M25792.5</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Square of the Castle of Mars</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/100557">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206545_dynmc?width=3000&height=3000" alt="Valley With The River Xanto">
+                                    <span class="related-artwork__obj">M25792.6</span>
+                                      <h4 class="related-artwork__artist">Matthäus Küsel</h4>
+                                                        <h3 class="related-artwork__title">Valley with the River Xanto</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV206539_dynmc?width=200&height=200" alt="Album Containing Twenty Etchings Of Scenes From The Opera "il Pomo D'oro"">
+                <span class="popup__artwork-info-id">M25792.1-20</span>
+        <span class="popup__artwork-info-author">
+                                    Matthäus Küsel
+                          After Lodovico Ottavio Burnacini
+                              </span>
+        <span class="popup__artwork-info-title">Album Containing Twenty Etchings of Scenes from the Opera "Il pomo d'oro"</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20100317%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F100317">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F100317" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Album+Containing+Twenty+Etchings+of+Scenes+from+the+Opera+%22Il+pomo+d%27oro%22+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F100317" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/100317" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_0797998e7a0570b04818cb574cba67c9" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

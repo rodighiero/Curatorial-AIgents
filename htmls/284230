@@ -1,0 +1,1320 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections My Book </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections My Book" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/284230"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC101044_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" My Book" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18772672" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC101044_dynmc?width=3000&height=3000" data-initial-image-id="18772672" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?284230" data-behavior="add_to_collection tooltip" data-artwork="284230" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=284230&amp;image_id=DDC101044" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/284230/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC101044">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC101044_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Mary Georgiana Caroline Cecil Filmer"  title="My Book" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18772672" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101044_dynmc?width=125&height=125" alt="My Book">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC101042">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC101042_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Mary Georgiana Caroline Cecil Filmer"  title="My Book" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18772670" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101042_dynmc?width=125&height=125" alt="My Book">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>P1982.359</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/34851>Mary Georgiana Caroline Cecil Filmer</a>, British                                                                                                                                                                      (1838-1903)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>My Book</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Photographs</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            album                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1862</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Europe, United Kingdom                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/284230">https://hvrd.art/o/284230</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leather bound album with metal clasp and blue silk endpapers, albumen silver prints, watercolor, gold paint, brown ink, and graphite</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Albumen silver print</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>actual: 30.5 x 24.9 cm (12 x 9 13/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Seiden & de Cuevas, Inc., New York, New York, purchased from Christie's, 1978, Gift to the Fogg Art Museum, 1982. on Long Term Loan to the Fogg Art Museum from 1978 to 1982<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Purchase through the generosity of Melvin R. Seiden</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>P1982.359</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317482">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101019_dynmc?width=3000&height=3000" alt="Untitled (Verso: Albumen Silver Print Carte De Visite Photograph, Full-Length Of Woman, Right Hand Resting On Back Of Chair, Labeled Phatty)">
+                                    <span class="related-artwork__obj">P1982.359.6</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (verso: albumen silver print carte de visite photograph, full-length of woman, right hand resting on back of chair, labeled Phatty)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317483">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101020_dynmc?width=3000&height=3000" alt="Untitled (Watercolor Drawing, Loose In Album, Once Glued Over An Albumen Silver Print Of Lady Mary Filmer (P1982.359.7B) Mounted To Page With Metallic Paint Decoration With Inscription)">
+                                    <span class="related-artwork__obj">P1982.359.7.A</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (watercolor drawing, loose in album, once glued over an albumen silver print of Lady Mary Filmer (P1982.359.7B) mounted to page with metallic paint decoration with inscription)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317484">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101005_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs Clockwise From Top Left, Mrs. Bulkley; Hon. Catherine Stonor; Lady Diana Beauclerk; Miss Towneley; Center, Miss Lydia Hibbert)">
+                                    <span class="related-artwork__obj">P1982.359.8</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs clockwise from top left, Mrs. Bulkley; Hon. Catherine Stonor; Lady Diana Beauclerk; Miss Towneley; center, Miss Lydia Hibbert)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317485">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101016_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Full Length Of Man Standing Holding Crop Or Whip(?) In Right Hand, Left Hand On Back Of Chair With Hat On Seat Of Chair; Lord Henry Paget; Captain Ewart; Center, Mr. L. Dawson Damer)">
+                                    <span class="related-artwork__obj">P1982.359.9</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, full length of man standing holding crop or whip(?) in right hand, left hand on back of chair with hat on seat of chair; Lord Henry Paget; Captain Ewart; center, Mr. L. Dawson Damer)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317486">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100934_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Mrs. Mcgald; Mrs. C. Fox Webster; Mrs. H. Trelawny; Hon. Mrs. Carnegie; Center, Mr. Teedcroft)">
+                                    <span class="related-artwork__obj">P1982.359.10</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Mrs. McGald; Mrs. C. Fox Webster; Mrs. H. Trelawny; Hon. Mrs. Carnegie; center, Mr. Teedcroft)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317487">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100935_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Top Left, Name Illegible, Full Length Of Man Standing, Right Hand Resting On Cabinet, Left Hand In Trouser Pocket; Viscount Malden; Honorable Augustus Sandys; Major Alison; Center, Viscountess Malden)">
+                                    <span class="related-artwork__obj">P1982.359.11</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from top left, name illegible, full length of man standing, right hand resting on cabinet, left hand in trouser pocket; Viscount Malden; Honorable Augustus Sandys; Major Alison; center, Viscountess Malden)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317488">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100936_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Top Left, Mrs. De Vere Beauclerk; The Lady Stafford; Miss Joan Williams; Miss Williams; Center, Lady Mary Stanhope)">
+                                    <span class="related-artwork__obj">P1982.359.12</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from top left, Mrs. De Vere Beauclerk; The Lady Stafford; Miss Joan Williams; Miss Williams; center, Lady Mary Stanhope)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317489">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100937_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Top Left, Hon. Henniker Major; Horatio Hood; Lord Arthur Hill; Hon. Augustus Sandys; Center, Viscount Holmesdale)">
+                                    <span class="related-artwork__obj">P1982.359.13</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from top left, Hon. Henniker Major; Horatio Hood; Lord Arthur Hill; Hon. Augustus Sandys; center, Viscount Holmesdale)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317490">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100938_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Top Left, Earl Of Scarborough; Countess Of Scarborough; Countess De Piersjoy (With Dog); Earl Of Mountcharles; Center, Lady Sophia Pelham)">
+                                    <span class="related-artwork__obj">P1982.359.14</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from top left, Earl of Scarborough; Countess of Scarborough; Countess de Piersjoy (with dog); Earl of Mountcharles; center, Lady Sophia Pelham)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317491">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100939_dynmc?width=3000&height=3000" alt="Untitled (The Honorable Augustus Sandys (1840-1904) And "colleen")">
+                                    <span class="related-artwork__obj">P1982.359.15</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (The Honorable Augustus Sandys (1840-1904) and "Colleen")</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317492">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100940_dynmc?width=3000&height=3000" alt="Untitled (Mrs. George Ferguson, Seated, Holding Infant)">
+                                    <span class="related-artwork__obj">P1982.359.16</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Mrs. George Ferguson, seated, holding infant)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317493">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100941_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Clockwise From Upper Left, Viscountess Holmesdale; Viscount Holmesdale; Lady Louisa Cornwallis; Lady Elizabeth Cornwallis)">
+                                    <span class="related-artwork__obj">P1982.359.17</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, clockwise from upper left, Viscountess Holmesdale; Viscount Holmesdale; Lady Louisa Cornwallis; Lady Elizabeth Cornwallis)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317494">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100942_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Honorable Miss Cadogan; Lord Camoys; Honorable Harriet Stonor; Captain (?); Center, Major Alison)">
+                                    <span class="related-artwork__obj">P1982.359.18</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Honorable Miss Cadogan; Lord Camoys; Honorable Harriet Stonor; Captain (?); center, Major Alison)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317495">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100943_dynmc?width=3000&height=3000" alt="Untitled (Three Photographs, From Top Of Page, Lady Mary Filmer; Group Photograph, Mrs. Marshall, Mrs. Radclyffe, Lady Agnes Murray, Lady Filmer, Charles Radclyffe, Major Alison, Capt. Marshall; Lady Agnes Murray)">
+                                    <span class="related-artwork__obj">P1982.359.19</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (three photographs, from top of page, Lady Mary Filmer; group photograph, Mrs. Marshall, Mrs. Radclyffe, Lady Agnes Murray, Lady Filmer, Charles Radclyffe, Major Alison, Capt. Marshall; Lady Agnes Murray)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317496">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100944_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Top Left, Major Alison; Captain Marshall; Mrs. Charles Spencer Lennox; Charles Hanbury Kincaid Lennox; Center, Honorable Charles Hanbury)">
+                                    <span class="related-artwork__obj">P1982.359.20</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from top left, Major Alison; Captain Marshall; Mrs. Charles Spencer Lennox; Charles Hanbury Kincaid Lennox; center, Honorable Charles Hanbury)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317497">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100945_dynmc?width=3000&height=3000" alt="Untitled (View Of East Sutton Park, Staplehurst, Filmer Family Seat With Painted Family Crest And Motto)">
+                                    <span class="related-artwork__obj">P1982.359.21</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (view of East Sutton Park, Staplehurst, Filmer family seat with painted family crest and motto)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317498">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100946_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Top Left, Mr. Montague Guest (Top Left And Top Right Photographs); Mr. Ogilvy; Viscount Mahon; Center, Honorable Edward Stanhope)">
+                                    <span class="related-artwork__obj">P1982.359.22</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from top left, Mr. Montague Guest (top left and top right photographs); Mr. Ogilvy; Viscount Mahon; center, Honorable Edward Stanhope)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317499">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100947_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Clockwise From Upper Left, Honorable Augustus Sandys (1840-1904); Augustus Sandys With Sir Edmund Filmer (1835-1886); Mr. Jury; Mr. A. Vivian)">
+                                    <span class="related-artwork__obj">P1982.359.23</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, clockwise from upper left, Honorable Augustus Sandys (1840-1904); Augustus Sandys with Sir Edmund Filmer (1835-1886); Mr. Jury; Mr. A. Vivian)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317500">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100948_dynmc?width=3000&height=3000" alt="Untitled (View Of East Sutton Park, Staplehurst, Filmer Family Seat)">
+                                    <span class="related-artwork__obj">P1982.359.24</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (view of East Sutton Park, Staplehurst, Filmer family seat)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317501">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100949_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Mr. F. Vernon; Anthony Hamond; Sir Hamilton (?); Earl Of Eglinton; In Center "mapa In Déshabile")">
+                                    <span class="related-artwork__obj">P1982.359.25</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Mr. F. Vernon; Anthony Hamond; Sir Hamilton (?); Earl of Eglinton; in center "Mapa in déshabile")</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317502">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100950_dynmc?width=3000&height=3000" alt="Untitled (Single Photograph Labeled Bunny, Mickie And Beauty, Woman Standing In Center Of Photograph, Left Hand On Shoulder Of Boy Holding Rifle, Dog Sitting Up In Chair To Left)">
+                                    <span class="related-artwork__obj">P1982.359.26</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (single photograph labeled Bunny, Mickie and Beauty, woman standing in center of photograph, left hand on shoulder of boy holding rifle, dog sitting up in chair to left)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317503">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100951_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Top, Witley Court; Oval In Center, Rosa; Bottom Left, Sally; Center, Mama And Bunnie; Bottom Right, Foxie)">
+                                    <span class="related-artwork__obj">P1982.359.27</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, top, Witley Court; oval in center, Rosa; bottom left, Sally; center, Mama and Bunnie; bottom right, Foxie)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317504">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100952_dynmc?width=3000&height=3000" alt="Untitled (Lord George Hill (1801-1879))">
+                                    <span class="related-artwork__obj">P1982.359.28</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Lord George Hill (1801-1879))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317505">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100953_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Clockwise From Upper Left, Colonel Murray; Lady Agnes(?) Murray, Lady Adela Hall Or Hale; Lady Eleanor Hall Or Hale)">
+                                    <span class="related-artwork__obj">P1982.359.29</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, clockwise from upper left, Colonel Murray; Lady Agnes(?) Murray, Lady Adela Hall or Hale; Lady Eleanor Hall or Hale)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317506">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100954_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Lord Berkeley Paget; Mrs. Erskine Of Cardels(?) With Infant; Alfred De Rothschild, Esq.; Full-Length Portrait Of Unidentified Woman; Center, Miss Blanche (?))">
+                                    <span class="related-artwork__obj">P1982.359.30</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Lord Berkeley Paget; Mrs. Erskine of Cardels(?) with infant; Alfred de Rothschild, Esq.; full-length portrait of unidentified woman; center, Miss Blanche (?))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317507">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100955_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Sir Archibald Hope; Lady Hope; Lady Edwin Hill; Mrs. Goff; Center, Viscountess Holmesdale)">
+                                    <span class="related-artwork__obj">P1982.359.31</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Sir Archibald Hope; Lady Hope; Lady Edwin Hill; Mrs. Goff; center, Viscountess Holmesdale)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317508">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100956_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Lord Berkeley Paget; Alfred De Rothschild; Col. Marshall; Lord Dunmore (With Dog); Center, Lord Sudeley)">
+                                    <span class="related-artwork__obj">P1982.359.32</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Lord Berkeley Paget; Alfred de Rothschild; Col. Marshall; Lord Dunmore (with dog); center, Lord Sudeley)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317509">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100957_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Clockwise From Upper Left, Miss E. Ferguson; Miss G. Ferguson; Miss Ferguson; Mr. Wm Hood R.n.)">
+                                    <span class="related-artwork__obj">P1982.359.33</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, clockwise from upper left, Miss E. Ferguson; Miss G. Ferguson; Miss Ferguson; Mr. Wm Hood R.N.)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317510">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100958_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Lady Alfred Murray; Lady E. Bute; Lady Mary Marsham; Mrs. Mydelton Biddulph; Center, Lord Sudeley)">
+                                    <span class="related-artwork__obj">P1982.359.34</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Lady Alfred Murray; Lady E. Bute; Lady Mary Marsham; Mrs. Mydelton Biddulph; center, Lord Sudeley)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317511">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100959_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Miss Hood; Miss Chetwynd; Lydia Hibbert And Catherine Stonor; Minnie Bertie; Center, Miss Fellows)">
+                                    <span class="related-artwork__obj">P1982.359.35</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Miss Hood; Miss Chetwynd; Lydia Hibbert and Catherine Stonor; Minnie Bertie; center, Miss Fellows)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317512">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100960_dynmc?width=3000&height=3000" alt="Untitled (Page Inscribed "1863" Between The Top Two Photographs; Five Photographs, Mr. Wilson Patten, 1St Life Guards; Mrs. Wilson Patten; Lt. Colonel & Mrs. Ferguson Of Pitfour; The Viscountess Holmesdale; Center, Captain Ewart, 2Nd Life Guards)">
+                                    <span class="related-artwork__obj">P1982.359.36</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (page inscribed "1863" between the top two photographs; five photographs, Mr. Wilson Patten, 1st Life Guards; Mrs. Wilson Patten; Lt. Colonel & Mrs. Ferguson of Pitfour; The Viscountess Holmesdale; center, Captain Ewart, 2nd Life Guards)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317513">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100961_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Clockwise From The Top Center, The Indian Hunter; Madame La Colonelle, 1863; The Young Guardsman At 9 Months. March/63; The Colonel In Canada. 1863)">
+                                    <span class="related-artwork__obj">P1982.359.37</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, clockwise from the top center, The Indian Hunter; Madame La Colonelle, 1863; The Young Guardsman at 9 months. March/63; The Colonel in Canada. 1863)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317514">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100962_dynmc?width=3000&height=3000" alt="Untitled (Three Photographs, Top, Group Photograph Taken At Pitfour, October 1862; Lower Left, Lady Mary Filmer; Lower Right, Lady Filmer With Infant, Possibly Edmund Beversham Filmer (1862-63))">
+                                    <span class="related-artwork__obj">P1982.359.38</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (three photographs, top, group photograph taken at Pitfour, October 1862; lower left, Lady Mary Filmer; lower right, Lady Filmer with infant, possibly Edmund Beversham Filmer (1862-63))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317515">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100963_dynmc?width=3000&height=3000" alt="Untitled (Pitfour - October 1863, Four Photographs, Clockwise From Top; Group Photograph, Lady Holmesdale, Miss Stapleton, Mrs. Pit Junior, Lady Filmer, Miss Hood; A. W. Hood; Julia Holmesdale; E. Eliot Adr.)">
+                                    <span class="related-artwork__obj">P1982.359.39</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Pitfour - October 1863, four photographs, clockwise from top; group photograph, Lady Holmesdale, Miss Stapleton, Mrs. Pit Junior, Lady Filmer, Miss Hood; A. W. Hood; Julia Holmesdale; E. Eliot Adr.)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317516">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100964_dynmc?width=3000&height=3000" alt="Untitled (Pitfour - 1863, Two Photographs, Top, Lady Harriet Fletcher, 1863); Center, Mary Hood, Self (Lady Filmer), Kate Julia)">
+                                    <span class="related-artwork__obj">P1982.359.40</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Pitfour - 1863, two photographs, top, Lady Harriet Fletcher, 1863); center, Mary Hood, Self (Lady Filmer), Kate Julia)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317517">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100965_dynmc?width=3000&height=3000" alt="Untitled (Six Photographs, Clockwise From Upper Left, Lady Beattie Craven; Lady (?) Paget; Lady Blanche Craven; Augustus Sandys, Marquis (?); Viscount Hood)">
+                                    <span class="related-artwork__obj">P1982.359.41</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (six photographs, clockwise from upper left, Lady Beattie Craven; Lady (?) Paget; Lady Blanche Craven; Augustus Sandys, Marquis (?); Viscount Hood)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317518">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100966_dynmc?width=3000&height=3000" alt="Untitled (Simla, View From Above, Christchurch Steeple Right Of Center)">
+                                    <span class="related-artwork__obj">P1982.359.42</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Simla, view from above, Christchurch steeple right of center)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317519">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100967_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Sir Stuart Hardy; Mr. (?) A.p.c.; Captain Dalzell; Col. Merrit; Center, Col. Dysart(?) Cb))">
+                                    <span class="related-artwork__obj">P1982.359.43</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Sir Stuart Hardy; Mr. (?) A.P.C.; Captain Dalzell; Col. Merrit; center, Col. Dysart(?) CB))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317520">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100968_dynmc?width=3000&height=3000" alt="Untitled (Lady Filmer Seated In Center, To Her Right, Miss Murray, Standing Behind Lady Filmer, Lady Alfred Murray, Seated To Lady Filmer's Left, Lord Tyrone)">
+                                    <span class="related-artwork__obj">P1982.359.44</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Lady Filmer seated in center, to her right, Miss Murray, standing behind Lady Filmer, Lady Alfred Murray, seated to Lady Filmer's left, Lord Tyrone)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317521">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100969_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Honorable Edward Bourke; Lt. Col. F?; Colonel Frater Of C?; Pakenham Alderson Esq.; Center, Unidentified Man With Beard)">
+                                    <span class="related-artwork__obj">P1982.359.45</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Honorable Edward Bourke; Lt. Col. F?; Colonel Frater of C?; Pakenham Alderson Esq.; center, unidentified man with beard)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317522">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100970_dynmc?width=3000&height=3000" alt="Untitled (Six Photographs, Clockwise From Upper Left, Lord Graham; Lord Hillsborough; Hon. Crespigny Vivian; Victor Van De Wise(?); Captain Hood; Sir Samuel Hope(?))">
+                                    <span class="related-artwork__obj">P1982.359.46</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (six photographs, clockwise from upper left, Lord Graham; Lord Hillsborough; Hon. Crespigny Vivian; Victor van de Wise(?); Captain Hood; Sir Samuel Hope(?))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317523">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100971_dynmc?width=3000&height=3000" alt="Untitled (Seven Photographs, Clockwise From Upper Left, Col. Farquharson; Reginald Thynne Esq.; Col. Tower; Lord William Hay; Captain Speirs; Honorable Harris Temple; Center, Lord Vivian)">
+                                    <span class="related-artwork__obj">P1982.359.47</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven photographs, clockwise from upper left, Col. Farquharson; Reginald Thynne Esq.; Col. Tower; Lord William Hay; Captain Speirs; Honorable Harris Temple; center, Lord Vivian)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317524">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100972_dynmc?width=3000&height=3000" alt="Untitled (River View With Boat In Foreground, Building On Far Bank, Possibly Kashmir, Jhelum River)">
+                                    <span class="related-artwork__obj">P1982.359.48</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (river view with boat in foreground, building on far bank, possibly Kashmir, Jhelum River)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317525">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100973_dynmc?width=3000&height=3000" alt="Untitled (Group Photograph, Standing From Left To Right, Col. Murray; Lady Filmer; Col. Steele; Sir Edmund Filmer; Seated From Left To Right, Miss Murray; Major Alison;  Lady Agnes(?) Murray; Lord Tyrone; Verso: Eleven Names Not Related To The Group Photograph Recto)">
+                                    <span class="related-artwork__obj">P1982.359.49</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (group photograph, standing from left to right, Col. Murray; Lady Filmer; Col. Steele; Sir Edmund Filmer; seated from left to right, Miss Murray; Major Alison;  Lady Agnes(?) Murray; Lord Tyrone; verso: eleven names not related to the group photograph recto)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317526">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100974_dynmc?width=3000&height=3000" alt="Untitled (Seven Photographs, Clockwise From Upper Left, Lady Marion Loftus; Captain Anstruther; Hon. Mrs. Vivian; Earl Of Tyrone; Hon. Harry Bourke; Hon. Walter Harbold; Center, Alice Hale(?))">
+                                    <span class="related-artwork__obj">P1982.359.50</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven photographs, clockwise from upper left, Lady Marion Loftus; Captain Anstruther; Hon. Mrs. Vivian; Earl of Tyrone; Hon. Harry Bourke; Hon. Walter Harbold; center, Alice Hale(?))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317527">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100975_dynmc?width=3000&height=3000" alt="Untitled (Eight Photographs Arranged As Spokes To A Wheel Around Center Image Of Lady Fife; From Top Center, Captain Keith Frater; Captain Speirs; Captain Garforth; Lady Filmer; Hon. Emilie White; Hon. George Clive; Hon. Mrs. Dudley Ward, Center, Lady Fife [Photograph Of A Reproduction])">
+                                    <span class="related-artwork__obj">P1982.359.51</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (eight photographs arranged as spokes to a wheel around center image of Lady Fife; from top center, Captain Keith Frater; Captain Speirs; Captain Garforth; Lady Filmer; Hon. Emilie White; Hon. George Clive; Hon. Mrs. Dudley Ward, center, Lady Fife [photograph of a reproduction])</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317528">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100976_dynmc?width=3000&height=3000" alt="Untitled (Photograph Of Brahan Castle The Seat Of Stuart Mackenzie)">
+                                    <span class="related-artwork__obj">P1982.359.52</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (photograph of Brahan Castle the seat of Stuart Mackenzie)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317529">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100977_dynmc?width=3000&height=3000" alt="Untitled (Brahan - 1864)">
+                                    <span class="related-artwork__obj">P1982.359.53</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Brahan - 1864)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317530">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100978_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Peter; Violet; Charlie; Pinkie; Center, Alexandra, Princess Of Wales With Prince Albert Victor; Verso: Inscribed "lord Sandys")">
+                                    <span class="related-artwork__obj">P1982.359.54</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Peter; Violet; Charlie; Pinkie; center, Alexandra, Princess of Wales with Prince Albert Victor; verso: inscribed "Lord Sandys")</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317531">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100979_dynmc?width=3000&height=3000" alt="Untitled (Nine Photographs, Clockwise From Upper Left, Earl Of Tyrone; Sir ? And Lady Mackenzie; Captain Coventry; Countess Of Scarbrough; Earl Of Listowel; Miss Vivian An Lady A. Duff (With Two Unidentified Men); Mr. Oswald; Lady Abercromby; Center, Photograph Of Drawing Of Unidentified Sitter)">
+                                    <span class="related-artwork__obj">P1982.359.55</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (nine photographs, clockwise from upper left, Earl of Tyrone; Sir ? and Lady Mackenzie; Captain Coventry; Countess of Scarbrough; Earl of Listowel; Miss Vivian an Lady A. Duff (with two unidentified men); Mr. Oswald; Lady Abercromby; center, photograph of drawing of unidentified sitter)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317532">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100980_dynmc?width=3000&height=3000" alt="Untitled (Five Photographs, Clockwise From Upper Left, Mr. Vivian; Honorable Captain Edwards; Colonel Murray; Mr. Farquharson; Center, Honorable Mary Stuart)">
+                                    <span class="related-artwork__obj">P1982.359.56</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (five photographs, clockwise from upper left, Mr. Vivian; Honorable Captain Edwards; Colonel Murray; Mr. Farquharson; center, Honorable Mary Stuart)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317533">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100981_dynmc?width=3000&height=3000" alt="Untitled (Eight Photographs, Clockwise From Upper Left, Colonel Burnaby; Miss Mackenzie; Colonel Murray; Lady Alfred Murray; Lady ? Duff; Mrs. Farher(?) Of Howe; Miss Oswald; Mrs. Burnaby)">
+                                    <span class="related-artwork__obj">P1982.359.57</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (eight photographs, clockwise from upper left, Colonel Burnaby; Miss Mackenzie; Colonel Murray; Lady Alfred Murray; Lady ? Duff; Mrs. Farher(?) of Howe; Miss Oswald; Mrs. Burnaby)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317534">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100982_dynmc?width=3000&height=3000" alt="Untitled (Honorable ? Sandys)">
+                                    <span class="related-artwork__obj">P1982.359.58</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Honorable ? Sandys)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317535">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100983_dynmc?width=3000&height=3000" alt="Untitled (Seven Photographs Of Unidentified Sitters)">
+                                    <span class="related-artwork__obj">P1982.359.59</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven photographs of unidentified sitters)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317536">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100984_dynmc?width=3000&height=3000" alt="Untitled (One Photograph, Capt. Rowley; Sir Henry Ewart)">
+                                    <span class="related-artwork__obj">P1982.359.60</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (one photograph, Capt. Rowley; Sir Henry Ewart)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317538">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100986_dynmc?width=3000&height=3000" alt="Untitled (Countess Of Fife [From A Reproduction])">
+                                    <span class="related-artwork__obj">P1982.359.62</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Countess of Fife [from a reproduction])</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317539">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100987_dynmc?width=3000&height=3000" alt="Untitled (Six Photographs Of Unidentified Sitters)">
+                                    <span class="related-artwork__obj">P1982.359.63</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (six photographs of unidentified sitters)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317540">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100988_dynmc?width=3000&height=3000" alt="Untitled (Three Photographs, Top Center, Earl Of Fife [From A Reproduction]; Bottom Left, Miss Moncrieff; Bottom Right, Mrs. Farquharson Of Invercauld; Verso: Twelve Names Inscribed, Unrelated To Photographs On Recto Or Facing Page)">
+                                    <span class="related-artwork__obj">P1982.359.64</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (three photographs, top center, Earl of Fife [from a reproduction]; bottom left, Miss Moncrieff; bottom right, Mrs. Farquharson of Invercauld; verso: twelve names inscribed, unrelated to photographs on recto or facing page)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317541">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100989_dynmc?width=3000&height=3000" alt="Untitled (Scene In Courtyard, Viscountess Jocelyn; Lady Victoria Ashley; Viscount Jocelyn; Hon. Alice & Fred Jocelyn)">
+                                    <span class="related-artwork__obj">P1982.359.65</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (scene in courtyard, Viscountess Jocelyn; Lady Victoria Ashley; Viscount Jocelyn; Hon. Alice & Fred Jocelyn)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317542">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100990_dynmc?width=3000&height=3000" alt="Untitled (Honorable Katty Sandys)">
+                                    <span class="related-artwork__obj">P1982.359.66</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Honorable Katty Sandys)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317543">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100991_dynmc?width=3000&height=3000" alt="Untitled (Abergeldie, October 1865, Portraits Of Alexandra Of Denmark (1844-1925), Princess Of Wales [Later Queen Alexandra], And Albert Edward (1841-1910), Prince Of Wales [Later Edward Vii])">
+                                    <span class="related-artwork__obj">P1982.359.67</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Abergeldie, October 1865, portraits of Alexandra of Denmark (1844-1925), Princess of Wales [later Queen Alexandra], and Albert Edward (1841-1910), Prince of Wales [later Edward VII])</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317544">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100992_dynmc?width=3000&height=3000" alt="Untitled (Fourteen Photographs Clockwise From Upper Left, Hon. C. Carrington; Albert Edward (W/dog In Center); Capt. Lane Fox; Lady Royston; Maj. Teesdale; Mr. Holtzman; Marchioness Of Carmarthen; Lt. Col. Keppel; Hon. Mrs. E. Coke; Verso, Viscount Newry Seated On Terrace With View Of Grounds In The Background)">
+                                    <span class="related-artwork__obj">P1982.359.68</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (fourteen photographs clockwise from upper left, Hon. C. Carrington; Albert Edward (w/dog in center); Capt. Lane Fox; Lady Royston; Maj. Teesdale; Mr. Holtzman; Marchioness of Carmarthen; Lt. Col. Keppel; Hon. Mrs. E. Coke; verso, Viscount Newry seated on terrace with view of grounds in the background)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317545">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100993_dynmc?width=3000&height=3000" alt="Untitled (Eight Photos, Clockwise From Upper Left, Lady Alice Henniker; William Dyke, Esq; Hon. J. Henniker; Lady Audrey Townshend (W/bird); Lady Edith Ferguson (W/child); Hon. Emilie White; Augustus Lumley, Esq; Center, Hon Harry Bourke & Montague Guest)">
+                                    <span class="related-artwork__obj">P1982.359.69</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (eight photos, clockwise from upper left, Lady Alice Henniker; William Dyke, Esq; Hon. J. Henniker; Lady Audrey Townshend (w/bird); Lady Edith Ferguson (w/child); Hon. Emilie White; Augustus Lumley, Esq; center, Hon Harry Bourke & Montague Guest)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317546">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100995_dynmc?width=3000&height=3000" alt="Untitled (Eight Photographs, Clockwise From Upper Left, Mrs. Ferguson Of Pitfour; Colonel And Mrs. Marshall; Miss Howard; Lt. Colonel Ferguson Of Pitfour; Miss Baillie Cochrane; Viscountess Holmesdale; Viscount Holmesdale; Center, Hon. Seymour Egerton)">
+                                    <span class="related-artwork__obj">P1982.359.70</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (eight photographs, clockwise from upper left, Mrs. Ferguson of Pitfour; Colonel and Mrs. Marshall; Miss Howard; Lt. Colonel Ferguson of Pitfour; Miss Baillie Cochrane; Viscountess Holmesdale; Viscount Holmesdale; center, Hon. Seymour Egerton)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317547">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100996_dynmc?width=3000&height=3000" alt="Untitled (Seven Photos, Clockwise From Upper Left, Lady Constance Grosvenor; Hon. Rosa Sandys; Lady Alice Hill; Miss Lily Hibbert; Mrs. Biddulph [Reproduction W/highlighting]; Mrs. Keith Fraser, Center, Hon. Cecil Sandys; Verso: Graphite Inscript.)">
+                                    <span class="related-artwork__obj">P1982.359.71</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven photos, clockwise from upper left, Lady Constance Grosvenor; Hon. Rosa Sandys; Lady Alice Hill; Miss Lily Hibbert; Mrs. Biddulph [reproduction w/highlighting]; Mrs. Keith Fraser, center, Hon. Cecil Sandys; verso: graphite inscript.)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317548">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100997_dynmc?width=3000&height=3000" alt="Untitled (Group Photograph At Cumberland Lodge, C. 1868, Sitters Include Lady Mary Filmer; The Prince And Princess Of Wales; Viscount And Viscountess Bridport; Verso: Three Photos; Prince Of Wales, George, Duke Of Cambridge; Duke Of Mecklenburgh)">
+                                    <span class="related-artwork__obj">P1982.359.72</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (group photograph at Cumberland Lodge, c. 1868, sitters include Lady Mary Filmer; the Prince and Princess of Wales; Viscount and Viscountess Bridport; verso: three photos; Prince of Wales, George, Duke of Cambridge; Duke of Mecklenburgh)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317549">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100998_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Albert Edward And Alexandra, "park Lane" (Prince's Horse); Verso: Eight Photographs, Miss Hawley; Hon.mrs. (?) Hall; Lady Sophia (?); Lord Edw. Cavendish ; Lord Algernon E. Lennox; Lady Edw. Cavendish; Lady Alice (?), Lord (?)">
+                                    <span class="related-artwork__obj">P1982.359.73</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, Albert Edward and Alexandra, "Park Lane" (Prince's horse); verso: eight photographs, Miss Hawley; Hon.Mrs. (?) Hall; Lady Sophia (?); Lord Edw. Cavendish ; Lord Algernon E. Lennox; Lady Edw. Cavendish; Lady Alice (?), Lord (?)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317550">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100999_dynmc?width=3000&height=3000" alt="Untitled (Seven Photographs, Clockwise From Upper Left, Alfred (2 Photos); Albert Edward; Unidentifed Man, Seated Holding Book; Unidentified Man In Uniform; Edward Saxe-Weimar, Center, Augusta Of Saxe Weimar)">
+                                    <span class="related-artwork__obj">P1982.359.74</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven photographs, clockwise from upper left, Alfred (2 photos); Albert Edward; unidentifed man, seated holding book; unidentified man in uniform; Edward Saxe-Weimar, center, Augusta of Saxe Weimar)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317551">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101000_dynmc?width=3000&height=3000" alt="Untitled (Four Photographs, Colonel Bathurst; Sir E. Filmer; Mr. (?) Biddulph; Captain Lane Fox; Center Photograph Of Captain Stewart Is Missing)">
+                                    <span class="related-artwork__obj">P1982.359.75</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (four photographs, Colonel Bathurst; Sir E. Filmer; Mr. (?) Biddulph; Captain Lane Fox; center photograph of Captain Stewart is missing)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317552">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101001_dynmc?width=3000&height=3000" alt="Untitled (Nine Photographs, Clockwise From Top Left, Hon. Rosa Sandys; Sir E. Filmer; Mrs. (?) Biddulph; Hon. Cecil Sandys; Hon. E. Sandys; Hon. Sally Sandys; Colonel Bathurst; Hon. M. Sandys; Center Hon. Mrs. Capel; Verso: "punch" The Pony With Unidentified Boy Mounted, And Unidentifed Man Holding Reins)">
+                                    <span class="related-artwork__obj">P1982.359.76</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (nine photographs, clockwise from top left, Hon. Rosa Sandys; Sir E. Filmer; Mrs. (?) Biddulph; Hon. Cecil Sandys; Hon. E. Sandys; Hon. Sally Sandys; Colonel Bathurst; Hon. M. Sandys; Center Hon. Mrs. Capel; verso: "Punch" the pony with unidentified boy mounted, and unidentifed man holding reins)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317553">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101002_dynmc?width=3000&height=3000" alt="Untitled (Group Photograph Taken Out Of Doors With Prince Albert Edward, Princess Alexandra And Ten Unidentified People)">
+                                    <span class="related-artwork__obj">P1982.359.77</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (group photograph taken out of doors with Prince Albert Edward, Princess Alexandra and ten unidentified people)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317554">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101003_dynmc?width=3000&height=3000" alt="Untitled (Sketches In Graphite; Verso: Eleven Photographs Various Sitters, Five Trimmed To Oval, Clockwise From Upper Left, Lord Sandys; Lord George Paget; Hon. Charles Montague; Col. Leo Seymour; Lord Algernon Gordon Lennox; Col. Philip Smith; Center, Four Small Ovals Of Countess Of Listowel, Large Oval In Center, Name Is Indecipherable)">
+                                    <span class="related-artwork__obj">P1982.359.78</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (sketches in graphite; verso: eleven photographs various sitters, five trimmed to oval, clockwise from upper left, Lord Sandys; Lord George Paget; Hon. Charles Montague; Col. Leo Seymour; Lord Algernon Gordon Lennox; Col. Philip Smith; center, four small ovals of Countess of Listowel, large oval in center, name is indecipherable)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317555">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101004_dynmc?width=3000&height=3000" alt="Untitled (Six Photographs, Center Trimmed To Oval, Clockwise From Upper Left, Johan Prince Of Glucksburg; Alexandra, Princess Of Wales; Albert Edward, Prince Of Wales; Three Unidentified Children; Verso: Nine Photographs, Clockwise From Upper Left, Colonel White; Edward Hussey, Esq.; Sir Hope Palmer; Hon. Flora Hood; Lady Cotterell; Lady Constance Howard; Mrs. Dalrymple; Lady Susan Vane Tempest; Center, Lady Edwin Hill Sandys)">
+                                    <span class="related-artwork__obj">P1982.359.79</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (six photographs, center trimmed to oval, clockwise from upper left, Johan Prince of Glucksburg; Alexandra, Princess of Wales; Albert Edward, Prince of Wales; three unidentified children; verso: nine photographs, clockwise from upper left, Colonel White; Edward Hussey, Esq.; Sir Hope Palmer; Hon. Flora Hood; Lady Cotterell; Lady Constance Howard; Mrs. Dalrymple; Lady Susan Vane Tempest; center, Lady Edwin Hill Sandys)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317556">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101006_dynmc?width=3000&height=3000" alt="Untitled (Watercolor Drawing Inscribed "gaed 1868" Surround By Painted Ribbon Motif With Ovals (Some W/photographs) Incorporated; Clockwise From Top Center, Earl And Countess Of Fife; Lady A. Duff; Mr. A. Hope; Viscount Holmesdale; Lady Mary Filmer; Sir Edmund Filmer; Viscountess Holmesdale; Lady A. Duff; Lady A. Duff; Verso: Photograph, Group Of 12 Unidentified People Seated On Steps In Front Of Building, Woman On Far Left Holding Dog)">
+                                    <span class="related-artwork__obj">P1982.359.80</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (watercolor drawing inscribed "GAED 1868" surround by painted ribbon motif with ovals (some w/photographs) incorporated; clockwise from top center, Earl and Countess of Fife; Lady A. Duff; Mr. A. Hope; Viscount Holmesdale; Lady Mary Filmer; Sir Edmund Filmer; Viscountess Holmesdale; Lady A. Duff; Lady A. Duff; verso: photograph, group of 12 unidentified people seated on steps in front of building, woman on far left holding dog)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317557">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101007_dynmc?width=3000&height=3000" alt="Untitled (Countess Of Fife, Seated, Holding Dog. Verso; H.r.h. Princess Louise Of Lorne)">
+                                    <span class="related-artwork__obj">P1982.359.81</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Countess of Fife, seated, holding dog. Verso; H.R.H. Princess Louise of Lorne)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317558">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101008_dynmc?width=3000&height=3000" alt="Untitled (Seven Albumen Silver Prints, Center Trimmed To Oval, Clockwise From Top Center, Mar Lodge, 1868; Countess Of Yarmouth; Lord Sandys; Lady Alexina Duff; ? Morton; Lady Alice Sandys; Center, Mrs. Marshall; Verso: Eight Albumen Silver Prints, Four Trimmed To Oval, Clockwise From Left, Viscount? Mrs. Musgrave(?); Earl Of Stradbroke; Colonel Tower; Lady Cecily Nevill; Captain Coventry(?); Cuthbert Jacklin(?))">
+                                    <span class="related-artwork__obj">P1982.359.82</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven albumen silver prints, center trimmed to oval, clockwise from top center, Mar Lodge, 1868; Countess of Yarmouth; Lord Sandys; Lady Alexina Duff; ? Morton; Lady Alice Sandys; center, Mrs. Marshall; verso: eight albumen silver prints, four trimmed to oval, clockwise from left, Viscount? Mrs. Musgrave(?); Earl of Stradbroke; Colonel Tower; Lady Cecily Nevill; Captain Coventry(?); Cuthbert Jacklin(?))</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317559">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101009_dynmc?width=3000&height=3000" alt="Untitled (Eleven Photographs Top Row, Left To Right, Mrs. Poole; Lady Emily Dyke(?); Miss Creighton(?); Miss (?); Center Row Left To Right, Viscount Holmesdale; Lord A. Gower; Col. Hawkes(?); Mr. Dyke (Photo Missing); Mrs. Buckeley; Viscount Macduff; C. Porter(?), Esq.; Countess Of Bective; Verso: Two Views Of The River Between Maidenhead And Cliveden, Dated 1871)">
+                                    <span class="related-artwork__obj">P1982.359.83</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (eleven photographs top row, left to right, Mrs. Poole; Lady Emily Dyke(?); Miss Creighton(?); Miss (?); center row left to right, Viscount Holmesdale; Lord A. Gower; Col. Hawkes(?); Mr. Dyke (photo missing); Mrs. Buckeley; Viscount MacDuff; C. Porter(?), Esq.; Countess of Bective; verso: two views of the river between Maidenhead and Cliveden, dated 1871)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317560">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101010_dynmc?width=3000&height=3000" alt="Untitled (Clockwise From Top Left, Capt. Hardy; Lady Buckhurst; Lord Albert Leverson Gower; Hon. Violet Sandys; Col. Marshall; Miss Chetwynd; Center, Miss Van Der Wise; Verso: Earl Of Yarmouth; Countess Of Yarmouth; Col. Gordon; Ctr. William Hood)">
+                                    <span class="related-artwork__obj">P1982.359.84</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (clockwise from top left, Capt. Hardy; Lady Buckhurst; Lord Albert Leverson Gower; Hon. Violet Sandys; Col. Marshall; Miss Chetwynd; center, Miss Van der Wise; verso: Earl of Yarmouth; Countess of Yarmouth; Col. Gordon; ctr. William Hood)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317561">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101011_dynmc?width=3000&height=3000" alt="Untitled (Seven Photographs, Clockwise From Top Left, Duchess Of Montrose?; Mrs. Poole; Countess Of Stradbroke; Sir Samuel Hayes; Richard (?); Lord Henry Paget; Center, Unidentified Woman On Horseback, Unidentified Man In Uniform At Horse's Head; Verso: Photograph Is Missing)">
+                                    <span class="related-artwork__obj">P1982.359.85</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (seven photographs, clockwise from top left, Duchess of Montrose?; Mrs. Poole; Countess of Stradbroke; Sir Samuel Hayes; Richard (?); Lord Henry Paget; center, unidentified woman on horseback, unidentified man in uniform at horse's head; verso: photograph is missing)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317562">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101012_dynmc?width=3000&height=3000" alt="Untitled (5 Photographs, Trimmed To Oval, Clockwise From Left, Countess Of Bective; Lady Otis Fitzgerald; Lady Constance Howard; Mrs. Marshall; Center, H.r.h. The Prince Of Wales; Verso:  Princess Alexandra; 9 Photographs Of Unidentified Children)">
+                                    <span class="related-artwork__obj">P1982.359.86</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (5 photographs, trimmed to oval, clockwise from left, Countess of Bective; Lady Otis Fitzgerald; Lady Constance Howard; Mrs. Marshall; center, H.R.H. the Prince of Wales; verso:  Princess Alexandra; 9 photographs of unidentified children)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317563">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101013_dynmc?width=3000&height=3000" alt="Untitled (Three Photographs, Clockwise From The Top, Countess Of Bective, Lady Olivia Taylour; Honorable Lady Filmer; Earl And Countess Of Shrewsbury; Verso: Sir Edmund Filmer, Bart.)">
+                                    <span class="related-artwork__obj">P1982.359.87</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (three photographs, clockwise from the top, Countess of Bective, Lady Olivia Taylour; Honorable Lady Filmer; Earl and Countess of Shrewsbury; verso: Sir Edmund Filmer, Bart.)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317564">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101014_dynmc?width=3000&height=3000" alt="Untitled (Honorable Lady Filmer, 1882; Verso: Lord Sandys)">
+                                    <span class="related-artwork__obj">P1982.359.88</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Honorable Lady Filmer, 1882; verso: Lord Sandys)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317565">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101015_dynmc?width=3000&height=3000" alt="Untitled (Viscountess Holmesdale; Verso: Marquess Of Abergavenny 1897)">
+                                    <span class="related-artwork__obj">P1982.359.89</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (Viscountess Holmesdale; verso: Marquess of Abergavenny 1897)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317566">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101017_dynmc?width=3000&height=3000" alt="Untitled (Two Photomechanical Reproductions Of The Late Marchioness Of Ailesbury; Verso: Dowager Lady Filmer; Sir Robert Filmer Bt.)">
+                                    <span class="related-artwork__obj">P1982.359.90</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (two photomechanical reproductions of the late Marchioness of Ailesbury; verso: Dowager Lady Filmer; Sir Robert Filmer Bt.)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/317567">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101018_dynmc?width=3000&height=3000" alt="Untitled (Group Photograph)">
+                                    <span class="related-artwork__obj">P1982.359.91</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (group photograph)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/324398">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101043_dynmc?width=3000&height=3000" alt="Untitled (Sheet Of Paper With Six Autographs Signed In Ink)">
+                                    <span class="related-artwork__obj">P1982.359.1.A</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (sheet of paper with six autographs signed in ink)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/324399">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101045_dynmc?width=3000&height=3000" alt="Lady Mary Filmer (1838-1903)">
+                                    <span class="related-artwork__obj">P1982.359.1.B</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Lady Mary Filmer (1838-1903)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/324400">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC100994_dynmc?width=3000&height=3000" alt="Untitled (Albumen Silver Print Of Lady Mary Filmer, Mounted To Page, P1982.359.7A Was Glued Over It)">
+                                    <span class="related-artwork__obj">P1982.359.7.B</span>
+                                      <h4 class="related-artwork__artist">Mary Georgiana Caroline Cecil Filmer</h4>
+                                                        <h3 class="related-artwork__title">Untitled (albumen silver print of Lady Mary Filmer, mounted to page, P1982.359.7A was glued over it)</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC101044_dynmc?width=200&height=200" alt="My Book">
+                <span class="popup__artwork-info-id">P1982.359</span>
+        <span class="popup__artwork-info-author">
+                                    Mary Georgiana Caroline Cecil Filmer
+                              </span>
+        <span class="popup__artwork-info-title">My Book</span>
+        <span class="popup__artwork-info-class">Photographs</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20284230%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F284230">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F284230" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=My+Book+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F284230" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/284230" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_99f1daf7f227f88f7048b57e6e2d91dd" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,855 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Benjamin Franklin (1706-1790) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Benjamin Franklin (1706-1790)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299815"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:21498_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Benjamin Franklin (1706-1790)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17357754" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:21498_dynmc?width=3000&height=3000" data-initial-image-id="17357754" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299815" data-behavior="add_to_collection tooltip" data-artwork="299815" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299815&amp;image_id=21498" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299815/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="21498">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:21498_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Robert Feke"  title="Benjamin Franklin (1706-1790)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17357754" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:21498_dynmc?width=125&height=125" alt="Benjamin Franklin (1706-1790)">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="21231">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS21231_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Robert Feke"  title="Benjamin Franklin (1706-1790)" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20673561" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS21231_dynmc?width=125&height=125" alt="Benjamin Franklin (1706-1790)">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>H47</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20029>Robert Feke</a>, American                                                                                                                                                                                                                                                                          (Oyster Bay, NY c. 1707 - c. 1752 Bermuda)
+                                            <br>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/11750>Benjamin Franklin</a>                                                                                                                                                                      (1706-1790)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Benjamin Franklin (1706-1790)</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1746</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: North America, United States                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299815">https://hvrd.art/o/299815</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>127 x 102 cm (50 x 40 3/16 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>John Franklin, Newport, RI; bequeathed to his wife, Elizabeth Gooch Hubbart Franklin,1756; bequeathed to her son (by her first marriage), Tuthill Hubbart, 1768; descended to his sister Elizabeth Hubbart (Mrs. Samuel Partridge), Boston, 1808; purchased from estate of Elizabeth Hubbart Partridge by Stephen Bean, 1814; to his wife, Susan Hubbart Bean (niece of Tuthill Hubbart); to her sister, Elizabeth Hubbart Sumner, 1828; to her husband, Dr. Thomas Waldron Sumner, Boston, 1839; sold by Sumner estate to Dr. John Collins Warren, Boston, 1849-1850; descended to his son, Dr. John Collins Warren Jr., 1856.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard University Portrait Collection, Bequest of Dr. John Collins Warren, 1856</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>H47</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              "List of Works in the New York Public Library by or relating to Benjamin Franklin", <em>Bulletin of the New York Public Library</em> (January-December 1906), vol. X, pp. 29-83, p. 58
+                             </p>
+                                                      <p>
+                                              Jared Sparks, <em>The works of Benjamin Franklin: containing several political and historical tracts not included in any former edition, and many letters, official and private, not hitherto published; with notes and a life of the author</em>, Childs & Peterson (1840), vol. 1, frontispiece
+                             </p>
+                                                      <p>
+                                              James Parton, <em>Life and Times of Benjamin Franklin</em>, Mason Brothers (Boston, MA, 1864), frontispiece
+                             </p>
+                                                      <p>
+                               Justin Winsor, <em>The Memorial History of Boston</em>, James R. Osgood & Co. (Boston, MA, 1881)
+                                            </p>
+                                                      <p>
+                                              John Thomas Scharf and Thompson Westcott, <em>History of Philadelphia, 1609-1994</em>, L. H. Everts & Co. II (Philadelphia, PA, 1884), vol. 1, p. 220, ill.
+                             </p>
+                                                      <p>
+                                              "Portraits of Benjamin Franklin", <em>The Pennsylvania Magazine of History and Biography</em> (July 1887), vol. XI, no. 2, pp. 173-74, p. 174
+                             </p>
+                                                      <p>
+                                              "Franklin Portraits", <em>Bulletin of the Boston Public Library</em> (July 1892), pp. 130-150, p. 146
+                             </p>
+                                                      <p>
+                                              Clarence Winthrop Bowen, ed., <em>History of the Centennial Celebration of the Inauguration of George Washington</em>, D. Appleton & Co. (New York, NY, 1892), p. 457, ill. pp. 464-65
+                             </p>
+                                                      <p>
+                                              "The Life Portraits of Benjamin Franklin", <em>McClure's Magazine</em> (January 1897), vol. VIII, no. 3, pp. 263-273, p. 264
+                             </p>
+                                                      <p>
+                                              William Garrott Brown, <em>A List of Portraits in the Various Buildings of Harvard University</em>, Harvard University Library (Cambridge, MA, 1898), p. 18
+                             </p>
+                                                      <p>
+                                              John Fiske, <em>The Dutch and Quaker Colonies in America, 2 vols.</em>, Houghton Mifflin Company (Boston, MA and New York, MY, 1899), vol. II, p. 307, ill.
+                             </p>
+                                                      <p>
+                                              Paul Leicester Ford, <em>The Many-Sided Franklin</em>, The Century Co. (New York, NY, 1899), frontispiece
+                             </p>
+                                                      <p>
+                                              Sydney George Fisher, <em>The True Benjamin Franklin</em>, J. B. Lippincott (1899), pp. 28-31, ill. 28-29
+                             </p>
+                                                      <p>
+                                              Lawrence Park, "A Portrait of Franklin by Robert Feke", <em>Art in America and Elsewhere</em> (December 1923), vol. 12, no. 1, pp. 28-32, pp. 28-32, ill.
+                             </p>
+                                                      <p>
+                                              Cuthbert Lee, <em>Early American Portrait Painters: The Fourteen Principal Earliest Native-born Painters</em>, Yale University Press (New Haven, CT, 1929), pp. 188-189
+                             </p>
+                                                      <p>
+                                              Henry Wilder Foote, <em>Robert Feke: Colonial Portrait Painter</em>, Harvard University Press (Cambridge, MA, 1930), pp. 67, pp. 151-154
+                             </p>
+                                                      <p>
+                                              "Feke's Portrait of Benjamin Franklin", <em>Harvard Alumni Bulletin</em> (Cambridge, MA, February 10, 1933), vol. XXXV, no. 18, pp. 508-09, ill. p. 508
+                             </p>
+                                                      <p>
+                                              Joseph Downs, "Benjamin Franklin and His Circle", <em>The Metropolitan Museum of Art Bulletin</em> (May 1936), vol. 31, no. 5, pp. 97-104, p. 99
+                             </p>
+                                                      <p>
+                                              The Metropolitan Museum of Art, <em>Benjamin Franklin and His Circle</em>, exh. cat., Plantin Press (New York, NY, 1936), pp. vii, 22-23, cat. 1, ill.
+                             </p>
+                                                      <p>
+                                              Laura M. Huntsinger, <em>Harvard Portraits: A Catalogue of Portrait Paintings at Harvard University</em>, ed. Alan Burroughs, Harvard University Press (Cambridge, MA, 1936), p. 59
+                             </p>
+                                                      <p>
+                                              Alan Burroughs, <em>Limners and Likenesses: Three Centuries of American Painting</em>, Harvard University Press (Cambridge, MA, 1936), p. 53, fig. 38
+                             </p>
+                                                      <p>
+                                              Carl van Doren, <em>Benjamin Franklin</em>, Viking Press (New York, NY, 1938), pp. 260, 794, ill. opp. p. 37
+                             </p>
+                                                      <p>
+                                              Mrs. Russell Hastings, "Some Franklin Memorabilia Emerges in Los Angeles", <em>Antiques</em> (November 1939), vol. XXVI, no. 5, pp. 222-226, p. 222, fig. 2
+                             </p>
+                                                      <p>
+                                              Historical Records Survey, Division of Professional and Service Projects, Works Progress Administration, <em>American Portraits, 1620-1825, found in Massachusetts, Volumes 1 and 2</em>, Historical Records Survey (Boston, MA, 1939), p. 153, cat. 800
+                             </p>
+                                                      <p>
+                                              Alan Burroughs, "Five Harvard Portraits", <em>Bulletin of the Fogg Art Museum</em>, Fogg Art Museum (Cambridge, MA, November 1941), vol. IX, no. 5, pp. 106-109, pp. 107-109, fig. 5
+                             </p>
+                                                      <p>
+                                              Alan Burroughs, <em>John Greenwood in America, 1745-1752: A Monograph With Notes and a Check List</em>, Addison Gallery of American Art (Andover, MA, 1943), pp. 35- 36, p. 65,  fig. 26, fig. h
+                             </p>
+                                                      <p>
+                                              <em>Washington, Lafayette, Franklin: Portraits, Books, Manuscripts, Prints, Memorabilia, for the Most Part from the Collections of the University</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1944), pp. 27, cat. 52, ill. opp. p. 27
+                             </p>
+                                                      <p>
+                                              United States Sesquicentennial Commission, <em>"Loan Exhibition of Portraits"</em> (Washington, DC, 1947), p. 808, no. 135
+                             </p>
+                                                      <p>
+                                              Roger Butterfield, <em>The American Past: A History of the United States from Concord to Hiroshima, 1775-1945</em>, Simon & Schuster (New York, NY, 1947), frontispiece
+                             </p>
+                                                      <p>
+                                              Frank N. Jones, "The Libraries of the Harvard Houses", <em>Harvard Library Bulletin</em>, Harvard University Library (Cambridge, MA, Autumn 1948), vol. II, no. 3, pp. 362-377, p. 364
+                             </p>
+                                                      <p>
+                                              E. Gordon Alderfer, <em>Northampton Heritage: The Story of An American County</em>, The Northampton County Historical and Genealogical Society (Easton, PA, 1953), p. 123, ill.
+                             </p>
+                                                      <p>
+                                              Richard Brandon Morris, "Benjamin Franklin's Grand Design", <em>American Heritage</em> (New York, NY, February 1956), pp. 4-7, ill. p. 4
+                             </p>
+                                                      <p>
+                                              Charles Coleman Sellers, "Catalogue of the Society's Exhibition of Portraits of Benjamin Franklin, January 17-April 20, 1956, <em>Proceedings of the American Philosophical Society</em>, American Philosophical Society (August 31, 1956), vol. 100, no. 4, pp. 369-84, p. 369
+                             </p>
+                                                      <p>
+                                              Carl Bridenbaugh, "America's First Man of the World", <em>The New York Times Book Review</em> (November 22, 1959), p. 1, p. 1, ill.
+                             </p>
+                                                      <p>
+                                              John Dos Passos, <em>Prospects of a Golden Age</em>, Prentice-Hall (New York, 1959), ill. p. 80-81
+                             </p>
+                                                      <p>
+                                              Benjamin Franklin, <em>The Papers of Benjamin Franklin, 9 vols.</em>, ed. Leonard, W. Labaree, Yale University Press (New Haven, CT, 1959), vol. II, xiii, frontispiece
+                             </p>
+                                                      <p>
+                                              Charles Coleman Sellers, <em>Benjamin Franklin in Portraiture</em>, Yale University Press (New Haven, CT, 1962), pp. 24-45, p. 281
+                             </p>
+                                                      <p>
+                                              Benjamin Franklin, <em>The Benjamin Franklin Papers</em>, ed. Frank Donovan, Dodd, Mead and Co. (New York, NY, 1962), ill.opp. p. 16
+                             </p>
+                                                      <p>
+                                              Richard Brandon Morris, <em>The Life History of the United States: Vol. 1: The New World</em>, Time Inc. (New York, NY, 1963), p. 132
+                             </p>
+                                                      <p>
+                                              Stephen Hess, <em>The Ungentlemanly Art: A History of American Political Cartoons</em>, The Macmillan Company (New York, NY, 1968), p. 182, ill.
+                             </p>
+                                                      <p>
+                                              Louise Todd Ambler, <em>Early Science at Harvard: Innovators and Their Instruments, 1765 - 1865</em>, exh. cat., Fogg Art Museum (Cambridge, MA, December 1969-January 1970), pp. 12-13, 75 cat. 11, ill.
+                             </p>
+                                                      <p>
+                                              R. Peter Mooz, "Robert Feke: The Philadelphia Story", <em>American Painting to 1776: A Reappraisal, Winterthur Conference Report</em>, ed. Ian M. G. Quimby, The University Press of Virginia and Henry Francis DuPont Winterthur Museum (Charlottesville, VA, 1971), pp. 181-216, p. 203
+                             </p>
+                                                      <p>
+                                              <em>Philadelphia Painting and Printing to 1776</em>, exh. cat., Pennsylvania Academy of the Fine Arts (Philadelphia, PA, 1971), p. 17, ill.
+                             </p>
+                                                      <p>
+                                              Thomas Fleming, ed., <em>Benjamin Franklin: A Biography in His Own Words</em>, Harper & Row (New York, NY, 1972), p. 81, ill
+                             </p>
+                                                      <p>
+                                              Raymond J. Seeger, <em>Benjamin Franklin: New World Physicist</em>, Pergamon Press (New York, NY, 1973), pp. 8-9
+                             </p>
+                                                      <p>
+                                              <em>The Britannica Encyclopedia of American Art</em>, Simon & Schuster (New York, 1973), pp. 172-173, fig. 2
+                             </p>
+                                                      <p>
+                                              Max Hall, "From Ben to Benjaminem", <em>Harvard Magazine</em> (Cambridge, MA, May 1975), p. 32, ill.
+                             </p>
+                                                      <p>
+                                              Edgar John Bullard, <em>A Panorama of American Painting: The John J. McDonough Collection</em>, exh. cat., New Orleans Museum of Art (New Orleans, LA, 1975), p. 28
+                             </p>
+                                                      <p>
+                                              Louise Todd Ambler, <em>Benjamin Franklin: A Perspective</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1975), pp. 36-38, 110, no. 11, ill. p. 38
+                             </p>
+                                                      <p>
+                                              R. Peter Mooz, "Robert Feke: Portrait of Charles Willing", <em>Worcester Art Museum Journal</em> (Worcester, MA, 1978-1979), pp. 5-6, fig. 3
+                             </p>
+                                                      <p>
+                                              Bernard Bailyn, <em>The Great Republic : A History of the American People</em>, D. C. Heath and Co. (Lexington, MA, 1980), p. 218, ill.
+                             </p>
+                                                      <p>
+                                              Richard Hofstadter and Clarence Lester Ver Steeg, <em>A People and a Nation</em>, Harper & Row (New York, NY, 1981), p. 70, ill.
+                             </p>
+                                                      <p>
+                                              John A. Garraty, Aaron Singer, and Michael J. Gallagher, <em>American History</em>, Harcourt Brace Jovanovich (New York, NY, 1982), p. 84, ill.
+                             </p>
+                                                      <p>
+                                              Ronald William Clark, <em>Benjamin Franklin: A Biography</em>, Random House (New York, NY, 1983), p. 142
+                             </p>
+                                                      <p>
+                                              Esmond Wright, <em>Franklin of Philadelphia</em>, Belknap Press of Harvard University Press (Cambridge, MA, 1986), ill. pp. 66-67
+                             </p>
+                                                      <p>
+                                              H. Graham Lowry, <em>How the Nation Was Won</em>, Executive Intelligence Review (Washington, D.C., 1987), ill. p. 334
+                             </p>
+                                                      <p>
+                                              Ormond Seavey, <em>Becoming Benjamin Franklin: The Autobiography and the Life</em>, Pennsylvania State University Press (University Park, PA, 1988), pp. 165,  257 (n. 18), ill. as frontispiece
+                             </p>
+                                                      <p>
+                                              Wayne Craven, <em>"The American and British Portraits of Benjamin Franklin"</em>, ed. J. A. Leo Lemay, University of Delaware (Newark, DE, 1993), pp. 249-251, 253, 255, fig. 7
+                             </p>
+                                                      <p>
+                                              Frank Lambert, <em>"Pedlar in Divinity": George Whitefield and the Transatlantic Revivals, 1737-1770</em>, Princeton University Press (Princeton, NJ, 1994), p. 98, fig. 5
+                             </p>
+                                                      <p>
+                                              Nian-Sheng Huang, <em>Benjamin Franklin in American Thought and Culture, 1790-1990</em>, American Philosophical Society (Philadelphia, PA, 1994), pp. 131, 132 (n. 14)
+                             </p>
+                                                      <p>
+                                              Walter Isaacson, "Info Highwayman", <em>Civilization</em>, Library of Congress (Washington, D.C., March 1995), vol. 2, no. 2, pp. 48-53, pp. 48-53, ill. p. 50
+                             </p>
+                                                      <p>
+                                              Ellen G. Miles, <em>American Paintings of the Eighteenth Century</em>, National Gallery of Art (Washington, D.C, 1995), p. 102
+                             </p>
+                                                      <p>
+                                              R. William Weisberger, "Legacies of the Career of Benjamin Franklin and of the Radicalism of the American Revolution", <em>Pennsylvania History</em> (Summer 1996), vol. 63, no. 3, pp. 471-82, p. 475
+                             </p>
+                                                      <p>
+                                              John A. Garraty and Mark C. Carnes, <em>American National Biography, 24 vols.</em>, Oxford University Press (UK) (New York and Oxford, 1999), vol. 7, p. 797
+                             </p>
+                                                      <p>
+                                              Timothy J. Shannon, <em>Indians and Colonists at the Crossroads of Empire: The Albany Congress of 1754</em>, Cornell University Press (Ithaca, NY, 2000), pp. 89-91, fig. 3.3
+                             </p>
+                                                      <p>
+                                              David A. Adler, <em>B. Franklin, Printer</em>, Holiday House Inc. (New York, NY, 2001), p. 26
+                             </p>
+                                                      <p>
+                                              George Boudreau, "'Done by a Tradesman': Franklin's Educational Proposals and the Culture of Eighteenth-Century Philadelphia", <em>Pennsylvania History</em> (Autumn 2002), vol. 69, no.4, pp. 524-557, p. 525, ill.
+                             </p>
+                                                      <p>
+                                              David Waldstreicher, "The Long Arm of Benjamin Franklin", <em>Artificial Parts, Practical Lives: Modern Histories of Prosthetics</em>, New York University Press (New York, NY, 2002), pp. 300-326, pp. 303, 305, fig. 11.3
+                             </p>
+                                                      <p>
+                                              Randall M. Miller and William Pencak, ed., <em>Pennsylvania: A History of the Commonwealth</em>, Pennsylvania State University Press (University Park, PA, 2002), ill. p. 532-33
+                             </p>
+                                                      <p>
+                                              Walter Isaacson, <em>Benjamin Franklin: An American Life</em>, Alfred A. Knopf, Inc. (2003), ill. no. 14
+                             </p>
+                                                      <p>
+                                              Bernard Bailyn, <em>To Begin the World Anew: The Genius and Ambiguities of the American Founders</em>, Alfred A. Knopf, Inc. (New York, NY, 2003), pp. 69-70, fig. 41
+                             </p>
+                                                      <p>
+                                              Lester C. Olson, <em>Benjamin Franklin's Vision of American Community: A Study in Rhetorical Iconology</em>, University of South Carolina Press (Columbia, SC, 2004), pp. 233, 301 (n. 5)
+                             </p>
+                                                      <p>
+                                              John T. Bethell, Richard M. Hunt, and Robert Shenton, <em>Harvard A to Z</em>, Harvard University Press (Cambridge, MA, 2004), p. 277
+                             </p>
+                                                      <p>
+                                              Frank Edward Manuel, <em>James Bowdoin and the Patriot Philosophers</em>, American Philosophical Society (Philadelphia, PA, 2004), p. 74
+                             </p>
+                                                      <p>
+                                              Gordon Wood, <em>The Americanization of Benjamin Franklin</em>, Penguin Press (New York, NY, 2004), pp. 57-58, 257 (n. 117), ill.
+                             </p>
+                                                      <p>
+                                              Blaine McCormick, <em>Ben Franklin, America's Original Entrepeneur. Franklin's Autobiography Adapted for Modern Times</em>, Entrepreneur Press (Irvine, CA, 2005), p. 1, ill.
+                             </p>
+                                                      <p>
+                                              Richard S. Dunn and John C. Van Horne, <em>Benjamin Franklin: In Search of A Better World</em>, Yale University Press (U.S.) (New Haven, CT, 2005), pp. 112, 113, 116, 183, ill.
+                             </p>
+                                                      <p>
+                                              Linzy Brekke, <em>"'To Make a Figure': Clothing and the Politics of Male Identity in Eighteenth-Century America"</em>, ed. John Styles, Yale Center for British Art (New Haven, CT, 2006), pp. 230-231, fig. 54
+                             </p>
+                                                      <p>
+                                              Tom Huntington, <em>Ben Franklin's Philadelphia: A Guide</em>, Stackpole Books (Mechanicsburg, PA, 2006), ill. p. 14
+                             </p>
+                                                      <p>
+                                              Stanley Finger, <em>Doctor Franklin's Medicine</em>, University of Pennsylvania Press (Philadelphia, PA, 2006), ill. p. 86
+                             </p>
+                                                      <p>
+                                              Joyce Chaplin, <em>The First Scientific American: Benjamin Franklin and the Pursuit of Genius</em>, Basic Books (New York, NY, 2006), pp. 71, 73, 166, ill. p. 72
+                             </p>
+                                                      <p>
+                                              J. A. Leo Lemay, <em>The Life of Benjamin Franklin</em>, University of Pennsylvania Press (Philadelphia, PA, 2006), vol. 2, pp. 313, 320, 594 (n. 34), ill. as frontispiece
+                             </p>
+                                                      <p>
+                                              Ann Lee Morgan, <em>The Oxford Dictionary of American Art and Artists</em>, Oxford University Press (UK) (Oxford, England, 2007), p. 154
+                             </p>
+                                                      <p>
+                                              George M. Marsden, <em>A Short Life of Jonathan Edwards</em>, Wm. B. Eerdmans Publishing Co. (Grand Rapids, MI, 2008), ill. n.p.
+                             </p>
+                                                      <p>
+                                              Alan Houston, <em>Benjamin Franklin and the Politics of Improvement</em>, Yale University Press (U.S.) (New Haven, CT, 2008), ill. p. 3
+                             </p>
+                                                      <p>
+                                              Megan Walsh, "Benjamin Franklin's Material Cultures", <em>A Companion to Benjamin Franklin</em>, ed. David Waldstreicher, Wiley Blackwell (Malden, MA, 2011), pp. 412-429, p. 412
+                             </p>
+                                                      <p>
+                                              Peter Charles Hoffer, <em>When Benjamin Franklin Met the Reverend Whitefield: Enlightenment, Revival, and the Power of the Printed Word</em>, The Johns Hopkins University Press (Baltimore, MD, 2011), ill. p. 37
+                             </p>
+                                                      <p>
+                                              David Pullins, "Dating and attributing the earliest portrait of Benjamin Franklin", <em>The Burlington Magazine</em> (December 2013), Vol. CLV, pp. 821-822, pp. 821-22, fig. 20
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr. and Melissa Renn, <em>American Paintings at Harvard, Volume One: Paintings, Watercolors, and Pastels by Artists Born before 1826</em>, Yale University Press (U.S.) and Harvard Art Museums (Cambridge and New Haven, 2014), pp. 12, 198-99, cat. 149, ill.
+                             </p>
+                                                      <p>
+                                              Virginia Dart Greene Hales, <em>Greene and Greene: Their Ancestral Heritage, 1550-1900</em>, Virginia Dart Greene Hales (La Jolla, California, 2016), p. 148, repr. as fig. 8-160
+                             </p>
+                                                      <p>
+                                              Rosemaire Tsubaki, <em>Il viaggio di Pehr Kalm in Nord America, 1747-1751</em>, Europa Edizioni s.r.l. (Rome, 2016), p. 104, repr.
+                             </p>
+                                                      <p>
+                                              Stephen Coss, <em>The Fever of 1721: The Epidemic That Revolutionized Medicine and American Politics</em>, Simon & Schuster (New York, 2016), repr.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Benjamin Franklin and his Circle</em>, The Metropolitan Museum of Art, New York, 05/11/1936 - 09/13/1936
+                            </p>
+                          <p>
+                              <em>Loan Exhibition of Portraits</em>, Corcoran Gallery of Art, 11/27/1937 - 03/01/1938
+                            </p>
+                          <p>
+                              <em>Washington Lafayette Franklin</em>, Fogg Art Museum, Cambridge, 02/22/1944 - 05/28/1944
+                            </p>
+                          <p>
+                              <em>Early Science at Harvard</em>, Fogg Art Museum, Cambridge, 12/18/1969 - 02/01/1970
+                            </p>
+                          <p>
+                              <em>Philadelphia Painting to 1776</em>, Pennsylvania Academy of the Fine Arts, Philadelphia, 03/26/1971 - 04/25/1971
+                            </p>
+                          <p>
+                              <em>Benjamin Franklin: A Perspective</em>, Fogg Art Museum, Cambridge, 04/17/1975 - 09/22/1975
+                            </p>
+                          <p>
+                              <em>Benjamin Franklin: In Search of a Better World</em>, National Constitution Center, Philadelphia, 12/15/2005 - 04/30/2006; Missouri Historical Society, St. Louis, 06/08/2006 - 09/04/2006; Houston Museum of Natural Science, Houston, 10/11/2006 - 01/21/2007; Denver Museum of Nature and Science, Denver, 03/02/2007 - 05/28/2007; Atlanta History Center, Atlanta, 07/04/2007 - 10/14/2007; Musée des Arts et Métiers, F-75003 Paris, 12/04/2007 - 03/30/2008
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/346800">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR006253_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "benjamin Franklin"">
+                                    <span class="related-artwork__obj">Straus.7307</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Robert Feke</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Benjamin Franklin"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/355212">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8878</span>
+                                      <h4 class="related-artwork__artist">Artist of original Robert Feke</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Benjamin Franklin (1706-1790)"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:21498_dynmc?width=200&height=200" alt="Benjamin Franklin (1706-1790)">
+                <span class="popup__artwork-info-id">H47</span>
+        <span class="popup__artwork-info-author">
+                                    Robert Feke
+                          Benjamin Franklin
+                              </span>
+        <span class="popup__artwork-info-title">Benjamin Franklin (1706-1790)</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299815%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299815">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299815" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Benjamin+Franklin+%281706-1790%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299815" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299815" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_79da9c017fc30055309f8ef56d84f67d" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

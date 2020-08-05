@@ -1,0 +1,684 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Self-Portrait with an Easel </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Self-Portrait with an Easel" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/217448"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:756683?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Self-Portrait with an Easel" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_400948443" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:756683?width=3000&height=3000" data-initial-image-id="400948443" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?217448" data-behavior="add_to_collection tooltip" data-artwork="217448" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=217448&amp;image_id=756683" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/217448/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="756683">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:756683?width=3000&height=3000" data-zoom-enabled="1" data-people="Nicolas Régnier"  title="Self-Portrait With An Easel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400948443" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756683?width=125&height=125" alt="Self-Portrait With An Easel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="50266">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50266_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Nicolas Régnier"  title="Self-Portrait With An Easel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183382" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50266_dynmc?width=125&height=125" alt="Self-Portrait With An Easel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="50804">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50804_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Nicolas Régnier"  title="Self-Portrait With An Easel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183419" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50804_dynmc?width=125&height=125" alt="Self-Portrait With An Easel">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1982.116</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28232>Nicolas Régnier</a>, French                                                                                                                                                                                                                                                                          (Maubeuge 1590 - 1667 Venice)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Self-Portrait with an Easel</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1620-c. 1625</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/217448">https://hvrd.art/o/217448</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2210, West Arcade<br>
+            <a href="/visit/floor-plan/2?gallery=2210" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>111 x 138 cm (43 11/16 x 54 5/16 in.)<br />
+frame: 136 x 162.4 x 12 cm (53 9/16 x 63 15/16 x 4 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          exhibition label: back of frame, paper, black ink, printed
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: back of frame, paper, black ink, printed
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Frederick (Fritz) Haussmann, Berlin, by 1931, sold; [through Schaeffer Gallery, Berlin and New York]; to Mrs. Eric Schroeder, 1943, Milton, Massachusetts, gift; to Fogg Art Museum, 1982<br />
+<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Mrs. Eric Schroeder</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1982</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1982.116</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Hermann Voss, "Spätialienische Gemälde in der Sammlung Dr. Fritz Haussman in Berlin", <em>Zeitschrift für Bildende Kunst</em> (1931-1932), 65/pp. 161-8, ill. p. 161
+                             </p>
+                                                      <p>
+                                              Edgar P. Richardson, "The Repentant Magdalen by Niccolo Renieri", <em>Bulletin of the Detroit Institue of Arts</em>, Detroit Institute of Arts (March 1939), vol. 18, no. 6, pp.1-3, p. 3
+                             </p>
+                                                      <p>
+                                              Edgar P. Richardson, "Renieri, Saraceni and the Meaning of Caravaggio's Influence", <em>The Art Quarterly</em>, Detroit Institute of Arts (Summer 1942), vol. 5, pp.233-241, pp. 235-237, fig. 3, repr. p. 237
+                             </p>
+                                                      <p>
+                                              <em>Baroque Paintings Lent by The Schaeffer Galleries of New York</em>, auct. cat. (Pittsfield, Massachusetts, 1942), cat. no. 18
+                             </p>
+                                                      <p>
+                                              Pier Luigi Fantelli, "Su Nicolò Renieri Ritrattista", <em>Atti dell'Instituto Veneto di Scienze, Lettere ed Arti</em> (1973), Vol. 131, pp. 145-167, pp. 152-153
+                             </p>
+                                                      <p>
+                                              Benedict Nicolson, <em>The International Caravaggesque Movement: Lists of Pictures by Caravaggio and his Followers through Europe from 1590 to 1650</em>, Phaidon (Oxford, 1979), pp. 80, 225, pl. 57
+                             </p>
+                                                      <p>
+                                              Pierre Rosenberg, <em>France in the Golden Age: Seventeenth-Century French Paintings in American Collections</em>, exh. cat., The Metropolitan Museum of Art (New York, NY, 1982), p. 315
+                             </p>
+                                                      <p>
+                                              John Spike, <em>Baroque Portraiture in Italy: Works from North American Collections</em>, exh. cat., John and Mable Ringling Museum of Art (Sarasota, Florida, 1984), no. 50, pp. 142-143, repr. in color
+                             </p>
+                                                      <p>
+                                              Wendy Wassyng Roworth, "Baroque Portraiture. Hartford, Connecticut", <em>The Burlington Magazine</em> (June 1985), vol. 127, no. 987, pp. 376+406-407, pp. 406, fig. 42, repr.
+                             </p>
+                                                      <p>
+                                              Wendy Wassyng Roworth, "The Consolations of Friendship: Salvator Rosa's Self-Portrait for Giovanni Battista Ricciardi", <em>Metropolitan Museum Journal</em> (1988), 23/pp. 103-124, pp.118-119/repr. as fig. 22
+                             </p>
+                                                      <p>
+                                              Benedict Nicolson, <em>Caravaggism in Europe</em>, Umberto Allemandi & C. (Turin, 1990), vol. 1 p. 160, vol. 3, pl. 975
+                             </p>
+                                                      <p>
+                               Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990)
+                                            </p>
+                                                      <p>
+                                              <em>Visages du Grand Siecle: Le portrait francais sous le regne de Louis XIV</em>, exh. cat., Somogy Éditions d'Art (Paris, 1997), p. 134
+                             </p>
+                                                      <p>
+                                              Dennis P. Weller, <em>Sinners and Saints, Darkness and Light: Caravaggio and His Dutch and Flemish Followers</em>, exh. cat., North Carolina Museum of Art (Raleigh, 1998), p. 229, repr.
+                             </p>
+                                                      <p>
+                                              Annick Lemoine, "L'Iter di un caravaggesco nordico: Nicolas Régnier e il movimento naturalista", <em>Paragone</em> (March 2000), vol. 51, no. 601, pp. 43-72, p. 60; repr. as fig. 35
+                             </p>
+                                                      <p>
+                                              Silvia Danesi Squarzina, <em>Caravaggio e i Giustiniani: Toccar con mano una collezione del Seicento</em>, exh. cat., Electa (Milan, Italy, 2001), no. A9, pp. 198-201, repr. as fig. 1
+                             </p>
+                                                      <p>
+                                              Silvia Danesi Squarzina, <em>Caravaggio e i Giustiniani: Toccar con mano una collezione del Seicento</em>, exh. cat., Electa (Milan, 2001), pp. 198, 200, fig. 1, repr. p. 198
+                             </p>
+                                                      <p>
+                                              Beverly Louise Brown, ed., <em>The Genius of Rome, 1592-1623</em>, exh. cat., Royal Academy of Arts (London, England, 2001), no. 49, repr. in color, p. 149
+                             </p>
+                                                      <p>
+                                              Penelope Hunter-Stiebel, ed., <em>The Triumph of French Painting: 17th Century Masterpieces from the Museums of FRAME</em>, exh. cat., Portland Art Museum (Portland OR, 2003), p. 35
+                             </p>
+                                                      <p>
+                                              R. Ward Bissell and Andrea Derstine, <em>Masters of Italian Baroque Painting</em>, Detroit Institute of Arts (Detroit, MI, 2005), p. 162, under no. 53, repr. as fig. 1
+                             </p>
+                                                      <p>
+                                              Annick Lemoine, <em>Nicolas Régnier (alias Niccolò Renieri) ca. 1588-1667: Peintre, collectionneur et marchand d'art</em>, Arthena (Paris, 2007), pp. 2, 65-66, 68, and 239, cat. no. 37, repr. p. 2 (detail), 65, and 239
+                             </p>
+                                                      <p>
+                                              Gert Jan van der Sman, <em>Caravaggio and the Painters of the North</em>, exh. cat., Museo Thyssen-Bornemisza (Madrid, 2016), p. 10, 108, 116-117, cat. no. 19, repr. p. 10 (detail), 117
+                             </p>
+                                                      <p>
+                                              Linda Borean, Francesca Cappelletti, and Patrizia Cavazzini, <em>Nicolas Régnier (v. 1588-1667): l'homme libre</em>, exh. cat., Musée d'arts de Nantes and Lienart éditions (Paris/Nantes, 2017), cat. no. 9, pp. 44, 102, 111-112, repr. p. 113, detail repr. p. 36
+                             </p>
+                                                      <p>
+                                              Colleen Walsh, "An Unexpected Juxtaposition", <em>The Harvard Gazette</em> (June 7, 2019), [e-journal], https://news.harvard.edu/gazette/story/2019/06/harvard-art-museums-challenges-expectations-with-new-art-pairing/, accessed June 10, 2019
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Baroque Paintings: Lent by The Schaeffer Galleries of New York</em>, Berkshire Museum, 06/03/1942 - 06/30/1942
+                            </p>
+                          <p>
+                              <em>Baroque Portraiture in Italy: Works from North American Collections</em>, John and Mable Ringling Museum of Art, 12/07/1984 - 02/03/1985; Wadsworth Atheneum Museum of Art, 03/20/1985 - 05/20/1985
+                            </p>
+                          <p>
+                              <em>The Genius of Rome, 1592-1623</em>, Royal Academy of Arts, London, 01/20/2001 - 04/16/2001; Palazzo Venezia, Rome, 05/01/2001 - 08/31/2001
+                            </p>
+                          <p>
+                              <em>The Portrait</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/15/2004 - 01/09/2005
+                            </p>
+                          <p>
+                              <em>Ideal [Dis-] Placements: Old Masters at the Pulitzer</em>, Pulitzer Arts Foundation, St. Louis, 10/24/2008 - 10/03/2009
+                            </p>
+                          <p>
+                              <em>HAA 1 Survey Course (S421): Landmarks of World Art and Architecture (Spring 2010)</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 02/05/2010 - 05/09/2010
+                            </p>
+                          <p>
+                              <em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013
+                            </p>
+                          <p>
+                              <em>32Q: 2400 French/Italian/Spanish</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 04/28/2016; Harvard Art Museums, Cambridge, 07/19/2018 - 03/28/2019
+                            </p>
+                          <p>
+                              <em>32Q: 2210 West Arcade</em>, Harvard Art Museums, Cambridge, 04/02/2019 - 01/01/2050
+                            </p>
+                          <p>
+                              <em> Caravaggio and the Painters of the North</em>, Museo Thyssen-Bornemisza, Madrid, 06/21/2016 - 09/18/2016
+                            </p>
+                          <p>
+                              <em>Nicolas Régnier (v. 1588-1667): l'homme libre</em>, Musée d'arts de Nantes, Nantes, 12/01/2017 - 03/11/2018
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347611">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR008147_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "artist Painting A Portrait"">
+                                    <span class="related-artwork__obj">Straus.8118</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Nicolas Régnier</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Artist Painting a Portrait"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:756683?width=200&height=200" alt="Self-Portrait With An Easel">
+                <span class="popup__artwork-info-id">1982.116</span>
+        <span class="popup__artwork-info-author">
+                                    Nicolas Régnier
+                              </span>
+        <span class="popup__artwork-info-title">Self-Portrait with an Easel</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20217448%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F217448">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F217448" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Self-Portrait+with+an+Easel+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F217448" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/217448" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_43baea04815c93d57236c7b1c49bc32f" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

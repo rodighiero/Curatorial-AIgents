@@ -1,0 +1,676 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections High Relief of a Lion </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections High Relief of a Lion" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/311076"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:huam:DDC111812_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" High Relief of a Lion" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_23755806" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:huam:DDC111812_dynmc?width=3000&height=3000" data-initial-image-id="23755806" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption  hidden ">
+                                                    </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?311076" data-behavior="add_to_collection tooltip" data-artwork="311076" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=311076&amp;image_id=DDC111812" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/311076/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC111812">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:DDC111812_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="" data-image-id="23755806" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:DDC111812_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC111813">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:DDC111813_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="" data-image-id="23755807" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:DDC111813_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC111814">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:DDC111814_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="" data-image-id="23755808" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:DDC111814_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR009668">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR009668_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="" data-image-id="45609632" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR009668_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR010680">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR010680_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="" data-image-id="45612279" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR010680_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR010681">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR010681_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="" data-image-id="45612280" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR010681_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017421">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017421?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095001" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017421?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017422">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017422?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="Detail of the front" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095005" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017422?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017423">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017423?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="View of the back" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095009" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017423?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017424">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017424?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="View of the back" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095013" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017424?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017425">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017425?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="Detail showing the more simplified modeling of the face on the reverse" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095017" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017425?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017426">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017426?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="Detail of casting flaw and crude repair at the top of the head on the reverse" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095021" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017426?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017427">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017427?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="Detail of the reverse showing the two rectangular holes related to the casting process" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095025" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017427?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017428">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017428?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="Detail of the corrosion on the underside of the feet with modern copper sheets visible " data-object-copyright="President and Fellows of Harvard College" data-image-id="400095029" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017428?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017429">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017429?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="Detail of the bottom of the proper right foot with modern copper sheets visible " data-object-copyright="President and Fellows of Harvard College" data-image-id="400095033" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017429?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017778">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017778?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400099032" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017778?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017779">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017779?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400099036" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017779?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="47387">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:47387_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="High Relief Of A Lion" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182924" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:47387_dynmc?width=125&height=125" alt="High Relief Of A Lion">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.1322</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>High Relief of a Lion</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1st century BCE-2nd century CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Asia, South Arabia                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Sabaean period</dd>
+                                        <dt>Culture</dt>
+                <dd>South Arabian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/311076">https://hvrd.art/o/311076</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leaded bronze</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>36.5 x 20.5 x 19.5 cm (14 3/8 x 8 1/16 x 7 11/16 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: XRF data from Artax 1<br />
+Alloy: Leaded Bronze<br />
+Alloying Elements: copper, tin, lead<br />
+Other Elements: iron, nickel<br />
+<br />
+ <br />
+<br />
+<br />
+<br />
+Katherine Eremin January 2014</p>
+                                      <p class="divider">Technical Observations: The patina is black with areas of red and green. Incomplete areas on the back edges are casting flaws rather than the result of damage. The base below the lion’s feet is heavily corroded and has large clumps of green malachite and burial accretions. The front of the lintel was carved flat through the malachite layers during an early restoration process. Damage on the proper right half of this lintel is backed at the interior with modern sheets of copper and filled with black and green resinous material. The dull black covering 80% of the surface appears to be modern copper sulfide corrosion products, probably from a sulfur-containing storage environment. It is likely that this material grew on top of a green malachite surface.<br />
+ <br />
+The object was made using a direct lost-wax process, which involved forming the wax model on a prepared core. Evidence for this is visible on the reverse, where the facial features, such as the eyes, nose, and mouth, are simplified in comparison with the modeling of the front. The transitions between the shapes on the back of the head are more angular than what would be expected if an indirect process had been used. Fine ridges at the highpoints on the reverse, which correspond to low points on the front such as the mouth and eye sockets, reflect the way the core was cut. This appearance contrasts with the more fluid, less geometric inner surface that results from melting or otherwise applying wax to a negative mold in the process of indirect lost-wax casting. The flat, raised strip (1.5 cm wide) bordering the large opening on the reverse was applied as wax sheet to create a more finished, uniform edge. Large casting flaws over half of the opening obliterated most of this strip. A large flaw at the top of the head was crudely repaired during manufacture by pouring molten bronze over the flaw on the reverse. The pour did not fully fill the flaw hole but instead dribbled in large droplets into the nose and eye areas. Another 1.5-cm flaw hole on the back of the upper right leg is not repaired. The two rectangular holes on the back of the base may have connected the core to the outer investment and may have served to stabilize the core. A flange (3 cm wide) projects 1.5 cm at the base between these two holes and is probably related to an original mounting scheme. On the front, the hair, incised lines, projecting teeth, and horn-like elements were added and formed directly in soft wax, giving these details a very irregular and fluid appearance.<br />
+ <br />
+ <br />
+Henry Lie (submitted 2011)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Joseph Brummer Gallery, New York, NY, (by 1935), sold; to Grenville L. Winthrop, New York, NY, (1940), bequest; to Fogg Art Museum, 1943.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.1322</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>This thick-walled relief depicts a frontal lion standing on a base. The roaring lion has a roundish head, big, bulging eyes, and an open mouth with protruding tongue. Small horns emerge from his muzzle, forehead, brows, and legs. The mane is rendered in elongated tufts, while the fur on the chest is depicted in stylized S-curves. The paws are highly simplified in the form of four vertical ribs. It is unclear whether there once was an inscription on the base and some kind of ornament in the badly preserved area below it.<br />
+<br />
+The back is open at the top but closed at the legs and base. There is a triangular hole in one of the legs, and two rectangular ones appear in the base. The underside of the base is uneven and seems to have had two rectangular holes, one of which is now broken. A tang projects from the back of the base. A patch or seam is visible in the casting on the inside of the head.</dd>
+                                                       </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Dorothy W. Gillerman, ed., <em>Grenville L. Winthrop: Retrospective for a Collector</em>, exh. cat., Fogg Art Museum (Cambridge, 1969), p. 256 (checklist).
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>32Q: 3440 Near East</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 11/16/2016
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:huam:DDC111812_dynmc?width=200&height=200" alt="High Relief Of A Lion">
+                <span class="popup__artwork-info-id">1943.1322</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">High Relief of a Lion</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20311076%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311076">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311076" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=High+Relief+of+a+Lion+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311076" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/311076" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_32125f2a7f65f5ee4a22dcd6ba9e5ffb" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

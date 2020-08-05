@@ -1,0 +1,696 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Johann Philipp von Schönborn, Archbishop of Mainz </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Johann Philipp von Schönborn, Archbishop of Mainz" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/294678"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71791_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Johann Philipp von Schönborn, Archbishop of Mainz" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18481316" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71791_dynmc?width=3000&height=3000" data-initial-image-id="18481316" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?294678" data-behavior="add_to_collection tooltip" data-artwork="294678" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=294678&amp;image_id=71791" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/294678/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1986.610</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29157>Wallerant Vaillant</a>, Dutch                                                                                                                                                                                                                                                                          (Lille, France 1623 - 1677 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Johann Philipp von Schönborn, Archbishop of Mainz</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1658</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/294678">https://hvrd.art/o/294678</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black and white chalk and yellowish-white pastel on blue paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>59 x 45.5 cm (23 1/4 x 17 15/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: center right, graphite: W. Vaillant fecit / 1658
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: former mount, upper left, graphite: Jean Philippe, Archeveque / de Mayence
+                        </li>
+                                              <li data-a="2">
+                          inscription: former mount, verso, lower center, black ink: WD - 140
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: L1 [or 41]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper right, red ink: No 1158
+                        </li>
+                                              <li data-a="2">
+                          watermark: none
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Prince Dmitri Alexeyevich Galitzin, St. Petersburg, Paris, and The Hague. [Sale, Drouot, Paris, 15 April 1863, lot 152.] Ambroise Firmin-Didot, Paris, by descent; to his heirs. Ian Woodner, New York; Gift of Ian Woodner, 1986.610</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 86 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Wallerant Vaillant is best known as the first professional printmaker to specialize in mezzotint and for his technical innovations in that medium. A pioneer of the pastel portrait, he also developed a technique for drawing monochromatic likenesses in black and white chalk on blue paper, of which this work is a characteristic example. It belongs to a group of portraits of dignitaries who gathered in Frankfurt am Main in 1658 to elect a successor to Emperor Ferdinand <span class="caps">III</span>, who had died the previous year. In his <em>Teutsche Academie</em> of 1675, Joachim von Sandrart wrote that, faced with the opportunity of portraying so many prominent individuals, Vaillant opted to depict them “life-size, in black and white on blue paper” rather than in the more time-consuming medium of oil paint. “In this way,” wrote Sandrart, “he was able to portray nearly all the high potentates who were present with astonishing speed and also with great elegance and . . . praiseworthy knowledge of his art.”<sup class="footnote" id="fnrev8022585235ef6643b15613-1"><a href="#fn8022585235ef6643b15613-1">1</a></sup></p>
+
+<p>Vaillant’s innovative technique, which enabled him to obtain a range of tonal values that lend a pictorial finish and lifelike naturalism to the portrait, depended on his skillful working of powdered colored chalks with a stump. In the Harvard portrait, he used black and white chalk and, by varying the quantity of the finely ground dry pigment distributed on the paper, modulated the values from rich, velvety blacks to luminous, light grays.<sup class="footnote" id="fnrev8022585235ef6643b15613-2"><a href="#fn8022585235ef6643b15613-2">2</a></sup> Within some passages of blacks and grays—for example, in the hair in the Harvard portrait—he modeled the forms by lifting out some of the black pigment with, perhaps, a clean stump or kneaded fresh bread.<sup class="footnote" id="fnrev8022585235ef6643b15613-3"><a href="#fn8022585235ef6643b15613-3">3</a></sup> To finish the portrait, he added strokes of white chalk to the nose, hair, edge of the collar, and decorative elements of the doublet and cross, and he used a sharpened black chalk for fine detailing in the facial features, hair, and doublet. According to an eighteenth-century source, Vaillant constructed stumps “of several rolls of white paper, . . . roll’d up very hard and close, bigger or lesser according as his work requir’d with which he rubb’d in the several colours.”<sup class="footnote" id="fnrev8022585235ef6643b15613-4"><a href="#fn8022585235ef6643b15613-4">4</a></sup></p>
+
+<p>Among the portraits Vaillant executed in Frankfurt in 1658 were likenesses of the seven electors, including Johann Philipp von Schönborn, Archbishop of Mainz, who voted to elevate the Austrian archduke Leopold to the imperial throne as Emperor Leopold I.<sup class="footnote" id="fnrev8022585235ef6643b15613-5"><a href="#fn8022585235ef6643b15613-5">5</a></sup> That Schönborn is the subject of the Harvard portrait is confirmed by the text beneath the etching Vaillant executed after either the Harvard work or the later version of it in Dresden (Figs. 1, 2).<sup class="footnote" id="fnrev8022585235ef6643b15613-6"><a href="#fn8022585235ef6643b15613-6">6</a></sup> The latter belongs to a second series of twelve portraits, which the Saxon elector Johann Georg II ordered from Vaillant in 1658 or 1659, depicting dignitaries who attended the Frankfurt diet.<sup class="footnote" id="fnrev8022585235ef6643b15613-7"><a href="#fn8022585235ef6643b15613-7">7</a></sup> A Dresden document of 1659 describes Vaillant’s original portrait of Johann Georg II as “painted gray in gray with dry colors on paper”—an affirmation that his contemporaries responded to the pictorial qualities of his drawings—and reveals that it hung on the wall in an ebony wood frame.<sup class="footnote" id="fnrev8022585235ef6643b15613-8"><a href="#fn8022585235ef6643b15613-8">8</a></sup></p>
+
+<p>Elected prince-bishop of Würzburg in 1642 and archbishop of Mainz in 1647, Johann Philipp von Schönborn was the highest ranking prince of the Empire, its arch-chancellor, incumbent of its most prestigious ecclesiastical office, and a politician of European stature. He skillfully wielded his considerable secular power to secure peace and restore prosperity to territories devastated during the Thirty Years’ War. In 1647–48, he led a group of moderates that maneuvered the emperor and conservative Catholics into a religious compromise with liberal Protestants, precipitating a swift conclusion to the historic Treaty of Westphalia. With his militarily weak territories sandwiched between the great powers of Austria and France, he deftly adjusted his allegiance to the two rivals during the 1650s and 1660s. In Frankfurt in the summer of 1658, Johann Philipp and the French diplomat Hugues de Lionne—the subject of another portrait by Vaillant in the museums’ collection (<a href="https://www.harvardartmuseums.org/collections/object/294415?position=0">1986.611</a>) —negotiated the League of the Rhine, a defensive agreement between a confederation of German princes and the French king that aimed to curtail the military ambitions of Austria.<sup class="footnote" id="fnrev8022585235ef6643b15613-9"><a href="#fn8022585235ef6643b15613-9">9</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-1"><sup><a href="#fnrev8022585235ef6643b15613-1">1</a></sup> “. . . sowol in Teutschland als in Holland berühmt / übergabe sich erstlich dem Lobgerüchte / durch seine gute Mahlerey von Historien und modernen Bildern / auch Contrafäten: deren er / bey dem letzten Wahl-Tag zu Frankfurt soviel gemacht / daß er endlich genötiget wurde / zu deren beschleunigung / solche mit Schwarz und Weiß auf blau Papier in Lebens-Größe zu zeichnen. Auf solche weise / hat er fast alle hohe anwesende Potentaten / mit verwunderlicher Geschwindigkeit / auch großer Zier und erweisung preiswürdiger Kunst-Wissenschaft / gecontrafätet.” Joachim von Sandrart, ed. A. R. Peltzer, <em>Teutsche Academie der edlen Bau‑, Bild‑, und Mahlerey-Künste</em> (1st ed. 1675; reprint, Munich, 1925), vol. 2, book 3, p. 374. Translation partly after Timothy Riggs in Carolyn H. Wood and Carol C. Gillham, <em>European Drawings from the Collection of the Ackland Art Museum</em> (Chapel Hill, North Carolina: University of North Carolina at Chapel Hill, 2001), cat. 19, p. 60.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-2"><sup><a href="#fnrev8022585235ef6643b15613-2">2</a></sup> I am grateful to Dr. Timothy Mayhew for the following account of Vaillant’s technique, based on his examination of the two Harvard portraits, <a href="https://www.harvardartmuseums.org/collections/object/294678?position=0">1986.610</a> and <a href="https://www.harvardartmuseums.org/collections/object/294415?position=0">1986.611</a>.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-3"><sup><a href="#fnrev8022585235ef6643b15613-3">3</a></sup> Vaillant perfected the technique of reductive modeling in drawings by lifting some of the media from areas of tone before he learned about mezzotint from his patron, Prince Rupert of the Rhine, during the mid-1650s. The similarity of this process to working from dark to light in mezzotint by scraping away the highlights is obvious and must explain in part Vaillant’s facility with the medium and the rapid technical advances he made after Prince Rupert introduced him to it.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-4"><sup><a href="#fnrev8022585235ef6643b15613-4">4</a></sup> John Barrow, William Henry Toms, John Devoto, Charles Hitch, and Lacy Hawes, <em>Dictionarium Polygraphicum: Or, The Whole Body of Arts Regularly Digested</em>, vol. 1. (London, 1735), n.p., “Crayons” entry. My thanks to Timothy Mayhew for this reference.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-5"><sup><a href="#fnrev8022585235ef6643b15613-5">5</a></sup> Portraits by Vaillant of all seven electors are in Dresden. In three cases, another version, measuring about 585 × 450 mm, has been identified.</p>
+
+<blockquote>
+	<p><em>Friedrich Wilhelm von Hohenzollern, Elector of Brandenburg</em>, Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.517. Another version was formerly with Jean-Paul Meulenmeester, Brussels, exhibited at Foire des Antiquaires, Brussels, April 1978, and earlier with William H. Schab Gallery, New York, 1974, cat. 33. Signed, dated, upper left, <em>W. Vaillant Fe. 1658</em>. 585 × 456 mm. Misidentified by Schab and Meulenmeester as a portrait of François de Bonne de Créqui, duc de Lesdiguières.</p>
+</blockquote>
+
+<blockquote>
+	<p><em>Johann Georg II, Duke of Saxony, Elector of Saxony</em>. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.509.</p>
+</blockquote>
+
+<blockquote>
+	<p><em>Ferdinand Maria, Duke of Bavaria, Elector of Bavaria</em>. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.511.</p>
+</blockquote>
+
+<blockquote>
+	<p><em>Karl Ludwig von Bayern, Pfalzgraf vom Rhein, Palatine Elector</em>. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.515.</p>
+</blockquote>
+
+<blockquote>
+	<p><em>Johann Philipp von Schönborn, Archbishop of Mainz</em> (Fig. 2). Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.514. Another version is the present work, Harvard Art Museums/Fogg Museum, <a href="https://www.harvardartmuseums.org/collections/object/294678?position=0">1986.610</a>. Signed and dated <em>W. Vaillant fecit / 1658</em>. 592 × 457 mm.</p>
+</blockquote>
+
+<blockquote>
+	<p><em>Karl Kaspar van der Leijen, Archbishop of Trier</em>. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.510. Another version, now in an American private collection, was with David Tunick, Inc., New York, in 2008, as Maximilian Heinrich, Elector of Cologne. Formerly with Paul Prouté, 1992, cat. “Reni,” no. 14. Signed and dated upper right, <em>W. Vaillant / 165_(8?). 580 × 447 mm. Maximilian Heinrich von Bayern, Archbishop of Cologne. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.516. See Dresden facsimiles, vol. 14, and Alfred von Wurzbach, _Niederländisches Künstler‑Lexikon</em> (Vienna and Leipzig, 1906–11), vol. 2, p. 734.</p>
+</blockquote>
+
+<p class="footnote" id="fn8022585235ef6643b15613-6"><sup>6</sup> Wallerant Vaillant, <em>Johann Philipp von Schönborn, Archbishop of Mainz</em> (Fig. 1), c. 1658–60. Etching. 305 × 220 mm. Amsterdam, Rijksmuseum, RP-P-1913-859. Hollstein, vol. 31, no. 8, p. 64. Printed Latin text, <em>Eminentissimus ac Reverendissimus Dnus. Dnus. [sic] Joannes Philippus Dei / gratiâ Sacr. Sedis Moguntinæ Archiepiscopus S. R. Imperij per Germaniam / Archicancell. Princeps Elect. Episcopus Herbipol. et Franciæ Oriental. Dux</em>. Wallerant Vaillant, <em>Johann Philipp von Schönborn, Archbishop of Mainz</em> (Fig. 2), c. 1658–59. Black and white chalk on gray-blue paper. Signed, <em>W. Vaillant fe</em>. 552 × 441 mm. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980‑514. An engraved portrait of Schönborn by Caspar Merian was published, with full-page portraits of the newly crowned emperor and the other electors, in Caspar Merian, <em>Beschreibung und Abbildung Aller Königl. und Churfürstl: Ein-Züge / Wahl und Crönungs Acta, So geschehen zu Franckfurt am Mayn / im Jahr 1658</em>, Frankfurt am Main, 1658, n.p. A French inscription on the former mat of the Harvard drawing—by Ambroise Firmin-Didot?—also identifies the sitter as <em>Jean Philippe, Archeveque / de Mayence</em>.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-7"><sup><a href="#fnrev8022585235ef6643b15613-7">7</a></sup> In addition to the portraits of the seven electors, the group includes likenesses of Emperor Leopold I; the papal nuncio Giuseppe Maria Sanfelice, Archbishop of Cosenza; Johan Maurits van Nassau-Siegen; Prince Rupert of the Rhine; and an unidentified dignitary. For this group, see Christien Melzer, <em>Von der Kunstkammer zum Kupferstich-Kabinett. Zur Frühgeschichte des Graphiksammelns in Dresden (1560–1738)</em> (Hildesheim, Germany; Zurich; and New York, 2010), no. Ca 55, pp. 284–85, and 691. My thanks to Angela Rietschel of the Staatliche Kunstsammlungen Dresden for a list of the portrait drawings by Vaillant in the Dresden Kupferstich-Kabinett.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-8"><sup><a href="#fnrev8022585235ef6643b15613-8">8</a></sup> “mit truckenen Farben auf Mappa, grau in grau gemahlet . . . in einen von Eubenen Holz fournirten flammichten Rahmen.” Melzer, pp. 284– 85.</p>
+
+<p class="footnote" id="fn8022585235ef6643b15613-9"><sup><a href="#fnrev8022585235ef6643b15613-9">9</a></sup> This summary of Johann Philipp von Schönborn’s achievements is based on Friedhelm Jürgensmeier, “Johann Philipp von Schönborn (1605–1673) Erzbischof—Kurfürst—Erzkanzler des Reiches” (2005); see Regionalgeschichte.net (consulted 28 July 2013 and 23 August 2014), at <a href="http://www.regionalgeschichte.net/bibliothek/texte/aufsaetze/juergensmeier-schoenborn.html">http://www.regionalgeschichte.net/bibliothek/texte/aufsaetze/juergensmeier-schoenborn.html</a>.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/294678/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Wallerant Vaillant, <em>Johann Philipp von Schönborn, Archbishop of Mainz</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/294678/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Wallerant Vaillant, <em>Johann Philipp von Schönborn, Archbishop of Mainz</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Ian Woodner</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1986</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1986.610</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums , written 2016<br>Wallerant Vaillant is best known as the ﬁrst professional printmaker to specialize in mezzotint and for his technical innovations in that medium. A pioneer of the pastel portrait, he also developed a technique for drawing monochromatic likenesses in black and white chalk on blue paper, of which this work is a characteristic example. It belongs to a group of portraits of dignitaries who gathered in Frankfurt am Main in 1658 to elect a successor to Emperor Ferdinand III, who had died the previous year. In his Teutsche Academie of 1675, Joachim von Sandrart wrote that, faced with the opportunity of por-traying so many prominent individuals, Vaillant opted to depict them “life-size, in black and white on blue paper” rather than in the more time-consuming medium of oil paint. “In this way,” wrote Sandrart, “he was able to portray nearly all the high potentates who were present with astonishing speed and also with great elegance and...praiseworthy knowledge of his art.”(1)<br />
+<br />
+<br />
+Vaillant’s innovative technique, which enabled him to obtain a range of tonal values that lend a pictorial ﬁnish and lifelike naturalism to the portrait, depended on his skillful working of powdered colored chalks with a stump. In the Harvard portrait, he used black and white chalk and, by varying the quantity of the ﬁnely ground dry pigment distributed on the paper, modulated the values from rich, velvety blacks to luminous, light grays.(2) Within some passages of blacks and grays — for example, in the hair in the Harvard portrait — he modeled the forms by lifting out some of the black pigment with, perhaps, a clean stump or kneaded fresh bread.(3) To ﬁnish the portrait, he added strokes of white chalk to the nose, hair, edge of the collar, and decorative elements of the doublet and cross, and he used a sharpened black chalk for ﬁne detailing in the facial features, hair, and doublet. According to an eighteenth-century source, Vaillant constructed stumps “of several rolls of white paper,...roll’d up very hard and close, bigger or lesser according as his work requir’d with which he rubb’d in the several colours.”(4)<br />
+<br />
+<br />
+Among the portraits Vaillant executed in Frankfurt in 1658 were likenesses of the seven electors, including Johann Philipp von Schönborn, Archbishop of Mainz, who voted to elevate the Austrian archduke Leopold to the imperial throne as Emperor Leopold I.(5) That Schönborn is the subject of the Harvard portrait is conﬁrmed by the text beneath the etching Vaillant executed after either the Harvard work or the later version of it in Dresden (Figs. 1, 2).(6) The latter belongs to a second series of twelve portraits, which the Saxon elector Johann Georg II ordered from Vaillant in 1658 or 1659, depicting dignitaries who attended the Frankfurt diet.(7) A Dresden document of 1659 describes Vaillant’s original portrait of Johann Georg II as “painted gray in gray with dry colors on paper” — an afﬁrmation that his contemporaries responded to the pictorial qualities of his drawings — and reveals that it hung on the wall in an ebony wood frame.(8)<br />
+<br />
+Elected prince-bishop of Würzburg in 1642 and archbishop of Mainz in 1647, Johann Philipp von Schönborn was the highest ranking prince of the Empire, its arch-chancellor, incumbent of its most prestigious ecclesiastical ofﬁce, and a politician of European stature. He skillfully wielded his considerable secular power to secure peace and restore prosperity to territories devastated during the Thirty Years’ War. In 1647–48, he led a group of moderates that maneuvered the emperor and conservative Catholics into a religious compromise with liberal Protestants, precipitating a swift conclusion to the historic Treaty of Westphalia. With his militarily weak territories sandwiched between the great powers of Austria and France, he deftly adjusted his allegiance to the two rivals during the 1650s and 1660s. In Frankfurt in the summer of 1658, Johann Philipp and the French diplomat Hugues de Lionne — the subject of another portrait by Vaillant in the museums’ collection (1986.611)—negotiated the League of the Rhine, a defensive agreement between a confederation of German princes and the French king that aimed to curtail the military ambitions of Austria.(9) <br />
+<br />
+<br />
+Notes <br />
+<br />
+1. "...sowol in Teutschland als in Holland berühmt / übergabe sich erstlich dem Lobgerüchte / durch seine gute Mahlerey von Historien und modernen Bildern / auch Contrafäten: deren er / bey dem letzten Wahl-Tag zu Frankfurt soviel gemacht / daß er endlich genötiget wurde / zu deren beschleunigung / solche mit Schwarz und Weiß auf blau Papier in Lebens-Größe zu zeichnen. Auf solche weise / hat er fast alle hohe anwesende Potentaten / mit verwunderlicher Geschwindigkeit / auch großer Zier und erweisung preiswürdiger Kunst-Wissenschaft / gecontrafätet.” Sandrart 1675, vol. 2, book 3, p. 374. Translation partly after Timothy Riggs in Chapel Hill, NC 2001, cat. 19, p. 60. <br />
+<br />
+2.  I am grateful to Dr. Timothy Mayhew for the following account of Vaillant’s technique, based on his examination of the two Harvard portraits, 1986.610 and 1986.611.<br />
+ <br />
+3.  Vaillant perfected the technique of reductive modeling in drawings by lifting some of the media from areas of tone before he learned about mezzotint from his patron, Prince Rupert of the Rhine, during the mid-1650s. The similarity of this process to working from dark to light in mezzotint by scraping away the highlights is obvious and must explain in part Vaillant’s facility with the medium and the rapid technical advances he made after Prince Rupert introduced him to it. <br />
+<br />
+4.  Barrow et al. 1735, n.p., “Crayons” entry. My thanks to Timothy Mayhew for this reference. <br />
+<br />
+5.  Portraits by Vaillant of all seven electors are in Dresden. In three cases, another version, measuring about 585 × 450 mm, has been identified. <br />
+<br />
+Friedrich Wilhelm von Hohenzollern, Elector of Brandenburg. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.517. Another version was formerly with Jean-Paul Meulenmeester, Brussels, exhibited at Foire des Antiquaires, Brussels, April 1978, and earlier with William H. Schab Gallery, New York, 1974, cat. 33. Signed, dated, upper left, W. Vaillant Fe. 1658. 585 × 456 mm. Misidentified by Schab and Meulenmeester as a portrait of François de Bonne de Créqui, duc de Lesdiguières. <br />
+<br />
+Johann Georg II, Duke of Saxony, Elector of Saxony. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.509. <br />
+Ferdinand Maria, Duke of Bavaria, Elector of Bavaria. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.511. <br />
+<br />
+Karl Ludwig von Bayern, Pfalzgraf vom Rhein, Palatine Elector. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.515. <br />
+<br />
+Johann Philipp von Schönborn, Archbishop of Mainz (Fig. 2). Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.514. Another version is the present work, Harvard Art Museums/Fogg Museum, 1986.610. Signed and dated W. Vaillant fecit / 1658. 592 × 457 mm. <br />
+<br />
+Karl Kaspar van der Leijen, Archbishop of Trier. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.510. Another version, now in an American private collection, was with David Tunick, Inc., New York, in 2008, as Maximilian Heinrich, Elector of Cologne. Formerly with Paul Prouté, 1992, cat. “Reni,” no. 14. Signed and dated upper right, W. Vaillant_ / 165(8?). 580 × 447 mm. <br />
+<br />
+Maximilian Heinrich von Bayern, Archbishop of Cologne. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980.516. See Dresden facsimiles, vol. 14, and Von Wurzbach 1906–11, vol. 2, p. 734. <br />
+<br />
+6.  Wallerant Vaillant, Johann Philipp von Schönborn, Archbishop of Mainz (Fig. 1), c. 1658–60. Etching. 305 × 220 mm. Amsterdam, Rijksmuseum, RP-P-1913-859. Hollstein, vol. 31, no. 8, p. 64. Printed Latin text, Eminentissimus ac Reverendissimus Dnus. Dnus. [sic] Joannes Philippus Dei / gratiâ Sacr. Sedis Moguntinæ Archiepiscopus S. R. Imperij per Germaniam / Archicancell. Princeps Elect. Episcopus Herbipol. et Franciæ Oriental. Dux. Wallerant Vaillant, Johann Philipp von Schönborn, Archbishop of Mainz (Fig. 2), c. 1658–59. Black and white chalk on gray-blue paper. Signed, W. Vaillant fe. 552 × 441 mm. Dresden, Staatliche Kunstsammlungen, Kupferstich-Kabinett, C 1980-514. An engraved portrait of Schönborn by Caspar Merian was published, with full-page portraits of the newly crowned emperor and the other electors, in Caspar Merian, Beschreibung und Abbildung Aller Königl. und Churfürstl: Ein-Züge / Wahl und Crönungs Acta, So geschehen zu Franckfurt am Mayn / im Jahr 1658, Frankfurt am Main, 1658, n.p. A French inscription on the former mat of the Harvard drawing—by Ambroise Firmin-Didot? —also identifies the sitter as Jean Philippe, Archeveque / de Mayence.<br />
+<br />
+7.   In addition to the portraits of the seven electors, the group includes likenesses of Emperor Leopold I; the papal nuncio Giuseppe Maria Sanfelice, Archbishop of Cosenza; Johan Maurits van Nassau-Siegen; Prince Rupert of the Rhine; and an unidentified dignitary. For this group, see Melzer 2010, no. Ca 55, pp. 284–85, and 691. My thanks to Angela Rietschel of the Staatliche Kunstsammlungen Dresden for a list of the portrait drawings by Vaillant in the Dresden Kupferstich-Kabinett. <br />
+<br />
+8.   “mit truckenen Farben auf Mappa, grau in grau gemahlet . . . in einen von Eubenen Holz fournirten flammichten Rahmen.” Melzer 2010, pp. 284–85. <br />
+<br />
+9.   This summary of Johann Philipp von Schönborn’s achievements is based on Friedhelm Jürgensmeier, “Johann Philipp von Schönborn (1605–1673) Erzbischof—Kurfürst —Erzkanzler des Reiches” (2005); see "Regionalgeschichte.net (consulted 28 July 2013 and 23 August 2014), at http://www.regionalgeschichte.net/bibliothek/texte/aufsaetze/juergensmeier-schoenborn.html.<br />
+<br />
+<br />
+<br />
+William W. Robinson</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Charles Yriarte, <em>Catalogue de l'Exposition de l'art français sour Louis XIV et sous Louis XV</em>, exh. cat., Maison Quantin (Paris, 1888), part of cat. no. 60, p. 30
+                             </p>
+                                                      <p>
+                                              Alfred von Wurzbach, <em>Niederländisches Künstler-Lexikon</em>, Halm und Goldmann (Vienna and Leipzig, 1906-1911), vol. 2, p. 735
+                             </p>
+                                                      <p>
+                                              Carol C. Gillham and Carolyn H. Wood, <em>European Drawings from the Collection of the Ackland Art Museum</em>, The University of North Carolina at Chapel Hill (Chapel Hill, NC, 2001), under cat. no. 19, pp. 60-61 (n. 5)
+                             </p>
+                                                      <p>
+                                              Neil Jeffares, <em>Dictionary of Pastellists before 1800</em>, Unicorn Press (London, 2006), p. 526
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 23; cat. no. 86, pp. 287-289, repr. p. 288
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>32Q: 2300 Dutch & Flemish</em>, Harvard Art Museums, Cambridge, 04/26/2018 - 10/31/2018
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71791_dynmc?width=200&height=200" alt="Johann Philipp Von Schönborn, Archbishop Of Mainz">
+                <span class="popup__artwork-info-id">1986.610</span>
+        <span class="popup__artwork-info-author">
+                                    Wallerant Vaillant
+                              </span>
+        <span class="popup__artwork-info-title">Johann Philipp von Schönborn, Archbishop of Mainz</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20294678%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294678">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294678" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Johann+Philipp+von+Sch%C3%B6nborn%2C+Archbishop+of+Mainz+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294678" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/294678" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_ff8e651bd05bcf35cdc59235a33f48ce" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

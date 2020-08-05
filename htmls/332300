@@ -1,0 +1,1390 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Untitled </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Untitled" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/332300"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Untitled" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?332300" data-behavior="add_to_collection tooltip" data-artwork="332300" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=332300" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/332300/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>BRLF.1007.1-211</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20002>Lyonel Feininger</a>, American                                                                                                                                                                                                                                                                          (New York, NY 1871 - 1956 New York, NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Untitled</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Photographs</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            slide,                                          photograph                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1940s-1950s</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/332300">https://hvrd.art/o/332300</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Slide, 35 mm, black and white</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>3 x 3.5 cm (1 3/16 x 1 3/8 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Busch-Reisinger Museum, Gift of T. Lux Feininger</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© <a href="https://www.arsny.com/">Artists Rights Society (ARS), New York</a> / VG Bild-Kunst, Bonn</dd>
+            
+            
+            <dt>Object Number</dt>
+            <dd>BRLF.1007.1-211</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>The Bauhaus</p>
+                          <p>Lyonel Feininger: Photographs</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9265">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225419_dynmc?width=256&height=256" alt="[Building And Clocktower]">
+                                    <span class="related-artwork__obj">BRLF.1007.169</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Building and clocktower]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9266">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225425_dynmc?width=256&height=256" alt="[Road, Houses, Trees]">
+                                    <span class="related-artwork__obj">BRLF.1007.175</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Road, houses, trees]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9267">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225426_dynmc?width=256&height=256" alt="[Road, House, Trees]">
+                                    <span class="related-artwork__obj">BRLF.1007.176</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Road, house, trees]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9268">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225427_dynmc?width=256&height=256" alt="[Field And Dam]">
+                                    <span class="related-artwork__obj">BRLF.1007.177</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Field and dam]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9269">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225428_dynmc?width=256&height=256" alt="[Road, Building, Trees]">
+                                    <span class="related-artwork__obj">BRLF.1007.178</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Road, building, trees]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9270">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225431_dynmc?width=256&height=256" alt="[Buildings And Trees]">
+                                    <span class="related-artwork__obj">BRLF.1007.181</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings and trees]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9578">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225338_dynmc?width=256&height=256" alt="[Lux And Julia Feininger On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.88</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Lux and Julia Feininger on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9579">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225342_dynmc?width=256&height=256" alt="[Boat]">
+                                    <span class="related-artwork__obj">BRLF.1007.92</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9580">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225363_dynmc?width=256&height=256" alt="[Ship And Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.113</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ship and figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9581">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225366_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.116</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9582">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225367_dynmc?width=256&height=256" alt="Rochus">
+                                    <span class="related-artwork__obj">BRLF.1007.117</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Rochus</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9583">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225374_dynmc?width=256&height=256" alt="[Chairs On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.124</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Chairs on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9590">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225360_dynmc?width=256&height=256" alt="[Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.110</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9591">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225369_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.119</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9592">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225371_dynmc?width=256&height=256" alt="[Workers On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.121</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Workers on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9593">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225372_dynmc?width=256&height=256" alt="[Volleyball Players On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.122</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Volleyball players on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9604">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225378_dynmc?width=256&height=256" alt="[Figures Seated On Deck Chairs]">
+                                    <span class="related-artwork__obj">BRLF.1007.128</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures seated on deck chairs]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9605">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225386_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.136</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9606">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225388_dynmc?width=256&height=256" alt="[Woman On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.138</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Woman on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9607">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225397_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.147</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9608">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225401_dynmc?width=256&height=256" alt="[Boat]">
+                                    <span class="related-artwork__obj">BRLF.1007.151</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9609">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225407_dynmc?width=256&height=256" alt="[Building]">
+                                    <span class="related-artwork__obj">BRLF.1007.157</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Building]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9610">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225373_dynmc?width=256&height=256" alt="[Boat]">
+                                    <span class="related-artwork__obj">BRLF.1007.123</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9622">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225379_dynmc?width=256&height=256" alt="[Figures Seated On Deck Chairs]">
+                                    <span class="related-artwork__obj">BRLF.1007.129</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures seated on deck chairs]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9623">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225387_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.137</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9624">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225396_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.146</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9625">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225398_dynmc?width=256&height=256" alt="[Boat]">
+                                    <span class="related-artwork__obj">BRLF.1007.148</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9626">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225406_dynmc?width=256&height=256" alt="[Ship And Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.156</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ship and figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9627">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225409_dynmc?width=256&height=256" alt="[Sailboat]">
+                                    <span class="related-artwork__obj">BRLF.1007.159</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sailboat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9628">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225411_dynmc?width=256&height=256" alt="[Monument In Plymouth, Massachusetts]">
+                                    <span class="related-artwork__obj">BRLF.1007.161</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Monument in Plymouth, Massachusetts]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9629">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225412_dynmc?width=256&height=256" alt="[Trees]">
+                                    <span class="related-artwork__obj">BRLF.1007.162</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9635">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225375_dynmc?width=256&height=256" alt="[Volleyball Players On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.125</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Volleyball players on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9636">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225382_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.132</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9637">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225383_dynmc?width=256&height=256" alt="[Figures Seated On Deck Chairs, Viewed From Above]">
+                                    <span class="related-artwork__obj">BRLF.1007.133</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures seated on deck chairs, viewed from above]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9638">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225384_dynmc?width=256&height=256" alt="[Partial View Of Ship And Cranes]">
+                                    <span class="related-artwork__obj">BRLF.1007.134</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Partial view of ship and cranes]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9639">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225385_dynmc?width=256&height=256" alt="[Partial View Of Ship]">
+                                    <span class="related-artwork__obj">BRLF.1007.135</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Partial view of ship]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9640">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225390_dynmc?width=256&height=256" alt="[Woman Descending Steps From Upper Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.140</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Woman descending steps from upper ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9641">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225391_dynmc?width=256&height=256" alt="[Ocean And Boats]">
+                                    <span class="related-artwork__obj">BRLF.1007.141</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ocean and boats]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9642">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225399_dynmc?width=256&height=256" alt="[Partial View Of Ship]">
+                                    <span class="related-artwork__obj">BRLF.1007.149</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Partial view of ship]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9643">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225404_dynmc?width=256&height=256" alt="[Man And Woman On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.154</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Man and woman on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9644">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225405_dynmc?width=256&height=256" alt="[Figures On Ship, Looking Through Windows]">
+                                    <span class="related-artwork__obj">BRLF.1007.155</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship, looking through windows]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9645">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225416_dynmc?width=256&height=256" alt="[Trees And Building]">
+                                    <span class="related-artwork__obj">BRLF.1007.166</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees and building]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9646">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225417_dynmc?width=256&height=256" alt="[Buildings And Rubble]">
+                                    <span class="related-artwork__obj">BRLF.1007.167</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings and rubble]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9647">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225448_dynmc?width=256&height=256" alt="Addam's House">
+                                    <span class="related-artwork__obj">BRLF.1007.198</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Addam's house</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9648">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225449_dynmc?width=256&height=256" alt="Silo">
+                                    <span class="related-artwork__obj">BRLF.1007.199</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Silo</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9649">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225451_dynmc?width=256&height=256" alt="Farm">
+                                    <span class="related-artwork__obj">BRLF.1007.201</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Farm</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9659">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225376_dynmc?width=256&height=256" alt="[Boat And Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.126</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boat and figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9660">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225377_dynmc?width=256&height=256" alt="[Three Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.127</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Three figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9661">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225380_dynmc?width=256&height=256" alt="[Cranes, Boats, Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.130</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cranes, boats, figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9662">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225381_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.131</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9663">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225389_dynmc?width=256&height=256" alt="[Partial View Of Ship And Crane]">
+                                    <span class="related-artwork__obj">BRLF.1007.139</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Partial view of ship and crane]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9664">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225392_dynmc?width=256&height=256" alt="[Ocean Waves]">
+                                    <span class="related-artwork__obj">BRLF.1007.142</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ocean waves]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9665">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225393_dynmc?width=256&height=256" alt="[Ocean And Boats]">
+                                    <span class="related-artwork__obj">BRLF.1007.143</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ocean and boats]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9666">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225394_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.144</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9667">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225395_dynmc?width=256&height=256" alt="[Bathers Clinging To Ship, Viewed From Above]">
+                                    <span class="related-artwork__obj">BRLF.1007.145</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Bathers clinging to ship, viewed from above]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9668">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225400_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.150</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9669">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225402_dynmc?width=256&height=256" alt="[Boats Along Coast]">
+                                    <span class="related-artwork__obj">BRLF.1007.152</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats along coast]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9670">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225408_dynmc?width=256&height=256" alt="[Buildings]">
+                                    <span class="related-artwork__obj">BRLF.1007.158</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9671">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225410_dynmc?width=256&height=256" alt="[Stadium Or Theater]">
+                                    <span class="related-artwork__obj">BRLF.1007.160</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Stadium or theater]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9672">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225413_dynmc?width=256&height=256" alt="[Ruin On The Cliff At Hoff]">
+                                    <span class="related-artwork__obj">BRLF.1007.163</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Ruin on the cliff at Hoff]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9673">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225414_dynmc?width=256&height=256" alt="[Two-Story Porch]">
+                                    <span class="related-artwork__obj">BRLF.1007.164</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Two-story porch]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9674">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225452_dynmc?width=256&height=256" alt="Farm">
+                                    <span class="related-artwork__obj">BRLF.1007.202</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Farm</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9675">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225458_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.208</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9690">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225450_dynmc?width=256&height=256" alt="Farm">
+                                    <span class="related-artwork__obj">BRLF.1007.200</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Farm</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9691">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225453_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.203</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9692">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225459_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.209</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9710">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225454_dynmc?width=256&height=256" alt="Barns">
+                                    <span class="related-artwork__obj">BRLF.1007.204</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barns</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9711">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225455_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.205</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9730">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225403_dynmc?width=256&height=256" alt="[Sailboats]">
+                                    <span class="related-artwork__obj">BRLF.1007.153</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sailboats]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9731">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225415_dynmc?width=256&height=256" alt="[Buildings]">
+                                    <span class="related-artwork__obj">BRLF.1007.165</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Buildings]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9732">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225418_dynmc?width=256&height=256" alt="[Two-Story Porch]">
+                                    <span class="related-artwork__obj">BRLF.1007.168</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Two-story porch]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9733">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225456_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.206</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9734">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225457_dynmc?width=256&height=256" alt="Barns">
+                                    <span class="related-artwork__obj">BRLF.1007.207</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barns</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9735">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225460_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.210</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9736">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225461_dynmc?width=256&height=256" alt="Barn">
+                                    <span class="related-artwork__obj">BRLF.1007.211</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Barn</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9765">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225251_dynmc?width=256&height=256" alt="[Boats And Clouds]">
+                                    <span class="related-artwork__obj">BRLF.1007.1</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats and clouds]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9766">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225260_dynmc?width=256&height=256" alt="[Part Of A Ship]">
+                                    <span class="related-artwork__obj">BRLF.1007.10</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Part of a ship]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9767">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225261_dynmc?width=256&height=256" alt="[Boats And Flag]">
+                                    <span class="related-artwork__obj">BRLF.1007.11</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats and flag]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9768">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225266_dynmc?width=256&height=256" alt="[Flag And Ship]">
+                                    <span class="related-artwork__obj">BRLF.1007.16</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Flag and ship]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9769">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225267_dynmc?width=256&height=256" alt="[Sailboat]">
+                                    <span class="related-artwork__obj">BRLF.1007.17</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sailboat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9780">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225254_dynmc?width=256&height=256" alt="[View Of Hamburg Harbor]">
+                                    <span class="related-artwork__obj">BRLF.1007.4</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View of Hamburg harbor]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9781">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225257_dynmc?width=256&height=256" alt="[Train]">
+                                    <span class="related-artwork__obj">BRLF.1007.7</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Train]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9782">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225262_dynmc?width=256&height=256" alt="[Flag And Passengers On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.12</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Flag and passengers on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9783">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225264_dynmc?width=256&height=256" alt="[Flag And Boat]">
+                                    <span class="related-artwork__obj">BRLF.1007.14</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Flag and boat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9784">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225270_dynmc?width=256&height=256" alt="[Sailboat, Man On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.20</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Sailboat, man on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9785">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225273_dynmc?width=256&height=256" alt="[Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.23</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9786">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225275_dynmc?width=256&height=256" alt="[Large Metallic Structure]">
+                                    <span class="related-artwork__obj">BRLF.1007.25</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Large metallic structure]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9787">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225281_dynmc?width=256&height=256" alt="[Woman With Camera On Ship Deck, Looking At Boats]">
+                                    <span class="related-artwork__obj">BRLF.1007.31</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Woman with camera on ship deck, looking at boats]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9788">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225286_dynmc?width=256&height=256" alt="Sonne">
+                                    <span class="related-artwork__obj">BRLF.1007.36</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">Sonne</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9789">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225289_dynmc?width=256&height=256" alt="[Cars And Figures On Ship Deck, Viewed From Above]">
+                                    <span class="related-artwork__obj">BRLF.1007.39</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cars and figures on ship deck, viewed from above]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9795">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225255_dynmc?width=256&height=256" alt="[Boats In Hamburg Harbor]">
+                                    <span class="related-artwork__obj">BRLF.1007.5</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats in Hamburg harbor]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9796">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225256_dynmc?width=256&height=256" alt="[Boats]">
+                                    <span class="related-artwork__obj">BRLF.1007.6</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9797">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225263_dynmc?width=256&height=256" alt="[Flag, Tugboat, Passengers On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.13</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Flag, tugboat, passengers on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9798">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225265_dynmc?width=256&height=256" alt="[Forearm]">
+                                    <span class="related-artwork__obj">BRLF.1007.15</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Forearm]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9799">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225271_dynmc?width=256&height=256" alt="[Large Metallic Structure]">
+                                    <span class="related-artwork__obj">BRLF.1007.21</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Large metallic structure]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9800">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225274_dynmc?width=256&height=256" alt="[Flag, Tugboat, Figures On Ship Deck]">
+                                    <span class="related-artwork__obj">BRLF.1007.24</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Flag, tugboat, figures on ship deck]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9801">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225280_dynmc?width=256&height=256" alt="[Dockworkers, Viewed From Above]">
+                                    <span class="related-artwork__obj">BRLF.1007.30</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Dockworkers, viewed from above]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9802">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225287_dynmc?width=256&height=256" alt="[Brick Facade]">
+                                    <span class="related-artwork__obj">BRLF.1007.37</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Brick facade]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9803">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225288_dynmc?width=256&height=256" alt="[Figures Leaning Over Ship Deck Railing]">
+                                    <span class="related-artwork__obj">BRLF.1007.38</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Figures leaning over ship deck railing]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/9804">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV225291_dynmc?width=256&height=256" alt="[Beach Near Havana, Cuba, 1936]">
+                                    <span class="related-artwork__obj">BRLF.1007.41</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Beach near Havana, Cuba, 1936]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">BRLF.1007.1-211</span>
+        <span class="popup__artwork-info-author">
+                                    Lyonel Feininger
+                              </span>
+        <span class="popup__artwork-info-title">Untitled</span>
+        <span class="popup__artwork-info-class">Photographs</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20332300%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F332300">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F332300" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Untitled+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F332300" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_f61cb03a5346bef8af1a6640b6b13963" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

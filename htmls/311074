@@ -1,0 +1,687 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Lamp in the Shape of a Trussed Male Gazelle </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Lamp in the Shape of a Trussed Male Gazelle" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/311074"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC250936_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Lamp in the Shape of a Trussed Male Gazelle" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47334802" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC250936_dynmc?width=3000&height=3000" data-initial-image-id="47334802" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?311074" data-behavior="add_to_collection tooltip" data-artwork="311074" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=311074&amp;image_id=DDC250936" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/311074/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC250936">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250936_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334802" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250936_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251016">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251016_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334803" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251016_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251017">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251017_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334804" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251017_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251018">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251018_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334805" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251018_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC251088">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251088_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="Detail of spout" data-object-copyright="President and Fellows of Harvard College" data-image-id="47334821" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251088_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR009224">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR009224_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="" data-image-id="45605239" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR009224_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR009395">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR009395_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="" data-image-id="45609116" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR009395_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017813">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017813?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400099172" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017813?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017814">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017814?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400099176" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017814?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="40887">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:40887_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182441" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:40887_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="40889">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:40889_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Lamp In The Shape Of A Trussed Male Gazelle" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182442" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:40889_dynmc?width=125&height=125" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1968.109</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Lamp in the Shape of a Trussed Male Gazelle</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Lighting Devices</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            lighting device                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>2nd-4th century CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Africa, Egypt (Ancient)                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Roman Imperial period</dd>
+                                        <dt>Culture</dt>
+                <dd>Roman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/311074">https://hvrd.art/o/311074</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 3, Room 3700, Ancient Mediterranean and Near Eastern Art, Roman Art<br>
+            <a href="/visit/floor-plan/3?gallery=3700" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leaded bronze</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>14.3 x 10.2 x 10.3 cm (5 5/8 x 4 x 4 1/16 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: ICP-MS/AAA data from sample, Leaded Bronze:<br />
+Cu, 66.64; Sn, 7.36; Pb, 25.42; Zn, 0.009; Fe, 0.07; Ni, 0.04; Ag, 0.04; Sb, 0.06; As, 0.31; Bi, less than 0.025; Co, 0.061; Au, less than 0.01; Cd, less than 0.001<br />
+<br />
+J. Riederer</p>
+                                      <p class="divider">Chemical Composition: XRF data from Tracer<br />
+Alloy: Leaded Bronze<br />
+Alloying Elements: copper, tin, lead<br />
+Other Elements: iron<br />
+<br />
+K. Eremin, January 2014</p>
+                                      <p class="divider">Technical Observations: The patina is green with areas of red. The surface has been cleaned mechanically, leaving small scratches in the surface of the corrosion products in most areas. The proper left tripod foot is a modern copper alloy restoration that begins 8 mm from the body. The hinged lid is fixed in place by corrosion products. <br />
+ <br />
+The lamp was cast by the lost-wax process. The interior surfaces follow the contours of the exterior at the animal’s rear legs, and it is likely that an indirect casting process was used. Elongated chaplet holes (4 x 1 mm) are visible at both sides of the animal on the surface and in the x-radiograph. The twists in the horns and other larger relief decorations appear to have been worked in the wax. The finer lines depicting the fur are punched into the surface of the bronze cast. <br />
+ <br />
+The vertical projection at the gazelle’s forehead is a hollow tube with walls 0.4 mm thick. There is a second tube of bronze inside this tube that is broken off at the same height as the outer tube; the inner tube must have been some form of removable attachment or a holder for the wick. The wall thickness at the tubes and elsewhere is too great to allow penetration by x-radiography. However, looking inside the vessel, it is evident that the seven legs are solid cast, and the neck, which is filled with soil, is hollow, probably all the way into the head. The hinged lid only serves to enlarge the size of the opening used to fill the lamp. Its edges appear finished, indicating that it is complete and would never have completely covered the larger portion of the hole.<br />
+ <br />
+ <br />
+Henry Lie (submitted 2001)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Mr. and Mrs. Norbert Schimmel, Long Island, NY, (by 1964), gift; to the Fogg Art Museum, 1968.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. and Mrs. Norbert Schimmel</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1968</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1968.109</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>This gazelle is suspended from its four legs, which are drawn up over its belly. The rear leg and foreleg on each side are crossed at the hocks and bound with rope. The flat hooves face forward and backward at 90 degrees to the body. The body sags to form a deep, rounded reservoir. The long neck curves forward, with crease marks shown in the skin. Its head is in an unnatural position; its muzzle is between its trussed forelegs. Its body and thighs are stippled to indicate fur. Four grooves on the body’s bulging sides indicate ribs or creases. Its open eyes are large, with heavy, hooded lids; a rosette or curly forelock falls between them. There are heavy tufts of hair at the base of its large ears. Straight, spiraled horns extend back from its head, and a large post rises between and slightly in front of them.<br />
+ <br />
+On the belly is a hinged, rectangular plate (2.9 x 1.5 cm) showing male genitalia in relief; the surface is stippled like the rest of the animal's body. The plate, which is complete, partially covers a pour hole, presumably to permit the lamp to be filled while burning. The straight end of the plate forms the inner side of the wick hole, which is large (2.9 x 2.1 cm) and rounded.<br />
+ <br />
+The lamp stands on a tripod formed by three bent gazelle legs with the flat, cloven hooves on square plates (2 x 2 cm). The proper left foreleg is modern. The gazelle's tail curves downward from under the nozzle and is attached to the bend of the front tripod leg with a shell-like element to form a suspension loop.<br />
+ <br />
+A tube projects from the gazelle’s forehead. It has a finished edge into which a rod was inserted. The inner rod is broken off at the level of the outer tube. By analogy with a group of similar lamps, it is likely that the inner tube was a long handle or suspension device terminating in a bird head (1).<br />
+ <br />
+The lamp belongs to a group generally associated with Egypt and dated variously from the second century BCE through the second century CE, although only one example comes from a dated context (2). The gazelle (dorcas) is a small genus of antelope known to Pliny and Aelian as being native to North Africa and was a popular import to Rome (3). Roman mosaics and wall paintings usually show the animal captured in a net, but the Harvard lamp preserves an image that occurs throughout ancient Egyptian art and demonstrates that this artistic motif continued in use into the Roman and Coptic periods (4).<br />
+ <br />
+NOTES:<br />
+ <br />
+1. See M. Dodt, “Eine bronze Öllampe mit Tierkopf aus Zülpich und ihre möglichen Vorbilder,” Kölner Jahrbuch 33 (2000): 329-40, which describes and illustrates five examples (Bonn, Rheinisches Landesmuseum, inv. no. U1322; Cairo, Coptic Museum, inv. no. J. E. 38864; British Museum, inv. no. Q3593; Louvre, inv. no. N926; Turin, Museo Egizio, inv. no. 7198; and this piece), which he sees as forerunners of a lamp excavated in late Roman fill at ancient Zülpich. He believes they could be either censors or lamps (ibid., 340). In four examples the rod is attached to the back of the animal's neck; the example in the Louvre (ibid., 355, no. 5) has a similar tube within a tube rising from the forehead. Markings on the British Museum example suggest to Dodt that the long rod was removable when the lamp stood on a table or stand (ibid., 338).<br />
+ <br />
+2. See D. M. Bailey, A Catalogue of Lamps in the British Museum 4: Lamps of Metal and Stone, and Lampstands (London, 1996) 19, no. Q3593, pls. 18 and 183, dated to the first to second centuries CE and “made in Egypt.” For an example from a context dated to the second half of the second century CE, see ibid., 50, no. Q3719AE, pl. 61. For a similar example, see J. W. Hayes, Greek, Roman, and Related Metalware in the Royal Ontario Museum: A Catalogue (Toronto, 1984) 158-59, no. 247, an iron lamp from the Fayum dated to the second to first centuries BCE. See also id., Ancient Lamps in the Royal Ontario Museum 1: Greek and Roman Clay Lamps: A Catalogue (Toronto, 1980) 40-41, nos. 192-94, pl. 20, for clay derivatives of the same date also from the Fayum.<br />
+ <br />
+3. See J. M. C. Toynbee, Animals in Roman Life and Art (Baltimore, 1996) 145-47. One of the hunt scenes in the wall paintings at the monastery of St. Apollo at Bawit shows a gazelle hunt; see A. Badawy, Coptic Art and Archaeology: The Art of the Christian Egyptians from the Late Antique to the Middle Ages (Cambridge, MA, 1978) 248, fig. 4.24.<br />
+ <br />
+4. D. G. Mitten believes that Harvard's lamp is later than the examples cited above and puts it in the fourth century CE; see id. and A. Brauer, Dialogue with Antiquity: The Curatorial Achievement of George M. A. Hanfmann, exh. cat., Fogg Art Museum, Harvard University (Cambridge, MA, 1982) no. 56. The unusual lamp in the form of a bound bull from Edfu cited by H. Hoffmann, The Beauty of Ancient Art: Classical Antiquity, Near East, Egypt, exh. cat., Fogg Art Museum, Harvard University (Mainz, 1964) no. 101, is illustrated in P. Labib and V. Girgis, The Coptic Museum and the Fortress of Babylon at Old Cairo (Cairo, 1975) 12, pl. 25, dated to the fifth to sixth centuries CE. Badawy 1978 (supra 3) 321-32, gives examples of the inventiveness of theriomorphic forms in Roman Egypt, among which he cites an open lamp with volute nozzles whose rod-hook is supported by dolphins (ibid., figs. 5.6 and 5.12) and a lamp in Turin, also noted by Dodt 2000 (supra 1). He does not date these examples but discusses them in the context of fifth- to sixth-century CE items. However, the Turin lamp lacks the naturalism and careful surface detailing of the Harvard piece.<br />
+ <br />
+ <br />
+Jane Ayer Scott</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Herbert D. Hoffmann, ed., <em>The Beauty of Ancient Art: Classical Antiquity, Near East, Egypt. Exhibition of the Norbert Schimmel Collection, November 15, 1964 to February 14, 1965</em>, exh. cat., Verlag Philipp von Zabern (Mainz, 1964), no. 101.
+                             </p>
+                                                      <p>
+                                              <em>Fogg Art Museum Acquisitions, 1968</em>, Fogg Art Museum (Cambridge, MA, 1969), p. 120 (ill.).
+                             </p>
+                                                      <p>
+                                              David Gordon Mitten and Amy Brauer, <em>Dialogue with Antiquity, The Curatorial Achievement of George M. A. Hanfmann</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1982), p. 15, no. 56.
+                             </p>
+                                                      <p>
+                                              Michael Dodt, "Eine bronze Öllampe mit Tierkopf aus Zülpich und ihre möglichen Vorbilder", <em>Kölner Jahrbuch</em> (2000), Vol. 33, 329-40, p. 333, no. 2, figs. 8-9.
+                             </p>
+                                                      <p>
+                                              Ruth Bielfeldt, "The Lure and Lore of Light: Roman Lamps in the Harvard Art Museums", <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, ed. Susanne Ebbinghaus, Harvard Art Museums (Cambridge, MA, 2014), 170-91, pp. 185-89, fig. 8.8.a-c.
+                             </p>
+                                                      <p>
+                                              Susanne Ebbinghaus, ed., <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, Harvard Art Museum/Yale University Press (Cambridge, MA, 2014), pp. 185-188, fig. 8.8a-c
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Dialogue with Antiquity: The Curatorial Achievement of George M.A. Hanfmann</em>, Fogg Art Museum, 05/07/1982 - 06/26/1982
+                            </p>
+                          <p>
+                              <em>The Beauty of Ancient Art: the Norbert Schimmel Collection</em>, Fogg Art Museum, Cambridge, 11/15/1964 - 02/14/1965
+                            </p>
+                          <p>
+                              <em>Roman Gallery Installation (long-term)</em>, Harvard University Art Museums, Cambridge, 09/16/1999 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>32Q: 3700 Roman</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                          <p>Google Art Project</p>
+                          <p>Roman Domestic Art</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250936_dynmc?width=200&height=200" alt="Lamp In The Shape Of A Trussed Male Gazelle">
+                <span class="popup__artwork-info-id">1968.109</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Lamp in the Shape of a Trussed Male Gazelle</span>
+        <span class="popup__artwork-info-class">Lighting Devices</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20311074%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311074">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311074" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Lamp+in+the+Shape+of+a+Trussed+Male+Gazelle+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311074" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/311074" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_e2f1bcafc5931939ed6b880c4517c912" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

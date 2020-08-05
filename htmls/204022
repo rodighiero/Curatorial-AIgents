@@ -1,0 +1,780 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Album of Kano School Paintings (Kanoha gashū kenkon): Flower, Bird, Insect and Animal Subjects, by Yasunobu (1613-1685), Dōun (1625-1694), Tsunenobu (1636-1713), Tanshin (1653-1718) and Tansetsu (1654-1713) </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Album of Kano School Paintings (Kanoha gashū kenkon): Flower, Bird, Insect and Animal Subjects, by Yasunobu (1613-1685), Dōun (1625-1694), Tsunenobu (1636-1713), Tanshin (1653-1718) and Tansetsu (1654-1713)" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/204022"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:INV020566_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Album of Kano School Paintings (Kanoha gashū kenkon): Flower, Bird, Insect and Animal Subjects, by Yasunobu (1613-1685), Dōun (1625-1694), Tsunenobu (1636-1713), Tanshin (1653-1718) and Tansetsu (1654-1713)" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18785954" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:INV020566_dynmc?width=3000&height=3000" data-initial-image-id="18785954" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                      <span class="artwork__meta">Album cover</span>
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?204022" data-behavior="add_to_collection tooltip" data-artwork="204022" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=204022&amp;image_id=INV020566" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/204022/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.56.21</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Album of Kano School Paintings (Kanoha gashū kenkon): Flower, Bird, Insect and Animal Subjects, by Yasunobu (1613-1685), Dōun (1625-1694), Tsunenobu (1636-1713), Tanshin (1653-1718) and Tansetsu (1654-1713)</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Series/Book Title: Album of Kano School Paintings<br>                                                                                                              Transliterated Title: Kanōha gashū: ken                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            album                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1683</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: East Asia, Japan                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Edo period, 1615-1868</dd>
+                                        <dt>Culture</dt>
+                <dd>Japanese</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/204022">https://hvrd.art/o/204022</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Album; ink, color, and gold on silk</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>H. 33.6 cm x W. 49.5 cm x D. 8.0 cm (13 1/4 x 19 1/2 x 3 1/8 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.56.21</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>32Q: 2600 East Asian, Japanese, Chinese and Korean</em>, Harvard Art Museums, Cambridge, 12/07/2017 - 06/01/2018
+                            </p>
+                      </dd>
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199412">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14563_dynmc?width=3000&height=3000" alt="White And Pink Hibiscus And Peony">
+                                    <span class="related-artwork__obj">1943.56.21.16</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">White and Pink Hibiscus and Peony</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199413">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14565_dynmc?width=3000&height=3000" alt="Amarantus Gangeticus And Wood Crackers">
+                                    <span class="related-artwork__obj">1943.56.21.18</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">Amarantus Gangeticus and Wood Crackers</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199472">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14548_dynmc?width=3000&height=3000" alt="Black And White Monkeys Trying To Catch The Moon">
+                                    <span class="related-artwork__obj">1943.56.21.7</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Black and White Monkeys Trying to Catch the Moon</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199478">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14567_dynmc?width=3000&height=3000" alt="Mandarin Ducks By The Water">
+                                    <span class="related-artwork__obj">1943.56.21.20</span>
+                                      <h4 class="related-artwork__artist">Kano Tansetsu</h4>
+                                                        <h3 class="related-artwork__title">Mandarin Ducks by the Water</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199479">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC110595_dynmc?width=3000&height=3000" alt="Black-And-White Cat Under Peony With White And Yellow Butterflies">
+                                    <span class="related-artwork__obj">1943.56.21.21</span>
+                                      <h4 class="related-artwork__artist">Kano Tansetsu</h4>
+                                                        <h3 class="related-artwork__title">Black-and-white Cat Under Peony with White and Yellow Butterflies</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199498">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14539_dynmc?width=3000&height=3000" alt="Orchid In Bloom In A Porcelain Dish">
+                                    <span class="related-artwork__obj">1943.56.21.1</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Orchid in Bloom in a Porcelain Dish</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199499">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14541_dynmc?width=3000&height=3000" alt="Six Freshwater Trout In A Stream">
+                                    <span class="related-artwork__obj">1943.56.21.2</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Six Freshwater Trout in a Stream</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199500">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14547_dynmc?width=3000&height=3000" alt="Rabbit, Wave And Full Moon">
+                                    <span class="related-artwork__obj">1943.56.21.6</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Rabbit, Wave and Full Moon</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199501">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14549_dynmc?width=3000&height=3000" alt="Begonia In Bloom By A Garden Stream">
+                                    <span class="related-artwork__obj">1943.56.21.8</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Begonia in Bloom by a Garden Stream</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199502">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104712_dynmc?width=3000&height=3000" alt="Java Sparrows On White And Pink Plum">
+                                    <span class="related-artwork__obj">1943.56.21.9</span>
+                                      <h4 class="related-artwork__artist">Kano Yasunobu</h4>
+                                                        <h3 class="related-artwork__title">Java Sparrows on White and Pink Plum</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199503">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14557_dynmc?width=3000&height=3000" alt="Black Birds And Tree Chickens In Pond Amid Lotus And Water Plantain">
+                                    <span class="related-artwork__obj">1943.56.21.11</span>
+                                      <h4 class="related-artwork__artist">Kano Yasunobu</h4>
+                                                        <h3 class="related-artwork__title">Black Birds and Tree Chickens in Pond Amid Lotus and Water Plantain</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199504">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14558_dynmc?width=3000&height=3000" alt="Wood Crackers And Magnolia">
+                                    <span class="related-artwork__obj">1943.56.21.12</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">Wood Crackers and Magnolia</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199521">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14570_dynmc?width=3000&height=3000" alt="Pair Of Quail And Reeds">
+                                    <span class="related-artwork__obj">1943.56.21.22</span>
+                                      <h4 class="related-artwork__artist">Kano Tansetsu</h4>
+                                                        <h3 class="related-artwork__title">Pair of Quail and Reeds</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199522">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14573_dynmc?width=3000&height=3000" alt="Pheasant On A Rock">
+                                    <span class="related-artwork__obj">1943.56.21.25</span>
+                                      <h4 class="related-artwork__artist">Kano Dōun</h4>
+                                                        <h3 class="related-artwork__title">Pheasant on a Rock</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199523">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14574_dynmc?width=3000&height=3000" alt="Squirrel On Grape Vine">
+                                    <span class="related-artwork__obj">1943.56.21.26</span>
+                                      <h4 class="related-artwork__artist">Kano Dōun</h4>
+                                                        <h3 class="related-artwork__title">Squirrel on Grape Vine</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199537">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14575_dynmc?width=3000&height=3000" alt="Red And Black Carp Amid Reeds">
+                                    <span class="related-artwork__obj">1943.56.21.27</span>
+                                      <h4 class="related-artwork__artist">Kano Dōun</h4>
+                                                        <h3 class="related-artwork__title">Red and Black Carp Amid Reeds</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199538">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14577_dynmc?width=3000&height=3000" alt="Manchurian Great Tit Under White-And-Pink Tiger Lily">
+                                    <span class="related-artwork__obj">1943.56.21.29</span>
+                                      <h4 class="related-artwork__artist">Kano Dōun</h4>
+                                                        <h3 class="related-artwork__title">Manchurian Great Tit Under White-and-Pink Tiger Lily</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199565">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14564_dynmc?width=3000&height=3000" alt="Three Black Buffalo Under A Willow Tree By A Stream">
+                                    <span class="related-artwork__obj">1943.56.21.17</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">Three Black Buffalo under a Willow Tree by a Stream</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199566">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14566_dynmc?width=3000&height=3000" alt="White Tree Hibiscus With Black Butterfly And Bees">
+                                    <span class="related-artwork__obj">1943.56.21.19</span>
+                                      <h4 class="related-artwork__artist">Kano Tansetsu</h4>
+                                                        <h3 class="related-artwork__title">White Tree Hibiscus with Black Butterfly and Bees</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199567">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14571_dynmc?width=3000&height=3000" alt="Black-And-White Deer Under Maple Tree By A Waterfall">
+                                    <span class="related-artwork__obj">1943.56.21.23</span>
+                                      <h4 class="related-artwork__artist">Kano Tansetsu</h4>
+                                                        <h3 class="related-artwork__title">Black-and-White Deer Under Maple Tree by a Waterfall</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199568">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14572_dynmc?width=3000&height=3000" alt="Descending Geese">
+                                    <span class="related-artwork__obj">1943.56.21.24</span>
+                                      <h4 class="related-artwork__artist">Kano Tansetsu</h4>
+                                                        <h3 class="related-artwork__title">Descending Geese</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199569">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14576_dynmc?width=3000&height=3000" alt="Morning Glory And Butterflies">
+                                    <span class="related-artwork__obj">1943.56.21.28</span>
+                                      <h4 class="related-artwork__artist">Kano Dōun</h4>
+                                                        <h3 class="related-artwork__title">Morning Glory and Butterflies</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199570">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104714_dynmc?width=3000&height=3000" alt="White Camellia And Japanese Canary">
+                                    <span class="related-artwork__obj">1943.56.21.30</span>
+                                      <h4 class="related-artwork__artist">Kano Dōun</h4>
+                                                        <h3 class="related-artwork__title">White Camellia and Japanese Canary</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199786">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104711_dynmc?width=3000&height=3000" alt="Java Sparrow By Pink And Red Hibiscus Mutablis">
+                                    <span class="related-artwork__obj">1943.56.21.4</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Java Sparrow by Pink and Red Hibiscus Mutablis</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199787">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14551_dynmc?width=3000&height=3000" alt="Peacocks And Peony">
+                                    <span class="related-artwork__obj">1943.56.21.10</span>
+                                      <h4 class="related-artwork__artist">Kano Yasunobu</h4>
+                                                        <h3 class="related-artwork__title">Peacocks and Peony</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199793">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14543_dynmc?width=3000&height=3000" alt="Two Snipes In A Stream">
+                                    <span class="related-artwork__obj">1943.56.21.3</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">Two Snipes in a Stream</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199794">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14545_dynmc?width=3000&height=3000" alt="White And Black Pheasants, Chickens, Bamboo And Plum">
+                                    <span class="related-artwork__obj">1943.56.21.5</span>
+                                      <h4 class="related-artwork__artist">Kano Tsunenobu</h4>
+                                                        <h3 class="related-artwork__title">White and Black Pheasants, Chickens, Bamboo and Plum</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199795">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14560_dynmc?width=3000&height=3000" alt="Three Butterflies And A Bee Amid Wild Daisies And Violets">
+                                    <span class="related-artwork__obj">1943.56.21.13</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">Three Butterflies and a Bee Amid Wild Daisies and Violets</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199796">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104713_dynmc?width=3000&height=3000" alt="Two Java Sparrows Amid White And Pink Bell Flowers">
+                                    <span class="related-artwork__obj">1943.56.21.14</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">Two Java Sparrows Amid White and Pink Bell Flowers</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/199797">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:CARP14562_dynmc?width=3000&height=3000" alt="Twenty-Four Sea Shells On A Leaf">
+                                    <span class="related-artwork__obj">1943.56.21.15</span>
+                                      <h4 class="related-artwork__artist">Kano Tanshin</h4>
+                                                        <h3 class="related-artwork__title">Twenty-Four Sea Shells on a Leaf</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:INV020566_dynmc?width=200&height=200" alt="Album Of Kano School Paintings (Kanoha Gashū Kenkon): Flower, Bird, Insect And Animal Subjects, By Yasunobu (1613-1685), Dōun (1625-1694), Tsunenobu (1636-1713), Tanshin (1653-1718) And Tansetsu (1654-1713)">
+                <span class="popup__artwork-info-id">1943.56.21</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Album of Kano School Paintings (Kanoha gashū kenkon): Flower, Bird, Insect and Animal Subjects, by Yasunobu (1613-1685), Dōun (1625-1694), Tsunenobu (1636-1713), Tanshin (1653-1718) and Tansetsu (1654-1713)</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20204022%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F204022">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F204022" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Album+of+Kano+School+Paintings+%28Kanoha+gash%C5%AB+kenkon%29%3A+Flower%2C+Bird%2C+Insect+and+Animal+Subjects%2C+by+Yasunobu+%281613-1685%29%2C+D%C5%8Dun+%281625-1694%29%2C+Tsunenobu+%281636-1713%29%2C+Tanshin+%281653-1718%29+and+Tansetsu+%281654-1713%29+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F204022" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/204022" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_1cecd0c4c633e0626e3b9ed833dde0d5" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

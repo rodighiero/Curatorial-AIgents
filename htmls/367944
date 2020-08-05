@@ -1,0 +1,629 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Ushabti of Nesbanebdjed </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Ushabti of Nesbanebdjed" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/367944"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:772078?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Ushabti of Nesbanebdjed" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_482807013" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:772078?width=3000&height=3000" data-initial-image-id="482807013" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?367944" data-behavior="add_to_collection tooltip" data-artwork="367944" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=367944&amp;image_id=772078" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/367944/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="772078">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772078?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807013" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772078?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772079">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772079?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807009" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772079?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772080">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772080?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807029" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772080?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772081">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772081?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807017" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772081?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772082">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772082?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807025" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772082?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772083">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772083?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807005" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772083?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772084">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772084?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807021" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772084?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772085">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772085?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482806997" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772085?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772086">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772086?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807001" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772086?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772092">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772092?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807094" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772092?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772093">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772093?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807090" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772093?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="772094">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:772094?width=3000&height=3000" data-zoom-enabled="1"  title="Ushabti Of Nesbanebdjed" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="482807086" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:772094?width=125&height=125" alt="Ushabti Of Nesbanebdjed">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2019.354</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Ushabti of Nesbanebdjed</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture,                                          statuette                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>380-343 BCE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Africa, Egypt (Ancient)                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Late Period, Dynasty 30, to Ptolemaic</dd>
+                                        <dt>Culture</dt>
+                <dd>Egyptian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/367944">https://hvrd.art/o/367944</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Faience</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Mold-made</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>19.7 cm (7 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          label: Wraps around front and sides of Ushabti: [1] sHD wsir imy-xnt wp nTr.wi Hm-nTr wsir m anp xnty Hmw nTr imy-r<br />
+[2] wab sxmt HAt-mHyt Hm-nTr bA-nb-Dd ns-bA-nb-Dd ms [n] Sntyt mAa-xrw Dd=f i.wSb<br />
+[3] ty ipn ir ip.tw wsir imy-xnt wp nTr.wi Hm-nTr wsir m<br />
+[4] anp xnty Hmw nTr imy-r wab sxmt HAt-mHyt Hm-nTr bA-nb-Dd ns-bA-nb-Dd<br />
+[5] ms [n] Sntyt mAa-xrw [r irt] kAt [-nbt irt im] m Xrt-nTr is.t[w.tn] <br />
+[6] Hw sDbw im m s r Xrt=f<br />
+[7] mk -sw mk -wi kA=tn ip.tw<br />
+[8] r nw -nb irt [tw] im r srwD sxwt<br />
+[9] r smHy wDbw r Xnt Say<br />
+[10] imntt iAbtt Ts[-pXr] irtt mk -wi kA=tn<br />
+[1] May the Osiris, the chamberlain, the one who separates the Two Gods, the priest of Osiris in Thmuis, the foremost of priests, the overseer of [2] the wab-priests of Sekhmet in Mendes, the priest of Banebdjed, Nesbanebdjed, born to Shentyt, justified, shine. He says: O these [3] ushabtis, if counted upon by the Osiris, the chamberlain, the one who separates the Two Gods, the priest of Osiris in [4] Thmuis, the foremost of priests, the overseer of the priests of Sekhmet in Mendes, the priest of Banebdjed, Nesbanebdjed, [5] born to Shentyt, justified, [to do all] the works that are to be done [there] in the necropolis; if [you] are summoned [6] to defeat an obstacle implanted there, as a man at his duties, [7] "here he is, here I am," you shall say when you are counted upon, [8] "at any time to serve [you] there, to maintain the fields, [9] to irrigate the riverbanks, to ferry the sand of [10] the west [to] the east and vice[-versa], Here I am," you shall say.
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Ralph M. Blanchard Antiquities, Cairo, (by 1905)], sold; to Miss. Richardson, (1905 - ?). [Marjorie Jones, Suffolk Gallery, Camden, Maine], sold; to [Ross Levett Antiques, Thomaston, Maine (by 2011)], sold; to [Ward & Company Works of Art, New York, (2011-2012)], sold; to Eric Kaufman, Weston, CT, (2012-2019), gift; to the Harvard Art Museums.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Eric R. Kaufman, L. '67</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2019</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2019.354</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>Light blue-green faience ushabti of the overseer of the priests of Sekhmet in Mendes and priest of the ram god Banebdjed, Nesbanebdjed. The ushabti wears a braided, curved false beard, identifying him with the god Osiris. His hands are crossed on the front of his chest and the edge of his cloak is visible between them. The presence of the cloak further identifies the figure as mummiform and therefore deceased. The ushabti holds a pick in his left hand; in his right hand he holds a hoe and the cord for a bag of seeds that drapes over his left shoulder. A pillar is present on the back of the statuette. The back-pillar, seed bag over the left shoulder, possession of two different implements in the hands, and “Greek” smile are all stylistic indicators of a Late Period date. Ten lines of text in horizontal registers, consisting of the ushabti spell with the name and titles of Nesbanebdjed, surround the body.</dd>
+                                            <dt>Commentary</dt>
+                <dd>Nesbanebdjed’s burial was excavated at Tell er-Rub’a (ancient Mendes) in the Nile Delta by British Egyptologist James E. Quibell. The tomb was paved with limestone blocks. 360 faience ushabtis, and fragments of others, were recovered from the tomb. They comprised five types: 15 with a “very well modelled” horizontal inscription--of which this ushabti was one; 322 with a T-shaped inscription on the front of the body; 10 with 6 lines of inscription (presumably horizontal), “rudely made”; 5 with one line of inscription (presumably vertical); and 10 with no inscription, “rudely made.” All of those with inscriptions bore Nesbanebdjed’s name. Quibell suggested that the uninscribed ones, of which there were a large number of fragments, may have belonged to a burial discovered next to Nesbanebdjed’s, which is presumed to have been looted in antiquity.<br />
+<br />
+For other ushabtis belonging to Nesbanebdjed, see:<br />
+•With the horizontal inscription: Royal Athena Galleries, New York (Art of the Ancient World, vol. 20, 2009, 87, no. 197)<br />
+•With the T-shaped inscription: one in Leiden (Schneider, Shabtis, 1977, II 184-5 and III pl. 61, with list of examples in other museums and collections), one at the British Museum (EA54532), two at the Frank H. McClung Museum at the University of Tennessee, Knoxville, and another sold by Sothebys New York December 2008, lot 4.<br />
+<br />
+Bibliography<br />
+M. James Edward Quibell, “Note on a tomb found at Tell er Robâ,” Annales du Service des Antiquités de l’Égypte 3 (Cairo 1902), 245-249<br />
+Jacques François Aubert and Liliane Aubert, Statuettes égyptiennes (Paris 1974), 255, pl. 66, figs. 155-156<br />
+Hans D. Schneider, Shabtis (Leiden 1977), vol. 2, 184-185, and vol. 3, pl. 61<br />
+Jean-Luc Chappaz and Jacques Chamay, Reflets du divin: Antiquités pharaoniques et classiques d'une collection privée (Geneva 2001), no. 73c<br />
+Glenn Janes, Shabtis: A Private View (Paris 2002), no. 96.</dd>
+                                         </dl>
+          </dd>
+        
+        
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:772078?width=200&height=200" alt="Ushabti Of Nesbanebdjed">
+                <span class="popup__artwork-info-id">2019.354</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Ushabti of Nesbanebdjed</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20367944%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F367944">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F367944" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Ushabti+of+Nesbanebdjed+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F367944" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/367944" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_598bf7e73759ca868a743b61ac36be65" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

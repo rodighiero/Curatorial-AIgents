@@ -1,0 +1,651 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Study for a Frontispiece </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Study for a Frontispiece" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/296609"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC104104_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Study for a Frontispiece" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_20380058" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC104104_dynmc?width=3000&height=3000" data-initial-image-id="20380058" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?296609" data-behavior="add_to_collection tooltip" data-artwork="296609" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=296609&amp;image_id=DDC104104" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/296609/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC104104">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC104104_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jacob de Wit"  title="Study For A Frontispiece" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20380058" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104104_dynmc?width=125&height=125" alt="Study For A Frontispiece">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758636">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758636?width=3000&height=3000" data-zoom-enabled="1" data-people="Jacob de Wit"  title="Study For A Frontispiece" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408370302" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758636?width=125&height=125" alt="Study For A Frontispiece">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="758637">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:758637?width=3000&height=3000" data-zoom-enabled="1" data-people="Jacob de Wit"  title="Study For A Frontispiece" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="408370298" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:758637?width=125&height=125" alt="Study For A Frontispiece">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011538">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011538_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Jacob de Wit"  title="Study For A Frontispiece" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535254" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011538_dynmc?width=125&height=125" alt="Study For A Frontispiece">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011683">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR011683?width=3000&height=3000" data-zoom-enabled="1" data-people="Jacob de Wit"  title="Study For A Frontispiece" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="483660150" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR011683?width=125&height=125" alt="Study For A Frontispiece">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1960.683</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29426>Jacob de Wit</a>, Dutch                                                                                                                                                                                                                                                                          (Amsterdam, Netherlands 1695/6 - 1754 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Study for a Frontispiece</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1747</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/296609">https://hvrd.art/o/296609</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink, brown wash and oxidized white opaque watercolor over black chalk on cream antique laid paper, framing line in black ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>31 x 35.5 cm (12 3/16 x 14 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: lower center, brown ink: JdWit / invt.
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower left, brown ink: 1365
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: f 2140.4
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, blue ink, stamp: L.1882a (Mathias Komor)
+                        </li>
+                                              <li data-a="2">
+                          inscription: center, graphite: TEKENBOEK VAN / DE PROPORTIEN / DESMENSCHELYKEN LICHAAM / geinventeert door / Jacob de Wit / en int Cooper gebraght / door / Jan Punt...
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper left, graphite: f 5 - 15 [upside down]
+                        </li>
+                                              <li data-a="2">
+                          watermark: Fleur-de-lis; variant of Heawood 1700 (Brussels, 1712)
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, lower left, graphite: J. de Witt
+                        </li>
+                                              <li data-a="2">
+                          inscription: mount, lower right, graphite: J de Wit L/21 NW [? last characters illegible]
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Jacob de Wit, Amsterdam, probably sold [through De Leth and Schorrenbergh, Amsterdam, 10 March 1755 and following days, Omslag BB, “Waarin een Tekening der proportiën…”]. [Mathias Komor (Lugt 1882), New York, NY]. [R. M. Light & Co., Boston] sold; to Fogg Art Museum, 1960 [1]<br />
+<br />
+Notes<br />
+[1] Purchased through the generosity of the Robert Lehman Foundation<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 98 by Susan Anderson:  </p>
+                    
+              <div class="entry-text">
+                <p>Jacob de Wit used this drawing as the design for the frontispiece of his instructional treatise <em>Teekenboek der Proportien van ’t Menschelyke Lighaam</em> (Drawing Book of Proportions of the Human Body), published in 1747 at the urging of his student Jan Punt, who was fascinated by his master’s drawn proportional studies. The frontispiece design presents a personification of Proportion as a robed woman who uses a compass to determine the correct relative measurements of her drawn human figure.</p>
+
+<p>De Wit’s intricate composition combines attributes of well-known allegories related to this pursuit: the compass, square, and books are often found accompanying Art, Architecture, and Geometry; the figure’s winged temples adorn Invention; the beehive denotes Industriousness; the hourglass stands for Constancy; and the oil lamp signifies Diligence. The characteristic sharp, deft use of the pen distinctly identifies De Wit as the author, as confirmed by his signature at the bottom center. The poses of the putti, especially the kneeling figure seen from behind, appear commonly in De Wit’s later style, confirming a date concurrent with the <em>Teekenboek’s</em> publication.<sup class="footnote" id="fnrev10300300105ef6644014f3a-1"><a href="#fn10300300105ef6644014f3a-1">1</a></sup> Punt’s engraving (Fig. 1) is altered from De Wit’s drawing, with the original landscape, left-hand tree, and overhead drapery omitted. Instead, much of the empty space at left is filled by a squared drawing of the Apollo Belvedere on an easel, copied from plate 8 of the <em>Teekenboek</em>.<sup class="footnote" id="fnrev10300300105ef6644014f3a-2"><a href="#fn10300300105ef6644014f3a-2">2</a></sup> Another drawn version of the composition, very close to Punt’s print, is in the Albertina.<sup class="footnote" id="fnrev10300300105ef6644014f3a-3"><a href="#fn10300300105ef6644014f3a-3">3</a></sup></p>
+
+<p>Jacob de Wit is best known for his decorative ceiling and wall paintings, many of which still adorn the churches, civic spaces, and luxurious canal houses for which they were made. As the primary practitioner of history painting in the Netherlands during the first half of the eighteenth century, De Wit earned laudatory comparisons to Rubens and Titian. Apprenticed first in Amsterdam under the Roman-inspired Albert van Spiers (1666–1718), De Wit gained an introduction to decorative history painting in the grand Baroque manner. However, it was during his teenage years in Antwerp (1711–15) that he blossomed, undertaking a second apprenticeship with Jacob van Hal (1672–1750). More importantly, De Wit studied the works of Rubens — most famously, his cycle of paintings in Antwerp’s Jesuit Church of Saint Charles Borromeo, destroyed by fire in 1718.<sup class="footnote" id="fnrev10300300105ef6644014f3a-4"><a href="#fn10300300105ef6644014f3a-4">4</a></sup> He received admiration for his talents at the Koninklijke Academie, where he studied architecture and perspective and drew from casts of Classical sculptures and live models. He became a master of the Guild of Saint Luke in Antwerp in 1714, and after his return to Amsterdam quickly cultivated commissions for both portraits and decorative schemes.<sup class="footnote" id="fnrev10300300105ef6644014f3a-5"><a href="#fn10300300105ef6644014f3a-5">5</a></sup></p>
+
+<p>Like De Wit’s studies at the Antwerp Academy, the <em>Teekenboek</em> was intended to form part of an artistic education. As De Wit stated in his introduction, teaching the student and art lover how to depict the human body comfortably and correctly was his primary goal. While believing such exercises to be helpful, De Wit also acknowledged their tedium, desiring instead that his readers should ultimately free themselves of such laborious methods by developing a “compass in the eye” (<em>passer in het oog</em>), an idea and method propounded by Michelangelo.<sup class="footnote" id="fnrev10300300105ef6644014f3a-6"><a href="#fn10300300105ef6644014f3a-6">6</a></sup> De Wit’s formula for depicting adults—whether Hercules, Venus, or Apollo, all of whom appear as models within the plates—was for the full head to be proportionally one-eighth of the total height. Although he admitted adopting this oft-repeated Vitruvian ideal, he deviated from the standard proportion of the face (hairline to chin) to the head and, consequently, from the face to the full body. Rather than divide the face to four-fifths of the head, and therefore the Vitruvian one-tenth of the full body, De Wit instead preferred the facial ratio of seven-eighths of a head, resulting in a division of the body to nine and one-third faces. Though subtle, De Wit’s preference results in a slightly leaner and elongated appearance. In addition, many of the twelve illustrations, including those for children and adult faces, are squared in an 8 × 8 or 4 × 4 grid and include brackets around specific body parts, with inscriptions as to the proper proportions in relation to other aspects of the body, such as four faces to one arm. More than many other books on human proportion, De Wit’s instruction is a visually simple and direct division of the human form.</p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn10300300105ef6644014f3a-1"><sup><a href="#fnrev10300300105ef6644014f3a-1">1</a></sup> My thanks to Robert-Jan te Rijdt for offering his thoughts on the drawing and for sharing the late Janno van Tatenhove’s manuscript materials on De Wit, including his comments on this drawing. Letter to the author, 8 May 2015.</p>
+
+<p class="footnote" id="fn10300300105ef6644014f3a-2"><sup><a href="#fnrev10300300105ef6644014f3a-2">2</a></sup> Jan Punt, after Jacob de Wit, <em>Frontispiece to “Teekenboek der Proportien van ’t Menschelyke Lighaam”</em> (Fig. 1). Engraving, 380 × 378 mm. Harvard University, Countway Medical Library, NC765.W77.</p>
+
+<p class="footnote" id="fn10300300105ef6644014f3a-3"><sup><a href="#fnrev10300300105ef6644014f3a-3">3</a></sup> Probably copy after Jan Punt, after Jacob de Wit, <em>Frontispiece</em>, gray-brown ink over graphite, 341 &#215; 342 mm. Vienna, Albertina, 10654.</p>
+
+<p class="footnote" id="fn10300300105ef6644014f3a-4"><sup><a href="#fnrev10300300105ef6644014f3a-4">4</a></sup> See John Rupert Martin, <em>The Ceiling Paintings for the Jesuit Church in Antwerp</em> (London and New York, 1968), pp. 46–51 and chapter 3 throughout, for De Wit’s series of copies after thirty-six panels of the ceiling, now in the British Museum and the Courtauld Institute, both in London, and in the Stedelijk Prentenkabinet, Antwerp.</p>
+
+<p class="footnote" id="fn10300300105ef6644014f3a-5"><sup><a href="#fnrev10300300105ef6644014f3a-5">5</a></sup> De Wit’s biography appears in Jacob Campo Weyerman, <em>De levens‐beschryvingen der Nederlandsche konst‐schilders en konst‐schilderessen: Met een uytbreyding over de schilder‐konst der ouden</em> (The Hague, 1729–69, vol. 4, pp. 104–6) and Johan van Gool, <em>De nieuwe schouburg der nederlantsche kunstschilders en schilderessen: Waer in de levensen kunstbedryven der tans levende en reets overleedene schilders, die van Houbraken, noch eenig ander schryver, zyn aengeteekend, verhaelt worden</em> (The Hague, 1750–51, vol. 2, pp. 218–38), and in more recent years in several publications, including Adolph Staring, <em>Jacob de Wit, 1695–1754</em> (Amsterdam, 1958), Guus van den Hout and Robert Schillemans, <em>Putti en Cherubijntjes, Het religieuze werk van Jacob de Wit (1695–1754)</em> (Amsterdam, 1995), Janrense Boonstra and Guus van den Hout, <em>In de wolken: Jacob de Wit als plafondschilder</em> (Amsterdam: Bijbels Museum, 2000), and Eymert-Jan Goossens, <em>Een bedrieger in het paleis / Master of Deception, Jacob de Wit 1695–1754</em> (Amsterdam: Koninklijk Paleis, 2003).</p>
+
+<p class="footnote" id="fn10300300105ef6644014f3a-6"><sup><a href="#fnrev10300300105ef6644014f3a-6">6</a></sup> Jacob de Wit, <em>Teekenboek der Proportien van ’t Menschelyke Lighaam, geinventeerd en geteekend door Jacob de Wit, en in ’t kooper gebracht door Jan Punt</em> (Amsterdam, 1747), n.p., “. . . wien [den Leerling] het veel nutter is zyn geduld en vlyt te besteden, om zyn voorbeeld in alles wel te volgen, en op het naeuwkeurigste af te teekenen, om zig hier door den <em>passer in het oog</em> te verkrygen.” (Italics are mine.) See also Jaap Bolten, <em>Method and Practice: Dutch and Flemish Drawing Books 1600–1750</em> (Landau, Germany, 1985), pp. 229–30.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/296609/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Jan Punt, after Jacob de Wit, <em>Frontispiece to “Teekenboek der Proportien van ’t Menschelyke Lighaam”</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Robert Lehman Foundation</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1960</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1960.683</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Dutch and Flemish Drawings, 16th and 17th Centuries</em>, auct. cat., R. M. Light & Co., Inc. (Boston, MA, November 1960 - December 1960), cat. no. 34, n.p.
+                             </p>
+                                                      <p>
+                               <em>Fogg Art Museum Acquisitions, 1959-1962</em>, Harvard University (Cambridge, MA, 1963)
+                                            </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 98, pp. 321-323, repr. p. 322; watermark p. 383
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Dutch and Flemish Drawings, 16th and 17th Centuries</em>, R. M. Light & Co., Inc., Santa Barbara, 11/01/1960 - 12/31/1960
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC104104_dynmc?width=200&height=200" alt="Study For A Frontispiece">
+                <span class="popup__artwork-info-id">1960.683</span>
+        <span class="popup__artwork-info-author">
+                                    Jacob de Wit
+                              </span>
+        <span class="popup__artwork-info-title">Study for a Frontispiece</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20296609%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296609">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296609" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Study+for+a+Frontispiece+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F296609" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/296609" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_e3d0ee8b6e6694d4c1ad9c51f33c6249" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

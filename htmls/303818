@@ -1,0 +1,628 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Head and Chest of Apollo </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Head and Chest of Apollo" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/303818"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC251609_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Head and Chest of Apollo" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47345209" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC251609_dynmc?width=3000&height=3000" data-initial-image-id="47345209" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?303818" data-behavior="add_to_collection tooltip" data-artwork="303818" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=303818&amp;image_id=DDC251609" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/303818/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC251609">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC251609_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47345209" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251609_dynmc?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017750">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017750?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="404822688" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017750?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="34919">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS34919_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20675703" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS34919_dynmc?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="34920">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS34920_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20675704" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS34920_dynmc?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="34921">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS34921_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20675705" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS34921_dynmc?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="34922">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS34922_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20675706" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS34922_dynmc?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG5160">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG5160_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Head And Chest Of Apollo" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43163139" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG5160_dynmc?width=125&height=125" alt="Head And Chest Of Apollo">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1931.31</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Head and Chest of Apollo</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Former Title: Mantua Apollo, Modern Copy After Graeco-Roman Original                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            bust,                                          sculpture                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>19th-early 20th century</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Unidentified Region                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Modern</dd>
+                                        <dt>Culture</dt>
+                <dd>unknown</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/303818">https://hvrd.art/o/303818</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Mixed copper alloy</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>19 x 15.5 cm (7 1/2 x 6 1/8 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: ICP-MS/AAA data from sample, Mixed Copper Alloy:<br />
+Cu, 87.9; Sn, 3.5; Pb, 0.61; Zn, 7.05; Fe, 0.83; Ni, 0.07; Ag, 0.04; Sb, less than 0.05; As, less than 0.10; Bi, less than 0.025; Co, less than 0.01; Au, less than 0.01; Cd, 0.003<br />
+<br />
+J. Riederer</p>
+                                      <p class="divider">Technical Observations: The patina is green with areas of black and red. Although there are spots of red (probably cuprite) and a layer of red under areas of green, the red is very superficial and offers little proof of age. It does not penetrate below what appears to be the original surface, and where the red is abraded, the bright metal underneath is in good condition. <br />
+ <br />
+The repair at the top of the head is contemporary with the casting. Resinous fills at the right eye and at the right temple are more recent and were probably added to improve the appearance of casting flaws at those locations. The pitted appearance at many locations reveals the porous nature of the cast. It is not the result of a cleaning or stripping treatment. <br />
+ <br />
+An early spectrographic analysis (c. 1951) of a sample taken from the lower left edge of the bronze resulted in the identification of the metal as brass, with Cu as the main component, along with 10% - 1% Zn and (less) Sn; 1.0% - 0.1% Si, Fe, Ni, Ca; 0.1% - 0.01% Ti, Pb, Ag, Sb, Bi; 0.01% - 0.001% Al, Mg, Mn, Ca, Ba, Cd, Ga. Also see the more recent sample analysis, which indicated that the object is a mixed copper alloy. In 1983, Arthur Beale concluded from the lack of much intergranular corrosion that the bust is modern.<br />
+ <br />
+The porous casting has many flaws, and it is likely that the object was made in modern times to resemble an antiquity. The bottom edge, which gives the appearance of a fracture resulting in the loss of the lower parts of the body, is in fact a finished cast edge. Its shape may be relatively accidental, the result of an incomplete pouring of metal into a mold, which could have included more of the body. Holes and significant porosity exist at many locations, with no evidence of repair. The missing sections of the hair curls are also casting flaws rather than losses. The crack flaw at the right side of the neck progresses up and around the top right side of the head so that, after casting, a circular section (6 cm in diameter) was not adhered to the rest of the head. Seven 4-mm holes were drilled through the surrounding area and molten bronze was poured along the crack at the inside of the head to mechanically secure the loose section. <br />
+ <br />
+The details in the hair were probably enhanced in the wax model. The long curls of hair were formed directly in wax and added to the wax model. There is no evidence of cold working.<br />
+ <br />
+ <br />
+Henry Lie  (submitted 2002)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>L. H. Moyes, London. Mrs. Lewis Hind, sold; to Dr. Denman W. Ross, (by 1931), gift; to the Fogg Art Museum, 1931.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1931</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1931.31</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>A youthful Apollo turns his head to his left, eyes somewhat downcast. He wears his hair long and rolled up around his head. An irregular depression above this roll is intended to hold a fillet. The two long, curly locks that fall to each bare shoulder were added in wax to the wax model for the head. The facial features are blurred except for the sharp nose. The pitted surface shows this to be a porous casting, with a variety of unrepaired flaws. Abrasions of the corroded surface show bright base metal, which is in good condition. The irregular and apparently broken lower edge is a cast edge, and what might appear to be breaks in the long locks are in fact casting flaws.<br />
+ <br />
+The head and torso are part of a single casting, a method of production that would have been unusual in antiquity; even a small-scale work like this would more likely have had the head cast separately. It is likely that the casting was deliberately flawed or left incomplete as part of the production process, suggesting that it was produced in modern times with the intention that it should appear to be ancient.<br />
+ <br />
+This figure is one of at least 14 examples of a popular Roman statue-type in the Early Classical style named after an example in Mantua (Mantua, Palazzo Ducale). It may well be a reduced version of the so-called bronze Apollo Citarista of the same type from the House of the Citharist at Pompeii (1), as this is one of many bronzes of which copies were and still are cast in Neapolitan foundries (2). <br />
+ <br />
+NOTES:<br />
+ <br />
+1. House I.4.5, 1853; Museo Archeologico Nazionale, Naples, inv. no. 5630; h. 1.58 m with base.<br />
+ <br />
+2. See, for example, S. Chiurazzi, Chiurazzi: Fonderie – ceramica – marmeria: Catalogo (Naples, 1929) 53, no. 76, and id., Chiurazzi, società anonima: Fonderie, ceramica, marmeria: Prezzo corrente (Naples, 1929) 32, available in the original size and in 2 reduced sizes, one of which is 62 cm (the correct full size for the Harvard bronze), and in three patinas – Pompeii, Herculaneum, and Renaissance. See also C. C. Mattusch and H. Lie, The Villa dei Papiri at Herculaneum: Life and Afterlife of a Sculpture Collection (Los Angeles, 2005) 342-51.<br />
+ <br />
+ <br />
+Carol Mattusch</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              George M. A. Hanfmann, <em>Greek Art and Life, An Exhibition Catalogue</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1950), no. 17.
+                             </p>
+                                                      <p>
+                               Lenore O. Keene Congdon, "The Mantua Apollo of the Fogg Art Museum", <em>American Journal of Archaeology</em>, Archaeological Institute of America (New York, NY, 1963), Vol. 67, 7-13
+                                            </p>
+                                                      <p>
+                                              Paul Zanker, <em>Klassizistische Statuen</em>, Verlag Philipp von Zabern (Mainz, 1974), p. 62.
+                             </p>
+                                                      <p>
+                                              <em>Lexicon Iconographicum Mythologiae Classicae (LIMC)</em>, Artemis (Zürich, Switzerland, 1999), Vol. 2, Apollon 200.k.
+                             </p>
+                                                      <p>
+                                              Carol C. Mattusch, "Artists and Workshops: The Craft and the Product", <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, ed. Susanne Ebbinghaus, Harvard Art Museums (Cambridge, MA, 2014), 112-31, p.129, fig. 5.9.a.
+                             </p>
+                                                      <p>
+                                              Susanne Ebbinghaus, ed., <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, Harvard Art Museum/Yale University Press (Cambridge, MA, 2014), pp. 79, 128-129, fig. 5.9a
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Greek Art and Life: From the Collections of the Fogg Art Museum, Museum of Fine Arts, Boston, and Private Lenders</em>, Fogg Art Museum, 03/07/1950 - 04/15/1950
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC251609_dynmc?width=200&height=200" alt="Head And Chest Of Apollo">
+                <span class="popup__artwork-info-id">1931.31</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Head and Chest of Apollo</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20303818%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303818">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303818" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Head+and+Chest+of+Apollo+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303818" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/303818" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_2f7361b86521bb54b183f92178500d90" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

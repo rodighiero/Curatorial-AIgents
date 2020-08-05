@@ -1,0 +1,1280 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Cecilia Valdés </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Cecilia Valdés" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/178346"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Cecilia Valdés" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?178346" data-behavior="add_to_collection tooltip" data-artwork="178346" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=178346" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/178346/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>62.2004</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20912>Antonio Canet</a>, Cuban                                                                                                                                                                                                                                                                          (Havana 1942-2008 Havana, Cuba)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Cecilia Valdés</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Prints</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            portfolio                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1983</dd>
+                                                                <dt>Culture</dt>
+                <dd>Cuban</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/178346">https://hvrd.art/o/178346</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Linocuts and offset text in bound book</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Linocut</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>28.7 x 21.5 x 2.9 cm (11 5/16 x 8 7/16 x 1 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: Each supplementary linocut is inscribed with the edition numbering (3/4) and signature, in some form.  Most of the linocuts also have the book title inscribed,
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+            
+                          <dt>Edition</dt>
+              <dd>deluxe, with supplementary prints</dd>
+            
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Loan from the Fine Arts Library, gift of La Galeria Taller A. Canet</dd>
+            
+            
+            
+            <dt>Object Number</dt>
+            <dd>62.2004</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/54207">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.25</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Palo Gordo Market</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178260">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168905_dynmc?width=256&height=256" alt="Isabel With Leonardo And People In The Back">
+                                    <span class="related-artwork__obj">62.2004.61</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Isabel with Leonardo and People in the Back</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178261">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168907_dynmc?width=256&height=256" alt="Isabel With Leonardo And People In The Back">
+                                    <span class="related-artwork__obj">62.2004.62</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Isabel with Leonardo and People in the Back</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178280">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168883_dynmc?width=256&height=256" alt="Surgeon, Montes De Oca, Doña Rosa And Her Daughter">
+                                    <span class="related-artwork__obj">62.2004.52</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Surgeon, Montes de Oca, Doña Rosa and Her Daughter</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178281">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.28</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Man Obstructing the Way</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178282">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168920_dynmc?width=256&height=256" alt="Slave Carrying Bananas">
+                                    <span class="related-artwork__obj">62.2004.66</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Slave Carrying Bananas</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178283">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168913_dynmc?width=256&height=256" alt="Slaves Preparing Dinner">
+                                    <span class="related-artwork__obj">62.2004.64</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Slaves Preparing Dinner</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178284">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.38</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Woman Arguing with Dionisio</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178290">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168891_dynmc?width=256&height=256" alt="Portrait Of Young Man">
+                                    <span class="related-artwork__obj">62.2004.55</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Portrait of Young Man</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178291">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168896_dynmc?width=256&height=256" alt="A Couple And A Man At The Park">
+                                    <span class="related-artwork__obj">62.2004.58</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">A Couple and a Man at the Park</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178292">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.18</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Doña Rosa and Servant Reventos</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178293">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168940_dynmc?width=256&height=256" alt="Cecilia In The Shelter">
+                                    <span class="related-artwork__obj">62.2004.82</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia in the Shelter</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178294">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168854_dynmc?width=256&height=256" alt="People Gathered On The Street">
+                                    <span class="related-artwork__obj">62.2004.45</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">People Gathered on the Street</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178295">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168922_dynmc?width=256&height=256" alt="Five Women">
+                                    <span class="related-artwork__obj">62.2004.67</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Five Women</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178296">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.15</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Execution</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178297">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.16</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Habana's Youth</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178310">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168931_dynmc?width=256&height=256" alt="The Idlers Of La Habana">
+                                    <span class="related-artwork__obj">62.2004.73</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Idlers of La Habana</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178311">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.40</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Slaves On Board of "Veloz" Ship</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178312">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168939_dynmc?width=256&height=256" alt="Leonardo And Fernando On The Balcony">
+                                    <span class="related-artwork__obj">62.2004.81</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Leonardo and Fernando on the Balcony</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178313">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168848_dynmc?width=256&height=256" alt="Guinean Slave">
+                                    <span class="related-artwork__obj">62.2004.42</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Guinean Slave</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178314">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.39</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Woman Arguing with Dionisio</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178315">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.29</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Women at the Ball</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178316">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168944_dynmc?width=256&height=256" alt="Cecilia Embracing José Dolores">
+                                    <span class="related-artwork__obj">62.2004.86</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia Embracing José Dolores</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178324">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168886_dynmc?width=256&height=256" alt="Don Cándido Gamboa And His Angry Wife Rosa">
+                                    <span class="related-artwork__obj">62.2004.53</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Don Cándido Gamboa and His Angry Wife Rosa</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178325">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.36</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Men Discussing</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178326">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168935_dynmc?width=256&height=256" alt="Angry Leonardo Smoking A Cigarette">
+                                    <span class="related-artwork__obj">62.2004.77</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Angry Leonardo Smoking a Cigarette</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178327">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168943_dynmc?width=256&height=256" alt="Leonardo And His Mother">
+                                    <span class="related-artwork__obj">62.2004.85</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Leonardo and His Mother</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178328">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.26</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">O'Reilly and Gamboa Riding on a Carriage at the Prado Park</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178329">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168707_dynmc?width=256&height=256" alt="Cecilia And Her Grandmother Chepilla">
+                                    <span class="related-artwork__obj">62.2004.2</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia and Her Grandmother Chepilla</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178330">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168900_dynmc?width=256&height=256" alt="Niña And Slave On The Porch">
+                                    <span class="related-artwork__obj">62.2004.60</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Niña and Slave on the Porch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178344">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168936_dynmc?width=256&height=256" alt="Leonardo Arguing With A Man">
+                                    <span class="related-artwork__obj">62.2004.78</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Leonardo Arguing with a Man</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178345">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168942_dynmc?width=256&height=256" alt="Maria De Regla And Cecilia Against The Wall">
+                                    <span class="related-artwork__obj">62.2004.84</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Maria de Regla and Cecilia against the Wall</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178347">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.12</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Three Men Walking</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178348">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168918_dynmc?width=256&height=256" alt="Isabel And A Friend In The Garden">
+                                    <span class="related-artwork__obj">62.2004.65</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Isabel and a Friend in the Garden</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178349">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168860_dynmc?width=256&height=256" alt="Portrait Of Cecilia And The Maid">
+                                    <span class="related-artwork__obj">62.2004.46</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Portrait of Cecilia and the Maid</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178350">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168932_dynmc?width=256&height=256" alt="O'reilly And Don Cándido Next To The Desk">
+                                    <span class="related-artwork__obj">62.2004.74</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">O'Reilly and Don Cándido next to the Desk</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178360">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168865_dynmc?width=256&height=256" alt="On The Carriage">
+                                    <span class="related-artwork__obj">62.2004.48</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">On the Carriage</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178361">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.22</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">In Uribe's Tailor Shop</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178362">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168937_dynmc?width=256&height=256" alt="Leonardo Arguing With A Man">
+                                    <span class="related-artwork__obj">62.2004.79</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Leonardo Arguing with a Man</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178363">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168941_dynmc?width=256&height=256" alt="Cecilia In The Shelter">
+                                    <span class="related-artwork__obj">62.2004.83</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia in the Shelter</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178364">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168705_dynmc?width=256&height=256" alt="Cecilia Behind The Door">
+                                    <span class="related-artwork__obj">62.2004.1</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia behind the Door</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178365">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168927_dynmc?width=256&height=256" alt="Praying Around Her Deathbed">
+                                    <span class="related-artwork__obj">62.2004.70</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Praying Around Her Deathbed</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178484">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.23</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">In Uribe's Tailor Shop</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178527">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168708_dynmc?width=256&height=256" alt="Cecilia And Young Man With A Book">
+                                    <span class="related-artwork__obj">62.2004.3</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia and Young Man with a Book</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178528">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168869_dynmc?width=256&height=256" alt="The Surgeon And Josefa Next To The Door">
+                                    <span class="related-artwork__obj">62.2004.50</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Surgeon and Josefa next to the Door</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178529">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168718?width=256&height=256" alt="Two Men At Night">
+                                    <span class="related-artwork__obj">62.2004.8</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Two Men at Night</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178530">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168710_dynmc?width=256&height=256" alt="Mercedes In A Fancy Dress">
+                                    <span class="related-artwork__obj">62.2004.4</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Mercedes in a Fancy Dress</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178531">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.13</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Gamboa and Slaves on the Street</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178532">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.17</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Leonardo on O'Reilly's Street</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178533">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168877_dynmc?width=256&height=256" alt="Surgeon, Montes De Oca, Doña Rosa And Her Daughter">
+                                    <span class="related-artwork__obj">62.2004.51</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Surgeon, Montes de Oca, Doña Rosa and Her Daughter</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178534">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.30</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Women at the Ball</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178535">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168716?width=256&height=256" alt="Cecilia From Behind">
+                                    <span class="related-artwork__obj">62.2004.7</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia from Behind</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178536">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168850_dynmc?width=256&height=256" alt="Two Men Talking">
+                                    <span class="related-artwork__obj">62.2004.43</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Two Men Talking</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178537">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168929_dynmc?width=256&height=256" alt="Clara And Nemesia Next To The Deathbed">
+                                    <span class="related-artwork__obj">62.2004.71</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Clara and Nemesia next to the Deathbed</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178538">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168726?width=256&height=256" alt="The Execution">
+                                    <span class="related-artwork__obj">62.2004.14</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Execution</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178539">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168867_dynmc?width=256&height=256" alt="The Surgeon And Josefa Next To The Door">
+                                    <span class="related-artwork__obj">62.2004.49</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Surgeon and Josefa next to the Door</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178545">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168723?width=256&height=256" alt="Doña Rosa And Son Leonardo">
+                                    <span class="related-artwork__obj">62.2004.11</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Doña Rosa and Son Leonardo</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178546">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.31</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Nemesia  at Night</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178547">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.27</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Man Obstructing the Way</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178548">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.32</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia, Chepilla and Nemesia Talking</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178549">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.34</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia, Chepilla and Nemesia Talking</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178550">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.20</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Jose Dolores with Leonardo's Jacket</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178551">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.41</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Shore</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178568">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168722?width=256&height=256" alt="Doña Rosa And Don Cándido At Table">
+                                    <span class="related-artwork__obj">62.2004.10</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Doña Rosa and Don Cándido at Table</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178569">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.33</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cecilia, Chepilla and Nemesia Talking</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178570">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168933_dynmc?width=256&height=256" alt="O'reilly And Don Cándido Next To The Desk Ii">
+                                    <span class="related-artwork__obj">62.2004.75</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">O'Reilly and Don Cándido next to the Desk II</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178571">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.21</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Leonardo Looking at Women's Reflection</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178596">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168712_dynmc?width=256&height=256" alt="Cantalapiedra Covering Mercedes' Eyes">
+                                    <span class="related-artwork__obj">62.2004.5</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Cantalapiedra Covering Mercedes' Eyes</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178597">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.35</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Men Discussing</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178598">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.24</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Palo Gordo Market</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178663">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168862_dynmc?width=256&height=256" alt="On The Carriage">
+                                    <span class="related-artwork__obj">62.2004.47</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">On the Carriage</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178664">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168934_dynmc?width=256&height=256" alt="O'reilly And Don Cándido Next To The Desk Ii">
+                                    <span class="related-artwork__obj">62.2004.76</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">O'Reilly and Don Cándido next to the Desk II</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178665">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168887_dynmc?width=256&height=256" alt="Don Cándido Gamboa And His Angry Wife Rosa">
+                                    <span class="related-artwork__obj">62.2004.54</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Don Cándido Gamboa and his Angry Wife Rosa</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178666">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168911_dynmc?width=256&height=256" alt="Slaves Preparing Dinner">
+                                    <span class="related-artwork__obj">62.2004.63</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Slaves Preparing Dinner</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178667">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168899_dynmc?width=256&height=256" alt="Niña And Slave On The Porch">
+                                    <span class="related-artwork__obj">62.2004.59</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Niña and Slave on the Porch</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178668">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.19</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">José Dolores with Leonardo's Jacket</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178669">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168930_dynmc?width=256&height=256" alt="Portrait Of Black Man">
+                                    <span class="related-artwork__obj">62.2004.72</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Portrait of Black Man</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178670">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168895_dynmc?width=256&height=256" alt="The Shootings At Versalles Square">
+                                    <span class="related-artwork__obj">62.2004.57</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Shootings at Versalles Square</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178683">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168852_dynmc?width=256&height=256" alt="Josefa Crying With Nun In Church">
+                                    <span class="related-artwork__obj">62.2004.44</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Josefa Crying with Nun in Church</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178684">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">62.2004.37</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Laundresses</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178685">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168894_dynmc?width=256&height=256" alt="The Shootings At Versalles Square">
+                                    <span class="related-artwork__obj">62.2004.56</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Shootings at Versalles Square</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178686">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168938_dynmc?width=256&height=256" alt="The Guitar Player In Front Of The Theatre">
+                                    <span class="related-artwork__obj">62.2004.80</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">The Guitar Player in front of the Theatre</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178687">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168923_dynmc?width=256&height=256" alt="Two Young Bandits">
+                                    <span class="related-artwork__obj">62.2004.68</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Two Young Bandits</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178688">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168924_dynmc?width=256&height=256" alt="Father Llópiz Between José Dolores And Verger Walking With Lanterns">
+                                    <span class="related-artwork__obj">62.2004.69</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Father Llópiz between José Dolores and Verger Walking with Lanterns</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178958">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168714_dynmc?width=256&height=256" alt="Mother And Nuns">
+                                    <span class="related-artwork__obj">62.2004.6</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Mother and Nuns</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/178959">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV168721?width=256&height=256" alt="Two Men At Night">
+                                    <span class="related-artwork__obj">62.2004.9</span>
+                                      <h4 class="related-artwork__artist">Antonio Canet</h4>
+                                                        <h3 class="related-artwork__title">Two Men at Night</h3>
+                                                        <span class="related-artwork__meta">Prints</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">62.2004</span>
+        <span class="popup__artwork-info-author">
+                                    Antonio Canet
+                              </span>
+        <span class="popup__artwork-info-title">Cecilia Valdés</span>
+        <span class="popup__artwork-info-class">Prints</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20178346%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F178346">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F178346" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Cecilia+Vald%C3%A9s+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F178346" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_3f988a4ddd1242dff9cdb35cd1ffa6c6" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

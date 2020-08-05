@@ -1,0 +1,680 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Emperor Trajan </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Emperor Trajan" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/303389"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:756712?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Emperor Trajan" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_400219839" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:756712?width=3000&height=3000" data-initial-image-id="400219839" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?303389" data-behavior="add_to_collection tooltip" data-artwork="303389" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=303389&amp;image_id=756712" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/303389/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="756712">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:756712?width=3000&height=3000" data-zoom-enabled="1"  title="Emperor Trajan" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400219839" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756712?width=125&height=125" alt="Emperor Trajan">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="756713">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:756713?width=3000&height=3000" data-zoom-enabled="1"  title="Emperor Trajan" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400219835" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756713?width=125&height=125" alt="Emperor Trajan">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="756714">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:756714?width=3000&height=3000" data-zoom-enabled="1"  title="Emperor Trajan" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="400219831" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:756714?width=125&height=125" alt="Emperor Trajan">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC105885">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC105885_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Emperor Trajan" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="10241127" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC105885_dynmc?width=125&height=125" alt="Emperor Trajan">
+                    </a>
+                  </div>
+                </li>
+              
+
+                                                                  <li class="slideshow-thumbs__divider divider-before" data-gallery-item="video">
+                    <div>
+                      <a href="https://vimeo.com/111436328" data-vimeo-id="111436328" data-object-caption="The Imperial Image: Sculpture and Coins of Trajan (Henry Lie)">
+                        <img src="http://i.vimeocdn.com/video/525970883_200x150.jpg" alt="">
+                        <i class="slideshow-thumbs__video-icon"></i>
+                      </a>
+                    </div>
+                  </li>
+                                                    <li  data-gallery-item="video">
+                    <div>
+                      <a href="https://vimeo.com/111436326" data-vimeo-id="111436326" data-object-caption="The Imperial Image: Sculpture and Coins of Trajan (Emma Dench)">
+                        <img src="http://i.vimeocdn.com/video/525971010_200x150.jpg" alt="">
+                        <i class="slideshow-thumbs__video-icon"></i>
+                      </a>
+                    </div>
+                  </li>
+                                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Marcus Ulpius Traianus, better known as Trajan (see coin 17), ruled the Roman Empire from 98 to 117 CE, when it reached its greatest expanse. His most notable military achievement was the conquest of Dacia (modern Romania), which is depicted on the column in his forum in Rome. The head of this statue, which was made separately and inset into the body, is representative of a portrait type initially produced between Trajan’s two Dacian wars. The ceremonial military dress, complete with cuirass (breastplate) and paludamentum (cloak), includes a depiction of an Amazon or female arimasp battling two griffins, mythical figures symbolic of Roman military campaigns in the east. The pose of the body suggests that the statue may have held a spear in the left hand, while the right hand is stretched out in a gesture of clemency or military address (ad locutio).</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1954.71</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Emperor Trajan</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture,                                          statue                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>after 103 CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Europe                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Roman Imperial period, Middle</dd>
+                                        <dt>Culture</dt>
+                <dd>Roman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/303389">https://hvrd.art/o/303389</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 3, Room 3700, Ancient Mediterranean and Near Eastern Art, Roman Art<br>
+            <a href="/visit/floor-plan/3?gallery=3700" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Pentelic marble with modern restorations</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Carved</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>191 x 76 x 54 cm (75 3/16 x 29 15/16 x 21 1/4 in.)<br />
+1075 lb.</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Lord Anson collection, Shugborough, Staffordshire, (by 1782). J. A. Crane collection, Birmingham, (by 1880). K. J. Hewett collection, Chelsea-Hammersmith, London, (by 1951). [Spink and Son, Ltd., London, 1954], sold; to Fogg Art Museum, 1954.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Alpheus Hyatt Purchasing Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1954</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1954.71</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                              <dt>Description</dt>
+                <dd>This statue shows Trajan in ceremonial armor (in contrast to the field equipment seen on the Column of Trajan in Rome), standing or stepping forward as if in the act of addressing his troops.  His elaborate cuirass or breastplate has long tabs or pteryges, leather straps at the shoulders, and longer leather straps around the thighs.  A tunic is visible under this ensemble, and a long cloak or paludamentum is worn on the left shoulder and around the left arm.  The open-toed sandals are purely ceremonial, in keeping with the symbolic nature of the statue as suggested here and in previous publications.</dd>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Stone Sculptures: The Greek, Roman and Etruscan Collections of the Harvard University Art Museums , written 1990<br>138<br />
+<br />
+Statue of the Emperor Trajan<br />
+<br />
+The right shoulder and section of the chest, also the remaining section of the upper arm, have been broken and rejoined. The head and neck were made separately and inset. The statue was taken apart completely, cleaned, redoweled, and reconstituted at the Fogg Museum during 1983-1985.<br />
+ <br />
+Marcus Ulpius Traianus, of Roman Spanish ancestry and son of a distinguished Roman magistrate, was adopted by the aged Senator Nerva (emperor, A.D. 96-98) and ruled as emperor from A.D. 98-117. It was in this time, with the conquest of Dacia and military expeditions on the eastern frontier from Armenia to Arabia, that the Roman Empire reached its maximum geographical area. This statue shows Trajan in ceremonial armor (in contrast to the field equipment seen on the Column of Trajan in Rome), standing or stepping forward as if in the act of addressing his troops. His elaborate cuirass or breastplate has long tabs or pteryges, leather straps at the shoulders, and longer leather straps around the thighs. A tunic is visible under this ensemble, and a long cloak or paludamentum is worn on the left shoulder and around the left arm. The open-toed sandals are purely ceremonial, in keeping with the symbolic nature of the statue as suggested here and in previous publications.<br />
+ <br />
+In recent years, studies of important Roman Imperial cuirassed statues have been concerned with the meaning of scenes and objects on the ceremonial armor of these images. This statue of Trajan, presumably brought to England from Italy in the eighteenth century, is no exception. Here the decorative enrichment of the cuirass and of the tabs below appears to allude to the emperor's untimely death from natural causes at Selinus (Trajanopolis) in Cilicia at a time when the wars on the Parthian frontier were going badly for the Roman armies. This was also the period when the Jewish communities of North Africa, Mesopotamia, and Cyprus were developing a major revolt, which devastated cities such as Cyrene and parts of Alexandria in Egypt (Lepper, 1948, pp. 89-92; Magie, 1950, pp. 609-613). After Trajan's widow Plotina had engineered Hadrian's alleged adoption and his recognition as emperor (ruled A.D. 117-138), and after the Roman East was pacified and the frontiers stabilized, Rome and the surrounding towns were awash with monuments to the deified Trajan, the greatest of these being the Trajaneum at the end of the Forum Traiani. The provinces were similarly embellished—witness the Trajaneum at Pergamon. While this statue is not heroic, semi-nude, Jovian image of a true Divus, in the traditions of the Primaporta Augustus, it has enough of the subtle allusions of cuirassed iconography to show this was a statue of Trajan in his period of transition from emperor to god.<br />
+ <br />
+The main scene on the breastplate is an Amazon or female Arimaspe fighting two griffins, all symbolic of wars on the eastern frontiers of the Roman Empire. On the tabs of the skirt below, at the bottom of the breastplate and above the leather straps, bovine skulls alternate with palmettes. The skull, rather than the bull's or cow's head, very often suggests death and funerary commemoration. Combined here with a portrait of Trajan based on a model created fairly late in his reign, this iconography suggests the statue was a posthumous commemoration of the Optimus Princeps, the "best of princes", as Trajan was hailed by the Roman Senate. The statue was carved in the months or years immediately after the emperor's death, when monuments such as the Arch of Trajan at Beneventum were completed to honor the military and civic acts of the ruler who brought the Roman Empire to its greatest heights. That the cuirassed statue is one of a vigorous commander addressing his troops, rather than an ill, old man, is emphasized in the pose and proportions of the body, based on the ideal statue of Achilles by Polykleitos, a bronze known as the Doryphoros or Spear-Bearer.<br />
+ <br />
+Cornelius Vermeule and Amy Brauer</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Thomas Pennant, <em>Journey From Chester to London</em> (London, England, 1782), p. 68
+                             </p>
+                                                      <p>
+                                              Adolf Theodor Friedrich Michaelis, <em>Ancient Marbles in Great Britain</em>, Cambridge University Press (Cambridge, UK, 1882), p. 213, no. 1
+                             </p>
+                                                      <p>
+                               George M. A. Hanfmann, "A Statue of Trajan", <em>Fogg Art Museum Annual Report</em>, Fogg Art Museum (Cambridge, MA, 1953-1954), No. 1953/1954, 6-7.
+                                            </p>
+                                                      <p>
+                                              "Accessions of American and Canadian Museums, 18:2", <em>The Art Quarterly</em> (Summer 1955), XCIII, no. 2, pp. 195-196, fig. 1
+                             </p>
+                                                      <p>
+                                              George M. A. Hanfmann, "A New Trajan", <em>American Journal of Archaeology</em> (1957), 61, pp. 223-253, pls. 68-75
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III, "Hellenistic and Roman Cuirassed Statues, the Evidence of Painting and Reliefs in the Chronological Development of Cuirass Types", <em>Berytus</em>, Museum of Archaeology, American University of Beirut (Copenhagen, Denmark, 1959), XIII, fasc. 1, p. 53, no. 168, pl. XIII, fig. 42
+                             </p>
+                                                      <p>
+                                              Museum of Fine Arts, Boston, <em>Greek and Roman Portraits</em>, Museum of Fine Arts, Boston (Boston, MA, 1959), no. 49
+                             </p>
+                                                      <p>
+                                              Hansgeorg Oehler, <em>Untersuchungen zu den mannlichen romischen Mantelstatuen. Der Schulterbauschtypus</em>, Mann (Berlin, Germany, 1961), p. 70
+                             </p>
+                                                      <p>
+                                              Erika Simon, "Zur Bedeutung des Greifen in der Kunst der Kaiserzeit", <em>Latomus</em> (1962), 21, fasc. 4, p. 175, pl. 48.
+                             </p>
+                                                      <p>
+                                              Hans-Georg Niemeyer, <em>Studien zur statuarischen Darstellung der romischen Kaiser</em>, Mann (Berlin, Germany, 1968), p. 96, no. 50
+                             </p>
+                                                      <p>
+                                              George M. A. Hanfmann and David Gordon Mitten, "The Art of Classical Antiquity", <em>Apollo</em> (May 1978), vol. 107, no. 195, pp. 362-369, p. 366, note 28
+                             </p>
+                                                      <p>
+                                              Klaus Stemmer, <em>Untersuchungen zur Typologie, Chronologie und Ikonographie der Panzerstatuen</em>, Mann (Berlin, Germany, 1978), pp. 58-59, no. V 4, 170, pl. 35, fig. 3
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III, <em>Hellenistic and Roman Cuirassed Statues</em>, Museum of Fine Arts, Boston (Boston, MA, 1980), p. 6
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III, <em>Greek and Roman Sculpture in America</em>, University of California Press (Berkeley and Los Angeles, CA, 1981), p. 302, no. 258
+                             </p>
+                                                      <p>
+                                              Klaus Fittschen and Paul Zanker, <em>Katalog der romischen Portrats in den Capitolischen Museen und den anderen kommunalen Sammlungen der Stadt Rom, I</em>, Verlag Philipp von Zabern (Mainz, Germany, 1983), p. 41, no. 8, in list
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), p. 108, no. 120, ill.
+                             </p>
+                                                      <p>
+                                              Cornelius C. Vermeule III and Amy Brauer, <em>Stone Sculptures: The Greek, Roman and Etruscan Collections of the Harvard University Art Museums</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 151, no. 138
+                             </p>
+                                                      <p>
+                                              James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), p. 112-113, ill.
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Mary Hollinshead, "Extending the Reach of Marble: Struts in Greek and Roman Sculpture", <em>The Ancient Art of Emulation: Studies in Artistic Originality and Tradition from the Present to Classical Antiquity</em> (2002), 117-52, pp. 134-35, fig. 6.12.
+                             </p>
+                                                      <p>
+                               Stephan Wolohojian, ed., <em>Harvard Art Museum/Handbook</em> (Cambridge, Massachusetts, 2008)
+                                            </p>
+                                                      <p>
+                                              Susan Wood, Hadrian, Hercules, and griffins: a group of cuirassed statues from Latium and Pamphylia, <em>Journal of Roman Archaeology</em> (2016), vol. 29, pp. 225, 227, 233, fig. 5
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Roman Gallery Installation (long-term)</em>, Harvard University Art Museums, Cambridge, 09/16/1999 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>Gods in Color: Painted Sculpture of Classical Antiquity</em>, Harvard University Art Museums, Cambridge, 09/22/2007 - 01/20/2008
+                            </p>
+                          <p>
+                              <em>Re-View: S422-423  Western Art of the Middle Ages & Renaissance</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/16/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 3700 Roman</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:756712?width=200&height=200" alt="Emperor Trajan">
+                <span class="popup__artwork-info-id">1954.71</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Emperor Trajan</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20303389%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303389">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303389" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Emperor+Trajan+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303389" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/303389" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_f62768cafc0a3c461b43b5bfbeaa7dcc" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,761 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections View of Rhenen </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections View of Rhenen" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297063"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:50881_prdwork?width=3000&amp;height=3000" />
+<meta property="og:description" content=" View of Rhenen" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_497403" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:50881_prdwork?width=3000&height=3000" data-initial-image-id="497403" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297063" data-behavior="add_to_collection tooltip" data-artwork="297063" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297063&amp;image_id=50881" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297063/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="50881">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50881_prdwork?width=3000&height=3000" data-zoom-enabled="1" data-people="Aelbert Cuyp"  title="View Of Rhenen" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="497403" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50881_prdwork?width=125&height=125" alt="View Of Rhenen">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011610">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011610_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Aelbert Cuyp"  title="View Of Rhenen" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618235" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011610_dynmc?width=125&height=125" alt="View Of Rhenen">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1949.33</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/34364>Aelbert Cuyp</a>, Dutch                                                                                                                                                                                                                                                                          (Dordrecht, Netherlands 1620 - 1691 Dordrecht, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>View of Rhenen</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1642-46</dd>
+                                                                <dt>Culture</dt>
+                <dd>Dutch</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297063">https://hvrd.art/o/297063</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Black chalk, brown and gray wash, green transparent watercolor, white opaque watercolor, and touches of gum arabic on off-white antique laid paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>17.8 x 49.8 cm (7 x 19 5/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, lower left, graphite: Kuyp
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, right center, brown ink: =2:15
+                        </li>
+                                              <li data-a="2">
+                          watermark: <br />
+Fragment of a crown, probably from atop a Strasbourg Lily; variant of Churchill 427 (1645)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower right, graphite: 5 5
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, left center, graphite: de Stad Rheenen
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Dr. H. Wellesley, Oxford (without his mark, L. 1384), sold; [Sotheby’s, London, 25 June 1866 and following days, lot 367]; to [P. & D. Colnaghi, London], sold; to Henry Adams, Boston and London, 1867, by descent; to Mrs. Arthur Adams, Dover, MA.[Schaeffer Galleries, New York], sold; to John S. Newberry, Jr., Grosse Pointe Farms, MI; Gift of John S. Newberry, Jr., given in honor of Paul J. Sachs's 70th Birthday, inv. no. 1949.33.<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 22 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>On March 26, 1867, Henry Adams—journalist, historian, and direct descendant of the second and sixth U.S. presidents—wrote that his friend Francis Turner Palgrave “instigated me into going to an auction sale and giving £12.0. for a Cuyp. I fully expect to be ruined by him ultimately, for drawings are my mortal point and I can’t resist.”<sup class="footnote" id="fnrev9674958155ef66425f4015-1"><a href="#fn9674958155ef66425f4015-1">2</a></sup> Adams, who lived in London from 1861 to 1868 as secretary to his father, U.S. minister to Great Britain, did not, as his letter implies, acquire Cuyp’s View of Rhenen at auction, but from the dealer P. &amp; D. Colnaghi. The latter, as Adams recorded on a former mount or backing, had purchased it for £20 in 1866 at the sale of the collection of Henry Wellesley, principal of New Inn Hall, University of Oxford, and Adams bought it from Colnaghi in March 1867 for £12.1.6.</p>
+
+<p>The renowned landscapist Aelbert Cuyp specialized in cattle and equestrian scenes, as well as views of shipping near his native Dordrecht. Suffused with golden sunlight, his mature paintings convey a serene, idyllic mood unequaled by any other Dutch master.<sup class="footnote" id="fnrev9674958155ef66425f4015-2"><a href="#fn9674958155ef66425f4015-2">3</a></sup> About two hundred drawings by Cuyp survive.<sup class="footnote" id="fnrev9674958155ef66425f4015-3"><a href="#fn9674958155ef66425f4015-3">4</a></sup> In addition to landscapes and a few portraits, they include studies of figures, farm animals, and plants that constitute a stock of motifs to incorporate into pictures.<sup class="footnote" id="fnrev9674958155ef66425f4015-4"><a href="#fn9674958155ef66425f4015-4">5</a></sup> Most of the landscapes are fully resolved, autonomous compositions, often elaborated in refined combinations of gray and brown washes, yellowish green and greenish brown transparent watercolor, white opaque watercolor and, in darker passages, a coating of gum arabic to deepen the shadows. Although many of the works are highly finished, Cuyp did not produce them for sale. Nor did he make them as preparatory studies for paintings, although he occasionally reproduced motifs from drawings in the backgrounds of pictures and, in a few instances, adapted an entire composition as the basis for a work in oil.<sup class="footnote" id="fnrev9674958155ef66425f4015-5"><a href="#fn9674958155ef66425f4015-5">6</a></sup></p>
+
+<p>View of Rhenen belongs to a group of about fifteen impressive views of Dutch cities that are similar in dimensions, media, and topographical accuracy.<sup class="footnote" id="fnrev9674958155ef66425f4015-6"><a href="#fn9674958155ef66425f4015-6">7</a></sup> None of Cuyp’s drawings bear dates, and their chronology is difficult to establish precisely. Egbert Haverkamp-Begemann dates these large panoramas to circa 1642–46 and traces Cuyp’s preference for the oblong format to the example of Jan van de Velde, whose series of etchings Landscapes and Ruins (1615) depicts exceptionally broad vistas with low skies.<sup class="footnote" id="fnrev9674958155ef66425f4015-7"><a href="#fn9674958155ef66425f4015-7">8</a></sup></p>
+
+<p>Rhenen lies to the southeast of Utrecht, on a slope that descends about thirty meters to the banks of the Lower Rhine.<sup class="footnote" id="fnrev9674958155ef66425f4015-8"><a href="#fn9674958155ef66425f4015-8">9</a></sup> Rising above the low-lying region across the river to the west, south, and east known as De Betuwe and punctuated by the tower of the late Gothic church of Saint Cunera, the picturesque silhouette of the city and its medieval walls and gates attracted legions of Dutch artists. These included Hercules Segers, Pieter Saenredam, Rembrandt, and Jacob van Ruisdael.<sup class="footnote" id="fnrev9674958155ef66425f4015-9"><a href="#fn9674958155ef66425f4015-9">10</a></sup> In the Harvard work, Cuyp drew the city from the Grebbeberg, a hill to the east, looking toward De Betuwe. Taking advantage of the breadth of the paper support, he meticulously recorded the walls’ long, diagonal course to the river. At the center of the drawing is the Bergpoort (or Oostpoort), a broad arch in the perimeter wall that led to the outer gate of the medieval bastion, flanked by low conical roofs and the taller structure that was the main portal to the city. At the right is the tower of Saint Cunera’s, which Cuyp accentuated with a dense application of white opaque watercolor. The small, conical tower to the right of Saint Cunera’s housed the staircase of the adjacent house.<sup class="footnote" id="fnrev9674958155ef66425f4015-10"><a href="#fn9674958155ef66425f4015-10">11</a></sup> Joris van der Haagen drew the skyline from a point to the south, downhill from where Cuyp sat (Fig. 1).<sup class="footnote" id="fnrev9674958155ef66425f4015-11"><a href="#fn9674958155ef66425f4015-11">12</a></sup> In Van der Haagen’s view, the medieval gatehouse appears directly behind the arch of the Bergpoort, and the stair tower is immediately to the right of the tall portal.<sup class="footnote" id="fnrev9674958155ef66425f4015-12"><a href="#fn9674958155ef66425f4015-12">13</a></sup></p>
+
+<p>Cuyp evidently visited Rhenen at least twice. A study of the city from the northeast must date from 1641 or earlier, because he incorporated it into a painting of that year.<sup class="footnote" id="fnrev9674958155ef66425f4015-13"><a href="#fn9674958155ef66425f4015-13">14</a></sup> Two other views of Rhenen, one drawn from a standpoint north of that in the Harvard sheet and another showing the city from the northwest, were probably executed, like the Harvard study, a few years later.<sup class="footnote" id="fnrev9674958155ef66425f4015-14"><a href="#fn9674958155ef66425f4015-14">15</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-15"><sup>1</sup> (This note refers to an inscription, see &#8220;Inscriptions and Marks.&#8221;) Henry Adams’s inscription was evidently on a former backing, now lost. Its being on the verso of the drawing is recorded in the fact sheet for this work preserved with the records of Schaeffer Galleries, New York; Research Library, Special Collections, and Visual Resources, Getty Research Institute, Los Angeles, collection number 910148, Box 19, Schaeffer Galleries stock no. Drawing 1259. However, the inscription is not on the verso of the original drawing and must have been on a backing or mount that has since been removed. That Colnaghi paid £20 at the Wellesley sale is confirmed by the price recorded in an annotated copy of the sale catalogue in the British Museum. The previous lot in the sale, also attributed to Cuyp but knocked down for a modest £1.9, was bought by Adams’s friend Francis Turner Palgrave.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-1"><sup><a href="#fnrev9674958155ef66425f4015-1">2</a></sup> Worthington Chauncey Ford, ed., <em>Letters of Henry Adams (1858–1891)</em> (Boston and New York, 1930), vol. 1, p. 125; Ernst Scheyer, “Henry Adams as a Collector of Art,” <em>The Art Quarterly</em>, vol. 25, no. 3 (Autumn 1952): 221–33, p. 223; J. C. Levenson, Eleanor Pearre Abbot, Jayne N. Samuels, eds. <em>The Letters of Henry Adams</em> (Cambridge, 1982–88), p. 526. Palgrave was a professor of poetry at Oxford, man of letters, and critic. He and the Pre-Raphaelite sculptor Thomas Woolner were Adams’s “mentors in the sport of art collecting.” Scheyer, p. 221.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-2"><sup><a href="#fnrev9674958155ef66425f4015-2">3</a></sup> Arthur Wheelock and Jacob de Groot in Arthur K. Wheelock, Jr., ed., <em>Aelbert Cuyp</em> (Washington, DC: National Gallery of Art; London: National Gallery; Amsterdam: Rijksmuseum, 2001), pp. 15–33.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-3"><sup><a href="#fnrev9674958155ef66425f4015-3">4</a></sup> J. G. van Gelder in Dordrechts Museum, <em>Aelbert Cuyp en zijn familie, schilders te Dordrecht: Gerrit Gerritsz. Cuyp, Jacob Gerritsz. Cuyp, Benjamin Gerritsz. Cuyp, Aelbert Cuyp</em> (Dordrecht, Netherlands: Dordrechts Museum), p. 112.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-4"><sup><a href="#fnrev9674958155ef66425f4015-4">5</a></sup> On Cuyp’s studies of figures, animals, and plants, see Wouter Kloek in Wheelock, cats. 94–109, pp. 262–77; and J. G. van Gelder in Dordrechts Museum, cat. 42, pp. 116–17, cats. 58–63, pp. 148–59, and cat. 66, pp. 164–65. On Cuyp’s drawings generally, see J. G. van Gelder in Dordrechts Museum, cats. 41–72, pp. 112–13; Egbert Haverkamp-Begemann and Wouter Kloek in Wheelock, pp. 75–85, and cats. 46 109, pp. 214–77.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-5"><sup><a href="#fnrev9674958155ef66425f4015-5">6</a></sup> Egbert Haverkamp-Begemann in Wheelock, p. 76.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-6"><sup><a href="#fnrev9674958155ef66425f4015-6">7</a></sup> Ibid., pp. 81–82, and Wouter Kloek in Wheelock, cats. 72–76 and 78.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-7"><sup><a href="#fnrev9674958155ef66425f4015-7">8</a></sup> Egbert Haverkamp-Begemann in Wheelock, p. 82. For Jan van de Velde’s series of eighteen oblong landscape prints, see Hollstein, vol. 33, nos. 172–95, pp. 58–65.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-8"><sup><a href="#fnrev9674958155ef66425f4015-8">9</a></sup> Michiel Kersten in Clifford S. Ackley, <em>From Michelangelo to Rembrandt: Master Drawings from the Teylers Museum</em> (New York: Pierpont Morgan Library; Chicago: Art Institute of Chicago, 1989), under cat. 86, pp. 133–34. My thanks to Egbert Haverkamp-Begemann for his comments on a draft of this entry, and especially for correcting my description of the geography of De Betuwe.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-9"><sup><a href="#fnrev9674958155ef66425f4015-9">10</a></sup> H. P. Deys, <em>Achter Berg en Rijn: Over boeren, burgers en buitenlui in Rhenen</em> (Rhenen, Netherlands, 1981) and Laurens Schoemaker and Henk Deys, <em>Tegen de Helling van de Heuvelrug: Rhenen in oude tekeningen 1600–1900</em> (Utrecht, 2007), are richly illustrated surveys of views of Rhenen and its surroundings.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-10"><sup><a href="#fnrev9674958155ef66425f4015-10">11</a></sup> Identified by Schoemaker and Deys, cat. 13, p. 52.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-11"><sup><a href="#fnrev9674958155ef66425f4015-11">12</a></sup> Joris van der Haagen, <em>View of Rhenen from the East</em> (Fig. 1), c. 1655. Black chalk, gray wash, traces of blue ink and red chalk, 335 × 505 mm. Frankfurt am Main, Städelsches Kunstinstitut, 3556; Schoemaker and Deys, cat. 17, p. 55, repr.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-12"><sup><a href="#fnrev9674958155ef66425f4015-12">13</a></sup> Schoemaker and Deys, cat. 17, p. 55.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-13"><sup><a href="#fnrev9674958155ef66425f4015-13">14</a></sup> Cuyp’s view of Rhenen in the Teylers Museum, Haarlem, was used in a family portrait dated 1641, in which Aelbert painted the landscape, and his father, Jacob Gerritsz. Cuyp, painted the figures. See Michiel Kersten in Ackley, cat. 86, pp. 133–34; Michiel C. Plomp, <em>The Dutch Drawings in the Teylers Museum</em> (Ghent and Doornspijk, 1997), cat. 98, pp. 116–17; Egbert Haverkamp-Begemann in Wheelock, p. 80.</p>
+
+<p class="footnote" id="fn9674958155ef66425f4015-14"><sup><a href="#fnrev9674958155ef66425f4015-14">15</a></sup> Schoemaker and Deys, cat. 13, p. 53, repr., and cat. 44, p. 78, repr. The drawing in Berlin, Schoemaker and Deys, cat. 12, p. 51, is an autograph replica, with a different foreground, of the Teylers Museum drawing. See Wouter Kloek in Wheelock, p. 283 (n. 1).</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/297063/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Joris van der Haagen, <em>View of Rhenen from the East</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of John S. Newberry, Jr., given in honor of Paul J. Sachs's 70th Birthday</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1949</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1949.33</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Frits Lugt, <em>Les Marques de Collections de Dessins et d'Estampes. Marques estampillées et écrites de collections particulières et publiques. . . .</em>, Vereenigde Drukkerijen (Amsterdam, 1921), p. 247
+                             </p>
+                                                      <p>
+                                              Henry Adams, <em>Letters of Henry Adams  (1858-1891)</em>, ed. Worthington Chauncey Ford, Houghton Mifflin Company (Boston, MA and New York, NY, 1930), vol. 1, p. 125
+                             </p>
+                                                      <p>
+                                              <em>Seventy Master Drawings: A Loan Exhibition Arranged in Honor of Professor Paul J. Sachs on the Occasion of his Seventieth Birthday</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1948-1949), cat. no. 40
+                             </p>
+                                                      <p>
+                                              <em>Harvard Alumni Bulletin</em>, Harvard Bulletin Inc. (Cambridge, Massachusetts, January 29, 1949), vol. 51, no. 8, repr. p. 336
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, ed., <em>One Hundred Master Drawings</em>, Harvard University Press (Cambridge, 1949), pp. 94-95, repr.
+                             </p>
+                                                      <p>
+                                              <em>Six Centuries of Great Master Drawings</em>, exh. cat., University of Iowa (Iowa City, IA, 1951), cat. no. 76, repr.
+                             </p>
+                                                      <p>
+                                              Ernst Scheyer, "Henry Adams as a Collector of Art", <em>The Art Quarterly</em> (Autumn 1952), vol. 25, no. 3, pp. 221-33, pp. 223, 225, 232 (n. 9), repr. p. 229, fig. 1
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, checklist, Unpublished (1954), cat. no. 67, p. 16
+                             </p>
+                                                      <p>
+                                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, exh. cat., Albright-Knox Art Gallery (Buffalo, NY, 1967), cat. no. 10, n.p.
+                             </p>
+                                                      <p>
+                                              <em>Fogg Art Museum Acquisitions, 1969-1970</em>, Fogg Art Museum (Cambridge, MA, 1971), p. 6
+                             </p>
+                                                      <p>
+                                              Curtis O. Baer, ed., <em>Seventeenth Century Dutch Landscape Drawings and Selected Prints from American Collections</em>, exh. cat., Vassar College Art Gallery (Poughkeepsie, NY, 1976), cat. no. 50, pp. 15 and 68-69, and under cat. no. 46, p. 64
+                             </p>
+                                                      <p>
+                                              Dordrechts Museum, <em>Aelbert Cuyp en zijn familie, schilders te Dordrecht:  Gerrit Gerritsz. Cuyp, Jacob Gerritsz. Cuyp, Benjamin Gerritsz. Cuyp, Aelbert Cuyp</em>, exh. cat., Dordrechts Museum (Dordrecht, 1977), under cat. no. 43, p. 118, (n. 4)
+                             </p>
+                                                      <p>
+                                              Egbert Haverkamp-Begemann, "Jan van Goyen in the Corcoran: Exemplars of Dutch Naturalism", <em>The William A. Clark Collection</em>, ed. Corcoran Gallery of Art, National Gallery of Art (Washington, D.C., 1978), pp.55 and 59 (n. 13), repr. p. 54, fig. 44
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Tokyo, 1979), cat. no. 53, n.p., repr. pl. 53
+                             </p>
+                                                      <p>
+                                              <em>The Draughtsman at Work. Drawing in the Golden Century of Dutch Art</em>, checklist (unpublished, 1980), no. 28
+                             </p>
+                                                      <p>
+                                              H. P. Deys, <em>Achter Berg en Rijn over boeren, burgers en buitenlui in Rhenen</em>, Stichting "Gebroken Lente" (Rhenen, Netherlands, 1981), no. 95, p. 37, repr.
+                             </p>
+                                                      <p>
+                                              Henry B. Adams, <em>The Letters of Henry Adams</em>, ed. J. C. Levenson, Eleanor Pearre Abbot, and Jayne N. Samuels, Belknap Press (Cambridge, MA, 1982 - 1988), p. 527 (n. 2)
+                             </p>
+                                                      <p>
+                                              Peter C. Sutton, <em>A Guide to Dutch Art in America</em>, Netherlands-American Amity Trust and Eerdmans (Washington, D.C. and Grand Rapids, MI, 1986), p. 39
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), cat. no. 272, p. 233, repr.
+                             </p>
+                                                      <p>
+                                              Frederik J. Duparc, <em>Landscape in Perspective:  Drawings by Rembrandt and his Contemporaries</em>, exh. cat., The Montreal Museum of Fine Arts (Montreal, 1988), cat. no. 22, p. 89, repr., and repr. color, p. 33, fig. 22
+                             </p>
+                                                      <p>
+                                              Clifford S. Ackley, <em>From Michelangelo to Rembrandt: Master Drawings from the Teyler Museum</em>, exh. cat., Pierpont Morgan Library (New York, NY, 1989), under cat. no. 86, pp. 133-34 (n. 2)
+                             </p>
+                                                      <p>
+                                              Paul Huys Janssen and Peter C. Sutton, <em>The Hoogsteder Exhibition of Dutch Landscapes</em>, exh. cat., Hoogsteder & Hoogsteder and Waanders Uitgevers (The Hague; Zwolle, 1991), under cat. no. 8, p. 62
+                             </p>
+                                                      <p>
+                                              Michiel C. Plomp, <em>The Dutch drawings in the Teylers Museum</em>, Snoeck Ducaju and Davaco (Ghent and Doornspijk, 1997), under cat. no. 98, p. 117
+                             </p>
+                                                      <p>
+                                              Arthur K. Wheelock, Jr., <em>Aelbert Cuyp</em>, exh. cat., ed. Arthur K. Wheelock, Jr., National Gallery of Art (Washington, D.C., 2001), cat. no. 73, p. 241, repr. (color)
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of Master Drawings</em>, auct. cat., P. & D. Colnaghi & Co. Ltd. (London, England, 2001), under cat. no. 18, n.p.
+                             </p>
+                                                      <p>
+                                              <em>Old Master Drawings</em>, auct. cat., Christie's, New York (New York, NY, January 24, 2001), under lot 160, p. 192
+                             </p>
+                                                      <p>
+                                              Laurens Schoemaker and H. P. Deys, <em>Tegen de Helling van de Heuvelrug: Rhenen in oude tekeningen 1600-1900</em>, Uitgeverij Matrijs (Utrecht, 2007), no. 13, p. 52, repr. and under cat. no. 14, p. 53, under cat. no. 18, p. 56, under cat. no. 44, p. 78, and p. 271
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 17, 23; cat. no. 22, pp. 91-93, repr. p. 92 (foldout); watermark p. 375
+                             </p>
+                                                      <p>
+                                              Franklin Einspruch, Fuse Visual Art Review: A Pair of Drawing Shows at the Harvard Art Museums, <em>The Arts Fuse</em> ([e-journal], June 9, 2016), http://artsfuse.org/146319/fuse-visual-arts-review-a-pair-of-drawing-shows-at-the-harvard-art-museums/, accessed June 9, 2016
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Seventy Master Drawings: A Loan Exhibition arranged in honor of Professor Paul J. Sachs on the occasion of his seventieth birthday</em>, Fogg Art Museum, Cambridge, 01/01/1948 - 12/31/1949
+                            </p>
+                          <p>
+                              <em>Six Centuries of Master Drawings</em>, University of Iowa, Iowa City, 05/01/1951 - 09/01/1951
+                            </p>
+                          <p>
+                              <em>An Exhibition of Dutch and Flemish Drawings and Watercolors</em>, Fogg Art Museum, Cambridge, 04/01/1954 - 04/30/1954
+                            </p>
+                          <p>
+                              <em>Landscapes</em>, Arthur D. Little, Cambridge, 01/01/1959 - 12/31/1959
+                            </p>
+                          <p>
+                              <em>Paintings, Sculpture and Drawings from the Fogg Art Museum</em>, Albright-Knox Art Gallery, Buffalo, 05/08/1967 - 06/11/1967
+                            </p>
+                          <p>
+                              <em>Seventeenth Century Dutch Landscape Drawings and Selected Prints from American Collections</em>, Vassar College Art Gallery, Poughkeepsie, 03/28/1976 - 05/07/1976
+                            </p>
+                          <p>
+                              <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 11/03/1979 - 12/16/1979
+                            </p>
+                          <p>
+                              <em>The Draughtsman at Work. Drawing in the Golden Century of Dutch Art</em>, Fogg Art Museum, Cambridge, 11/21/1980 - 01/04/1981
+                            </p>
+                          <p>
+                              <em>Landscape in Perspective: Drawings by Rembrandt and his Contemporaries</em>, Harvard University Art Museums, Cambridge, 02/20/1988 - 04/03/1988; The Montreal Museum of Fine Arts, Montreal, 04/15/1988 - 05/29/1988
+                            </p>
+                          <p>
+                              <em>Aelbert Cuyp</em>, National Gallery of Art, Washington, 10/07/2001 - 01/13/2002
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/356428">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:764413?width=3000&height=3000" alt="View Of Rhenen">
+                                    <span class="related-artwork__obj">2016.240</span>
+                                      <h4 class="related-artwork__artist">Jan van Goyen</h4>
+                                                        <h3 class="related-artwork__title">View of Rhenen</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:50881_prdwork?width=200&height=200" alt="View Of Rhenen">
+                <span class="popup__artwork-info-id">1949.33</span>
+        <span class="popup__artwork-info-author">
+                                    Aelbert Cuyp
+                              </span>
+        <span class="popup__artwork-info-title">View of Rhenen</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297063%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297063">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297063" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=View+of+Rhenen+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297063" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297063" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_256b86d627dd4fe4f221cbbb179a15eb" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

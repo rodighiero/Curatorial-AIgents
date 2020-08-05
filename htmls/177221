@@ -1,0 +1,639 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Virgin of Sorrows </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Virgin of Sorrows" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/177221"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:70082_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Virgin of Sorrows" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17805120" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:70082_dynmc?width=3000&height=3000" data-initial-image-id="17805120" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?177221" data-behavior="add_to_collection tooltip" data-artwork="177221" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=177221&amp;image_id=70082" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/177221/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="70082">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:70082_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Karel van Mander"  title="The Virgin Of Sorrows" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17805120" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:70082_dynmc?width=125&height=125" alt="The Virgin Of Sorrows">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011582">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011582_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Karel van Mander"  title="The Virgin Of Sorrows" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618013" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011582_dynmc?width=125&height=125" alt="The Virgin Of Sorrows">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>2001.135</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20970>Karel van Mander</a>, Netherlandish                                                                                                                                                                                                                                                                          (Meulebeke, Belgium 1548 - 1606 Amsterdam, Netherlands)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Virgin of Sorrows</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1590-1595</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/177221">https://hvrd.art/o/177221</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink, brown and gray wash and white opaque watercolor over touches of black chalk on light tan antique laid paper, framing line in black chalk at right and bottom edges, on remnants of mount</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>20.2 x 17.3 cm (7 15/16 x 6 13/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          collector's mark: lower right, black ink, stamp: L. 474 (probably Comte de Caylus, formerly pseudo-Crozat)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: lower right, black ink, stamp: L. 2908 (unidentified, probably English, mid-17th century)
+                        </li>
+                                              <li data-a="2">
+                          inscription: former mount, verso, upper right, graphite: 275
+                        </li>
+                                              <li data-a="2">
+                          inscription: former mount, verso, lower left, brown ink [?]: Van dyck
+                        </li>
+                                              <li data-a="2">
+                          watermark: Coat of arms with letters below, the final three letters appearing to be NIN; related to Briquet 9613 (Namur, 1547)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Unidentified Collector, probably English, mid-17th century (L. 2908, lower right). Probably Comte de Caylus, Paris (L. 474, lower right). [Unidentified dealer, Mt. Kisco, New York], sold; to Olga Noreen Brigg Fletcher, Chappaqua, New York, 1958, given; to her daughter, Wendy Scott Fletcher, Hingham, MA, 1967; Partial Gift of Wendy Scott Fletcher and Partial Purchase through the Marian H. Phinney Fund, 2001.135<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 54 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Karel van Mander is best known as the author of <em>Het Schilder-boeck</em> (Haarlem 1604), which combines a treatise in verse on the theory and practice of painting, commentary on Ovid’s <em>Metamorphoses</em> and other iconological material, and biographies of ancient and modern painters. His lives of Netherlandish and German masters—from the Van Eycks to his contemporaries Bartholomeus Spranger (<a href="https://www.harvardartmuseums.org/collections/object/294851?position=0">1983.142</a>), Hendrick Goltzius (<a href="https://www.harvardartmuseums.org/collections/object/212401?position=0">1999.141</a>), and Cornelis Cornelisz. van Haarlem—remain an essential source for the study of fifteenth- and sixteenth-century art in northern Europe.</p>
+
+<p>Van Mander traveled in Italy from 1573 to 1577, meeting Spranger and other northern and Italian artists in Rome.<sup class="footnote" id="fnrev5229875205ef664284b784-1"><a href="#fn5229875205ef664284b784-1">2</a></sup> In 1583, he left the southern Netherlands and settled in Haarlem. He introduced Goltzius to drawings by Spranger, whose example precipitated the distinctive late mannerist style developed by Goltzius, Cornelis Cornelisz., Abraham Bloemaert (<a href="https://www.harvardartmuseums.org/collections/object/212362?position=0">25.1998.1</a> and <a href="https://www.harvardartmuseums.org/collections/object/293663?position=0">1999.130</a>), Joachim Wtewael (<a href="https://www.harvardartmuseums.org/collections/object/212400?position=0">1999.183</a>), and Van Mander himself.<sup class="footnote" id="fnrev5229875205ef664284b784-2"><a href="#fn5229875205ef664284b784-2">3</a></sup></p>
+
+<p>The majority of Van Mander’s works date from 1587 to 1604.<sup class="footnote" id="fnrev5229875205ef664284b784-3"><a href="#fn5229875205ef664284b784-3">4</a></sup> About thirty paintings are securely attributable to him, and others are mentioned in seventeenth-century inventories.<sup class="footnote" id="fnrev5229875205ef664284b784-4"><a href="#fn5229875205ef664284b784-4">5</a></sup> During his Haarlem years, Van Mander was also a prolific designer of prints. Engravers such as Jacques de Gheyn II, Jacob Matham, and Jan Saenredam produced 170 plates after his designs.<sup class="footnote" id="fnrev5229875205ef664284b784-5"><a href="#fn5229875205ef664284b784-5">6</a></sup> Of approximately eighty-five drawings attributable to Van Mander, nearly half are preparatory for prints.<sup class="footnote" id="fnrev5229875205ef664284b784-6"><a href="#fn5229875205ef664284b784-6">7</a></sup> As Marjolein Leesberg suggested, he must have intended the <em>Virgin of Sorrows</em> to serve as the model for an engraving, although no related print is known, the outlines were not incised, and the verso was not blackened to facilitate transfer of the design to a copper plate.<sup class="footnote" id="fnrev5229875205ef664284b784-7"><a href="#fn5229875205ef664284b784-7">8</a></sup> The fully resolved composition, clearly defined contours in brown ink, and dramatic shadows and highlights produced by the painterly blending of gray and brown washes and white opaque watercolor are characteristic of the models Van Mander furnished to printmakers.<sup class="footnote" id="fnrev5229875205ef664284b784-8"><a href="#fn5229875205ef664284b784-8">9</a></sup> Leesberg cited five other drawings he evidently prepared for prints—four of them indented and/or blackened on the verso—that were never executed or whose corresponding prints remain unidentified.<sup class="footnote" id="fnrev5229875205ef664284b784-9"><a href="#fn5229875205ef664284b784-9">10</a></sup> On the other hand, many of his drawings reproduced in engravings show no evidence of mechanical transfer to the plate.<sup class="footnote" id="fnrev5229875205ef664284b784-10"><a href="#fn5229875205ef664284b784-10">11</a></sup> Leesberg dated the Harvard work to the early 1590s, comparing it to the finished designs for a series of six prints representing proverbs (Fig. 1).<sup class="footnote" id="fnrev5229875205ef664284b784-11"><a href="#fn5229875205ef664284b784-11">12</a></sup></p>
+
+<p>The subject of the drawing originated in the devotional cult of the Seven Sorrows of the Virgin, which was especially popular in the Netherlands in the late fifteenth and early sixteenth centuries.<sup class="footnote" id="fnrev5229875205ef664284b784-12"><a href="#fn5229875205ef664284b784-12">13</a></sup> Simple images of the Mater Dolorosa show her with seven swords piercing her breast, while in others a large-scale figure of the Virgin, pierced by one sword or seven, is surrounded by small narrative scenes illustrating the events from the life of Christ that comprise the Seven Sorrows.<sup class="footnote" id="fnrev5229875205ef664284b784-13"><a href="#fn5229875205ef664284b784-13">14</a></sup> The swords not only stand for the Seven Sorrows but embody the belief that Mary suffered the agonies of Christ’s Passion with him.<sup class="footnote" id="fnrev5229875205ef664284b784-14"><a href="#fn5229875205ef664284b784-14">15</a></sup></p>
+
+<p>The devotional subject is exceptional in Van Mander’s oeuvre, although paintings by him of the Madonna are recorded in inventories.<sup class="footnote" id="fnrev5229875205ef664284b784-15"><a href="#fn5229875205ef664284b784-15">16</a></sup> His composition recalls prints published by the Wierix family in Antwerp in the 1580s that show the Mater Dolorosa seated at the foot of the cross with Jerusalem in the background (Fig. 2).<sup class="footnote" id="fnrev5229875205ef664284b784-16"><a href="#fn5229875205ef664284b784-16">17</a></sup> In Van Mander’s emotionally expressive interpretation, the voluminous, dynamic drapery with taut contours and deeply indented folds reflects the Virgin’s inner distress.<sup class="footnote" id="fnrev5229875205ef664284b784-17"><a href="#fn5229875205ef664284b784-17">18</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn5229875205ef664284b784-18"><sup>1</sup> (This note refers to the provenance.) For the evidence for and against the association of this mark (L. 474) with Anne-Claude-Philippe de Tubières, Comte de Caylus (1692–1765), see Hugh Hudson, “A Drawing Attributed to Marco Zoppo and Its Former Owners,” <em>Master Drawings</em>, vol. 50, no. 1 (Spring 2012): 9–20, pp. 10–12; Frits Lugt, <em>Les marques de collections de dessins &amp; d’estampes</em>, <a href="http://www.marquesdecollections.fr">Fondation Custodia</a>, Paris 2010, no. 474; and Xanthe Brooke, <em>Mantegna to Rubens: The Weld-Blundell Drawings Collection</em>, (London, 1998), pp. 16–17.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-1"><sup><a href="#fnrev5229875205ef664284b784-1">2</a></sup> On Van Mander’s life, see Karel van Mander and Hessel Miedema, ed., <em>The Lives of the Illustrious Netherlandish and German Painters, from the First Edition of the Schilder-boeck (1603–04)</em> (Doornspijk, Netherlands, 1994–99), vol. 1, pp. 6–35, vol. 2, pp. 11– 96; Marjolein Leesberg, “Karel van Mander as a Painter,” <em>Simiolus: Netherlands Quarterly for the History of Art</em>, vol. 22, no. 1/2 (1993–94): 5–57, pp. 14–43.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-2"><sup><a href="#fnrev5229875205ef664284b784-2">3</a></sup> Marjolein Leesberg in <em>New Hollstein</em>, Karel van Mander, pp. xvi–xvii; Leesberg (1993–94), pp. 17 and 21–25.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-3"><sup><a href="#fnrev5229875205ef664284b784-3">4</a></sup> Van Mander/Miedema, vol. 2, pp. 105–67, catalogues all the “more or less certain” paintings and drawings by Van Mander and the prints and tapestries after his designs. Leesberg (1993–94) is a study of Van Mander’s paintings. In <em>New Hollstein</em>, Karel van Mander, Leesberg catalogues the prints after Van Mander, and in pp. lxxxv–cx, nos. 1–35, the drawings related to prints.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-4"><sup><a href="#fnrev5229875205ef664284b784-4">5</a></sup> Leesberg (1993–94), p. 6, and pp. 46–52, cats. 1–28 (authentic paintings), cat. 53 (two doubtful attributions), and cats. 53–57 (paintings listed in seventeenth- and eighteenth-century inventories).</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-5"><sup><a href="#fnrev5229875205ef664284b784-5">6</a></sup> Leesberg in <em>New Hollstein</em>, Karel van Mander.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-6"><sup><a href="#fnrev5229875205ef664284b784-6">7</a></sup> Ibid., p. lxxxv. In correspondence with the author, 2 June 2008, Leesberg noted that additional drawings by Van Mander have come to light since 1993, and she now attributes some eighty-five drawings to him.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-7"><sup><a href="#fnrev5229875205ef664284b784-7">8</a></sup> Leesberg in correspondence with Edward Wouk and the author, 15 May and 2 June 2008.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-8"><sup><a href="#fnrev5229875205ef664284b784-8">9</a></sup> All the surviving drawings by Van Mander that served as models for printmakers are catalogued and reproduced by Leesberg, nos. 1–35, pp. lxxxvi–cx.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-9"><sup><a href="#fnrev5229875205ef664284b784-9">10</a></sup> Ibid., p. lxxxv.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-10"><sup><a href="#fnrev5229875205ef664284b784-10">11</a></sup> For example, neither the models for the Passion series (ibid., nos. 7–19, pp. xc– xci) nor those for the Proverbs (ibid., nos. 23–28, p. xcviii) were indented for transfer.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-11"><sup><a href="#fnrev5229875205ef664284b784-11">12</a></sup> Marjolein Leesberg in correspondence with the author, 2 June 2008. <em>The Scales of Marriage</em> (Fig. 1) is in brown ink, brown wash, and white opaque watercolor. 219 × 169 mm. Vienna, Graphische Sammlung Albertina, 8011; Leesberg in <em>New Hollstein</em>, Karel van Mander, no. 24, p. xcviii, repr. p. c. Leesberg dates the drawing and the related print circa 1592. Also closely comparable to the Harvard work are drawings of Saint Luke and Saint John the Evangelist, which are incised for transfer, but no prints after them are known; ibid., nos. 20 and 21, pp. xcv–xcvi, repr. Leesberg also dates these drawings circa 1592.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-12"><sup><a href="#fnrev5229875205ef664284b784-12">13</a></sup> Carol M. Schuler, “The Seven Sorrows of the Virgin: Popular Culture and Cultic Imagery in Pre-Reformation Europe,” <em>Simiolus: Netherlands Quarterly for the History of Art</em>, vol. 21, no. 1/2 (1992): 5–28, pp. 5–6 and 17–21.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-13"><sup><a href="#fnrev5229875205ef664284b784-13">14</a></sup> Ibid., pp. 6–7. For example, see the altarpiece by Bernard van Orley reproduced by Schuler, p. 6, fig. 1, and prints by Johannes Wierix after Gerard van Groeningen, circa 1573, and by Hieronymus Wierix, 1581; Hollstein, vol. 62, part 4, nos. 884–91, pp. 207–10, and no. 893, p. 211, repr. p. 213.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-14"><sup><a href="#fnrev5229875205ef664284b784-14">15</a></sup> Schuler, p. 6.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-15"><sup><a href="#fnrev5229875205ef664284b784-15">16</a></sup> Leesberg (1993–94), p. 54.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-16"><sup><a href="#fnrev5229875205ef664284b784-16">17</a></sup> Antonius Wierix II, after Maerten de Vos, <em>Mater Dolorosa</em> (Fig. 2), 1584. Engraving. 274 × 181 mm. Amsterdam, Rijksmuseum, RP-P-1907-2015. Hollstein, vol. 63, part 5, no. 925, pp. 18–19. Also see no. 924 by Antonius Wierix II and no. 930 by Hieronymus Wierix.</p>
+
+<p class="footnote" id="fn5229875205ef664284b784-17"><sup><a href="#fnrev5229875205ef664284b784-17">18</a></sup> Similarly expressive draperies appear in works of the late 1580s by Spranger, Goltzius, and Cornelis Cornelisz. See Hendrick Goltzius, after Bartholomeus Spranger, <em>The Holy Family</em>, engraving, 1585, Marjolein Leesberg in <em>New Hollstein</em>, Hendrick Goltzius, part 2, no. 337, pp. 300–302; Hendrick Goltzius, <em>The Holy Family under a Cherry Tree</em>, 1589, engraving, ibid., part 1, no. 32, pp. 78–79; Jacob Matham (attributed to), after Hendrick Goltzius, <em>Rest on the Flight into Egypt</em>, 1589, engraving, Léna Widerkehr in <em>New Hollstein</em>, Jacob Matham, part 3, no. 298, pp. 24– 25; Jacob Matham (attributed to), after Hendrick Goltzius, <em>Rest on the Flight into Egypt</em>, engraving, 1589, ibid., no. 299, pp. 26–27; Jacques de Gheyn II, after Cornelis Cornelisz. van Haarlem, <em>Rest on the Flight into Egypt</em>, 1589, engraving, Jan Piet Filedt Kok and Marjolein Leesberg in <em>New Hollstein</em>, The De Gheyn Family, part 1, no. 31, pp. 70–71.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/177221/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Karel van Mander, <em>The Scales of Marriage</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/177221/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Antonius Wierix II, after Maerten de Vos, <em>Mater Dolorosa</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Partial Gift of Wendy Scott Fletcher and Partial Purchase through the Marian H. Phinney Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>2001</dd>
+            
+            <dt>Object Number</dt>
+            <dd>2001.135</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 54, pp. 188-190, repr. p. 189; watermark p. 378
+                             </p>
+                                    </dd>
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:70082_dynmc?width=200&height=200" alt="The Virgin Of Sorrows">
+                <span class="popup__artwork-info-id">2001.135</span>
+        <span class="popup__artwork-info-author">
+                                    Karel van Mander
+                              </span>
+        <span class="popup__artwork-info-title">The Virgin of Sorrows</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20177221%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F177221">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F177221" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Virgin+of+Sorrows+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F177221" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/177221" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_62817c8d05d392eb64f8911fa70e6408" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

@@ -1,0 +1,640 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Juno, Jupiter, and Mercury </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Juno, Jupiter, and Mercury" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/294851"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71271_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Juno, Jupiter, and Mercury" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18480878" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71271_dynmc?width=3000&height=3000" data-initial-image-id="18480878" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?294851" data-behavior="add_to_collection tooltip" data-artwork="294851" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=294851&amp;image_id=71271" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/294851/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71271">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71271_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Bartholomeus Spranger"  title="Juno, Jupiter, And Mercury" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="18480878" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71271_dynmc?width=125&height=125" alt="Juno, Jupiter, And Mercury">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011600">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011600_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Bartholomeus Spranger"  title="Juno, Jupiter, And Mercury" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="435535258" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011600_dynmc?width=125&height=125" alt="Juno, Jupiter, And Mercury">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1983.142</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28819>Bartholomeus Spranger</a>, Netherlandish                                                                                                                                                                      (1546 - 1611)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Juno, Jupiter, and Mercury</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1592-95</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/294851">https://hvrd.art/o/294851</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink, brown wash and white opaque watercolor over touches of black chalk on cream antique laid paper, laid down</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>diameter: 20.3 cm (8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: lower left, brown ink: B  vs / Sprangers antver / inventor
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          collector's mark: verso, lower left, brown ink: No. 26 / EM [L. 881] (unidentified collector)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 77 [underlined]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: 26/EM [L. 881] (unidentified collector)
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower left, purple ink, stamp: L. 1226 (unidentified collector)
+                        </li>
+                                              <li data-a="2">
+                          watermark: Small coat of arms with diagonal bands on one side, obscured on the other; related to Briquet 916–26 (mostly Nuremburg, latter half of the 16th century)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Unidentified collector, perhaps French, perhaps recent (L. 881, verso, lower left). Unidentified collector (L. 1226, verso, lower left).* [Thomas Le Claire, Hamburg], sold; to Harvard University Art Museums, 1983; purchase in Honor of Konrad Oberhuber with Funds Presented by an Anonymous Donor, 1983.142.<br />
+<br />
+*Note:  According to Lugt, the drawings associated with this mark were sold at F. H. de St. Priest, Paris, 7 January 1920.  However, as no catalogue for this sale survives, Lugt's information cannot be corroborated.<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 83 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>From his birthplace of Antwerp, where he studied with the landscape painters Jan Mandijn, Frans Mostaert, and Cornelis van Dalem I, Bartholomeus Spranger’s peripatetic career took him to Paris, Milan, Parma, and Rome. Karel van Mander reports that even before Spranger left Antwerp, he copied prints by Parmigianino. In Parma in 1566, the artist worked with Bernardino Gatti on the dome of Santa Maria della Steccata, further immersing himself in the work of Parmigianino and Correggio. Spranger arrived that same year in Rome and stayed until 1575.</p>
+
+<p>Giovanni da Bologna recommended Spranger and the sculptor Hans Mont to the imperial court, and the two traveled together to Vienna, where Spranger painted frescoes in 1576 in Maximilian II’s Schloss Neugebäude, outside the city. When Maximilian’s successor, Rudolf II, made his entry into Vienna in 1577, it was through a triumphal arch decorated by Spranger, Mont, and Karel van Mander. From 1581 until his death, Spranger served as court painter to Rudolf II in Prague.<sup class="footnote" id="fnrev210861985ef66438a2b97-1"><a href="#fn210861985ef66438a2b97-1">2</a></sup> Van Mander, who renewed his acquaintance with Spranger when the celebrated imperial favorite visited the Netherlands in 1602, recorded that he had introduced Hendrick Goltzius to Spranger’s drawings in the 1580s. Their impact on the Dutch draftsman and printmaker precipitated the development in Haarlem of the original late mannerist style practiced by Goltzius, Cornelis Cornelisz. van Haarlem, Abraham Bloemaert, and Joachim Wtewael. Goltzius’s engravings after Spranger’s drawings made both the artists internationally famous.<sup class="footnote" id="fnrev210861985ef66438a2b97-2"><a href="#fn210861985ef66438a2b97-2">3</a></sup></p>
+
+<p>As Sally Metzler pointed out, the Harvard <em>Juno, Jupiter, and Mercury</em> and the engraving after it by Johan Barra (Fig. 1) relate to a group of works by and after Spranger that feature pairs of gods and goddesses seated, reclining, or standing on clouds, seen from below.<sup class="footnote" id="fnrev210861985ef66438a2b97-3"><a href="#fn210861985ef66438a2b97-3">4</a></sup> Most of these compositions, like the Harvard drawing, are inscribed within a circular field. They include the fresco <em>Mercury and Minerva</em> (in the White Tower of Prague Castle), datable to around 1590–93; the drawing <em>Venus with Two Cupids</em> (Fig. 2; Fondation Custodia, Frits Lugt Collection, Paris), circa 1583–85; and a set of three engravings executed around 1600 by Egbert van Panderen—one after the Lugt drawing and two, after lost models, representing <em>Minerva and Hercules</em> and <em>Juno and Mercury</em>.<sup class="footnote" id="fnrev210861985ef66438a2b97-4"><a href="#fn210861985ef66438a2b97-4">5</a></sup> Metzler further noted that a finished drawing of Jupiter and Juno in the Mary and Leigh Block Museum of Art (Northwestern University, Evanston, Illinois) and the study for it in the Herzog Anton Ulrich-Museum (Braunschweig), both from the late 1580s, are associable with this group, although they are rectangular, not circular, in format.<sup class="footnote" id="fnrev210861985ef66438a2b97-5"><a href="#fn210861985ef66438a2b97-5">6</a></sup> The Barra print after the Harvard composition is dated 1599, but Metzler situates the drawing a few years earlier, circa 1593–95. She convincingly compares the tight, compact bodies of the Olympians in the drawing to the style of the figures in Spranger’s small painting on copper, <em>Allegory on the Reign of Rudolf II</em>, which is dated 1592.<sup class="footnote" id="fnrev210861985ef66438a2b97-6"><a href="#fn210861985ef66438a2b97-6">7</a></sup></p>
+
+<p>Barra’s engraving reproduces the Harvard drawing in reverse, adapting its circular format to a hexagon, framed at the corners of the rectangular plate by a design of muscular volutes and bunches of fruit, which lends the appearance of a painting set in a sculpted ceiling of wood or plaster.<sup class="footnote" id="fnrev210861985ef66438a2b97-7"><a href="#fn210861985ef66438a2b97-7">8</a></sup> Additionally, Barra elaborated the peacock’s tail and the clouds, which Spranger had only lightly sketched. In the drawing, Spranger lengthened Jupiter’s ankle and foot, deleting the shorter foot with white opaque watercolor. He also changed the position of the eagle in a quick sketch of the raptor’s head and beak immediately below and to the right of Jupiter’s proper left hand. Barra followed this revision in the print, where the eagle’s head appears near the left edge, facing away from the figures rather than bending toward Jupiter’s ankle as it does in the Harvard design.</p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-8"><sup>1</sup> (This note refers to the provenance.) According to Frits Lugt, (<em>Les marques de collections de dessins et d’estampes: Marques estampillées et écrites de collections particulières et publiques. . . .</em>, Amsterdam, 1921), the drawings associated with this mark were sold at F. H. de St. Priest, Paris, 7 January 1920. However, as no catalogue for this sale survives, Lugt’s information cannot be corroborated.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-1"><sup><a href="#fnrev210861985ef66438a2b97-1">2</a></sup> For an up-to-date account of Spranger’s life and career, incorporating the results of recent research, see Sally Metzler, <em>Bartholomeus Spranger: Splendor and Eroticism in Imperial Prague</em>, (New York, 2014), pp. 16–61.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-2"><sup><a href="#fnrev210861985ef66438a2b97-2">3</a></sup> C. Höper, “Spranger, Batholomäus,” in Jane Turner, ed., <em>The Dictionary of Art</em> (New York, 1996), vol. 29, pp. 428–31. Karel van Mander and Hessel Miedema, ed., <em>The Lives of the Illustrious Netherlandish and German Painters, from the First Edition of the Schilder-boeck (1603–04)</em> (Doornspijk, Netherlands, 1994–99), vol. 1, pp. 330–62, and vol. 5, pp. 85–115. Metzler, under cat. 108, pp. 195–97.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-3"><sup><a href="#fnrev210861985ef66438a2b97-3">4</a></sup> Emails to Susan Anderson, 22 November 2011, and William Robinson, 30 August 2013. Johan Barra, after Bartholomeus Spranger, <em>Juno, Jupiter, and Mercury</em> (Fig. 1). Engraving. 213 × 196 mm. Munich, Staatliche Graphische Sammlung, 101771 D. Hollstein, vol. 1, no. 32, p. 91. My thanks to Sally Metzler, who first related the drawing to the Barra engraving, for her thoughts on the Harvard composition and for directing me to the print.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-4"><sup><a href="#fnrev210861985ef66438a2b97-4">5</a></sup> Bartholomeus Spranger, <em>Venus with Two Cupids</em> (Fig. 2). Brown ink, brown wash, black chalk, white opaque watercolor, and touches of red opaque watercolor, on gray prepared paper. 220 × 188 mm. Paris, Fondation Custodia, Frits Lugt Collection, 1205. Karel G. Boon, <em>The Netherlandish and German Drawings of the XVth and <span class="caps">XVI</span>th Centuries of the Frits Lugt Collection</em> (Paris, 1992), vol. 1, cat. 188, p. 335; vol. 2, p. 294, fig. 103; vol. 3, p. 188, repr. plate 117. For this and the other works of circular format, see Jaromír Neumann, “Kleine Beiträge zur Rudolfinischen Kunst und Ihre Auswirkungen,” <em>Umĕní</em>, vol. 18, no. 2 (1970): 142–67, pp. 142–50, repr. figs. 1–4; Metzler, cat. 58, pp. 130– 31, cat. 107, p. 195, cat. 134, pp. 223–24, cats. 205–7, pp. 318–21.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-5"><sup><a href="#fnrev210861985ef66438a2b97-5">6</a></sup> James Mundy, <em>Master Drawings Rediscovered. Selections from the Collections of Northwestern University and Esther and Malcolm Bick</em>. (South Hadley, MA: Mount Holyoke College Art Museum; Evanston, IL: Mary and Leigh Block Gallery, Northwestern University; Poughkeepsie, NY: Vassar College Art Gallery, 1981), cat. 28, pp. 66–68, repr. p. 67; Christian von Heusinger, <em>Herzog Anton Ulrich-Museum. Die Handzeichnungssammlung: Geschichte und Bestand</em> (Braunschweig, 1997), vol. 1, p. 348, repr. vol. 2, pl. 256. Metzler, cats. 121 and 122, pp. 209–11.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-6"><sup><a href="#fnrev210861985ef66438a2b97-6">7</a></sup> Metzler, under cat. 134, p. 224. The painting is in Vienna, Kunsthistorisches Museum, Gemäldegalerie, GG_1125, dated 1592. Idem, cat. 61, pp. 133–34.</p>
+
+<p class="footnote" id="fn210861985ef66438a2b97-7"><sup><a href="#fnrev210861985ef66438a2b97-7">8</a></sup> Neumann (pp. 146–47) wondered if the three circular designs engraved by Van Panderen (see n. 5) were also related to lost frescos in the White Tower of Prague Castle. Thomas DaCosta Kaufmann, <em>The School of Prague: Painting at the Court of Rudolf II</em>, Chicago and London, 1988, (under cat. 20.41, p. 262) added the Harvard drawing to the group—it was unknown to Neumann—and remarked that while there was no evidence that these designs were related to paintings, it was possible they were connected to the decoration of the Prague palace.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/294851/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Johan Barra, after Bartholomeus Spranger, <em>Juno, Jupiter, and Mercury</em></a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/294851/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Bartholomeus Spranger, <em>Venus with Two Cupids</em></a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Purchase in Honor of Konrad Oberhuber with Funds Presented by an Anonymous Donor</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1983</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1983.142</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Handzeichnungen und Aquarelle des 16.-19. Jahrhunderts</em>, auct. cat. (Hamburg, Germany, 1983), cat. no. 3, pp. 10-11, repr.
+                             </p>
+                                                      <p>
+                                              Thomas DaCosta Kaufmann, "A Census of Drawings from the Holy Roman Empire, 1540-1680, in North...", <em>Central European History</em> (March 1985), vol. 18, checklist, p. 105
+                             </p>
+                                                      <p>
+                                              Thomas DaCosta Kaufmann, <em>The School of Prague. Painting at the Court of Rudolf II</em>, University of Chicago Press (Chicago and London, 1988), under cat. no. 20.41, p. 262
+                             </p>
+                                                      <p>
+                                              Nicola Courtright, <em>Northern Travelers to Sixteenth-Century Italy: Drawings from New England Collections</em>, exh. cat., Trustees of Amherst College (Amherst, MA, 1990), cat. no. 21, pp. 4 and 17
+                             </p>
+                                                      <p>
+                                              Ann H. Sievers, <em>Master Drawings from the Smith College Museum of Art</em>, Hudson Hills Press/Smith College Museum of Art (New York, NY and Northampton, MA, 2000), under cat. no. 10, p. 59 (n. 9)
+                             </p>
+                                                      <p>
+                                              Sally Metzler, <em>Bartholomeus Spranger: Splendor and Eroticism in Imperial Prague</em>, exh. cat., The Metropolitan Museum of Art (New York, 2014), cat. no. 134, pp. 223-24, repr., and pp. 171, under cat. no. 111, p. 200, and under cat. no. 221, p. 325
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 83, pp. 278-280, repr. p. 279
+                             </p>
+                                    </dd>
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71271_dynmc?width=200&height=200" alt="Juno, Jupiter, And Mercury">
+                <span class="popup__artwork-info-id">1983.142</span>
+        <span class="popup__artwork-info-author">
+                                    Bartholomeus Spranger
+                              </span>
+        <span class="popup__artwork-info-title">Juno, Jupiter, and Mercury</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20294851%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294851">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294851" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Juno%2C+Jupiter%2C+and+Mercury+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F294851" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/294851" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_e3b4f4e2cf04b594af35248043507d81" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

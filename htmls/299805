@@ -1,0 +1,946 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Blessed Damozel </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Blessed Damozel" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299805"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51827_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Blessed Damozel" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17387890" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51827_dynmc?width=3000&height=3000" data-initial-image-id="17387890" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299805" data-behavior="add_to_collection tooltip" data-artwork="299805" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299805&amp;image_id=51827" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299805/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="51827">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51827_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17387890" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51827_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="51303">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51303_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="frame" data-object-copyright="President and Fellows of Harvard College" data-image-id="17386598" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51303_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="11447">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:11447_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181345" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:11447_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="30052">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:30052_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182087" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:30052_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="51302">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51302_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="detail: top section" data-object-copyright="President and Fellows of Harvard College" data-image-id="17386597" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51302_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="51826">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51826_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="detail: bottom section" data-object-copyright="President and Fellows of Harvard College" data-image-id="17387889" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51826_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="70066">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:70066_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="The Blessed Damozel" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183845" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:70066_dynmc?width=125&height=125" alt="The Blessed Damozel">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Rossetti was a poet as well as an artist. His poem “The Blessed Damozel” was first composed in 1847, when he was nineteen, and he continued to revise it until just before his death. William Graham, one of the artist’s most faithful patrons, commissioned a painting of its subject in 1871. The poem uses archaic language to describe the damozel, or damsel, leaning out of heaven — “the rampart of God’s house”— to behold her earthbound lover. The painting takes the form of a Renaissance altarpiece, with the damozel as a surrogate for the Virgin Mary. Graham, an avid collector of early Renaissance paintings, suggested that he add the predella (the panel or step traditionally found below the main part of an altarpiece) with the reclining lover in a terrestrial landscape. The two-part frame, designed by the artist, emphasizes the separation between heaven and earth — the “gold bar” described in the poem.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1943.202</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28374>Dante Gabriel Rossetti</a>, British                                                                                                                                                                                                                                                                          (London, England 1828 - 1882 Birchington-on-Sea, England)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Blessed Damozel</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1871-1878</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299805">https://hvrd.art/o/299805</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2130, European and American Art, 17th–19th century, The Pre–Raphaelites and Their Legacy<br>
+            <a href="/visit/floor-plan/2?gallery=2130" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>136.8 x 96.5 cm (53 7/8 x 38 in.)<br />
+predella: 35.2 x 96.2 cm (13 7/8 x 37 7/8 in.)<br />
+framed: 212.1 x 133 x 8.9 cm (83 1/2 x 52 3/8 x 3 1/2 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          exhibition label: back of frame, paper: [ ] Art [ ] / Nottingham Castle / Lent By: Mackenzie / London / -- / 99
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: back of frame, paper: Exhibition of the Works of the Old [Masters] / D. G. Rossetti / The Blessed Damozel / W. Graham Esq. / 35 Grosvenor Place
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: back of frame, paper: Exchange Art Gallery / 14 Exchange Street / Dale Street / London / Old Bond Street Galleries / Piccadilly
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Commissioned by William Graham, February 1871, finished 1878, (possibly) sold; to J. Dyson Perrins, by descent; to C. W. Dyson Perrins, Malvern, sold; to Grenville L. Winthrop [through Martin Birnbaum], 1934, bequest; to Fogg Art Museum, 1943.</dd>
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+            
+            
+                          <dt>Standard Reference Number</dt>
+              <dd>Surtees 244</dd>
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1943</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1943.202</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Magdalena Kilian, "Dante Gabriel Rossetti - 'weilki Wloch dreczony w piekle Londynu', <em>Annales Universitatis Paedagogicae: Studia de Arte et Educatione VII</em>, 124, pp. 56-62, p. 61; repr. in color between p. 62 and p. 63
+                             </p>
+                                                      <p>
+                               Walter A. Compton, "Dante Gabriel Rossetti: the Blessed Damozel", Unpublished (n.d.)
+                                            </p>
+                                                      <p>
+                                              William Sharp, <em>Dante Gabriel Rossetti</em>, Macmillan and Co. (London, England, 1882), pp. 117, 202, 244, 248-253; no. 274 in chronology
+                             </p>
+                                                      <p>
+                                              William M. Rossetti, <em>Dante Gabriel Rossetti as Designer and Writer</em>, Cassell & Company, Ltd. (London, New York, 1889), chronology, no. 323
+                             </p>
+                                                      <p>
+                                              Ulisse Ortensi, "I Artisti Contemporanei: Dante Gabriele Rossetti", <em>Emporium</em>, Istituto Italiano d'Arti Grafiche (Bergamo, Italy, 1896), vol. IV, pp. 10, 13; repr. facing p. 3
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Dante Gabriel Rossetti: An Illustrated Memorial of His Art and Life</em>, George Bell & Sons (London, 1899), pp. 175, 180, 188, no. 274
+                             </p>
+                                                      <p>
+                                              Fitz Roy Carrington, <em>Pictures and Poems by Dante Gabriel Rossetti</em> (New York, NY, 1899), frontispiece
+                             </p>
+                                                      <p>
+                                              Elisabeth Luther Cary, <em>The Rossettis: Dante Gabriel and Christina</em>, G. P. Putnam's Sons (London, England, 1900), p. 194; no. 178 in chronology, p. 295
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Dante Gabriel Rossetti, an illustrated memorial of his art and life</em>, George Bell and Sons, Ltd. (London, England, 1904), pp. 72, 124, 127, 132-134; no. 353 in chronology
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Rossetti</em>, George Bell and Sons, Ltd. (London, England, 1906), pp. 90, 92-93
+                             </p>
+                                                      <p>
+                                              Robert Ross, "Art in America. Rossetti: An Observation", <em>The Burlington Magazine</em> (1908), vol. XIII, p. 123
+                             </p>
+                                                      <p>
+                                              Ernest Radford, <em>Dante Gabriel Rossetti</em>, G. Newnes Ltd. (London, England, 1908), pl. 47
+                             </p>
+                                                      <p>
+                                              Gabriel Mourey, <em>D. -G. Rossetti et les Preraphaelites anglais</em>, H. Laurens (Paris, France, 1909), pp. 40, 69
+                             </p>
+                                                      <p>
+                                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1946), no. 83
+                             </p>
+                                                      <p>
+                               Hazelton Spencer, ed., <em>British Literature vol. II: From Blake to the Present Day</em>, D. C. Heath and Co. (Boston, MA, 1952)
+                                            </p>
+                                                      <p>
+                                              Martin Birnbaum, <em>The Last Romantic</em> (New York, NY, 1960), pp. 208-209
+                             </p>
+                                                      <p>
+                                              Dante Gabriel Rossetti, <em>Letters</em>, ed. Oswald Doughty and John Robert Wahl, The Clarendon Press (Oxford, 1965-1967), p. 1371
+                             </p>
+                                                      <p>
+                                              Jerome H. Buckley, ed., <em>The Pre-Raphaelites</em>, Random House (New York, NY, 1968), repr. b/w, p. 7
+                             </p>
+                                                      <p>
+                                              Gordon H. Fleming, <em>That Ne'er Shall Meet Again</em>, Michael Joseph, Ltd. (London, England, 1971), ill. opp. p. 140
+                             </p>
+                                                      <p>
+                                              Virginia Surtees, <em>The Paintings and Drawings of Dante Gabriel Rossetti (1828-1882): A Catalogue Raisonné</em>, The Clarendon Press (Oxford, England, 1971), no. 244, repr. as pl. 355
+                             </p>
+                                                      <p>
+                               Carol le Brun Danikian, "Early French Symbolists", <em>Boston Herald American</em> (January 28 1973)
+                                            </p>
+                                                      <p>
+                               Lee Sheridan, "'French Symbolist Art' Timely Museum Exhibit", <em>Springfield Daily News</em> (February 1973)
+                                            </p>
+                                                      <p>
+                               Ann Philips, "When Women Were 'Blessed Damsels'", <em>Cambridge Chronicle</em> (January 25 1973)
+                                            </p>
+                                                      <p>
+                                              Marina Henderson, <em>D. G. Rossetti</em>, Academy Editions/St. Martin's Press (London, England and New York, NY, 1973), p. 65, poem p. 64
+                             </p>
+                                                      <p>
+                                              Helene E. Roberts, "The Dream World of Dante Gabriel Rossetti", <em>Victorian Studies</em> (June 1974), vol. XVII, no. 4, no. 4, repr. b/w, plate 3, p. 382
+                             </p>
+                                                      <p>
+                                              John Bryson and Janet Camp Troxell, <em>Dante Gabriel Rossetti and Jane Morris, Their Correspondence</em>, The Clarendon Press (Oxford, England, 1976), repr. in b/w, no. 25, p. 51
+                             </p>
+                                                      <p>
+                                              Helmut Kreuzer and Gunnar Brandell, <em>Jahrhundertende, Jahrhundertwende</em>, Akademische Verlagsgesellschaft Athenaion (Wiesbaden, Germany, 1976), p. 381, repr. b/w and text
+                             </p>
+                                                      <p>
+                                              Denys Sutton, "The Pursuit of Beauty", <em>Apollo</em> (June 1978), vol. CVII, no. 196, pp. 446-452, p. 448, fig. 7
+                             </p>
+                                                      <p>
+                                              Frances Spalding, <em>Magnificent Dreams: Burne-Jones and the Late Victorians</em>, Phaidon Press (Oxford, England, 1978), p. 50, repr. in color, pl. 38, p. 51
+                             </p>
+                                                      <p>
+                                              Julian Treuherz, <em>Pre-Raphaelite Paintings from the Manchester City Art Gallery</em>, Lund Humphries (London, 1980), p. 107; repr. p. 109 as fig. xiii
+                             </p>
+                                                      <p>
+                                              Christopher Wood, <em>The Pre-Raphaelites</em>, Weidenfeld & Nicolson (London, England, 1981), repr. in color, p. 103
+                             </p>
+                                                      <p>
+                                              Wolfgang Kemp, <em>Der Anteil des Betrachters</em>, Maander Verlag (Munich, Germany, 1983), repr. in b/w, fig. 21
+                             </p>
+                                                      <p>
+                                              Pauline Fletcher, <em>Gardens and Grim Ravines: the Language of Landscape in Victorian Poetry</em>, Princeton University Press (Princeton, NJ, 1983), repr. b/w pl. 12
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti</em>, Casa Editrice G. C. Sansoni (Florence, Italy, 1984), no. 464, pp. 318-319
+                             </p>
+                                                      <p>
+                                              Edvige Schulte, <em>Dante Gabriel Rossetti: vita, arte, poesia</em>, Liguori Editore (Naples, Italy, 1986), repr. in b/w, fig. 45
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 213, p. 187, repr.
+                             </p>
+                                                      <p>
+                                              Harold Bloom, ed., <em>Pre-Raphaelite Poets: Modern Critical Views</em>, Chelsea House Publishers (New York, NY, 1986), repr. in b/w on frontispiece
+                             </p>
+                                                      <p>
+                                              Elaine Shefer, "A Rossetti Portrait: Variation on a Theme", <em>Arts in Virginia</em> (Richmond, VA, 1987), vol. 27, nos. 1-3 combined, repr. fig. 5, p. 9 and text
+                             </p>
+                                                      <p>
+                                              Theresa Byington, "A Technical Study of Five Oil Paintings by Dante Gabriel Rossetti in the Collection of the Fogg Art Museum" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, 1987), Unpublished, passim
+                             </p>
+                                                      <p>
+                                              <em>The World of Art Nouveau, vol. 4: Beardsley and London</em>, The Shinshusah Co., Ltd. (Tokyo, Japan, 1987), repr. in color, p. 56
+                             </p>
+                                                      <p>
+                                              Mary Bennett, <em>Artists of the Pre-Raphaelite Circle: The First Generation</em> (London, 1988), p. 179
+                             </p>
+                                                      <p>
+                                              Colleen McDannell and Bernhard Lang, <em>Heaven: a History</em>, Yale University Press (New Haven, CT and London, England, 1988), repr. in b/w p. 254, fig. 50
+                             </p>
+                                                      <p>
+                                              Alicia Craig Faxon, <em>Dante Gabriel Rossetti</em>, Abbeville Press (New York, NY, 1989), p. 208, repr. in color; detail in color; pp. 198, 209
+                             </p>
+                                                      <p>
+                                              <em>Spirit Summonings</em>, Time-Life Books, Inc. (Alexandria, VA, 1989), repr. in color, p. 97
+                             </p>
+                                                      <p>
+                                              Michael Wheeler, <em>Death and the Future Life in Victorian Literature and Theology</em>, Cambridge University Press (Cambridge, England, 1990), repr. in b/w pl. 11
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 128, repr. as no. 70
+                             </p>
+                                                      <p>
+                                              John McManus, ed., <em>The Oxford Illustrated History of Christianity</em>, Oxford University Press (NY) and Oxford University Press (UK) (Oxford, England, 1990), repr. in b/w p. 7
+                             </p>
+                                                      <p>
+                                              Gene Edward Veith, Jr., <em>State of the Arts: from Bezalel to Mapplethorpe</em>, Crossway Books (Wheaton, IL, 1991), repr. in b/w, fig. 4.9, p. 74
+                             </p>
+                                                      <p>
+                                              Tanita Hiroyuki, ed., <em>Dante Gabriel Rossetti</em>, Nihon Keizai Shimbun, Inc. (Tokyo, Japan, 1992), repr. in color p. 77
+                             </p>
+                                                      <p>
+                                              Julian Treuherz, <em>Pre-Raphaelite Paintings from Manchester City Art Galleries</em>, Manchester City Art Gallery (Manchester, England, 1993), p. 94, repr. as fig. xiii
+                             </p>
+                                                      <p>
+                                              Hiroko Takahashi and Tatsushi Takahashi, <em>The Victorian Kaleidoscope</em>, Shinkosha (Tokyo, Japan, 1993), ill. p. 263
+                             </p>
+                                                      <p>
+                                              Jutta Stroter-Bender Dumont, <em>Liebesgottinnen</em>, DuMont Buchverlag (Cologne, Germany, 1994), repr. in color, pl. 11; text p. 82
+                             </p>
+                                                      <p>
+                                              Frank Milner, <em>The Pre-Raphaelites: Pre-Raphaelite Paintings and Drawings in Merseyside Collections</em>, Bluecoat Press (1995), p. 80
+                             </p>
+                                                      <p>
+                                              James Cuno, Alvin L. Clark, Jr., Ivan Gaskell, and William W. Robinson, <em>Harvard's Art Museums: 100 Years of Collecting</em>, ed. James Cuno, Harvard University Art Museums and Harry N. Abrams, Inc. (Cambridge, MA, 1996), p. 188, ill. p. 189
+                             </p>
+                                                      <p>
+                                              David Rodgers, <em>Rossetti</em>, Phaidon Press Limited (London, England, 1996), pp. 45-6
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti</em>, Charta (Milan, 1998), no. 464, repr. p. 46
+                             </p>
+                                                      <p>
+                                              Oliver Garnett, "The Letters and Collection of William Graham: Pre-Raphaelite Patron and Pre-Raphaelite Collector", <em>The Sixty-Second Volume of the Walpole Society</em>, The Walpole Society (Leeds, 2000), pp. 145-343, pp. 199-203, 208, 211-12, 215, 226-239, 241-42, 245-46, 283, repr. as fig. 97
+                             </p>
+                                                      <p>
+                                              Jerome McGann, <em>Dante Gabriel Rossetti and the game that must be lost</em>, Yale University Press (New Haven and London, 2000), repr. in color (n.p.)
+                             </p>
+                                                      <p>
+                                              Vanessa Muller, <em>How Botticellian!</em> (Munster, 2000), pp. 31, 94-97; repr. in color as Abb. 10
+                             </p>
+                                                      <p>
+                                              M. H. Abrams, ed., <em>The Norton Anthology of English Literature: The Victorian Age</em>, W. W. Norton & Company (New York and London, 2000), repr. in b/w p. 1575
+                             </p>
+                                                      <p>
+                                              Chikashi Kitazaki and Mina Oya, ed., <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Ueno, 2002), pp. 130-131, cat. #31, color repr.
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, ed., <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, exh. cat., The Metropolitan Museum of Art and Yale University Press (U.S.) (New York, 2003), no. 188, pp. 419-420, repr. in color
+                             </p>
+                                                      <p>
+                                              Julian Treuherz and Elizabeth Prettejohn, <em>Dante Gabriel Rossetti</em>, exh. cat., Thames & Hudson (London, 2003), pp. 100, 114, repr. in color as fig. 69
+                             </p>
+                                                      <p>
+                                              Lisa Tickner, <em>Dante Gabriel Rossetti</em>, Tate (London, 2003), pp. 65-66, repr. p. 64
+                             </p>
+                                                      <p>
+                                              Debra N. Mancoff, <em>Flora Symbolica: Flowers in Pre-Raphaelite Art</em>, Prestel (London and Munich, 2003), pp. 36-37, repr. in color
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian, <em>Ingres, Burne-Jones, Whistler, Renoir... La Collection Grenville L. Winthrop</em>, exh. cat., Musée des Beaux-Arts de Lyon and Réunion des Musées Nationaux (Paris, France, 2003), no. 188, pp. 432-434, repr. in color
+                             </p>
+                                                      <p>
+                                              Laurence Brogniez, <em>Préraphaélisme et Symbolisme:  Peinture littéraire et image poétique</em>, Honoré Champion Éditeur (Paris, France, 2003), repr. in b/w,  no. 7, pp. 95,105,106,122,123,275,294,322
+                             </p>
+                                                      <p>
+                                              <em>Pre-Raphaelite and Other Masters: The Andrew Lloyd Webber Collection</em>, exh. cat., Royal Academy of Arts (London, 2003), p. 307
+                             </p>
+                                                      <p>
+                                              Bethany McIntyre, <em>Victorian Visions: from the National Museums & Galleries of Wales</em>, exh. cat., International Arts and Artists (Washington, DC, 2003), repr. p. 39 as no. 14
+                             </p>
+                                                      <p>
+                                              Robert Dupin, "La Collection Winthrop", <em>Universalia</em>, Encyclopaedia Universalis (Paris, France, 2004), pp. 343-344, p. 344
+                             </p>
+                                                      <p>
+                                              Mark DeVoto, <em>Debussy and the Veil of Tonality</em>, Pendragon Press (Hillsdale NY, 2004), pp. 68-70, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Professor Nobuyuki Senzoku, <em>How to Look at Fantastic Arts</em>, Tokyo-Bijutsu Inc. (Tokyo, Japan, 2004), pp. 30-31, repr. in color
+                             </p>
+                                                      <p>
+                                              Reina Lewis, <em>Rethinking Orientalism: Women, Travel, and the Ottoman Harem</em>, I. B. Tauris (London, England, 2004), pp. 151-156, repr. as fig. 1
+                             </p>
+                                                      <p>
+                                              Richard Wendorf, <em>After Sir Joshua: Essays on British Art and Cultural History</em>, Yale University Press (New Haven and London, 2005), pp. 86, 91, 100-4; repr. in color p. 87 as fig. 24; det. repr. p. 104 as fig. 28
+                             </p>
+                                                      <p>
+                                              <em>Important British & Irish Art</em>, auct. cat., Christie's, London (London, England, November 23 2005), pp. 88-89
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 161, repr.
+                             </p>
+                                                      <p>
+                                              Laurence Roussillon-Constanty, <em>Meduse Au Miroir: Esthetique Romantique de Dante Gabriel Rossetti</em>, ELLUG, Universite Stendhal (Grenoble, France, 2008), pp. 65, 69-71, 73, 75, 109, 147, 165, 195, 271; repr. in color p. 8
+                             </p>
+                                                      <p>
+                                              Dante Gabriel Rossetti, <em>Poems for the Millenium</em>, ed. Jerome Rothenberg and Jeffrey C. Robinson (Berkeley, 2009), pp. 624-629, repr. on p. 625
+                             </p>
+                                                      <p>
+                                              Masaie Matsumura, <em>Japan and Victorian England: Interactions</em>, Osaka Kyoiku Tosho (Osaka, Japan, 2012), repr. p. 89
+                             </p>
+                                                      <p>
+                               <em>Poetry and the Frame: Rossetti's The Blessed Damozel and its Altarpiece Setting</em>, website, The Frame Blog, accessed June 7, 2013
+                                            </p>
+                                                      <p>
+                                              <em>The Poetic World of the Pre-Raphaelites: New Translations</em>, Tsentr knigi Rudomino (Moscow, 2013), repr. in color, pp. 95-96
+                             </p>
+                                                      <p>
+                                              Anne van Buul, <em>In vreemde grond geworteld: Prerafaëlitisme in de Nederlandse literatuur en beeldende kunst (1855-1910)</em>, Verloren (Hilversum, 2014), p. 59, pl. 11
+                             </p>
+                                                      <p>
+                                              <em>Victorian, Pre-Raphaelite and British Impressionist Art</em>, auct. cat., Christie's, London (London, June 16, 2015), p. 76
+                             </p>
+                                                      <p>
+                                              Deborah H. Cibelli, "The Duality of Light in Rossetti's Ekphrastic Poems and Paintings", <em>Light and Obscurity in Symbolism</em>, ed. Rosina Neginsky and Deborah H. Cibelli, Cambridge Scholars Publishing (Newcastle-upon-Tyne, 2016), pp. 100-116, pp. 109-113, fig. 7-5
+                             </p>
+                                                      <p>
+                                              Connie Butler, ed., <em>Marisa Merz: The Sky Is a Great Space</em>, exh. cat., UCLA Hammer Museum and The Metropolitan Museum of Art (New York, 2017), pp. 248-248, repr. p. 248 as fig. 68
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Unidentified Exhibition, Nottingham Castle Museum, 1879</em>, Nottingham Castle Museum and Art Gallery, Nottingham, 07/01/1879 - 07/30/1879
+                            </p>
+                          <p>
+                              <em>Winter Exhibition: Works by the Old Masters and by Deceased Masters of the British School, Including a Special Selection from the Works of John Linnell and Dante Gabriel Rossetti</em>, Royal Academy of Arts, London, 01/01/1883 - 02/28/1883
+                            </p>
+                          <p>
+                              <em>Royal Jubilee Exhibition</em>, Manchester Art Gallery, Manchester, 05/01/1887 - 10/31/1887
+                            </p>
+                          <p>
+                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, Fogg Art Museum, Cambridge, 04/08/1946 - 06/01/1946
+                            </p>
+                          <p>
+                              <em>Pre-Raphaelite and Early French Symbolist Art in the Fogg Collections</em>, Fogg Art Museum, Cambridge, 01/16/1973 - 02/25/1973
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>The Pre-Raphaelites: Selections from the Permanent Collection</em>, Fogg Art Museum, Cambridge, 06/04/1980 - 07/15/1980
+                            </p>
+                          <p>
+                              <em>Dante Gabriel Rossetti: A Centennial Exhibition from the Harvard Collections</em>, Fogg Art Museum, Cambridge, 07/12/1982 - 09/11/1982
+                            </p>
+                          <p>
+                              <em>Paintings by Dante Gabriel Rossetti: A Technical Study</em>, Harvard University Art Museums, Cambridge, 07/24/1987 - 09/18/1987
+                            </p>
+                          <p>
+                              <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 09/14/2002 - 12/08/2002
+                            </p>
+                          <p>
+                              <em>A Private Passion: 19th-Century Paintings and Drawings from the Grenville L. Winthrop Collection, Harvard University</em>, Musée des Beaux-Arts de Lyon, Lyon, 03/15/2003 - 05/26/2003; National Gallery, London, 06/25/2003 - 09/14/2003; The Metropolitan Museum of Art, New York, 10/23/2003 - 01/25/2004
+                            </p>
+                          <p>
+                              <em>For Students of Art and Lovers of Beauty: Highlights from the Collection of Grenville L. Winthrop</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 04/16/2004
+                            </p>
+                          <p>
+                              <em>Re-View: S426A (Large Niche)  #2:  The Past and the Present: British Art of the 19th Century</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 11/26/2010 - 01/08/2011
+                            </p>
+                          <p>
+                              <em>32Q: 2130 19th Century</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/296898">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS30286_dynmc?width=3000&height=3000" alt="Head Of Wilfred Robert John Hawtrey, Aged 18 Months (Study For "the Blessed Damozel")">
+                                    <span class="related-artwork__obj">1963.30</span>
+                                      <h4 class="related-artwork__artist">Dante Gabriel Rossetti</h4>
+                                                        <h3 class="related-artwork__title">Head of Wilfred Robert John Hawtrey, aged 18 months (study for "The Blessed Damozel")</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/297816">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51667_dynmc?width=3000&height=3000" alt="Study For "the Blessed Damozel" (First Sketch For Background)">
+                                    <span class="related-artwork__obj">1943.750</span>
+                                      <h4 class="related-artwork__artist">Dante Gabriel Rossetti</h4>
+                                                        <h3 class="related-artwork__title">Study for "The Blessed Damozel" (First Sketch for Background)</h3>
+                                                        <span class="related-artwork__meta">Drawings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347642">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR008240_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "the Blessed Damozel"">
+                                    <span class="related-artwork__obj">Straus.8149</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Dante Gabriel Rossetti</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "The Blessed Damozel"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:51827_dynmc?width=200&height=200" alt="The Blessed Damozel">
+                <span class="popup__artwork-info-id">1943.202</span>
+        <span class="popup__artwork-info-author">
+                                    Dante Gabriel Rossetti
+                              </span>
+        <span class="popup__artwork-info-title">The Blessed Damozel</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299805%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299805">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299805" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Blessed+Damozel+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299805" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299805" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_09f1d7f7c19d85a36cf44f89cdc73a87" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

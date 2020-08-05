@@ -1,0 +1,696 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Colonel Ernst August von Hugo and Lt. Colonel von Schlepegrell </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Colonel Ernst August von Hugo and Lt. Colonel von Schlepegrell" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/230318"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC252699_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Colonel Ernst August von Hugo and Lt. Colonel von Schlepegrell" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47521070" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC252699_dynmc?width=3000&height=3000" data-initial-image-id="47521070" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?230318" data-behavior="add_to_collection tooltip" data-artwork="230318" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=230318&amp;image_id=DDC252699" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/230318/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC252699">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC252699_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="John Singleton Copley"  title="Colonel Ernst August Von Hugo And Lt. Colonel Von Schlepegrell" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47521070" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252699_dynmc?width=125&height=125" alt="Colonel Ernst August Von Hugo And Lt. Colonel Von Schlepegrell">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="39352">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:39352_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="John Singleton Copley"  title="Colonel Ernst August Von Hugo And Lt. Colonel Von Schlepegrell" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182354" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:39352_dynmc?width=125&height=125" alt="Colonel Ernst August Von Hugo And Lt. Colonel Von Schlepegrell">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>In 1783, the City of London commissioned Copley to create a large public painting commemorating Britain’s victory over the French and Spanish navies at the Siege of Gibraltar in 1782. These portraits were preparatory studies for that painting. Committed to a new kind of history painting that would be grounded in factual and visual accuracy, Copley hoped to incorporate life portraits of soldiers who had participated in the battle. In the summer of 1787, he traveled to Germany to paint De La Motte (1942.179), von Hugo, and von Schlepegrell (1942.180), German officers who had helped the British to defend Gibraltar. Among the liveliest and most engaging works in Copley’s oeuvre, these portraits are both character studies and experiments in composition, as the extensive underdrawing around each figure suggests.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1942.180</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/33430>John Singleton Copley</a>, American                                                                                                                                                                                                                                                                          (Boston, MA 1738 - 1815 London, England)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Colonel Ernst August von Hugo and Lt. Colonel von Schlepegrell</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1787</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/230318">https://hvrd.art/o/230318</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2240, European and American Art, 17th–19th century, The Arts in the Eighteenth–Century Atlantic World<br>
+            <a href="/visit/floor-plan/2?gallery=2240" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>64.8 x 54.6 cm (25 1/2 x 21 1/2 in.)<br />
+framed: 86.7 x 76.8 x 7.9 cm (34 1/8 x 30 1/4 x 3 1/8 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>To artist’s son Lord Lyndhurst; sold [through his estate sale, March 5, 1864]; to Clarke. Mrs. Charles (Martha Babcock) Amory; to her daughter Mrs. F. Gordon Dexter (Susan Greene Amory), by 1915; to her son Gordon Dexter; to his wife Mrs. Gordon Dexter, gift; to the Fogg Art Museum, 1942.<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Mrs. Gordon Dexter</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1942</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1942.180</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Ernst von dem Knesebeck, <em>Geschichte der churhannoverschen Truppen in Gibraltar, Minorca und Ostindien</em>, Im Verlage der Helwingschen Hof-Buchhandlung (Hannover, Germany, 1845), p. 89
+                             </p>
+                                                      <p>
+                                              Henry T. Tuckerman, <em>Book of the Artists: American Artist Life, Comprising Biographical and Critical Sketches of American Artists, Preceded by an Historical Account of the Rise and Progress of Art in America</em>, Putnam (New York, NY, 1867), p. 79
+                             </p>
+                                                      <p>
+                                              Augustus Thorndyke Perkins, <em>A Sketch of the Life and a List of Some of the Works of John Singleton Copley</em>, J. R. Osgood & Company (Boston, MA, 1873), p. 132
+                             </p>
+                                                      <p>
+                                              K. E. A. von Hugo, <em>Geschichte der im Fürstentum Calenberg begürterten familie von Hugo</em> (1873), p. 29
+                             </p>
+                                                      <p>
+                                              Martha Babcock Amory, <em>The Domestic and Artistic Life of John Singleton Copley, R.A.</em>, Houghton Mifflin Company (Boston, MA, 1882), pp. 93-94
+                             </p>
+                                                      <p>
+                                              Frank William Bayley, <em>The Life and Works of John Singleton Copley: Founded on the Work of Augustus Thorndike Perkins</em>, The Taylor Press (Boston, MA, 1915), pp. 34, 36, 151, 225
+                             </p>
+                                                      <p>
+                                              Theodore Bolton and Henry Lorin Binsse, "John Singleton Copley", <em>The Antiquarian</em> (New York, NY, December 1930), pp. 116-118., p. 83
+                             </p>
+                                                      <p>
+                                              "Gifts", <em>Bulletin of the Fogg Art Museum</em>, Fogg Art Museum (Cambridge, MA, November 1942), vol. X, no. 1, p. 3
+                             </p>
+                                                      <p>
+                                              <em>The catalogue of Old and New England; an exhibition of American painting of colonial and early republican days, together with English painting of the same time</em>, exh. cat., Rhode Island School of Design Museum of Art (Providence, RI, 1945), p. 51, cat. 21, ill.
+                             </p>
+                                                      <p>
+                                              James Thomas Flexner, <em>John Singleton Copley</em>, Houghton Mifflin Company (Boston, 1948), pp. 96, 129, pl. 31
+                             </p>
+                                                      <p>
+                                              <em>L'Art dans les Collections Universitaires Américaines</em>, exh. cat., Palais des Beaux-Arts, Brussels (Brussels, Belgium, 1956), no. 13
+                             </p>
+                                                      <p>
+                                              <em>University Collections</em>, exh. cat., College Art Association of America (New York, 1956), p. 19, no. 13, ill.
+                             </p>
+                                                      <p>
+                                              <em>Oeuvres d'art des musées universitaires Americains: peintures, sculptures anciennes et modernes</em>, exh. cat., Musée des Beaux-Arts de Rouen (Lyon, France, 1957), no. 5, pl. 10, cover ill.
+                             </p>
+                                                      <p>
+                                              John Dos Passos, <em>Prospects of a Golden Age</em>, Prentice-Hall (New York, 1959), p. 46, ill.
+                             </p>
+                                                      <p>
+                                              <em>John Singleton Copley</em>, exh. cat., National Gallery of Art (Washington, D.C, 1965), pp. 111, 113, cat. 86, ill.
+                             </p>
+                                                      <p>
+                                              Jules David Prown, <em>John Singleton Copley</em>, Harvard University Press (Cambridge, MA, 1966), vol. 2, pp. 327, 329, 402, 423, pl. 498
+                             </p>
+                                                      <p>
+                                              Elizabeth Ripley, <em>Copley: A Biography</em>, J. B. Lippincott (Philadelphia, PA, 1967), pp. 62-63, ill.
+                             </p>
+                                                      <p>
+                                              Robert Myron and Abner Sundell, <em>Art in America: from Colonial Days through the Nineteenth Century</em>, Crowell-Collier Press (New York, NY, 1969), p. 47, ill.
+                             </p>
+                                                      <p>
+                                              William Dunlap, <em>History of the Rise and Progress of the Arts of Design in the United States</em>, Dover Publications Inc. (New York, 1969), vol. I, p. 106
+                             </p>
+                                                      <p>
+                                              Robert Plate, <em>John Singleton Copley: America's First Great Artist</em>, David McKay (New York, NY, 1969), pp. 135-136, ill. opp. p. 90
+                             </p>
+                                                      <p>
+                                              Kenyon Castle Bolton, III, Peter G. Huenink, Earl A. Powell III, Harry Z. Rand, and Nanette C. Sexton, <em>American Art at Harvard</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1972), cat. 10, ill.
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), pp. 83-84, cat. 42, ill.
+                             </p>
+                                                      <p>
+                                              Edgar P. Richardson, "Painting (1770-75)", <em>The American Art Journal</em>, Kennedy Galleries, Inc. (New York, NY, May 1975), vol 7, no. 1, pp. 23-33, p. 24, ill.
+                             </p>
+                                                      <p>
+                                              <em>John Singleton Copley (1738-1815), Gilbert Stuart (1755-1828), Benjamin West (1738-1820) in America and England</em>, Museum of Fine Arts, Boston (Boston, MA, 1976), pp. 16, 34-35, cat. 25, ill.
+                             </p>
+                                                      <p>
+                                              <em>The Martial Face: The Military Portrait in Britain 1760-1900</em>, exh. cat., Brown University and David Winton Bell Gallery (Providence, RI, 1991), p. 98, no. 16a
+                             </p>
+                                                      <p>
+                                              Emily Ballew Neff, ed., <em>John Singleton Copley in England</em>, exh. cat., The Museum of Fine Arts, Houston (Houston, TX, 1995), pp. 158-159, cat. 34, ill.
+                             </p>
+                                                      <p>
+                                              Emily Ballew Neff, "John Singleton Copley: The Artist as 'Realist' and London Impresario" (1997), University of Texas at Austin, p. 195
+                             </p>
+                                                      <p>
+                                              Kimberly Orcutt, <em>Process and Paradox: The Historical Pictures of John Singleton Copley</em>, exh. cat., Harvard University Art Museums (Cambridge, MA, 2004), pp. 6-7, ill., 12
+                             </p>
+                                                      <p>
+                                              Emily Ballew Neff and Kaylin H. Weber, <em>American Adversaries: West and Copley in a Transatlantic World</em>, exh. cat., The Museum of Fine Arts, Houston (Houston, TX, 2013), pp. 216-218, fig. 205
+                             </p>
+                                                      <p>
+                                              Theodore E. Stebbins, Jr. and Melissa Renn, <em>American Paintings at Harvard, Volume One: Paintings, Watercolors, and Pastels by Artists Born before 1826</em>, Yale University Press (U.S.) and Harvard Art Museums (Cambridge and New Haven, 2014), pp. 154-156, cat. 98, ill.
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Old and New England</em>, Rhode Island School of Design Museum, Providence, 01/19/1945 - 02/19/1945
+                            </p>
+                          <p>
+                              <em>University Collections</em>, [Unknown venue, Malmo, Sweden], Malmo, 06/30/1956 - 07/15/1956; Centraal Museum Utrecht, Utrecht, 08/04/1956 - 09/08/1956; City Museum and Art Gallery, Birmingham, 09/18/1956 - 10/14/1956; Senate House, London, 10/22/1956 - 10/27/1956; Hatton Gallery, Newcastle, 11/05/1956 - 11/17/1956; Palais des Beaux-Arts, Brussels, Brussels, 12/08/1956 - 12/30/1956; Musée des Beaux-Arts de Liège, Liege, 01/12/1957 - 02/10/1957
+                            </p>
+                          <p>
+                              <em>John Singleton Copley</em>, National Gallery of Art, Washington, 09/18/1965 - 10/31/1965; The Metropolitan Museum of Art, New York, 11/20/1965 - 01/02/1966; Museum of Fine Arts, Boston, Boston, 01/22/1966 - 03/06/1966
+                            </p>
+                          <p>
+                              <em>American Art at Harvard</em>, Fogg Art Museum, Cambridge, 04/19/1972 - 06/18/1972
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>Copley, Stuart and West in America and England</em>, Museum of Fine Arts, Boston, Boston, 10/17/1976 - 11/07/1976
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>The Martial Face: the Military Portrait in Britain 1760-1900</em>, David Winton Bell Gallery, Providence, 01/26/1991 - 03/03/1991
+                            </p>
+                          <p>
+                              <em>John Singleton Copley in England</em>, National Gallery of Art, Washington, 10/11/1995 - 01/07/1996; The Museum of Fine Arts, Houston, Houston, 02/04/1996 - 04/28/1996
+                            </p>
+                          <p>
+                              <em>Process and Paradox: The Historical Pictures of John Singleton Copley</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 05/08/2004 - 08/29/2004
+                            </p>
+                          <p>
+                              <em>32Q: 2240 18th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/230251">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC253122_dynmc?width=3000&height=3000" alt="Colonel Gustav Friedrich Von Dachenhausen">
+                                    <span class="related-artwork__obj">1942.178</span>
+                                      <h4 class="related-artwork__artist">John Singleton Copley</h4>
+                                                        <h3 class="related-artwork__title">Colonel Gustav Friedrich von Dachenhausen</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/230252">
+                                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252697_dynmc?width=3000&height=3000" alt="Major General August De La Motte">
+                                    <span class="related-artwork__obj">1942.179</span>
+                                      <h4 class="related-artwork__artist">John Singleton Copley</h4>
+                                                        <h3 class="related-artwork__title">Major General August de la Motte</h3>
+                                                        <span class="related-artwork__meta">Paintings</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252699_dynmc?width=200&height=200" alt="Colonel Ernst August Von Hugo And Lt. Colonel Von Schlepegrell">
+                <span class="popup__artwork-info-id">1942.180</span>
+        <span class="popup__artwork-info-author">
+                                    John Singleton Copley
+                              </span>
+        <span class="popup__artwork-info-title">Colonel Ernst August von Hugo and Lt. Colonel von Schlepegrell</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20230318%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230318">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230318" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Colonel+Ernst+August+von+Hugo+and+Lt.+Colonel+von+Schlepegrell+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230318" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/230318" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_d653604368c745883db59b677accc09e" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

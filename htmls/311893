@@ -1,0 +1,611 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Giving Drink to the Thirsty </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Giving Drink to the Thirsty" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/311893"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71175_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Giving Drink to the Thirsty" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17804644" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71175_dynmc?width=3000&height=3000" data-initial-image-id="17804644" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?311893" data-behavior="add_to_collection tooltip" data-artwork="311893" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=311893&amp;image_id=71175" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/311893/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="71175">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:71175_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Maarten van Heemskerck"  title="Giving Drink To The Thirsty" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17804644" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:71175_dynmc?width=125&height=125" alt="Giving Drink To The Thirsty">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR011722">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:huam:STR011722_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Maarten van Heemskerck"  title="Giving Drink To The Thirsty" data-object-caption="beta-radiograph of watermark" data-object-copyright="" data-image-id="45618347" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR011722_dynmc?width=125&height=125" alt="Giving Drink To The Thirsty">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1994.155</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/25221>Maarten van Heemskerck</a>, Netherlandish                                                                                                                                                                      (1498 - 1574)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Giving Drink to the Thirsty</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1552</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/311893">https://hvrd.art/o/311893</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink over touches of black chalk and incidental white opaque watercolor, incised, on cream antique laid paper, framing line in brown ink over black chalk</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>25.6 x 20 cm (10 1/16 x 7 7/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: Dated and monogrammed, brown ink, lower edge: 15511 MVH [in ligature]
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, upper center, graphite: Hamskerck XVeme Hollandais / très-rare [underlined] 
+                        </li>
+                                              <li data-a="2">
+                          watermark: Coat of arms, series of vertically stacked letters within shield (PTTAV[?]) and the name PPRICARd below; nearly identical to Briquet 9613 (Namur, 1547)
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Probably C. Elout, sold; [Van de Vinne, Haarlem, 4 April 1780, KB A, part of lot 32]; to J. La Clé, by descent to; his widow, E. M. Brouwer, sold; [A. Engesmet, Haarlem, 25 September 1827, kb A, part of lot 32]; to Engesmet (bought in). Private Collector, Paris, sold; to [Bob P. Haboldt & Co., Paris and New York], sold; to Vermeer Associates Limited, Brampton, Ontario, 1993, sold; to Harvard University Art Museums, 1994; Purchase through the generosity of an Anonymous Donor, 1994.155.<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 46 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>The Haarlem master Maarten van Heemskerck had a long and successful career as a painter of altarpieces—some on a monumental scale—and other religious pictures, as well as portraits and mythological scenes. More than one hundred paintings are known. He initially adopted the style of Jan van Scorel, with whom he worked in the late 1520s. After a long sojourn in Italy (1532–1536/37), where he studied the art of Michelangelo and Giulio Romano and drew after ancient sculpture and architecture, Heemskerck developed the more dynamic Italianate manner that he practiced for the rest of his life.</p>
+
+<p>Hardly less significant than Heemskerck’s achievement as a painter is the oeuvre of six hundred prints made from his designs.<sup class="footnote" id="fnrev3422625015ef66432e7de2-1"><a href="#fn3422625015ef66432e7de2-1">1</a></sup> A few are after paintings, but the vast majority reproduce detailed pen-and-ink compositions, of which <em>Giving Drink to the Thirsty</em> is a fine example. Hundreds of these drawings have survived. Neatly executed with clearly defined contours and sharp, distinct parallel lines and cross-hatchings for shading, they provided easily translatable models for the specialist engravers who copied them onto copper plates. The first of his collaborators was the printmaker and moral philosopher Dirck Volkertsz. Coornhert, with whom Heemskerck worked from 1548 to 1559. Initially, they probably co-published their prints in Haarlem, but from 1553 onward, most were issued in Antwerp by Hieronymus Cock and marketed there by Cock and the printer/publisher Christoffel Plantijn.<sup class="footnote" id="fnrev3422625015ef66432e7de2-2"><a href="#fn3422625015ef66432e7de2-2">2</a></sup> Later, Philips Galle, among others, engraved Van Heemskerck’s compositions, which he continued to design into the 1570s. Many were produced in series, including Old and New Testament narrative cycles, devotional imagery, mythological scenes, and allegorical subjects.<sup class="footnote" id="fnrev3422625015ef66432e7de2-3"><a href="#fn3422625015ef66432e7de2-3">3</a></sup></p>
+
+<p><em>Giving Drink to the Thirsty</em> was engraved by Coornhert in 1552 as the third plate in a suite of seven representing <em>The Last Judgment and Six Works of Mercy</em> (Fig. 1).<sup class="footnote" id="fnrev3422625015ef66432e7de2-4"><a href="#fn3422625015ef66432e7de2-4">4</a></sup> The theme of the Works of Mercy (or Charity) derives from Matthew 25:31–46. Addressing his disciples, Jesus foretold the Last Judgment, when the righteous would be welcomed into heaven and the wicked consigned to eternal damnation. God would distinguish the righteous by the charitable acts they had performed during their lives: feeding the hungry, giving drink to the thirsty, offering shelter to strangers, clothing the naked, and visiting the sick and imprisoned. Medieval theologians added a seventh work of mercy, burying the dead, to the six enumerated by Jesus in the gospel.<sup class="footnote" id="fnrev3422625015ef66432e7de2-5"><a href="#fn3422625015ef66432e7de2-5">5</a></sup> The subject occurs in paintings and glass roundels displayed in almshouses and hospitals in the Netherlands during the fifteenth and sixteenth centuries, sometimes in conjunction with a Last Judgment.<sup class="footnote" id="fnrev3422625015ef66432e7de2-6"><a href="#fn3422625015ef66432e7de2-6">6</a></sup></p>
+
+<p>Heemskerck’s series begins with <em>The Last Judgment</em>, followed by six plates representing the charitable works cited by Matthew. The signature on <em>The Last Judgment</em> identifies Heemskerck as inventor and Coornhert as engraver of the set. Drawings for five of the seven plates have survived.<sup class="footnote" id="fnrev3422625015ef66432e7de2-7"><a href="#fn3422625015ef66432e7de2-7">7</a></sup> All are signed or monogrammed and dated 1552,<sup class="footnote" id="fnrev3422625015ef66432e7de2-8"><a href="#fn3422625015ef66432e7de2-8">8</a></sup> and their dimensions correspond closely to those of the engraved compositions, which reproduce the models in reverse. The Harvard sheet has been incised to transfer the design to the copper plate. Dutch texts beneath the images in the engravings quote the words of Jesus from Matthew 25:35–36. The line under the print after the Harvard composition reads, “I was thirsty and you gave me drink.” (<em>Icwas dorstich, ghi hebt mi te drincken gegeuen</em>; Matthew 25:35.) Images of this charitable scene often represent the recipients as impoverished and supporting themselves on crutches, but Heemskerck has strikingly shown the drinking man with only one arm.<sup class="footnote" id="fnrev3422625015ef66432e7de2-9"><a href="#fn3422625015ef66432e7de2-9">9</a></sup> The vertical format of the compositions, as well as the large scale and Michelangelesque style of the figures in this series, are characteristic of Heemskerck’s designs of the late 1540s and early 1550s.<sup class="footnote" id="fnrev3422625015ef66432e7de2-10"><a href="#fn3422625015ef66432e7de2-10">10</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-1"><sup><a href="#fnrev3422625015ef66432e7de2-1">1</a></sup> Ilja M. Veldman in <em>New Hollstein</em>, Maarten van Heemskerck, throughout.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-2"><sup><a href="#fnrev3422625015ef66432e7de2-2">2</a></sup> Ilja M. Veldman, <em>Leerrijke reeksen van Maarten van Heemskerck</em> (Haarlem: Frans Hals Museum, 1986), p. 14.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-3"><sup><a href="#fnrev3422625015ef66432e7de2-3">3</a></sup> Ibid., pp. 14–15.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-4"><sup><a href="#fnrev3422625015ef66432e7de2-4">4</a></sup> Dirck Volkertsz. Coornhert, after Maarten van Heemskerck, <em>Giving Drink to the Thirsty</em>, (Fig. 1) 1552. Engraving. 257 × 191 mm. London, British Museum, 1949,0709.208. Signed, <em>MH. Inventor</em>. Printed text in lower margin: <em>Icwas dorstich, ghi hebt mi te drincken gegeuen 3</em>, plate 3 in the series <em>The Last Judgment</em> and the <em>Six Works of Mercy</em>, Veldman in <em>New Hollstein</em>, part 2, nos. 330–36, pp. 36–43.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-5"><sup><a href="#fnrev3422625015ef66432e7de2-5">5</a></sup> Timothy Husband in <em>The Luminous Image: Painted Glass in the Lowlands, 1480–1560</em> (New York: Metropolitan Museum of Art, 1995), under cat. 47, p. 109.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-6"><sup><a href="#fnrev3422625015ef66432e7de2-6">6</a></sup> Ibid., cats. 46–50, pp. 108–115. Jan Piet Filedt Kok in Jan Piet Filedt Kok, Yvette Bruijnen, and Jonathan Bikker, <em>Early Netherlandish Paintings in the Rijksmuseum, Amsterdam: Artists Born before 1500</em>, Published online in 2009 by the Rijksmuseum, <a href="https://www.rijksmuseum.nl/nl/collectie/SK-A-2815">&#8220;Master of Alkmaar: Polyptych with the Seven Works of Charity,&#8221;</a> consulted 27 April 2012.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-7"><sup><a href="#fnrev3422625015ef66432e7de2-7">7</a></sup> In addition to <em>Giving Drink to the Thirsty</em>, the drawings for plates in this series are: <em>The Last Judgment</em>, Darmstadt, Hessisches Landesmuseum, AE 394 (see Gisela Bergsträsser, <em>Niederländische Zeichnungen 16. Jahrhundert im Hessischen Landesmuseum Darmstadt</em>, Darmstadt, Germany 1979, cat. 61, pp. 80–81, repr.); <em>Clothing the Naked</em>, New York, Morgan Library and Museum, 2004.41 (see Peter Dreyer in Cara D. Denison et al., <em>The Thaw Collection: Master Drawings and New Acquisitions</em>, New York: Pierpont Morgan Library, 1994, cat. 7); <em>Visiting the Sick</em>, Private Collection, Toronto, promised gift to National Gallery of Canada, Ottawa (see Joaneath Spicer in Joaneath Spicer, Odilia Bonebakker, and David Franklin, <em>Dutch and Flemish Drawings from the National Gallery of Canada, Ottawa</em>, Ottawa: National Gallery of Canada; Cambridge: Harvard University Art Museums, Arthur M. Sackler Museum; Fredericton, New Brunswick: Beaverbrook Art Gallery, 2004, cat. 7); and <em>Visiting the Imprisoned</em>, Copenhagen, Statens Museum for Kunst, KKSgb5476 (see Jan Garff, <em>Tegninger af Maerten van Heemskerck</em>, Copenhagen: Statens Museum for Kunst, 1971, cat. 32). Heemskerck’s drawings for <em>Feeding the Hungry</em> and <em>Sheltering the Strangers</em> have not come to light.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-8"><sup><a href="#fnrev3422625015ef66432e7de2-8">8</a></sup> The Harvard work is dated <em>15511</em> [sic], while other drawings for prints in the series are dated <em>1552</em>. Perhaps Heemskerck completed the drawing in 1551 or initially misdated it to that year and, to conform to the date on the other models, expediently redated it <em>15511</em>, rather than writing 2 over the last 1. In any event, it seems clear that by writing <em>15511</em> he intended to date the drawing 1552.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-9"><sup><a href="#fnrev3422625015ef66432e7de2-9">9</a></sup> See the painting of 1504 by the Master of Alkmaar in the Rijksmuseum, Amsterdam, SK-A-2815-2, and the undated drawing by Pieter Cornelisz., called Kunst, in the Städelsches Kunstinstitut, Frankfurt am Main, 5508, where the recipients of the charity in scenes of <em>Giving Drink to the Thirsty</em> are represented as impoverished and walking with crutches.</p>
+
+<p class="footnote" id="fn3422625015ef66432e7de2-10"><sup><a href="#fnrev3422625015ef66432e7de2-10">10</a></sup> Veldman (1986), p. 15. In the Harvard drawing, the figure on the stairs at the upper right was inspired by a soldier in Michelangelo’s <em>Battle of Cascina</em>.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/311893/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Dirck Volkertsz. Coornhert, after Maarten van Heemskerck, <em>Giving Drink to the Thirsty</em>, from <em>The Last Judgment and Six Works of Mercy</em> series</a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Purchase through the generosity of an Anonymous Donor</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1994</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1994.155</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), cat. no. 46, pp. 164-166, repr. p. 165; watermark p. 377
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/5081"><em>Drawings from the Age of Bruegel, Rubens, and Rembrandt</em>, Harvard Art Museums, Cambridge, 05/21/2016 - 08/14/2016</a>
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71175_dynmc?width=200&height=200" alt="Giving Drink To The Thirsty">
+                <span class="popup__artwork-info-id">1994.155</span>
+        <span class="popup__artwork-info-author">
+                                    Maarten van Heemskerck
+                              </span>
+        <span class="popup__artwork-info-title">Giving Drink to the Thirsty</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20311893%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311893">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311893" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Giving+Drink+to+the+Thirsty+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F311893" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/311893" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_cd464dd24b6a7b50bcd73b9aaaeeab37" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

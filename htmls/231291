@@ -1,0 +1,789 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections At the Races:  The Start </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections At the Races:  The Start" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/231291"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:77641_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" At the Races:  The Start" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17917088" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:77641_dynmc?width=3000&height=3000" data-initial-image-id="17917088" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?231291" data-behavior="add_to_collection tooltip" data-artwork="231291" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=231291&amp;image_id=77641" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/231291/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="77641">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:77641_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hilaire-Germain-Edgar Degas"  title="At The Races:  The Start" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17917088" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:77641_dynmc?width=125&height=125" alt="At The Races:  The Start">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="10622">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:10622_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hilaire-Germain-Edgar Degas"  title="At The Races:  The Start" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181275" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:10622_dynmc?width=125&height=125" alt="At The Races:  The Start">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="50334">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:50334_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Hilaire-Germain-Edgar Degas"  title="At The Races:  The Start" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183391" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:50334_dynmc?width=125&height=125" alt="At The Races:  The Start">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Degas often depicted horse racing, producing forty-five oil paintings featuring the subject. This early work, with four jockeys approaching the start of a race, reveals some of the initial challenges that Degas faced in this genre. In order to distinguish the four horses from each other in the foreground, and in an attempt to avoid a tangle of legs, he painted them in different shades of brown. Their anatomical features and poses exemplify Degas’s early reliance on both British prints and the work of the romantic painter Géricault for models of horses. The horse at the far left with its leg raised high, for instance, bears a close resemblance to a position from a dressage exercise rather than preparation for a race.</p>
+<p>Degas’s depiction of horses in motion changed drastically over his career, and particularly after the 1887 publication of Eadweard Muybridge’s stop-action photographs showing the frame-by-frame movement of a galloping horse.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1934.30</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/35055>Hilaire-Germain-Edgar Degas</a>, French                                                                                                                                                                                                                                                                          (Paris, France 1834 - 1917 Paris, France)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>At the Races:  The Start</dd>
+            
+                                                                                                                                                                                                                                                                                <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Original Language Title: Aux Courses, Le Départ<br>                                                                                                              Alternate Title: At the Races, "They're Off" / Jockeys at Epsom                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1860-c. 1862</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/231291">https://hvrd.art/o/231291</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>33 x 47 cm (13 x 18 1/2 in.)<br />
+frame: 45.7 x 59.7 x 7 cm (18 x 23 1/2 x 2 3/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l.: Degas
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          exhibition label: backing board, rectangular label, printed text: PENNSYLVANIA MUSEUM OF ART / FAIRMOUNT, PHILADELPHIA / ARTIST Edgar Degas [typewriter] / TITLE Aux Courses. Le Départ. [typewriter] / INSURANCE VALUE / SALES VALUE / LENDER Fogg Art Museum, Harvard University [typewriter] / ADDRESS OF LENDER Cambridge, Mass. [typewriter] / Penn. Mus. Form 38
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: backing board, rectangular label, printed: Sterling and Francine Clark / Art Institute / Temp. Regs. No. / 67/68 [handwritten, black ink]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: backing board, rectangular label, printed text: LOS ANGELES COUNTY MUSEUM / EXPOSITION PARK / LOS ANGELES 7, CALIFORNIA / S. O. No. 58-217N [handwritten, blue ink] / Box No. 
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, left side of frame, red chalk: 121
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: backing board, rectangle label, printed text: Degas & America / THE EARLY COLLECTORS / High Museum of Art, Atlanta: Feb. 28 - May 27, 2001 / Minneapolis Institute of Arts: June 16 - Oct. 9 2001 / Edgar Degas / At the Races: The Start / Catalogue # 13
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, top of frame, red chalk: D [illeg. text]
+                        </li>
+                                              <li data-a="2">
+                          exhibition label: backing board, rectangle label, printed and typed text: Dex ID. 51 / National Gallery of Art / Washington D. C. / Exhibiti: Degas at the Races / Date: 04/12/98 - 07/12/98 / Artist: Edgar Degas / Title: At the Races: The Start / Lender: Fogg Art Museum / Cat. No. 13
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Atelier Degas [Vente I, Galeries Georges Petit, March 26-27, 1818, no. 91], sold; to Léon Orosdi, Paris, sold [through his sale, Hôtel Drouot, Paris, May 25, 1923, no. 12]. [Etienne Bignou, Paris and New York]. [Howard Young, New York, NY].  Annie Swan Coburn, bequest; to Fogg Art Museum, 1934.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Annie Swan Coburn</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1934</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1934.30</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Degas Vente</em>, auct. cat. (Paris, France, 1918), pt. 1, no. 91, repr.
+                             </p>
+                                                      <p>
+                                              James Bolivar Manson, <em>The Life and Work of Edgar Degas</em>, The Studio, Ltd. (London, England, 1927), p. 37, repr. pl. 26
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of The Mrs. L. L. Coburn Collection Modern Paintings and Watercolors</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1932), p. 13, no. 7, repr. p. 37
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>Art Digest</em> (May 15, 1933), vol. VII, no. 16, p. 33
+                             </p>
+                                                      <p>
+                                              Daniel Catton Rich, <em>Catalogue of a Century of Progress:  Exhibition of Paintings and Sculpture Lent from American Collections</em>, exh. cat., The Art Institute of Chicago (Chicago, IL, 1933), p. 41, no. 279
+                             </p>
+                                                      <p>
+                                              <em>Independent Painters of Nineteenth Century Paris</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1935), no. 11
+                             </p>
+                                                      <p>
+                               <em>Painters of 19th Century Paris</em>, exh. cat., Museum of Fine Arts, Boston (Boston, MA, 1935)
+                                            </p>
+                                                      <p>
+                                              <em>Degas, 1834-1917</em>, exh. cat., Pennsylvania Museum of Art (Philadelphia, PA, 1936), no. 6, repr.
+                             </p>
+                                                      <p>
+                                              Paul André Lemoisne, <em>Degas et son Oeuvre</em>, Paul Brame and Cesar M. de Hauke (Paris, France, 1946-1949), II, no. 76. repr.
+                             </p>
+                                                      <p>
+                               <em>A loan exhibition of Degas for the benefit of the New York Infirmary</em>, exh. cat., Wildenstein & Company (New York, NY, 1949)
+                                            </p>
+                                                      <p>
+                                              <em>The Book of Knowledge Annual</em>, The Grolier Society (New York, NY, 1952), ill. p.
+                             </p>
+                                                      <p>
+                                              <em>L'Art dans les Collections Universitaires Américaines</em>, exh. cat., Palais des Beaux-Arts, Brussels (Brussels, Belgium, 1956), no. 15, repr.
+                             </p>
+                                                      <p>
+                                              <em>University Collections</em>, exh. cat., College Art Association of America (New York, 1956), no. 15, p. 19, repr. p. 13
+                             </p>
+                                                      <p>
+                                              <em>L'Art dans les Collections Universitaires Americaines</em>, exh. cat., Musée des Beaux-Arts de Lyon (Lyon, France, 1957), no. 7
+                             </p>
+                                                      <p>
+                                              <em>An exhibition of works by Edgar Hilaire Germain Degas</em>, exh. cat., Los Angeles County Museum (Los Angeles, CA, 1958), no. 9, repr.
+                             </p>
+                                                      <p>
+                                              <em>Degas: loan exhibition, for the benefit of the Citizens' Committee for Children of New York, inc.</em>, exh. cat., Wildenstein & Company (New York, NY, 1960), no. 8, repr.
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>The Chronicle of the Horse</em> (Berryville, VA, February 1968), repr.
+                             </p>
+                                                      <p>
+                                              [Unidentified article], <em>Scholastic Newstime</em>, Scholastic Magazines (New York, NY, February 1968), repr.
+                             </p>
+                                                      <p>
+                                              Michèle Beaulieu, "Les Sculptures de Degas.  Essai de Chronologie", <em>La Revue du Louvre</em> (1969), XIX, 6, p. 370
+                             </p>
+                                                      <p>
+                               <em>An exhibition of the works of Edgar Degas at the Sterling and Francine Clark Art Institute, with selected loans from other collections</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, MA, 1970)
+                                            </p>
+                                                      <p>
+                                              Martha Bennett Stiles, "A Boston Sortie: Degas and Mrs. Gardner", <em>Mankind [magazine]</em>, Mankind Publishing Co. (Los Angeles, CA, August 1973), vol. IV, no. 2, pp. 48-51, repr. in color pp. 42-43
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), p. 58-59, cat. 23, ill.
+                             </p>
+                                                      <p>
+                                              Patricia Connor and Lionel Lambourne, <em>Derby Day 200</em>, exh. cat., Royal Academy of Arts (London, England, 1979), no. 9.21, text p. 90, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Rafael Fernandez and Alexandra R. Murphy, <em>Degas in the Clark Collection</em>, Sterling and Francine Clark Art Institute (Williamstown, MA, 1987), repr. fig. 12a, b/w, p. 12 and text
+                             </p>
+                                                      <p>
+                                              Lorenz Eitner, <em>An Outline of 19th Century European Painting</em>, Harper & Row (New York, NY, 1988), repr. in b/w in vol. 2, p. 165, fig. 286
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs, <em>Degas</em>, exh. cat., Metropolitan Museum of Art / National Gallery of Canada (New York, NY and Ottawa, Canada, 1988), repr. in b/w, fig. 51, p. 102
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), pp. 104, 239, repr. b/w cat. no. 327
+                             </p>
+                                                      <p>
+                                              Richard Kendall, <em>Degas Landscapes</em>, Yale University Press (New Haven, CT, 1993), repr. in color fig. 53; text p. 65-67
+                             </p>
+                                                      <p>
+                                              [Reproduction only], <em>MFA Today</em>, The Museum of Fine Arts, Houston (Houston, TX, January 1994 - February 1994)., repr.
+                             </p>
+                                                      <p>
+                                              Jean Sutherland Boggs, <em>Degas at the Races</em>, exh. cat., National Gallery of Art (Washington, D.C., 1998), no. 13, pp. 14-15, 45-48, repr. in color
+                             </p>
+                                                      <p>
+                                              Virginia Spate, <em>Degas Life and Works</em>, MQ Publications Ltd. (London, UK, 2000), pp. 28-31, repr. in color with details
+                             </p>
+                                                      <p>
+                                              Ann Dumas and David A. Brenneman, <em>Degas and America: The Early Collectors</em>, exh. cat., High Museum of Art/MInneapolis Institute of Arts/Rizzoli (New York, NY, 2001), no. 13, pp. 108-109, repr. in color, p. 30
+                             </p>
+                                                      <p>
+                                              "City Watch", <em>Art & Antiques</em> (October 2005), p. 44, repr. p. 44
+                             </p>
+                                                      <p>
+                                              Gene Wolfe, "Degas's American Dawn", <em>Museums Boston</em> (spring 2005-summer 2005), vol. 9, no. 1, p. 59, detail repr. on cover; repr. p. 59
+                             </p>
+                                                      <p>
+                                              Christopher Reed, "Mad for Degas", <em>Harvard Magazine</em> (July 2005 - August 2005), vol. 107, no. 6, pp. 40-45, p. 45, ill.
+                             </p>
+                                                      <p>
+                                              Marjorie B. Cohn and Jean Sutherland Boggs, <em>Degas at Harvard</em>, exh. cat., Harvard University Art Museums/Yale University Press (Cambridge and New Haven, 2005), p. 39; repr. in color as fig. 19, p. 41; p. 89; no. 4, p. 98
+                             </p>
+                                                      <p>
+                                              Daniel Roche and Daniel Reytier, <em>A cheval! Ecuyers, amazones & cavaliers du XIV au XXI siecle</em>, Association pour l'Academie d'Art Equestre de Versailles (Paris, 2007), pp. 27-29, repr. on p. 28.
+                             </p>
+                                                      <p>
+                                              Musée d'Art moderne André Malraux, Ville du Havre, <em>De Delacroix à Marquet: Donation Senn-Foulds, Dessins</em>, exh. cat., Somogy Éditions d'Art (Paris, France, 2011), p. 191, repr. p. 192 as fig. 84.1
+                             </p>
+                                                      <p>
+                                              Jay A. Clarke, ed., <em>The Impressionist Line from Degas to Toulouse-Lautrec: Drawings and Prints from the Clark</em>, exh. cat., Sterling and Francine Clark Art Institute (Williamstown, Massachusetts, 2013), repr. in color as fig. 42, p. 68; p. 71
+                             </p>
+                                                      <p>
+                                              Henri Loyrette, <em>Degas à l'Opéra</em>, exh. cat., Musée d'Orsay (Paris, 2019), pp. 189, 191, repr. p. 189 as fig. 187
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of the Mrs. L.L. Coburn Collection, Modern Paintings and Watercolors</em>, The Art Institute of Chicago, Chicago, 04/06/1932 - 10/09/1932
+                            </p>
+                          <p>
+                              <em>A Century of Progress Art Exhibition</em>, The Art Institute of Chicago, Chicago, 06/01/1933 - 11/01/1933
+                            </p>
+                          <p>
+                              <em>Independent Painters of 19th Century Paris</em>, Museum of Fine Arts, Boston, Boston, 03/15/1935 - 04/28/1935
+                            </p>
+                          <p>
+                              <em>Degas, 1834-1917</em>, Pennsylvania Museum of Art, Philadelphia, 11/01/1936 - 11/30/1936
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Allen Memorial Art Museum, 1938</em>, Allen Memorial Art Museum, Oberlin, 04/01/1938 - 05/31/1938
+                            </p>
+                          <p>
+                              <em>Unidentified Exhibition, Toronto Art Gallery, 1940</em>, Toronto Art Gallery, Toronto, 11/01/1940 - 11/30/1940
+                            </p>
+                          <p>
+                              <em>A loan exhibition of Degas for the benefit of the New York Infirmary</em>, Wildenstein Gallery, New York, New York, 04/06/1949 - 05/14/1949
+                            </p>
+                          <p>
+                              <em>Monet and the Beginning of Impressionism</em>, Currier Museum of Art, Manchester, 09/01/1949 - 11/30/1949
+                            </p>
+                          <p>
+                              <em>Two Sides of the Medal</em>, Detroit Institute of Arts, Detroit, 09/28/1954 - 10/31/1954
+                            </p>
+                          <p>
+                              <em>University Collections</em>, [Unknown venue, Malmo, Sweden], Malmo, 06/30/1956 - 07/15/1956; Centraal Museum Utrecht, Utrecht, 08/04/1956 - 09/08/1956; City Museum and Art Gallery, Birmingham, 09/18/1956 - 10/14/1956; Senate House, London, 10/22/1956 - 10/27/1956; Hatton Gallery, Newcastle, 11/05/1956 - 11/17/1956; Palais des Beaux-Arts, Brussels, Brussels, 12/08/1956 - 12/30/1956; Musée des Beaux-Arts de Liège, Liege, 01/12/1957 - 02/10/1957
+                            </p>
+                          <p>
+                              <em>Degas: Loan exhibition, for the Benefit of the Citizens' Committee for Children of New York, Inc.</em>, Wildenstein Gallery, New York, New York, 04/07/1960 - 05/07/1960
+                            </p>
+                          <p>
+                              <em>Impressionism</em>, Hood Museum of Art, Hanover, 11/01/1962 - 12/31/1962
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Derby Day 200</em>, Royal Academy of Arts, London, 04/05/1979 - 07/01/1979
+                            </p>
+                          <p>
+                              <em>Degas Landscapes</em>, The Metropolitan Museum of Art, New York, 01/21/1994 - 04/03/1994; The Museum of Fine Arts, Houston, Houston, 04/24/1994 - 07/03/1994
+                            </p>
+                          <p>
+                              <em>Birth of Impressionism</em>, Tobu Museum of Art (Tobu Bijutsukan), Tokyo, 04/25/1996 - 06/30/1996
+                            </p>
+                          <p>
+                              <em>Degas at the Races</em>, National Gallery of Art, Washington, 04/12/1998 - 07/12/1998
+                            </p>
+                          <p>
+                              <em>Degas at Harvard</em>, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 08/01/2005 - 11/27/2005
+                            </p>
+                          <p>
+                              <em>Re-View: S427  Impressionist & Postimpressionist Art</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/02/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 2700 Impressionism</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 10/11/2016; Harvard Art Museums, Cambridge, 07/14/2017 - 11/16/2017
+                            </p>
+                          <p>
+                              <em>Degas: A Passion for Perfection</em>, Denver Art Museum, Denver, 02/11/2018 - 05/20/2018
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347594">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR008001_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "at The Races"">
+                                    <span class="related-artwork__obj">Straus.8101</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Hilaire-Germain-Edgar Degas</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "At the Races"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347798">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8305</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Hilaire-Germain-Edgar Degas</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "The Day at the Races"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:77641_dynmc?width=200&height=200" alt="At The Races:  The Start">
+                <span class="popup__artwork-info-id">1934.30</span>
+        <span class="popup__artwork-info-author">
+                                    Hilaire-Germain-Edgar Degas
+                              </span>
+        <span class="popup__artwork-info-title">At the Races:  The Start</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20231291%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F231291">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F231291" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=At+the+Races%3A++The+Start+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F231291" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/231291" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_fdcc16b78b68abce6705eed5150729f5" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

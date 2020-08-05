@@ -1,0 +1,1075 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Group of Feininger Negatives </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Group of Feininger Negatives" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/315030"/>
+<meta property="og:image" content=" /assets/icons/fb-og-image-400x400.png" />
+<meta property="og:description" content=" Group of Feininger Negatives" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                            <img src="/assets/images/no_image.png" alt="No Image">
+            
+                      </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?315030" data-behavior="add_to_collection tooltip" data-artwork="315030" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <!-- <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=315030" data-behavior="lightbox_ajax tooltip">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li> -->
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/315030/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>BRLF.450.1-65</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/20002>Lyonel Feininger</a>, American                                                                                                                                                                                                                                                                          (New York, NY 1871 - 1956 New York, NY)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Group of Feininger Negatives</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Photographs</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            negative,                                          photograph                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>late 1930s-1940s</dd>
+                                                                <dt>Culture</dt>
+                <dd>American</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/315030">https://hvrd.art/o/315030</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Negative, gelatin silver (35mm film)</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>Overall: 3.5 x 2.5 cm (1 3/8 x 1 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Busch-Reisinger Museum, Gift of T. Lux Feininger</dd>
+            
+                          <dt>Copyright</dt>
+              <dd>© <a href="https://www.arsny.com/">Artists Rights Society (ARS), New York</a> / VG Bild-Kunst, Bonn</dd>
+            
+            
+            <dt>Object Number</dt>
+            <dd>BRLF.450.1-65</dd>
+
+                          <dt>Division</dt>
+              <dd>Modern and Contemporary Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>The Bauhaus</p>
+                          <p>Lyonel Feininger: Photographs</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37320">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221629C_dynmc?width=256&height=256" alt="[New York Architecture And Flag]">
+                                    <span class="related-artwork__obj">BRLF.450.2</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York architecture and flag]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37321">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221635C_dynmc?width=256&height=256" alt="[Queensborough Bridge, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.8</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Queensborough Bridge, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37322">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221640C_dynmc?width=256&height=256" alt="[Drugstore Sign, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.11</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Drugstore sign, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37323">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221622C_dynmc?width=256&height=256" alt="[St. Patrick's Cathedral, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.13</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[St. Patrick's Cathedral, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37325">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210039C_dynmc?width=256&height=256" alt="[Quiet Street]">
+                                    <span class="related-artwork__obj">BRLF.450.40</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Quiet street]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37326">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210024C_dynmc?width=256&height=256" alt="[Trees In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.48</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37327">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210019C_dynmc?width=256&height=256" alt="[Grassy Area By Water]">
+                                    <span class="related-artwork__obj">BRLF.450.56</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Grassy area by water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37344">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210008C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.64</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37380">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221625C_dynmc?width=256&height=256" alt="[View Of New York City Building]">
+                                    <span class="related-artwork__obj">BRLF.450.16</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View of New York City building]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37381">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221647C_dynmc?width=256&height=256" alt="[Flatiron Building, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.19</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Flatiron Building, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37385">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221628C_dynmc?width=256&height=256" alt="[New York Architecture And Flag]">
+                                    <span class="related-artwork__obj">BRLF.450.1</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York architecture and flag]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37386">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221630C_dynmc?width=256&height=256" alt="[New York Architecture]">
+                                    <span class="related-artwork__obj">BRLF.450.3</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York architecture]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37387">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221638C_dynmc?width=256&height=256" alt="[Queensborough Bridge, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.9</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Queensborough Bridge, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37388">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221639C_dynmc?width=256&height=256" alt="[Bar And Grill Sign, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.10</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Bar and Grill sign, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37389">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221641C_dynmc?width=256&height=256" alt="[Coffee Shop Sign, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.12</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Coffee shop sign, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37462">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210041C_dynmc?width=256&height=256" alt="[Low Tide]">
+                                    <span class="related-artwork__obj">BRLF.450.42</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Low tide]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37463">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210029C_dynmc?width=256&height=256" alt="[People Sitting On Benches Overlooking Water]">
+                                    <span class="related-artwork__obj">BRLF.450.43</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[People sitting on benches overlooking water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37464">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210028C_dynmc?width=256&height=256" alt="[Trees In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.44</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37465">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210027C_dynmc?width=256&height=256" alt="[Beach In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.45</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Beach in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37466">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210015C_dynmc?width=256&height=256" alt="[Blank]">
+                                    <span class="related-artwork__obj">BRLF.450.52</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Blank]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37467">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210016C_dynmc?width=256&height=256" alt="[Tree In The Fog By The Beach]">
+                                    <span class="related-artwork__obj">BRLF.450.53</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Tree in the fog by the beach]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37468">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210021C_dynmc?width=256&height=256" alt="[Rocky Shoreline]">
+                                    <span class="related-artwork__obj">BRLF.450.58</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Rocky shoreline]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37469">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210022C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.59</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37470">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210011C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.61</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37488">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221631C_dynmc?width=256&height=256" alt="[New York Architecture]">
+                                    <span class="related-artwork__obj">BRLF.450.4</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York architecture]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37489">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221632C_dynmc?width=256&height=256" alt="[Statue Of Atlas, Rockefeller Plaza, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.5</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Statue of Atlas, Rockefeller Plaza, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37490">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221633C_dynmc?width=256&height=256" alt="[Distant View Of Bridge, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.6</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Distant view of bridge, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37491">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221634C_dynmc?width=256&height=256" alt="[Parked Car, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.7</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Parked car, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37492">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221623C_dynmc?width=256&height=256" alt="[St. Patrick's Cathedral, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.14</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[St. Patrick's Cathedral, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37493">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221624C_dynmc?width=256&height=256" alt="[View Of New York City Street]">
+                                    <span class="related-artwork__obj">BRLF.450.15</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View of New York City street]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37526">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221626C_dynmc?width=256&height=256" alt="[Times Square?, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.17</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Times Square?, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37527">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221627C_dynmc?width=256&height=256" alt="[Times Square?, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.18</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Times Square?, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37528">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221643C_dynmc?width=256&height=256" alt="[Empire State Building, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.23</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Empire State Building, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37529">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221642C_dynmc?width=256&height=256" alt="[Empire State Building, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.24</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Empire State Building, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37530">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221617C_dynmc?width=256&height=256" alt="[New York City Architecture]">
+                                    <span class="related-artwork__obj">BRLF.450.26</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York City architecture]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37531">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210034C_dynmc?width=256&height=256" alt="[Cars In Parking Lot]">
+                                    <span class="related-artwork__obj">BRLF.450.32</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cars in parking lot]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37532">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210038C_dynmc?width=256&height=256" alt="[Tree]">
+                                    <span class="related-artwork__obj">BRLF.450.39</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Tree]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37536">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221646C_dynmc?width=256&height=256" alt="[Pedestrians Crossing Street, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.20</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Pedestrians crossing street, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37537">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221619C_dynmc?width=256&height=256" alt="[New York City Architecture]">
+                                    <span class="related-artwork__obj">BRLF.450.28</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York City architecture]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37538">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221620C_dynmc?width=256&height=256" alt="[Cars Lined Up To Enter Garage, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.29</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cars lined up to enter garage, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37539">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210035C_dynmc?width=256&height=256" alt="[Boats On Waterway]">
+                                    <span class="related-artwork__obj">BRLF.450.31</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on waterway]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37540">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210032C_dynmc?width=256&height=256" alt="[Utility Lines Against Sky]">
+                                    <span class="related-artwork__obj">BRLF.450.34</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Utility lines against sky]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37541">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210031C_dynmc?width=256&height=256" alt="[Car In Front Of House]">
+                                    <span class="related-artwork__obj">BRLF.450.35</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Car in front of house]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37552">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221645C_dynmc?width=256&height=256" alt="[Empire State Building, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.21</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Empire State Building, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37553">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221644C_dynmc?width=256&height=256" alt="[Street Scene, New York]">
+                                    <span class="related-artwork__obj">BRLF.450.22</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Street scene, New York]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37554">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221616C_dynmc?width=256&height=256" alt="[New York City Architecture]">
+                                    <span class="related-artwork__obj">BRLF.450.25</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York City architecture]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37555">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210033C_dynmc?width=256&height=256" alt="[Blurred Image]">
+                                    <span class="related-artwork__obj">BRLF.450.33</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Blurred image]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37556">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210037C_dynmc?width=256&height=256" alt="[Three Boats]">
+                                    <span class="related-artwork__obj">BRLF.450.38</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Three boats]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37590">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221618C_dynmc?width=256&height=256" alt="[New York City Architecture]">
+                                    <span class="related-artwork__obj">BRLF.450.27</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[New York City architecture]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37591">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV221621C_dynmc?width=256&height=256" alt="[View From Bridge Of River And Boat]">
+                                    <span class="related-artwork__obj">BRLF.450.30</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[View from bridge of River and boat]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37592">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210030C_dynmc?width=256&height=256" alt="[Trees Over Country Road]">
+                                    <span class="related-artwork__obj">BRLF.450.36</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees over country road]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37593">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210036C_dynmc?width=256&height=256" alt="[Cars Parked By Beach]">
+                                    <span class="related-artwork__obj">BRLF.450.37</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Cars parked by beach]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37872">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210040C_dynmc?width=256&height=256" alt="[Low Tide]">
+                                    <span class="related-artwork__obj">BRLF.450.41</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Low tide]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37873">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210025C_dynmc?width=256&height=256" alt="[Trees In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.47</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37874">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210012C_dynmc?width=256&height=256" alt="[Utility Pole In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.49</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Utility pole in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37875">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210013C_dynmc?width=256&height=256" alt="[Beach In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.50</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Beach in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37876">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210017C_dynmc?width=256&height=256" alt="[Path By Beach In Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.54</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Path by beach in fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37877">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210020C_dynmc?width=256&height=256" alt="[Rocky Shoreline]">
+                                    <span class="related-artwork__obj">BRLF.450.57</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Rocky shoreline]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37878">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210009C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.63</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37879">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210007C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.65</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37916">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210026C_dynmc?width=256&height=256" alt="[Trees In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.46</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37917">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210014C_dynmc?width=256&height=256" alt="[Trees In The Fog]">
+                                    <span class="related-artwork__obj">BRLF.450.51</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Trees in the fog]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37918">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210018C_dynmc?width=256&height=256" alt="[Front End Of Automobiles]">
+                                    <span class="related-artwork__obj">BRLF.450.55</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Front end of automobiles]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37919">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210023C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.60</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/37920">
+                                      <img nopin="nopin" src="https://nrs.harvard.edu/urn-3:HUAM:INV210010C_dynmc?width=256&height=256" alt="[Boats On Water]">
+                                    <span class="related-artwork__obj">BRLF.450.62</span>
+                                      <h4 class="related-artwork__artist">Lyonel Feininger</h4>
+                                                        <h3 class="related-artwork__title">[Boats on water]</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record was created from historic documentation and may not have been reviewed by a curator; it may be inaccurate or incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Modern and Contemporary Art at <a href="mailto:am_moderncontemporary@harvard.edu"><span>am_moderncontemporary@harvard.edu</span></a></p>
+                    </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                    <img src="/assets/images/no_image.png" alt="No Image">
+                <span class="popup__artwork-info-id">BRLF.450.1-65</span>
+        <span class="popup__artwork-info-author">
+                                    Lyonel Feininger
+                              </span>
+        <span class="popup__artwork-info-title">Group of Feininger Negatives</span>
+        <span class="popup__artwork-info-class">Photographs</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20315030%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F315030">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F315030" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Group+of+Feininger+Negatives+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F315030" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+             </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_7ed1f3e82083c244a4c512c654ff3cd8" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

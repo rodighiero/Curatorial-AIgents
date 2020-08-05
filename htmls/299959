@@ -1,0 +1,746 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections The Apotheosis of Aeneas </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections The Apotheosis of Aeneas" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/299959"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC252612_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" The Apotheosis of Aeneas" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47476536" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC252612_dynmc?width=3000&height=3000" data-initial-image-id="47476536" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?299959" data-behavior="add_to_collection tooltip" data-artwork="299959" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=299959&amp;image_id=DDC252612" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/299959/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC252612">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC252612_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Giovanni Battista Tiepolo"  title="The Apotheosis Of Aeneas" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47476536" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252612_dynmc?width=125&height=125" alt="The Apotheosis Of Aeneas">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="21161">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:21161_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Giovanni Battista Tiepolo"  title="The Apotheosis Of Aeneas" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43182040" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:21161_dynmc?width=125&height=125" alt="The Apotheosis Of Aeneas">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="35982">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS35982_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Giovanni Battista Tiepolo"  title="The Apotheosis Of Aeneas" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20676220" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS35982_dynmc?width=125&height=125" alt="The Apotheosis Of Aeneas">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG754">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG754_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Giovanni Battista Tiepolo"  title="The Apotheosis Of Aeneas" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43164331" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG754_dynmc?width=125&height=125" alt="The Apotheosis Of Aeneas">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This bozzetto, or preparatory sketch, was part of Tiepolo’s designs for the fresco ceiling of the Guard Room in the Royal Palace in Madrid, which was executed by his large workshop. The artist excelled at manipulating perspective and color to create dramatic compositions in which space seemingly recedes toward infinity. Here he combines two events derived from Virgil’s Aeneid. The first is the promised deification of the Trojan hero Aeneas, who is depicted in red rising to the Temple of Immortality, accompanied by winged personifications of Victory and Justice. The second is the appearance of his mother, Venus, who is clad in white at the upper right of the painting. Along with the Graces, she presents Aeneas with arms forged by her lover Vulcan, who supervises their making below. Tiepolo gradually lessened his use of earthly reds from the bottom to the top of the composition, which exaggerates its dramatic effects.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1949.76</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29027>Giovanni Battista Tiepolo</a>, Italian                                                                                                                                                                                                                                                                          (Venice, Italy 1696 - 1770 Madrid, Spain)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>The Apotheosis of Aeneas</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>c. 1765</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Europe, Italy, Veneto, Venice                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>Italian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/299959">https://hvrd.art/o/299959</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2220, European and American Art, 17th–19th century, Rococo and Neoclassicism in the Eighteenth Century<br>
+            <a href="/visit/floor-plan/2?gallery=2220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>72.2 x 51.1 cm (28 7/16 x 20 1/8 in.)<br />
+framed: 99.7 x 73.7 x 5.1 cm (39 1/4 x 29 x 2 in.)</dd>
+            
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Jean-Baptiste-Pierre Le Brun, Paris, 1809. Possibly de Beuronville, Paris. Charles Fairfax Murray, London, by 1909. [1] Marczell von Nemes, Budapest and Munich, sold [through his sale, Mensing & Sons, Paul Cassirer, and Hugo Helbing, June 16, 1931, lot no. 40]. [Jacques Goudstikker, Amsterdam]. [2] Baron Mór Lipót Herzog (Moritz L. Herzog), Budapest, by descent; to his wife, Johanna Herzog de Csete, Budapest, 1934, by descent; to their children (probably his son, István Herzog, Budapest), 1940, confiscated and transferred; to Germany, circa 1944-1945, [3] returned; to Hungary, 1946, returned; to Mme István Herzog (née Ilona Kiss) via Dr. Emil Oppler, a family friend and lawyer. [4] [Julius Weitzner, New York], sold; to Fogg Art Museum, 1949<br />
+<br />
+Notes<br />
+[1] Photographed by Braun & Co., 1909<br />
+[2] Red wax seal on verso identified as that of Goudstikker. See “Giambattista Tiepolo: Master of the Oil Sketch” (1993). <br />
+[3] The Baron Herzog collection was confiscated before 1944. <br />
+[4] See “The ‘Sacco di Budapest:’ Depredation of Hungary, 1938-1949” (1998).<br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Allston Burr Bequest Fund</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1949</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1949.76</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Sammlung Marczell von Nemes: Gemälde, Textilien, Skulpturen, Kunstgewerbe</em>, auct. cat., Mensing and Sons, Paul Cassirer, and Hugo Helbing (Munich, 1931), pp. 36-37, lot no. 40, repr. as Tafel 18
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of Old Masters in Hungarian Private Collections</em>, exh. cat., Museum of Fine Arts, Budapest (Budapest, 1946), p. 21, cat. no. 94
+                             </p>
+                                                      <p>
+                                              Jakob Rosenberg, "An Oil Sketch by G. B. Tiepolo for the Aeneas Ceiling in Madrid", <em>Bulletin of the Fogg Art Museum</em> (March 1950), Vol. 11, No. 2, pp. 53-61, repr. as plate 1, 3, 4, and 5
+                             </p>
+                                                      <p>
+                                              Giulio Lorenzetti, <em>Mostra del Tiepolo: Catalogo Ufficiale</em>, exh. cat., Alfieri Editore (Venice, 1951), pp. 127, 129, cat. no. 97, repr. p. 127
+                             </p>
+                                                      <p>
+                                              <em>Flight: Fantasy, Faith, Fact. A Loan Exhibition Commemorating the Fiftieth  Anniversary of Powered Flight 1903-1953</em>, exh. cat., Dayton Art Institute (Dayton, OH, 1953), p. 11, cat. no. 62 as "Introduction of Aeneas to Temple of Immortality
+                             </p>
+                                                      <p>
+                                              F. J. Sanchez Canton, <em>J. B. Tiepolo en España</em>, Instituto Diego Velazquez (Madrid, 1953), repr. as lam. 2, 4 (detail), and 5 (detail)
+                             </p>
+                                                      <p>
+                                              Antonio Morassi, <em>G. B. Tiepolo: His Life and Work</em>, Phaidon Publishers (London, 1955), p. 36
+                             </p>
+                                                      <p>
+                                              William Hayes Ackland Memorial Art Center, <em>Paintings, Drawings, Prints and Sculpture from American College and University Collections: Inaugural Exhibition</em>, exh. cat. (Chapel Hill, NC, 1958), cat. no. 54
+                             </p>
+                                                      <p>
+                                              <em>The Age of Elegance: The Rococo and its Effect</em>, exh. cat., Baltimore Museum of Art (Baltimore, MD, 1959), pp. 23,  55, 59, cat. no. 205, repr. p. 59
+                             </p>
+                                                      <p>
+                                              "Formal Opening of 'The Arts of Man'", <em>Dallas Museum of Fine Arts Newsletter</em> (Dallas, October 1962), repr.
+                             </p>
+                                                      <p>
+                                              <em>A Complete Catalogue of the Paintings of G. B. Tiepolo: Including Pictures by His Pupils and Followers Wrongly Attributed to Him</em>, checklist, Phaidon Press Limited (London, 1962), p. 8, repr. as fig. 60
+                             </p>
+                                                      <p>
+                                              Francis Watson, "G. B. Tiepolo: Pioneer of Modernism", <em>Apollo</em> (March 1963), pp. 244-248, p. 247
+                             </p>
+                                                      <p>
+                                              <em>Highlights from the Collections of the Fogg Museum and Harvard Alumni of St. Louis</em>, exh. cat., City Art Museum of St. Louis (St. Louis, 1964), cat. 62
+                             </p>
+                                                      <p>
+                                              <em>Masters of the Loaded Brush: Oil Sketches from Rubens to Tiepolo</em>, exh. cat., Columbia University Dept. of Art History and Archaeology and M. Knoedler & Co. (New York, 1967), pp. 57-58, cat. no. 43, repr. as plate 43
+                             </p>
+                                                      <p>
+                               <em>Paintings, Drawings, and Sculpture from the Fogg Art Museum, Harvard University</em>, exh. cat., Yale University Art Gallery (New Haven, 1967)
+                                            </p>
+                                                      <p>
+                                              Winifred Friedman, "A Tiepolo Attribution Problem", <em>Fogg Art Museum Acquisitions, 1968</em> (Cambridge, MA, 1969), pp. 52-64, repr. p. 53 as fig. 1
+                             </p>
+                                                      <p>
+                                              Burton B. Fredericksen and Federico Zeri, <em>Census of Pre-Nineteenth-Century Italian Paintings in North American Public Collections</em>, Harvard University Press (Cambridge, MA, 1972), p. 196
+                             </p>
+                                                      <p>
+                                              James N. Carpenter, <em>Color in Art: A Tribute to Arthur Pope</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1974), p. 90, cat. 46, ill.
+                             </p>
+                                                      <p>
+                                              Sydney J. Freedberg, "Lorenzo Lotto to Nicolas Poussin", <em>Apollo</em> (May 1978), vol. 107, no. 195, pp. 389-397, p. 396, repr. p. 394 as fig. 13
+                             </p>
+                                                      <p>
+                                              Michael Levey, <em>Giambattista Tiepolo, His Life and Art</em>, Yale University Press (New Haven, CT, 1986), pp. 265-266, repr. as pl. 223 [mistakenly listed as MFA Boston]
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), no. 182, p. 160, repr.
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 58, color plate; pp. 131, 361, repr. b/w cat. no. 785
+                             </p>
+                                                      <p>
+                                              Catherine Rogers, "Giovanni Battista Tiepolo's The Apotheosis of Aeneas: Technical Examination and Conservation" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, 1992), Unpublished, pp. 1-11 passim
+                             </p>
+                                                      <p>
+                                              Catherine Whistler, "[Review] Fort Worth, Tiepolo Oil Sketches", <em>The Burlington Magazine</em> (December 1993), Vol. 135, No. 1089 pp. 857- 859, p. 859, repr. as fig. 102
+                             </p>
+                                                      <p>
+                                              George Knox, "[Review] Giambattista Tiepolo at Fort Worth", <em>Apollo</em> (December 1993), p. 403
+                             </p>
+                                                      <p>
+                                              Beverly Louise Brown, <em>Giambattista Tiepolo: Master of the Oil Sketch</em>, exh. cat., Abbeville Press (New York, 1993), pp. 313-317, cat. no. 58, repr. p. 313, 315
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Ronda Kasl and Suzanne L. Stratton, <em>Painting in Spain in the Age of Enlightenment: Goya and his Contemporaries</em>, exh. cat., Indianapolis Museum of Art (Indianapolis, IN, 1997), pp. 163-7, repr. in color p. 78
+                             </p>
+                                                      <p>
+                                              László Mravik, <em>The "Sacco di Budapest": Depredation of Hungary, 1938-1949</em>, Hungarian National Gallery (Budapest, 1998), pp. 312-313, cat. no. 19849, repr. p. 212
+                             </p>
+                                                      <p>
+                                              Peter Stephan, <em>Im Glanz der Majestät des Reiches: Tiepolo und die Würzburger Residenz: die Reichsidee der Schönborn und die politische Ikonologie des Barock</em>, A. H. Konrad (Weissenhorn, Germany, 2002), repr. as fig. 77
+                             </p>
+                                                      <p>
+                                              Andrés Úbeda de los Cobos, <em>The Artist at Court: Giandomenico Tiepolo and his Fantasy Portraits</em>, exh. cat., Banca March (Madrid, 2014), pp. 34, 37-38, fig. 18
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of Old Masters in Hungarian Private Collections</em>, Museum of Fine Arts, Budapest, 01/01/1946 - 01/01/1946
+                            </p>
+                          <p>
+                              <em>Mostra del Tiepolo</em>, Ca' Rezzonico, 06/16/1951 - 10/07/1951
+                            </p>
+                          <p>
+                              <em>Flight: Fantasy, Faith, Fact. A Loan Exhibition Commemorating the Fiftieth Anniversary of Powered Flight 1903-1953</em>, Dayton Art Institute, Dayton, 12/17/1953 - 02/21/1954
+                            </p>
+                          <p>
+                              <em>Masterpieces of 17th & 18th Centuries</em>, Albright-Knox Art Gallery, Buffalo, 10/02/1957 - 11/03/1957
+                            </p>
+                          <p>
+                              <em>Inaugural Exhibition</em>, William Hayes Ackland Memorial Art Center, Chapel Hill, 09/20/1958 - 10/20/1958
+                            </p>
+                          <p>
+                              <em>The Age of Elegance: The Rococo and its Effect</em>, Baltimore Museum of Art, Baltimore, 04/25/1959 - 06/14/1959
+                            </p>
+                          <p>
+                              <em>Baroque Oil Sketches</em>, Knoedler & Co. Inc., New York, 04/04/1967 - 04/29/1967
+                            </p>
+                          <p>
+                              <em>Masters of the Loaded Brush: Oil Sketches from Rubens to Tiepolo</em>, M. Knoedler & Co., 04/04/1967 - 04/29/1967
+                            </p>
+                          <p>
+                              <em>Paintings, Drawings, Sculpture from the Fogg Art Museum, Harvard University</em>, Yale University Art Gallery, New Haven, 10/12/1967 - 12/03/1967
+                            </p>
+                          <p>
+                              <em>Color in Art: A Tribute to Arthur Pope</em>, Fogg Art Museum, Cambridge, 04/25/1974 - 06/16/1974
+                            </p>
+                          <p>
+                              <em>Master Paintings from the Fogg Collection</em>, Fogg Art Museum, Cambridge, 04/13/1977 - 08/31/1977
+                            </p>
+                          <p>
+                              <em>Tiepolos in America</em>, Birmingham Museum of Art, Birmingham, 01/08/1978 - 02/19/1978; Museum of Fine Arts, Springfield, Springfield, 03/19/1978 - 05/07/1978
+                            </p>
+                          <p>
+                              <em>Masterpieces of European Art</em>, Busch-Reisinger Museum, Cambridge, 06/22/1985 - 09/15/1985
+                            </p>
+                          <p>
+                              <em>Tiepolo in Madrid: The Fogg "Aeneas" Sketch Investigated</em>, Harvard University Art Museums, Cambridge, 06/06/1992 - 08/30/1992
+                            </p>
+                          <p>
+                              <em>Giambattista Tiepolo: Master of the Oil Sketch</em>, Kimbell Art Museum, 09/18/1993 - 12/12/1993
+                            </p>
+                          <p>
+                              <em>The Persistence of Memory: Continuity and Change in American Cultures</em>, Harvard University Art Museums, Cambridge, 07/29/1995 - 05/13/2001
+                            </p>
+                          <p>
+                              <em>Calming the Tempest with Peter Paul Rubens</em>, Harvard University Art Museums, Cambridge, 12/22/2001 - 03/17/2002
+                            </p>
+                          <p>
+                              <em>Re-View: S424-426  Western Art from 1560 to 1900</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/16/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 2220 18th-19th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347716">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8223</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Giovanni Battista Tiepolo</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Apotheosis of Aeneas"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347717">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR008604_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "apotheosis Of Aeneas"">
+                                    <span class="related-artwork__obj">Straus.8224</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Giovanni Battista Tiepolo</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Apotheosis of Aeneas"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC252612_dynmc?width=200&height=200" alt="The Apotheosis Of Aeneas">
+                <span class="popup__artwork-info-id">1949.76</span>
+        <span class="popup__artwork-info-author">
+                                    Giovanni Battista Tiepolo
+                              </span>
+        <span class="popup__artwork-info-title">The Apotheosis of Aeneas</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20299959%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299959">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299959" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=The+Apotheosis+of+Aeneas+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F299959" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/299959" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_7bc08fb962efb72eb1cebe5bc271284d" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

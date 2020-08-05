@@ -1,0 +1,690 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Fighting Nudes </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Fighting Nudes" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/297789"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51615_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Fighting Nudes" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17387725" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51615_dynmc?width=3000&height=3000" data-initial-image-id="17387725" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?297789" data-behavior="add_to_collection tooltip" data-artwork="297789" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=297789&amp;image_id=51615" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/297789/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1940.9</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28109>Antonio Pollaiuolo</a>, Italian                                                                                                                                                                                                                                                                          (Florence, Italy 1431 or 1432 - 1498 Rome, Italy)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Fighting Nudes</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>15th century</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Europe, Italy, Tuscany, Florence                                                      </dd>
+                                                    <dt>Culture</dt>
+                <dd>Italian</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/297789">https://hvrd.art/o/297789</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink and brown wash on cream antique laid paper, extensively restored, laid down overall to brown craft paper</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>27.3 x 18.1 cm (10 3/4 x 7 1/8 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          watermark: No watermark was observed when examined by Craigen Bowen, 3/4/2002.
+                        </li>
+                                              <li data-a="2">
+                          inscription: bottom edge of mount, brown ink: Antonio Pollaiolo Fiorentino  1426-1498  He invented & graved ye. 1st [?]: print 1440<br />
+    50<br />
+from vol 1st No 2<br />
+[Parts of the inscription are hard to read]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso of mount, brown ink: P. 60. [written upside down]
+                        </li>
+                                              <li data-a="2">
+                          inscription: u.r. corner of mount, graphite: R [or possibly K] 2 [written upside down]
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Jonathan Richardson, Sr., London, England. Bishop Benson. Sir John Gott, Bishop of Truro, Cornwall, England. Reginald Herbert, The Earl of Pembroke, Wilton House, Salisbury, England, sold [through Sotheby's, London, July 7, 1917, lot 343]; to [Knoedler & Co., Inc., New York, NY], sold; to Paul J. Sachs, Cambridge, MA, July 15, 1919, gift; to Fogg Art Museum, 1940. <br />
+</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Meta and Paul J. Sachs</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1940</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1940.9</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              S. Arthur Strong, <em>Reproductions in Facsimile of Drawings by the Old Masters in the Collection  of the Earl of Pembroke and Montgomery at Wilton House</em>, P. & D. Colnaghi & Co. Ltd. (London, England, 1900), Part II, cat. no. 17, n.p., repr. pl. 17 in color
+                             </p>
+                                                      <p>
+                                              Maud Cruttwell, <em>Antonio Pollaiuolo</em>, Duckworth & Co. and Charles Scribner's Sons (London, England and New York, NY, 1907), pp. 76-77
+                             </p>
+                                                      <p>
+                                              Fern Rusk Shapley, "A Student of Ancient Ceramics, Antonio Pollajuolo", <em>The Art Bulletin</em>, Brown University (Providence, RI, December 1919), vol. II, no. 2, pp. 78-86, p. 85, repr. pl. VIII
+                             </p>
+                                                      <p>
+                                              Tancred Borenius, <em>Four Early Italian Engravers: Antonio del Pollaiuolo, Andrea Mantegna, Jacopo de' Barbari, Giulio Campagnola</em>, The Medici Society Ltd. (London, England and Boston, MA, 1923), p. 9, repr.
+                             </p>
+                                                      <p>
+                                              Alfred H. Barr, Jr., "A Drawing by Antonio Pollaiuolo", <em>Art Studies: Medieval, Renaissance and Modern</em>, Harvard University Press (Cambridge, MA, 1926), vol. 4, pp. 73-78, pp. 73-77, repr. fig. 1
+                             </p>
+                                                      <p>
+                                              Margaret E. Gilman, "Antonio Pollaiuolo as Represented at Yale and Harvard", <em>The Yale Alumni Weekly</em> (New Haven, CT, March 13, 1928), vol. XXXVII, no. 27, p. 748, repr.
+                             </p>
+                                                      <p>
+                                              Robert Allerton Parker, "The Key to Antonio Pollaiuolo's Genius", <em>The International Studio</em> (1929), vol. LXXXIX, no. 368, pp. 39-44, 92, pp. 43-44, repr.
+                             </p>
+                                                      <p>
+                                              <em>Exhibition of Italian Art, 1200-1900</em>, exh. cat., Royal Academy of Arts (London, England, 1930), cat. no. 444, p. 240
+                             </p>
+                                                      <p>
+                                              Lord Balniel and Kenneth Clark, ed., <em>A Commemorative Catalogue of the Exhibition of Italian Art held in the Galleries of the Royal Academy, Burlington House, London, January - March 1930</em>, exh. cat. (London, 1931), cat. no. 635
+                             </p>
+                                                      <p>
+                                              Arthur E. Popham, <em>Italian Drawings Exhibited at the Royal Academy, Burlington House, London, 1930</em>, Oxford University Press (NY) (London, England, 1931), cat. no. 33, p. 10, pl. XXVIII
+                             </p>
+                                                      <p>
+                                              "Rare Drawings in Fine Exhibit Held in Buffalo", <em>Art News</em> (New York, NY, December 29, 1934), vol. XXXIII, no. 13, pp.3-4 and 13, p. 4, repr.
+                             </p>
+                                                      <p>
+                                              <em>Master Drawings, Selected from the Museums and Private Collections of America</em>, exh. cat., Buffalo Fine Arts Academy/Albright Art Gallery (Buffalo, NY, 1935), cat. no. 8, n.p., repr. [also mentioned in the catalogue introduction, n.p.]
+                             </p>
+                                                      <p>
+                                              <em>An Exhibition of European Art 1450-1500, Presented by the Rockefeller Foundation Interns of the Brooklyn Museum"</em>, exh. cat., Brooklyn Museum (Brooklyn, NY, 1936), cat. no. 124, n.p., repr. pl. 124
+                             </p>
+                                                      <p>
+                                              Arthur Mayger Hind, <em>Early Italian Engraving: A Critical Catalogue with Complete Reproduction of all the Prints Described</em>, Bernard Quaritch Ltd. (London, England, 1938), pp. 192-3 (under cat. no. D. I. 2)
+                             </p>
+                                                      <p>
+                                              Bernard Berenson, <em>The Drawings of the Florentine Painters</em>, University of Chicago Press (Chicago, IL, 1938), vol. II, no. 1898C, p. 265, repr. fig. 77
+                             </p>
+                                                      <p>
+                                              Alfred M. Frankfurter, "Master Drawings of the Renaissance: Notable and New Items in American Collections", <em>ARTnews Annual</em> (New York, NY, 1939), vol. XXXVII, no. 22, pp. 97-116, 180-185, p. 181, repr. fig. 7
+                             </p>
+                                                      <p>
+                                              <em>Classics of the Nude: Loan Exhibition--Pollaiuolo to Picasso</em>, exh. cat., Knoedler & Co. Inc. (New York, NY, 1939), cat. no. 1, pp. 9-10, repr. pl. 1
+                             </p>
+                                                      <p>
+                                              Carol Rothschild, "Recent Museum Acquisitions", <em>Parnassus</em>, College Art Association of America (May 1940), Vol. 12, No. 5, pp. 46-50, 56, p. 48
+                             </p>
+                                                      <p>
+                                              Agnes Mongan and Paul J. Sachs, <em>Drawings in the Fogg Museum of Art</em>, Harvard University Press (Cambridge, 1940), vol. 1, cat. no. 37, pp. 30-34; vol. 2, repr. fig. 33
+                             </p>
+                                                      <p>
+                                              Giovanni Colacicchi, <em>Antonio del Pollaiuolo</em>, Chessa Editeur (Florence, Italy, 1943), cat. no. 76, pp. XXXIII-IV, repr. pl. 76
+                             </p>
+                                                      <p>
+                                              Attilio Sabatini, <em>Antonio e Piero del Pollaiolo</em>, Casa Editrice G. C. Sansoni (Florence, Italy, 1944), pp. 37 and 86-87, repr. pl. XXIIIa
+                             </p>
+                                                      <p>
+                                              "New Edition of a Catalogue: Drawings in the Fogg Museum", <em>The Connoisseur in America</em> (New York, NY, October 1947), vol. XXX, pp. 39-40, p. 39, repr.
+                             </p>
+                                                      <p>
+                                              Hans Tietze, <em>European Master Drawings in the United States</em>, J. J. Augustin, Inc. (New York, 1947), cat. no. 12, pp. 24-25, repr.
+                             </p>
+                                                      <p>
+                                              Helen Comstock, Review of "Drawings in the Fogg Museum of Art", <em>The Connoisseur</em> (September 1947), vol. CXX, pp. 39-40, pp. 39-40, repr.
+                             </p>
+                                                      <p>
+                                              Sergio Ortolani, <em>Il Pollaiuolo</em>, Ulrico Hoepli-Editore (Milan, Italy, 1948), cat. no. 2, p. 168 and pp. 205-6, repr. pl. 84
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, "The Fogg Art Museum's Collection of Drawings", <em>Harvard Library Bulletin</em>, Harvard University (Cambridge, 1958), vol. 3, no. 2, March, pp. 5-9, p. 200
+                             </p>
+                                                      <p>
+                               Review of "Watercolors by Edward Hopper", <em>Bulletin of the Currier Gallery of Art</em>, Currier Museum of Art (Manchester, NH, 1959)
+                                            </p>
+                                                      <p>
+                                              Winslow Ames, <em>Great Drawings of All Time [vol. 1: Italian]</em>, ed. Ira Moskowitz, Shorewood Publishers Inc. (New York, 1962), cat. no. 114, n.p., repr. color
+                             </p>
+                                                      <p>
+                                              Winslow Ames, <em>Drawings of the Masters: Italian Drawings from the 15th to the 19th Century</em>, Shorewood Publishers Inc. (New York, 1963), p. 21, repr. pl. 12 in color
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, <em>Memorial Exhibition: Works of Art from the Collection of Paul J. Sachs [1878-1965]: given and bequeathed to the Fogg Art Museum, Harvard University, Cambridge, Massachusetts</em>, exh. cat., Harvard University (Cambridge, MA, 1965), no. 3, repr
+                             </p>
+                                                      <p>
+                                              Alberto Busignani, <em>Pollaiolo</em>, Edizioni d'Arte Il Fiorino (Florence, Italy, 1969), cat. no. XCIV, n.p., repr.
+                             </p>
+                                                      <p>
+                                              Leopold D. Ettlinger, <em>Antonio and Piero Pollaiuolo: Complete Edition with a Critical Catalogue</em>, Phaidon (London, England, 1978), cat. no. 36, p. 161, repr. pl. 74
+                             </p>
+                                                      <p>
+                                              Konrad Oberhuber, <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Tokyo, 1979), cat. no. 2, n.p., pl. 2, repr.
+                             </p>
+                                                      <p>
+                                              Beverly Louise Brown, <em>Prints and Drawings of the Quattrocento</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1981), cat. no. 24, p. 20
+                             </p>
+                                                      <p>
+                                              Kristin A. Mortimer and William G. Klingelhofer, <em>Harvard University Art Museums: A Guide to the Collections</em>, Harvard University Art Museums and Abbeville Press (Cambridge and New York, 1986), cat. no. 249, p.216, repr.
+                             </p>
+                                                      <p>
+                                              Agnes Mongan, Konrad Oberhuber, and Jonathan Bober, <em>The Famous Italian Drawings at the Fogg Art Museum in Cambridge</em>, Silvana Editoriale (Milan, Italy, 1988), pp. 9, 10 and 24, repr. fig. 3
+                             </p>
+                                                      <p>
+                                              Jay A. Levenson, ed., <em>Circa 1492: Art in the Age of Exploration</em>, exh. cat., National Gallery of Art/Yale University Press (Washington, D.C. and New Haven, CT, 1991), under cat. no. 160, p. 261 [catalogue entry written by Martin Kemp]
+                             </p>
+                                                      <p>
+                                              Bernice Davidson, <em>Italian Art at the Close of the Quattrocento: Pollaiuolo and Hercules: Painting and Sculpture in the Frick Collection from the Age of Piero della Francesca</em>, exh. cat., The Frick Collection (New York, NY, 1992), cat. no. 5, n.p., repr.
+                             </p>
+                                                      <p>
+                                              Alison Wright, “Mantegna and Pollaiuolo: Artistic Personality and the Marketing of Invention”, <em>Drawing, 1400-1600: Invention and Innovation</em>, ed. Stuart Currie, Ashgate Publishing (Aldershot, England and Brookfield, VT, 1998), pp. 72-90, pp. 79-80 and 82, repr. fig. 5.5
+                             </p>
+                                                      <p>
+                                              Patricia Lee Rubin and Alison Wright, <em>Renaissance Florence: The Art of the 1470s</em>, exh. cat., National Gallery Publications/Yale University Press (London, England, 1999), cat. no. 56, pp. 264-5, repr. color and pp. 259, 263 and 267
+                             </p>
+                                                      <p>
+                                              Carl Brandon Strehlke, Review of "Renaissance Florence: The Art of the 1470s", <em>The Burlington Magazine</em> (January 2000), vol. CXLII, no. 1162, pp. 46-8, p. 47, repr. fig. 63
+                             </p>
+                                                      <p>
+                                              Federico Poletti, <em>Antonio e Piero Pollaiuolo</em>, Silvana Editoriale (Cinisello Balsamo, Milan, 2001), pp. 82-83, repr. p. 83 (color)
+                             </p>
+                                                      <p>
+                                              Shelley Langdale, <em>Battle of the Nudes. Pollaiuolo's Renaissance Masterpiece</em>, exh. cat., Cleveland Museum of Art (Cleveland, OH, 2002), checklist no. 13 and pp. 38, 45-6, 58 (n. 28), 60 (n. 55), repr. pl. 13 (color)
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Exhibition of Italian Art, 1200-1900</em>, Royal Academy of Arts, London, 01/01/1930 - 03/08/1930
+                            </p>
+                          <p>
+                              <em>Master Drawings, Selected from the Museums and Private Collections of America</em>, Buffalo Fine Arts Academy, Buffalo, 01/01/1935 - 01/31/1935
+                            </p>
+                          <p>
+                              <em>An Exhibition of European Art 1450-1500</em>, Brooklyn Museum of Art, Brooklyn, 05/08/1936 - 06/08/1936
+                            </p>
+                          <p>
+                              <em>Drawings from the Fogg Museum of Art, Harvard University (Collected by Paul J. Sachs)</em>, Century Club, New York, 05/12/1947 - 09/25/1947
+                            </p>
+                          <p>
+                              <em>Memorial Exhibition: Works of Art from the Collection of Paul J. Sachs [1878-1965] Given and Bequeathed to the Fogg Art Museum Harvard University Cambridge, Massachusetts</em>, Fogg Art Museum, Cambridge, 11/15/1965 - 01/15/1966; Museum of Modern Art, New York, New York, 12/19/1966 - 02/26/1967
+                            </p>
+                          <p>
+                              <em>European Master Drawings of Six Centuries from the Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 11/03/1979 - 12/16/1979
+                            </p>
+                          <p>
+                              <em>Prints and Drawings of the Quattrocento</em>, Fogg Art Museum, Cambridge, 07/03/1981 - 08/31/1981
+                            </p>
+                          <p>
+                              <em>Italian Art at the Close of the Quattrocento: Pollaiuolo and Hercules: Painting and Sculpture in The Frick Collection from the Age of Piero della Francesca</em>, The Frick Collection, New York, 02/04/1992 - 03/29/1992
+                            </p>
+                          <p>
+                              <em>Renaissance Florence: The Art of the 1470s</em>, National Gallery, London, 10/20/1999 - 01/16/2000
+                            </p>
+                          <p>
+                              <a href="https://www.harvardartmuseums.org/exhibitions/4611"><em>Landmarks of World Art and Architecture</em>, Harvard Art Museums, Cambridge, 09/04/2012 - 01/19/2013</a>
+                            </p>
+                          <p>
+                              <em>32Q: 2540 Renaissance</em>, Harvard Art Museums, Cambridge, 09/01/2016 - 01/31/2017
+                            </p>
+                      </dd>
+        
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:51615_dynmc?width=200&height=200" alt="Fighting Nudes">
+                <span class="popup__artwork-info-id">1940.9</span>
+        <span class="popup__artwork-info-author">
+                                    Antonio Pollaiuolo
+                              </span>
+        <span class="popup__artwork-info-title">Fighting Nudes</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20297789%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297789">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297789" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Fighting+Nudes+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F297789" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/297789" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_449009a5056d6a417ebc2bec7577af6f" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

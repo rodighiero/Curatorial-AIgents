@@ -1,0 +1,783 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Alexander the Great </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Alexander the Great" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/312306"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:DDC250046_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Alexander the Great" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_47335177" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:DDC250046_dynmc?width=3000&height=3000" data-initial-image-id="47335177" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?312306" data-behavior="add_to_collection tooltip" data-artwork="312306" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=312306&amp;image_id=DDC250046" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/312306/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="DDC250046">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250046_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47335177" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250046_dynmc?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017450">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017450?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="Detail of the face" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095117" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017450?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017451">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017451?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="Detail of the face showing circular depressions flanking the eye" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095121" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017451?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017452">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017452?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="Detail of the proper left side of the head" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095125" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017452?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017453">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017453?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="Detail of the back of the head" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095129" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017453?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="STR017454">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:STR017454?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="Detail of the proper right side of the head" data-object-copyright="President and Fellows of Harvard College" data-image-id="400095133" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:STR017454?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC250256">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250256_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47335184" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250256_dynmc?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC250257">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250257_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="47335185" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250257_dynmc?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="DDC250258">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:DDC250258_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="Detail of face" data-object-copyright="President and Fellows of Harvard College" data-image-id="47335186" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250258_dynmc?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="SCAN80387">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:80387_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43183904" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:80387_dynmc?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG5269">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG5269_dynmc?width=3000&height=3000" data-zoom-enabled="1"  title="Alexander The Great" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43163211" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG5269_dynmc?width=125&height=125" alt="Alexander The Great">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>Bronze is an alloy of copper and tin that has been used for thousands of years to make objects as diverse as sculpture and figurines, weapons and armor, and jewelry and tableware. The addition of tin and sometimes lead made the alloy more versatile and lowered its melting point; another common copper alloy is brass (copper and zinc), which was in widespread use in the Roman period. Although other materials, like stone, glass, and terracotta, were available, copper alloy items were valued for their golden sheen, versatility, and durability. The material lent prestige and beauty to objects like these statuettes, most of which would have been dedicated to the gods. Modern bronzes are often artificially patinated, like the Rodin sculpture in this colonnade. While ancient bronzes were sometimes gilded or deliberately darkened, the unaltered surfaces naturally acquired a red, green, or brown patina over time.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1956.20</dd>
+
+            
+                            <dt>Title</dt>
+                <dd>Alexander the Great</dd>
+            
+                                                                                                                                                                                                  <dt>Other Titles</dt>
+                    <dd>
+                                                                                                                                      Alternate Title: Alexander with Lance                                                                        </dd>
+                            
+                            <dt>Classification</dt>
+                <dd>Sculpture</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            sculpture,                                          statuette                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>2nd-early 3rd century CE</dd>
+                                        <dt>Places</dt>
+                <dd>
+                                                            Creation Place: Ancient & Byzantine World, Europe                                                      </dd>
+                                        <dt>Period</dt>
+                <dd>Roman Imperial period, Middle</dd>
+                                        <dt>Culture</dt>
+                <dd>Roman</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/312306">https://hvrd.art/o/312306</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 3, Room 3200, Ancient Mediterranean and Near Eastern Art, Classical Sculpture<br>
+            <a href="/visit/floor-plan/3?gallery=3200" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Leaded bronze on stone base</dd>
+            
+           
+                        <dt>Technique</dt>
+             <dd>Cast, lost-wax process</dd>
+           
+                          <dt>Dimensions</dt>
+              <dd>12.1 x 5.3 x 3.6 cm (4 3/4 x 2 1/16 x 1 7/16 in.)</dd>
+            
+                          <dt>Technical Details</dt>
+              <dd>
+                                                      <p class="divider">Chemical Composition: ICP-MS/AAA data from sample, Leaded bronze:<br />
+Cu, 83.55; Sn, 10.31; Pb, 5.7; Zn, 0.216; Fe, 0.03; Ni, 0.08; Ag, 0.05; Sb, 0.04; As, less than 0.10; Bi, less than 0.025; Co, 0.015; Au, less than 0.01; Cd, less than 0.001<br />
+<br />
+J. Riederer</p>
+                                      <p class="divider">Chemical Composition: XRF data from Tracer<br />
+Alloy: Leaded Bronze<br />
+Alloying Elements: copper, tin, lead<br />
+Other Elements: iron, nickel<br />
+<br />
+K. Eremin, January 2014</p>
+                                      <p class="divider">Chemical Composition: <br />
+Lead Isotope Analysis (Pb, 5.7%): <br />
+<br />
+Pb206/Pb204, 18.570; Pb207/Pb204, 15.934; Pb208/Pb204, 39.358; Pb, 207/Pb206, 0.858; Pb 208/Pb206, 2.120<br />
+<br />
+ <br />
+<br />
+P. Degryse</p>
+                                      <p class="divider">Technical Observations: The patina is dark, transparent green with underlying metal slightly visible that may be modern color that developed after the surface was cleaned. Patches of a thick, red cuprite layer and a green corrosion layer are present in many areas and are convincing evidence of long-term burial. In 2013, a sample was drilled from the inner side of the right arm near the shoulder and revealed a significant cuprite layer that was not entirely visible on the surface.<br />
+ <br />
+The legs and feet below the knees are modern cast bronze restorations. Small ridges in some areas of the original corrosion layers are the result of the original cleaning, which appears to have been accomplished by scraping. A later cleaning in 1970, done to reveal details of the face, exposed bright metal that is now inpainted.<br />
+ <br />
+The bronze is solid cast, probably by a lost-wax technique. There is no indication that the wax model was cast or entirely formed directly in the wax. If an indirect technique was used to cast the model, the fine detail in the head and torso were likely refined by working directly on the surface of the wax cast. Larger locks of the figure’s hair appear to be modeled in the wax; finer incised lines on the locks are cold worked into the surface of the bronze cast. Circular depressions to the left and right side of each eye, which were exposed in the 1970 cleaning of the head, serve to define the shape of the eyeball. The condition of the surface around the eyes makes it impossible to say whether these features were made in the bronze or in the wax model. Although they have been described as “drill holes,” there is no visual evidence that a drilling process was involved. A slight depression behind the copious locks of hair at the periphery could have once held a fillet, wreath, or crown, but the contour is so faint that it is equally possible that no such element existed, and no means of attachment for such a component is visible. The hole in the left hand for the lance is open at both ends. It is plugged at the center with what appears to be burial accretions.<br />
+ <br />
+ <br />
+Henry Lie (submitted 2001, updated 2013)</p>
+                                                </dd>
+            
+            
+            
+            
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>A. J. von Nelidow, Rome, (by 1898). [Galerie Georges Petit (Paris), Catalogue des objets antiques provenant de la collection de son Exc. Mr. de Nelidow, May 23-24, 1911, lot 43]. C. Ruxton Love, Jr., New York, NY, (by 1954), gift; to Fogg Art Museum, 1956.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. C. Ruxton Love, Jr.</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1956</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1956.20</dd>
+
+                          <dt>Division</dt>
+              <dd>Asian and Mediterranean Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Descriptions</dt>
+          <dd>
+            <dl>
+                                                               <dd>
+                                                                                                      <p>
+                                                    Published Catalogue Text: Ancient Mediterranean and Near Eastern Bronzes at the Harvard Art Museums <br>This statuette is a miniature copy after a Greek bronze statue by Lysippos made late in the reign (336-323 BCE) or shortly after the death of Alexander the Great. The Macedonian ruler is portrayed standing in heroic nudity with his right hand on his hip and his left arm raised. He would have originally held a spear or lance in his left hand. The legs beneath the knees are restored but the pose is clear; he stands with his weight on his right leg, while his left leg trails behind him (1). The figure is boldly modeled with an expansively muscular chest and dynamic hair. His head is turned slightly to the left as he looks out into the distance (2). <br />
+ <br />
+Alexander the Great was the focus of a divine cult in his lifetime, and after his death in 323 BCE, he continued to be worshipped in Greek cities, frequently in association with his successors, the Hellenistic kings who divided and ruled the vast kingdom he had created. The cult of Alexander continued in Roman times, particularly in Macedonia, his homeland, and in Asia Minor, where cities traced their foundations to Alexander’s rule. Small-scale statuettes like this one could have served as votive objects of religious devotion or could have been created out of historical interest (3). Interest in the great military leader was revived under various Roman emperors, including Hadrian (r. 117-138 CE) and Caracalla (r. 211-217 CE) (4). <br />
+<br />
+<br />
+NOTES:<br />
+ <br />
+1. For a photograph before the legs were restored, see L. Pollak, Klassich-antike Goldschmiedearbeiten im Besitze Sr. Excellenz A. J. von Nelidow (Leipzig, 1903) 3.<br />
+ <br />
+2. A. Stewart, in Faces of Power: Alexander’s Image and Hellenistic Politics (Berkeley, 1993) 163 and 427-28, has identified four replicas or versions linked to the Harvard statuette, also known as the Nelidow statuette after the collector with whom it was first associated in publications. <br />
+ <br />
+3. C. C. Vermeule, in The Search for Alexander: An Exhibition (New York, 1980) 118, suggests that “a Macedonian soldier in the service of Severus Alexander (222-235 CE) could have placed this statuette in his household shrine.”<br />
+ <br />
+4. For a large-scale Roman bronze portrait of Alexander that has been dated to the second half of the second century CE, see M. Kunze, Alexander der Grosse, König der Welt: Eine neuentdeckte Bronzestatue (Berlin, 2000). Portraits of Alexander in a variety of media and scales were undoubtedly made in the early Imperial period as well. See, for example, a Roman bronze statuette of Alexander as Zeus, dated to the second half of the first century CE, in id., Meisterwerke antiker Bronzen und Metallarbeiten aus der Sammlung Borowski 1: Griechische und römische Bronzen (Ruhpolding and Mainz, 2007) 197-201.<br />
+ <br />
+ <br />
+Seán Hemingway</p>
+                                                                      </dd>
+                            </dl>
+          </dd>
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Paul Arndt and Walther Amelung, <em>Photographische Einzelaufnahmen antiker Sculpturen</em> (Munich, Germany, 1893 - 1950), Ser. 3 (1897) p. 30.
+                             </p>
+                                                      <p>
+                               Oskar Wulff, <em>Alexander mit der Lanze</em> (Berlin, Germany, 1898)
+                                            </p>
+                                                      <p>
+                                              W. Helbig, <em>Führer durch die öffentlichen Sammlungen Klassischer Altertümer in Rom</em> (Leipzig, Germany, 1899), II, 231.
+                             </p>
+                                                      <p>
+                                              Adolf Furtwängler, "Ancient Sculptures at Chatsworth House", <em>The Journal of Hellenic Studies</em> (1901), Vol. XXI, p. 213 n.1.
+                             </p>
+                                                      <p>
+                                              Charles de Ujfalvy, <em>Le Type Physique d'Alexandre le Grand</em> (Paris, France, 1902), p. 109.
+                             </p>
+                                                      <p>
+                                              Dr. Ludwig Pollak, <em>Klassisch-Antike Goldschmiedearbeiten im Besitze Sr. Excellenz A. J. von Nelidow</em>, Karl W. Hiersemann (Leipzig, 1903), p. 3, 139, 184, and 198.
+                             </p>
+                                                      <p>
+                                              Theodor Schreiber, <em>Studien über das Bildnis Alexanders des Grossen</em> (1903), 104-105, n. 8.
+                             </p>
+                                                      <p>
+                                              J.J. Bernoulli, <em>Die erhaltenen Darstellungen Alexanders des Grossen</em> (Munich, Germany, 1905), p. 106-107.
+                             </p>
+                                                      <p>
+                                              Salomon Reinach, <em>Répertoire de la statuaire grecque et romaine</em>, Editions Ernst Leroux (Paris, 1908 - 1930), Vol. 3, p. 159, no. 1.
+                             </p>
+                                                      <p>
+                                              <em>Catalogue des ojects antiques provenant de la collection de Son Exc. Mr. de Nelidow, May 23-24, 1911</em>, auct. cat. (Paris, 1911), p. 12, no. 43, pl. 8.
+                             </p>
+                                                      <p>
+                                              F. P. Johnson, <em>Lysippos</em>, Duke University Press (Chapel Hill, NC, 1927), p. 217-18.
+                             </p>
+                                                      <p>
+                                              Elmer G. Suhr, <em>Sculptured Portraits of Greek Statesmen With a Special Study of Alexander the Great</em>, The Johns Hopkins University Press (Baltimore, 1931), p. 131.
+                             </p>
+                                                      <p>
+                                              K. Gebauer, "Alexanderbildnis und Alexandertypus", <em>Mitteilungen des Deutschen archäologischen Instituts, athenische Abteilung</em> (1938 -1939), Vol. LIII-LIV, p. 54.
+                             </p>
+                                                      <p>
+                                              Friedrich von Lorentz, "Eine Bronzestatuette Alexanders des Grossen", <em>Mitteilungen des Deutschen archäologischen Instituts, römische Abteilung</em> (1938 -1939), Vol. L, p. 337.
+                             </p>
+                                                      <p>
+                                              Hans Karl Süsserott, <em>Griechische Plastik des 4. Jahrhunderts vor Christus</em>, Vittorio Klostermann (Frankfurt, 1938), p. 188-89.
+                             </p>
+                                                      <p>
+                                              Gerhard Kleiner, "Das Bildnis Alexanders des Grossen", <em>Jahrbuch des Deutschen Archaologischen Instituts</em> (1950-1951), Vol. 65-66, 206-230, p. 219
+                             </p>
+                                                      <p>
+                                              <em>Ancient Art in American Private Collections</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1954), pp. 31-32, no. 220, pl. 62.
+                             </p>
+                                                      <p>
+                                              "Accessions of American and Canadian Museums, January-March, 1956", <em>The Art Quarterly</em> (1956), Vol. 19, No. 1, 302-313, p. 302.
+                             </p>
+                                                      <p>
+                                              Margarete Bieber, <em>Alexander the Great in Greek and Roman Art</em> (Chicago, IL, 1964), p. 73, no. 69.
+                             </p>
+                                                      <p>
+                                              Erkinger von Schwarzenberg, "Der lysippische Alexander", <em>Bonner Jahrbucher</em> (1967), Vol. 167, 58-118, p. 96
+                             </p>
+                                                      <p>
+                                              Diana M. Buitron, "The Alexander Nelidow: A Renaissance Bronze?", <em>The Art Bulletin</em> (1973), Vol. 55, No. 3, p. 393-400, pls. 1-6.
+                             </p>
+                                                      <p>
+                                              Nicholas Yalouris, <em>The Search for Alexander</em>, exh. cat., New York Graphic Society (Greenwich, CT, 1980), p. 118, fig. 38.
+                             </p>
+                                                      <p>
+                                              Brigitte Hundsalz, "Alexander mit der Lanze", <em>Damaszener Mitteilungen</em> (1985), Vol. 2, 107-121, p. 107,109-10, pl. 36.a-c
+                             </p>
+                                                      <p>
+                                              Nikolaus Himmelmann, <em>Herrscher und Athlet: Die Bronzen vom Quirinal</em>, Arnoldo Mondadori (Milan, 1989), p. 135, 180, fig. 35.
+                             </p>
+                                                      <p>
+                                              Andrew Stewart, <em>Faces of Power: Alexander's Image and Hellenistic Politics</em>, University of California Press (Berkeley, CA, 1993), p. 161-71, 427-28, pl. 35.
+                             </p>
+                                                      <p>
+                                              Marjoire Mackintosh, <em>The Divine Rider in the Art of the Western Roman Empire</em>, British Archaeological Reports (Oxford, 1995), p. 11; pl. 1.
+                             </p>
+                                                      <p>
+                                              Marianne Bergmann, <em>Die Strahlen der Herrscher: Theomorphes Herrscherbild und politische Symolik im Hellenismus und in der römischen Kaiserzeit</em>, Verlag Philipp von Zabern (Mainz, 1998), p. 80; pl. 15.6.
+                             </p>
+                                                      <p>
+                                              Brunilde S. Ridgway, <em>Hellenistic Sculpture Vol. 1</em>, University of Wisconsin Press (2001), pp. 115 and 139-40 n.14.
+                             </p>
+                                                      <p>
+                                              Paolo Moreno, <em>Alessandro Magno: Immagini come storia</em>, Istituto poligrafico e Zecca dello Stato Libreria dello Stato (Rome, 2004), p. 187-89, fig. 287.
+                             </p>
+                                                      <p>
+                                              Dimitris Pandermalis, <em>Alexander the Great: Treasures from an Epic Era of Hellenism</em>, Alexander S. Onassis Public Benefit Foundation (New York, NY, 2004), p. 27, no. 6 (fig.).
+                             </p>
+                                                      <p>
+                                              Carol C. Mattusch, "Artists and Workshops: The Craft and the Product", <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, ed. Susanne Ebbinghaus, Harvard Art Museums (Cambridge, MA, 2014), 112-31, pp. 116-17, fig. 5.1.
+                             </p>
+                                                      <p>
+                                              Susanne Ebbinghaus, ed., <em>Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes</em>, Harvard Art Museum/Yale University Press (Cambridge, MA, 2014), pp. 116-117, fig. 5.1
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Ancient Art in American Private Collections</em>, Fogg Art Museum, 12/28/1954 - 02/15/1955
+                            </p>
+                          <p>
+                              <em>Alexander the Great: His Influence from Antiquity to Modern Times</em>, Archaeological Museum of Thessaloniki
+                            </p>
+                          <p>
+                              <em>The Search for Alexander</em>, National Gallery of Art, Washington, 11/16/1980 - 04/05/1981; The Art Institute of Chicago, Chicago, 05/14/1981 - 09/07/1981; Museum of Fine Arts, Boston, 10/23/1981 - 01/10/1982; California Palace of the Legion of Honor, San Francisco, 02/19/1982 - 05/16/1982; New Orleans Museum of Art, 06/24/1982 - 09/19/1982; The Metropolitan Museum of Art, 10/30/1982 - 02/20/1983; Royal Ontario Museum, 03/05/1983 - 07/10/1983
+                            </p>
+                          <p>
+                              <em>Alexander the Great: Treasures from an Epic Era of Hellenism</em>, Alexander S. Onassis Public Benefit Foundation, New York, 12/08/2004 - 05/28/2005
+                            </p>
+                          <p>
+                              <em>Re-View: S422 (Ancient rotation) "The Scholar as Collector: Margarete Bieber (1879-1978)"</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 02/15/2011 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>32Q: 3200 West Arcade</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Ancient Bronzes</p>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of Asian and Mediterranean Art at <a href="mailto:am_asianmediterranean@harvard.edu"><span>am_asianmediterranean@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:DDC250046_dynmc?width=200&height=200" alt="Alexander The Great">
+                <span class="popup__artwork-info-id">1956.20</span>
+        <span class="popup__artwork-info-author">
+                  </span>
+        <span class="popup__artwork-info-title">Alexander the Great</span>
+        <span class="popup__artwork-info-class">Sculpture</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20312306%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312306">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312306" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Alexander+the+Great+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F312306" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/312306" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_efd94bc0ccfe9644965ca0cc2dbd1d80" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

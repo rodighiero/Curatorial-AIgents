@@ -1,0 +1,727 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections A Sea-Spell </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections A Sea-Spell" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/230614"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51191_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" A Sea-Spell" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17386496" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51191_dynmc?width=3000&height=3000" data-initial-image-id="17386496" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?230614" data-behavior="add_to_collection tooltip" data-artwork="230614" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=230614&amp;image_id=51191" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/230614/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="51191">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51191_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="A Sea-Spell" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17386496" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51191_dynmc?width=125&height=125" alt="A Sea-Spell">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="37580">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:VRS37580_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="Dante Gabriel Rossetti"  title="A Sea-Spell" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="20863799" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:VRS37580_dynmc?width=125&height=125" alt="A Sea-Spell">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>A Sea-Spell was painted for Rossetti’s patron Frederick Leyland, a ship magnate who owned a large number of paintings by the artist. Rossetti first planned to illustrate lines from Coleridge’s poem Kubla Khan — “A damsel with a dulcimer / In a vision once I saw” — but the subject was ultimately derived from his own poem, inscribed on the frame that he designed. The musician’s “lashing fingers weave the sweet-strung spell” of the siren, a mythological figure whose voice lures sailors to their deaths. Although sirens were traditionally described as women with the bodies or heads of birds, Rossetti’s enchantress retains her human form. The artist evokes all of the senses in his lushly claustrophobic canvas; the siren’s dreamy mien suggests that she, too, has been bewitched by the music and by the fragrance of the surrounding flowers. The subject of the dangerous woman, or “femme fatale,” flourished in the nineteenth century.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1939.92</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/28374>Dante Gabriel Rossetti</a>, British                                                                                                                                                                                                                                                                          (London, England 1828 - 1882 Birchington-on-Sea, England)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>A Sea-Spell</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1875-1877</dd>
+                                                                <dt>Culture</dt>
+                <dd>British</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/230614">https://hvrd.art/o/230614</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2130, European and American Art, 17th–19th century, The Pre–Raphaelites and Their Legacy<br>
+            <a href="/visit/floor-plan/2?gallery=2130" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>111.5 x 93 cm (43 7/8 x 36 5/8 in.)<br />
+framed: 142.2 x 122.6 x 8.9 cm (56 x 48 1/4 x 3 1/2 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: l.l.: D. G. Rossetti 1877
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          label: backing board, paper, handwritten: A Sea Spell painted in oil by Dante G. Rossetti / N.B.-- The Copyright of this Picture is the exclusive property of the Artist.
+                        </li>
+                                              <li data-a="2">
+                          label: backing board, paper, printed and handwritten: [printed:] Scott & Fowles / 667 Fifth Ave / New York / No. [handwritten:] 728
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Frederick R. Leyland (acquired from the artist?) sold; [Christie, Manson & Wood, London, May 28, 1892, lot 51]; to [Tooth]. T. F. Wigley. David Croal Thomson. William Hulme, Viscount Leverhulme, sold; [Anderson Galleries, New York, February 17-19, 1926, lot 238, repr.]; to [Scott & Fowles, New York] sold; to Grenville L. Winthrop, 1935, gift; to Fogg Art Museum, 1939<br />
+</dd>
+        
+                <dt>State, Edition, Standard Reference Number</dt>
+        <dd>
+          <dl>
+            
+            
+                          <dt>Standard Reference Number</dt>
+              <dd>Surtees 248</dd>
+            
+          </dl>
+        </dd>
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Gift of Grenville L. Winthrop, Class of 1886</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1939</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1939.92</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                                      <dd>THIS WORK MAY NOT BE LENT BY THE TERMS OF ITS ACQUISITION TO THE HARVARD ART MUSEUMS.</dd>
+                   		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              William Sharp, <em>Dante Gabriel Rossetti</em>, Macmillan and Co. (London, England, 1882), pp. 228, 244-246; no. 273 in chronology
+                             </p>
+                                                      <p>
+                                              Frederic George Stephens, <em>Dante Gabriel Rossetti</em>, Seeley (London, England, 1894), p. 92
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Dante Gabriel Rossetti: An Illustrated Memorial of His Art and Life</em>, George Bell & Sons (London, 1899), p. 191, no. 283, repr. opp. p. 195
+                             </p>
+                                                      <p>
+                                              Dante Gabriel Rossetti, <em>Pictures & Poems</em>, ed. Fitz Roy Carrington, R. H. Russell (New York, NY, 1899), repr. in b/w
+                             </p>
+                                                      <p>
+                                              Elisabeth Luther Cary, <em>The Rossettis: Dante Gabriel and Christina</em>, G. P. Putnam's Sons (London, England, 1900), no. 183 in chronological list, p. 295
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Dante Gabriel Rossetti, an illustrated memorial of his art and life</em>, George Bell and Sons, Ltd. (London, England, 1904), pp. 72, 119, 136, 137; no. 364 in chronology
+                             </p>
+                                                      <p>
+                                              Jarno Jessen, <em>Rossetti</em>, Velhagen und Klassing (Bielefeld and Leipzig, Germany, 1905), p. 88, fig. 66
+                             </p>
+                                                      <p>
+                                              Henry Currie Marillier, <em>Rossetti</em>, George Bell and Sons, Ltd. (London, England, 1906), p. 93
+                             </p>
+                                                      <p>
+                                              Ernest Radford, <em>Dante Gabriel Rossetti</em>, G. Newnes Ltd. (London, England, 1908), repr. in b/w as pl. 52
+                             </p>
+                                                      <p>
+                                              Hippolyte Mireur, <em>Dictionnaire des ventes d’art faites en France et à l’Etranger pendant les XVIIIme & XIXme siècles</em>, Souillé (Paris, 1911-1912), vol. VI
+                             </p>
+                                                      <p>
+                                              <em>Chefs-d'oeuvre de D. G. Rossetti</em>, A. Perche (Paris, France, 1912), repr. in b/w p. 58
+                             </p>
+                                                      <p>
+                                              <em>Masterpieces of D. G. Rossetti</em>, Gowans & Gray, Ltd. (London, England, 1923), repr. in b/w p. 58
+                             </p>
+                                                      <p>
+                                              "Leverhulme Sales Close to $1,000,000, <em>New York Times</em> (February 20, 1926), p. 12
+                             </p>
+                                                      <p>
+                                              "Gift of Grenville L. Winthrop, Class of 1886", <em>Bulletin of the Fogg Art Museum</em>, ed. Edward Waldo Forbes, Fogg Art Museum (Cambridge, 1939), vol. 9, no. 1, November, p. 19, p. 19, repr.
+                             </p>
+                                                      <p>
+                                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, exh. cat., Fogg Art Museum (Cambridge, MA, 1946), no. 84
+                             </p>
+                                                      <p>
+                                              Virginia Surtees, <em>The Paintings and Drawings of Dante Gabriel Rossetti (1828-1882): A Catalogue Raisonné</em>, The Clarendon Press (Oxford, England, 1971), no. 248
+                             </p>
+                                                      <p>
+                                              Marina Henderson, <em>D. G. Rossetti</em>, Academy Editions/St. Martin's Press (London, England and New York, NY, 1973), p. 101, text p. 100
+                             </p>
+                                                      <p>
+                                              Helene E. Roberts, "The Dream World of Dante Gabriel Rossetti", <em>Victorian Studies</em> (June 1974), vol. XVII, no. 4, text p. 376, plate 4, p. 383
+                             </p>
+                                                      <p>
+                                              Gail Lynn Goldberg, "Composition and Correspondence: Rossetti's Sea-Spell Pair", <em>Bulletin of Research in the Humanities</em>, New York Public Library (New York, NY, Summer 1982), pp. 190-207, repr. in b/w p. 201
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti</em>, Casa Editrice G. C. Sansoni (Florence, Italy, 1984), no. 484, pl. 74
+                             </p>
+                                                      <p>
+                                              [Reproduction only], Yeats and the Visual Arts, Rutgers University Press (Rutgers, NJ, 1986)., repr. on cover
+                             </p>
+                                                      <p>
+                                              Theresa Byington, "A Technical Study of Five Oil Paintings by Dante Gabriel Rossetti in the Collection of the Fogg Art Museum" (thesis (certificate in conservation), Straus Center for Conservation and Technical Studies, 1987), Unpublished, passim
+                             </p>
+                                                      <p>
+                                              Alicia Craig Faxon, <em>Dante Gabriel Rossetti</em>, Abbeville Press (New York, NY, 1989), repr. in color p. 16 as pl. 5
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 128, repr. as no. 72
+                             </p>
+                                                      <p>
+                                              Kirsten Hoving Powell, "Object, Symbol, and Metaphor: Rossetti's Musical Imagery", <em>Journal of Pre-Raphaelite Studies</em> (Spring 1993), n.s., 2, pp. 16-29, pp. 16, 20, 22
+                             </p>
+                                                      <p>
+                                              Maria Teresa Benedetti, <em>Dante Gabriel Rossetti</em>, Charta (Milan, 1998), no. 484, pl. 74
+                             </p>
+                                                      <p>
+                                              Chikashi Kitazaki and Mina Oya, ed., <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, exh. cat., National Museum of Western Art (Ueno, 2002), pp. 158-159, cat. #45, color repr.
+                             </p>
+                                                      <p>
+                                              Kunst og Kultur, Universitetsforlaget (2003), no. 1, 2003, Argang 86, pp. 14-15, repr on p 15.
+                             </p>
+                                                      <p>
+                                              Stephen Wildman, <em>Waking Dreams: The Art of the Pre-Raphaelites from the Delaware Art Museum</em>, exh. cat., Art Services International (Alexandria, Virginia, 2004), p. 196, note 2
+                             </p>
+                                                      <p>
+                                              Henry Johnson, "Dante Gabriel Rossetti and Japan: The Musical Instrument Depicted in 'The Blue Bower' and 'A Sea-Spell'", <em>Music in Art</em> (Spring-Fall 2005), vol. XXX, no. 1-2, pp. 145-153, pp. 145-153, repr. as fig. 2
+                             </p>
+                                                      <p>
+                                              Richard Wendorf, <em>After Sir Joshua: Essays on British Art and Cultural History</em>, Yale University Press (New Haven and London, 2005), pp. 78, 92, 97
+                             </p>
+                                                      <p>
+                                              Linda Phyllis Austern, "Teach me to Heare Mermaides Singing", <em>Music of the Sirens</em>, Indiana University Press (Bloomington, IN, 2006), pp. 75, 78, ill. p. 77.
+                             </p>
+                                                      <p>
+                               <em>Poetry and the Frame: Rossetti's The Blessed Damozel and its Altarpiece Setting</em>, website, The Frame Blog, accessed June 7, 2013
+                                            </p>
+                                                      <p>
+                                              <em>The Poetic World of the Pre-Raphaelites: New Translations</em>, Tsentr knigi Rudomino (Moscow, 2013), repr. in color pp. 167-168
+                             </p>
+                                                      <p>
+                                              Linda Gertner Zatlin, <em>Aubrey Beardsley: A Catalogue Raisonné</em>, Yale University Press (U.S.) (New Haven and London, 2016), vol. 1, p. 139
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>Pictures, Drawings, Designs and Studies by the Late Dante Gabriel Rossetti</em>, Burlington Fine Arts Club, London, 01/01/1883 - 12/31/1883
+                            </p>
+                          <p>
+                              <em>Paintings and Drawings of the Pre-Raphaelites and their Circle</em>, Fogg Art Museum, Cambridge, 04/08/1946 - 06/01/1946
+                            </p>
+                          <p>
+                              <em>Dante Gabriel Rossetti and his Circle</em>, University of Kansas Museum of Art, Lawrence, 11/04/1958 - 12/15/1958
+                            </p>
+                          <p>
+                              <em>Pre-Raphaelite and Early French Symbolist Art in the Fogg Collections</em>, Fogg Art Museum, Cambridge, 01/16/1973 - 02/25/1973
+                            </p>
+                          <p>
+                              <em>The Pre-Raphaelites: Selections from the Permanent Collection</em>, Fogg Art Museum, Cambridge, 06/04/1980 - 07/15/1980
+                            </p>
+                          <p>
+                              <em>Dante Gabriel Rossetti: A Centennial Exhibition from the Harvard Collections</em>, Fogg Art Museum, Cambridge, 07/12/1982 - 09/11/1982
+                            </p>
+                          <p>
+                              <em>Paintings by Dante Gabriel Rossetti: A Technical Study</em>, Harvard University Art Museums, Cambridge, 07/24/1987 - 09/18/1987
+                            </p>
+                          <p>
+                              <em>Between Reality and Dreams: Nineteenth Century British and French Art from the Winthrop Collection of the Fogg Art Museum</em>, National Museum of Western Art, Tokyo, 09/14/2002 - 12/08/2002
+                            </p>
+                          <p>
+                              <em>For Students of Art and Lovers of Beauty: Highlights from the Collection of Grenville L. Winthrop</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 04/16/2004
+                            </p>
+                          <p>
+                              <em>32Q: 2130 19th Century</em>, Harvard Art Museums, 11/16/2014 - 01/01/2050
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347645">
+                                        <img src="/assets/images/no_image.png" alt="No Image">
+                                    <span class="related-artwork__obj">Straus.8152</span>
+                                      <h4 class="related-artwork__artist">Artist of original: Dante Gabriel Rossetti</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "A Sea Spell"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:51191_dynmc?width=200&height=200" alt="A Sea-Spell">
+                <span class="popup__artwork-info-id">1939.92</span>
+        <span class="popup__artwork-info-author">
+                                    Dante Gabriel Rossetti
+                              </span>
+        <span class="popup__artwork-info-title">A Sea-Spell</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20230614%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230614">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230614" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=A+Sea-Spell+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F230614" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/230614" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_dd11471f3fec114d75e25cae53b7a98b" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

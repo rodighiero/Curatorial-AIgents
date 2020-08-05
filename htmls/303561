@@ -1,0 +1,805 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Jeanne-Antoinette Poisson, Marquise de Pompadour </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Jeanne-Antoinette Poisson, Marquise de Pompadour" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/303561"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:51366_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Jeanne-Antoinette Poisson, Marquise de Pompadour" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork  hero-artwork--has-thumbs " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_17386653" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:51366_dynmc?width=3000&height=3000" data-initial-image-id="17386653" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?303561" data-behavior="add_to_collection tooltip" data-artwork="303561" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=303561&amp;image_id=51366" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/303561/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+              <div class="slideshow-thumbs">
+          <div class="slideshow-thumbs__thumbs" data-behavior="carousel_thumbs">
+            <ul class="slides">
+                              <li data-gallery-item="image" data-renditionnumber="51366">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:51366_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="François Boucher"  title="Jeanne-Antoinette Poisson, Marquise De Pompadour" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="17386653" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:51366_dynmc?width=125&height=125" alt="Jeanne-Antoinette Poisson, Marquise De Pompadour">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="LEG259401">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:LEG259401?width=3000&height=3000" data-zoom-enabled="1" data-people="François Boucher"  title="Jeanne-Antoinette Poisson, Marquise De Pompadour" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="420781173" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:LEG259401?width=125&height=125" alt="Jeanne-Antoinette Poisson, Marquise De Pompadour">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="10577">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:10577_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="François Boucher"  title="Jeanne-Antoinette Poisson, Marquise De Pompadour" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181265" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:10577_dynmc?width=125&height=125" alt="Jeanne-Antoinette Poisson, Marquise De Pompadour">
+                    </a>
+                  </div>
+                </li>
+                              <li data-gallery-item="image" data-renditionnumber="20028">
+                  <div>
+                    <a href="https://nrs.harvard.edu/urn-3:HUAM:20028_dynmc?width=3000&height=3000" data-zoom-enabled="1" data-people="François Boucher"  title="Jeanne-Antoinette Poisson, Marquise De Pompadour" data-object-caption="" data-object-copyright="President and Fellows of Harvard College" data-image-id="43181886" class="openseadragon__thumb">
+                      <img  src="https://nrs.harvard.edu/urn-3:HUAM:20028_dynmc?width=125&height=125" alt="Jeanne-Antoinette Poisson, Marquise De Pompadour">
+                    </a>
+                  </div>
+                </li>
+              
+
+                          </ul>
+          </div>
+        </div>
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+              <dl class="specification-list">
+        <dt>Gallery Text</dt>
+        <dd>
+        <dl>
+        <dt> </dt>
+        <dl><p>This likeness of the marquise de Pompadour (1721–1764) was originally painted as a rectangular bust-length portrait for her brother, Abel-François Poisson, marquis de Marigny. After being damaged in transit, the portrait was extended on all sides, most likely by Boucher himself, and transformed to portray the marquise at her dressing table. The depiction of the mirror was changed from silver to green lacquer around 1759, when many courtiers surrendered their precious metals to support the war against Britain. About a decade later, the canvas may have been reshaped into an oval to suit contemporary taste.</p>
+<p>Pompadour was the official mistress of Louis XV beginning in 1745. The king’s portrait on her wrist decorously signifies that bond. The signature and date of 1758 found above the chair are much later additions.</p></dl>
+</dt></dl></dd></dl>
+
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1966.47</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/29169>François Boucher</a>, French                                                                                                                                                                                                                                                                          (Paris 1703 - 1770 Paris)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Jeanne-Antoinette Poisson, Marquise de Pompadour</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Paintings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            painting                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1750, with later additions</dd>
+                                                                <dt>Culture</dt>
+                <dd>French</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/303561">https://hvrd.art/o/303561</a></dd>
+          </dl>
+        </dd>
+
+                  <dt>Location</dt>
+          <dd>
+            Level 2, Room 2220, European and American Art, 17th–19th century, Rococo and Neoclassicism in the Eighteenth Century<br>
+            <a href="/visit/floor-plan/2?gallery=2220" class="specification-list__map-link">
+              <!--[if gt IE 8]><!-->
+                <svg xmlns="http://www.w3.org/2000/svg" width="11" height="17">
+                  <path class="svg-fill" d="M5.401-.149c-3.038 0-5.5 2.461-5.5 5.497 0 4.616 5.5 11.503 5.5 11.503s5.5-6.887 5.5-11.503c0-3.036-2.463-5.497-5.5-5.497zm-.018 7.7c-1.194 0-2.164-.968-2.164-2.163 0-1.194.97-2.163 2.164-2.163 1.196 0 2.165.968 2.165 2.163-.001 1.195-.969 2.163-2.165 2.163z"/>
+                </svg>
+              <!--<![endif]-->
+              <span>View this object's location on our interactive map</span>
+            </a>
+          </dd>
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Oil on canvas</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>81.2 × 64.9 cm (31 15/16 × 25 9/16 in.)<br />
+frame: 99.8 x 84.5 cm (39 5/16 x 33 1/4 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                    
+                                                                  <li data-a="2">
+                          inscription: left: f Boucher / 1758
+                        </li>
+                                              <li data-a="2">
+                          label: verso, middle stretcher bar, top, round, stamped in black ink: 136
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, middle stretcher bar, black ink?: [two rows of illegible text]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, right corner of painting, slightly under canvas, red chalk: A20
+                        </li>
+                                              <li data-a="2">
+                          label: verso, bottom of frame, rectangular, black ink, handwritten: 571
+                        </li>
+                                              <li data-a="2">
+                          label: verso, top of frame, rectangle, printed text: [cut off]  / CHENUS, EMBALLEUR / 5, Rue de la [?] Terrasse - PARIS (17e A) / R. C. Seine 27022 / Nom [handwritten:] H [?] 230 / [cutoff] ED
+                        </li>
+                                              <li data-a="2">
+                          label: verso, top of frame, rectangle without corners, blue bordered, printed text: CHENUE / EMBALLAGE TRANSPORTS / [handwritten:] [illegible text, graphite] / 3, Rue de la Terrasse, PARIS
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, top of round stretcher, stamped, black ink: 6
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>Jeanne-Antoinette Poisson, Marquise de Pompadour, gift; to her brother, M de Vandières, later the Marquis de Marigny (by 1781). [Anonymous sale, Maciet and Haro, March 15, 1875,  lot 11].  Baron Salomon Albert Anselm de Rothschild, Vienna, (c. 1920s), by descent; to his son Baron Louis de Rothschild, Vienna, sold; through [Wildenstein & Co., Paris]; to Baron Maurice de Rothschild, Pregny, Switzerland, (? - until 1952) sold; through [Rosenberg & Stiebel, New York (1952-1953) sold]; to Charles E. Dunlap (1953-1966), gift; to Fogg Art Museum, 1966.<br />
+<br />
+<br />
+Notes:<br />
+<br />
+Much of the Louis de Rothschild collection was confiscated during World War II and recuperated afterwards.</dd>
+        
+        
+        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Bequest of Charles E. Dunlap</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1966</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1966.47</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              Denys Sutton, <em>François Boucher: A Loan Exhibition for the Benefit of the New York Botanical Garden</em>, exh. cat., Wildenstein & Company (New York, 1980), cat. no. 24, p. 42, fig. 24, repr.
+                             </p>
+                                                      <p>
+                                              Georges Brunel, <em>Boucher</em>, Trefoil Books (London, 1986), p. 245
+                             </p>
+                                                      <p>
+                                              Elise Goodman-Soellner, "Boucher's Madame de Pompadour at her toilette", <em>Simiolus</em>, Foundation for Dutch Art-Historical Publications (Apeldoorn, The Netherlands, 1987), vol. 17, no. 1, pp. 41-58, p. 43, repr. in b/w
+                             </p>
+                                                      <p>
+                                              Donald Posner, "Mme. de Pompadour as a Patron of the Visual Arts", <em>The Art Bulletin</em>, College Art Association of America (New York, NY, March 1990), vol. LXXII, no. 1, pp. 74-105, pp. 102-3, repr. in b/w as no. 21
+                             </p>
+                                                      <p>
+                                              Edgar Peters Bowron, <em>European Paintings Before 1900 in the Fogg Art Museum: A Summary Catalogue including Paintings in the Busch-Reisinger Museum</em>, Harvard University Art Museums (Cambridge, MA, 1990), p. 57, color plate; pp. 99,  215, repr. b/w cat. no. 240
+                             </p>
+                                                      <p>
+                                              Richard Rand, <em>Intimate Encounters: Love and Domesticity in Eighteenth-century France</em>, exh. cat., Princeton University Press (Princeton, NJ, 1997), repr. p. 114 as fig. 44, under no. 13
+                             </p>
+                                                      <p>
+                               Harvard University Art Museums, <em>Masterpieces of world art : Fogg Art Museum, Arthur M. Sackler Museum, Busch-Reisinger Museum</em>, 1997
+                                            </p>
+                                                      <p>
+                                              Helene E. Roberts, ed., <em>Encyclopedia of Comparative Iconography</em>, Fitzroy Dearborn Publishers (Chicago, 1998), p. 325; repr. in b/w p. 322
+                             </p>
+                                                      <p>
+                                              <em>Makeup! Aus der Geschichte der dekorativen Kosmetik</em>, Druck Verlag Kettler (Bönen, Germany, 1998), repr. in color p. 108
+                             </p>
+                                                      <p>
+                                              Melissa Hyde, "The "Makeup" of the Marquise: Boucher's Portrait of Pompadour at Her Toilette", <em>The Art Bulletin</em>, College Art Association of America (New York, NY, September 2000), vol. LXXXII, no. 3, pp. 454-475, repr. in color, p. 454 and on cover
+                             </p>
+                                                      <p>
+                                              Elise Goodman, <em>The Portraits of Madame de Pompadour: celebrating the femme savant</em>, University of California Press (Berkeley, CA, 2000), repr. as plate 1
+                             </p>
+                                                      <p>
+                                              Angela Rosenthal, "Die Kunst des Errötens. Zur Kosmetik rassischer Differenz", <em>Das Subjekt und die Anderen: Interkulturalität und Geschlechterdifferenz vom 18</em>, ed. Herbert Uerlings, Erich Schmidt Verlag (Berlin, 2001), 16, pp. 95-110; repr. in b/w p. 117, abb. 7
+                             </p>
+                                                      <p>
+                                              Ewa Lajer-Burcharth, "Pompadour's Touch:  Difference in Representation", <em>Representations</em>, The Regents of the University of California (Berkeley, CA, Winter 2001), no. 73, pp. 54-88, pp. 70-80; repr. in color as fig. 10, details repr. as figs. 13 and 15
+                             </p>
+                                                      <p>
+                                              Susan Griffin, <em>The Book of the Courtesans</em>, Broadway Books (New York, NY, 2001), pp. 176-177, repr. p. 158
+                             </p>
+                                                      <p>
+                                              John Rogister, "Imperial Decorator at Work", <em>The Times Literary Supplement</em> (New York, NY, November 15, 2002), no. 5198, pp. 18-19, p. 19
+                             </p>
+                                                      <p>
+                                              Alden Rand Gordon and Teri Hensick, "The Picture Within the Picture: Boucher's 1750 'Portrait of Madame de Pompadour' Identified", <em>Apollo</em> (February 2002), pp. 21-30, pp. 21-30; repr. as fig. 1
+                             </p>
+                                                      <p>
+                                              Xavier Salmon, <em>Madame de Pompadour et les Arts</em>, exh. cat., Réunion des Musées Nationaux (Paris, France, 2002), no. 30, repr. in color, pp. 152-154
+                             </p>
+                                                      <p>
+                                              Prof. Colin Jones, <em>Madame de Pompadour: Images of a Mistress</em>, exh. cat., National Gallery Company Limited (London, 2002), pp. 78-81, repr. in color, p. 79; details repr. pp. 2, 81
+                             </p>
+                                                      <p>
+                                              Christine Pevitt Algrant, <em>Madame de Pompadour: Mistress of France</em>, Grove Press (New York, NY, 2002), repr. in color on cover
+                             </p>
+                                                      <p>
+                                              Yves Carlier, "Details of the Toilet Service of the Duchesse de Cadaval", <em>Bulletin of the Detroit Institute of Arts</em> (2004), vol. 78, no. 1/2, repr. as fig. 2, p. 6
+                             </p>
+                                                      <p>
+                                              June Wulff, "A Month of Events", <em>The Boston Globe</em> (December 18 2005), p. N10, repr. p. N10
+                             </p>
+                                                      <p>
+                                              "The Fogg's French Finery", <em>Museums Boston</em> (Fall 2005-Winter 2006), p. 19, p. 19, repr., and repr. on cover
+                             </p>
+                                                      <p>
+                                              "The French Collection", <em>The Boston Globe</em> (December 19 2005), repr. on cover of "Sidekick" section
+                             </p>
+                                                      <p>
+                                              Alvin L. Clark, Jr., <em>"To Delight the Eye": French Drawings and Paintings from the Collection of Charles E. Dunlap</em>, exh. cat., Harvard University Art Museums (Cambridge, 2005), repr. in color p. 2 as fig. 1; checklist no. 1, p. 11
+                             </p>
+                                                      <p>
+                                              Sally Pointer, <em>The Artifice of Beauty: A History and Practical Guide to Perfumes and Cosmetics</em>, Sutton Publishing Ltd. (Gloucestershire, England, 2005), p. 115; repr. in color p. 116
+                             </p>
+                                                      <p>
+                                              "To Delight the Eye: French Drawings and Paintings from the Collection of Charles E. Dunlap", <em>Journal of the Print World</em> (Winter 2006), p. 18
+                             </p>
+                                                      <p>
+                                              Harold Koda and Andrew Bolton, <em>Dangerous Liaisons</em>, Metropolitan Museum of Art / Yale University Press (New York, 2006), ill. p. 37
+                             </p>
+                                                      <p>
+                                              Melissa Hyde and Mark Ledbury, ed., <em>Rethinking Boucher</em>, Getty Research Institute (Los Angeles, 2006), detail on back cover
+                             </p>
+                                                      <p>
+                                              Stephan Wolohojian and Alvin L. Clark, Jr., <em>Harvard Art Museum/ Handbook</em>, ed. Stephan Wolohojian, Harvard Art Museum (Cambridge, 2008), p. 120, repr.
+                             </p>
+                                                      <p>
+                                              Susan Sidlauskas, <em>Cézanne's Other: The Portraits of Hortense</em>, University of California Press (Berkeley and Los Angeles, 2009), p. 23, fig. 7
+                             </p>
+                                                      <p>
+                                              Daniëlle O. Kisluk-Grosheide, "Inside the Box and Out", <em>The Magazine Antiques</em> (March-April 2011), pp. 124-131, p. 128, fig. 12
+                             </p>
+                                                      <p>
+                                              José de Los Llanos and Christiane Grégoire, <em>Boîtes en or et objets de vertu</em>, exh. cat., Paris-Musées (Paris, 2011), p. 28; repr. in color as fig. 7, p. 30
+                             </p>
+                                                      <p>
+                                              Eik Kahng, <em>Picasso and Braque: The Cubist Experiment 1910-1912</em>, exh. cat., Santa Barbara Museum of Art and Kimbell Art Museum (Santa Barbara, Fort Worth, 2011), p. 53, fig. 13, ill. (color)
+                             </p>
+                                                      <p>
+                                              Diana Scarisbrick, <em>Portrait Jewels: Opulence and Intimacy from the Medici to the Romanovs</em>, Thames and Hudson, Ltd. (London, 2011), pp.158, 159, 161, repr. p. 160 as fig. 173
+                             </p>
+                                                      <p>
+                                              Michael Glover, Great Works: Madame de Pompadour at Her Toilette, 1750-c1760 (81.2cm x 64.9cm), by François Boucher, <em>The Independent</em> (London, England, May 26, 2012), n.p., repr.
+                             </p>
+                                                      <p>
+                                              Jacoba de Jonge and Karen Van Godtsenhoven, <em>Living Fashion:  Women's Daily Wear 1750-1950 from the Jacoba de Jonge Collection</em>, exh. cat., Lannoo Publishers (Tielt, 2012), p. 59, reproduced
+                             </p>
+                                                      <p>
+                                              [Reproduction only], "In the Air: Madame de Pompadour", <em>T Magazine (New York Times)</em>, (August 21, 2016)., repr. p. 162
+                             </p>
+                                                      <p>
+                                              Spike Bucklow, <em>Red: The Art and Science of a Colour</em>, Reaktion Books (London, 2016), p. 16, fig. 2
+                             </p>
+                                                      <p>
+                                              Billy Sullivan, <em>Still Looking: Works 1969-2016</em>, Edition Patrick Frey (Zürich, 2016), pp. 267-268, repr. p. 267
+                             </p>
+                                                      <p>
+                               Jason Farago, "How a Love of French Art Helped Shape the American Republic", <em>The New York Times</em> (New York, June 15, 2017)
+                                            </p>
+                                                      <p>
+                                              [Reproduction only], "Museum News", <em>American Fine Art Magazine</em>, (May/June 2017)., repr. p. 30
+                             </p>
+                                                      <p>
+                                              Yuriko Jackall and Philippe Bordes, <em>America Collects Eighteenth-Century French Painting</em>, exh. cat., National Gallery of Art/Lund Humphries Publishers (Washington, DC, 2017), pp. 262, 300, pl. 4, repr. p. 150 (detail)
+                             </p>
+                                                      <p>
+                                              Frederick Ilchman, Thomas Michie, C. D. Dickerson III, and Esther Bell, ed., <em>Casanova: The Seduction of Europe</em>, exh. cat., MFA Publications (Boston, 2017), pp. 124, 307, repr. p. 4, repr. p. 122 as fig. 55
+                             </p>
+                                                      <p>
+                                              Anna Tabakhova, <em>Clasps: 4,000 Years of Fasteners in Jewellery</em>, Éditions Terracol (Paris, 2017), pp. 230-231, repr. p. 230, and 231, detail
+                             </p>
+                                                      <p>
+                                              Martine Chazal, <em>Scent and Symbolism: Perfumed Objects and Images</em>, exh. cat., Dixon Gallery and Gardens (Memphis, 2017), pp. 29-30, repr. p. 30 as fig.16
+                             </p>
+                                                      <p>
+                                              Alvin L. Clark, Jr., Francesco Buccella, Sonia Couturier, Marie-Anne Dupuy-Vachey, Melissa Hyde, Suzanne Folds McCullagh, Isabelle Mayer-Michalon, and Xavier Salmon, <em>Tradition & Transitions: Eighteenth-Century French Art from The Horvitz Collection</em>, exh. cat., ed. Alvin L. Clark, Jr., The Horvitz Collection (2017), pp. 436, 550-n.6
+                             </p>
+                                                      <p>
+                                              Cynthia Durcanin, "Casanova as Case Study: How Should Art Museums Present Problematic Aspects of the Past?", <em>ARTnews</em> (August 13, 2018), http://www.artnews.com/2018/08/13/casanova-case-study-art-museums-present-problematic-aspects-past/, accessed August 15, 2018
+                             </p>
+                                                      <p>
+                                              "Friendly Exchanges - Van Gogh and More", <em>Index Magazine</em> ([e-journal], May 30, 2018), https://www.harvardartmuseums.org/article/friendly-exchanges-van-gogh-and-more, accessed  August 15, 2018
+                             </p>
+                                    </dd>
+        
+                  <dt>Exhibition History</dt>
+          <dd>
+                          <p>
+                              <em>François Boucher: A Loan Exhibition for the Benefit of the New York Botanical Garden</em>, Wildenstein & Company, New York, 11/12/1980 - 12/19/1980
+                            </p>
+                          <p>
+                              <em>Madame de Pompadour et les Arts</em>, Musée National des châteaux de Versailles et de Trianon, 02/14/2002 - 05/19/2002; Kunsthalle der Hypo-Kulturstiftung, Munich, 06/14/2002 - 09/15/2002; National Gallery, London, 10/16/2002 - 01/12/2003
+                            </p>
+                          <p>
+                              <em>The Portrait</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 10/15/2004 - 01/09/2005
+                            </p>
+                          <p>
+                              <em>"To Delight the Eye": French Drawings and Paintings from the Collection of Charles E. Dunlap</em>, Harvard University Art Museums, Fogg Art Museum, Cambridge, 12/17/2005 - 03/12/2006
+                            </p>
+                          <p>
+                              <em>Re-View: S424-426  Western Art from 1560 to 1900</em>, Harvard Art Museums/Arthur M. Sackler Museum, Cambridge, 08/16/2008 - 06/18/2011
+                            </p>
+                          <p>
+                              <em>Ancient to Modern</em>, Harvard Art Museums, Cambridge, 01/31/2012 - 06/01/2013
+                            </p>
+                          <p>
+                              <em>32Q: 2220 18th-19th Century</em>, Harvard Art Museums, Cambridge, 11/16/2014 - 04/19/2017; Harvard Art Museums, Cambridge, 09/13/2017 - 05/09/2018; Harvard Art Museums, Cambridge, 11/14/2018 - 09/19/2019; Harvard Art Museums, Cambridge, 12/17/2019 - 01/01/2050
+                            </p>
+                          <p>
+                              <em>America Collects Eighteenth-Century French Painting</em>, National Gallery of Art, Washington, 05/21/2017 - 08/20/2017
+                            </p>
+                          <p>
+                              <em>Casanova's Europe: Art, Pleasure, and Power in the 18th Century</em>, Museum of Fine Arts, Boston, Boston, 07/08/2018 - 10/08/2018
+                            </p>
+                      </dd>
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Google Art Project</p>
+                          <p>Collection Highlights</p>
+                      </dd>
+        
+
+        
+                <dt>Related Works</dt>
+          <dd>
+            <ul class="related-artwork" data-behavior="dynamic_grid" data-ltr="true" data-selector=".related-artwork__item" data-sizer=".related-artwork__sizer">
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347537">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR007773_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "madame De Pompadour"">
+                                    <span class="related-artwork__obj">Straus.8044</span>
+                                      <h4 class="related-artwork__artist">Artist of original: François Boucher</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Madame de Pompadour"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347738">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR008723_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "jeannne-Antoinette Poisson, Marquise De Pompadour"">
+                                    <span class="related-artwork__obj">Straus.8245</span>
+                                      <h4 class="related-artwork__artist">Artist of original: François Boucher</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Jeannne-Antoinette Poisson, Marquise de Pompadour"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+                              <li class="related-artwork__item">
+                  <a href="https://www.harvardartmuseums.org/collections/object/347805">
+                                      <img  src="https://nrs.harvard.edu/urn-3:huam:STR009360_dynmc?width=3000&height=3000" alt="X-Radiograph(S) Of "madame De Pompadour"">
+                                    <span class="related-artwork__obj">Straus.8312</span>
+                                      <h4 class="related-artwork__artist">Artist of original: François Boucher</h4>
+                                                        <h3 class="related-artwork__title">X-radiograph(s) of "Madame de Pompadour"</h3>
+                                                        <span class="related-artwork__meta">Photographs</span>
+                                    </a>
+                </li>
+              
+              <li class="related-artwork__sizer"></li>
+            </ul>
+          </dd>
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:51366_dynmc?width=200&height=200" alt="Jeanne-Antoinette Poisson, Marquise De Pompadour">
+                <span class="popup__artwork-info-id">1966.47</span>
+        <span class="popup__artwork-info-author">
+                                    François Boucher
+                              </span>
+        <span class="popup__artwork-info-title">Jeanne-Antoinette Poisson, Marquise de Pompadour</span>
+        <span class="popup__artwork-info-class">Paintings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20303561%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303561">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303561" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Jeanne-Antoinette+Poisson%2C+Marquise+de+Pompadour+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F303561" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/303561" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_fbc1920e6da0bea56dd292c503c88651" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>

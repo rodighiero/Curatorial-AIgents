@@ -1,0 +1,643 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<title> From the Harvard Art Museums’ collections Wolf Hunt with Traps and Arquebus </title>
+
+<meta name="description" content= "Harvard Art Museums"  />
+<meta name="author" content= "Harvard"  />
+
+<meta name="csrf-token" content="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+<meta name="google-site-verification" content="AonJVO4VqTI3AQCTFE6zchDOHoK2Z1v0K3e_e63BY9k" />
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+<!-- Google Social Profiles -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Harvard Art Museums",
+  "url" : "http://www.harvardartmuseums.org",
+  "sameAs" : [
+    "http://www.facebook.com/harvardartmuseums",
+    "http://www.twitter.com/harvartmuseums",
+    "http://www.instagram.com/harvardartmuseums",
+    "http://www.flickr.com/photos/harvardartmuseum",
+    "http://vimeo.com/harvardartmuseums/channels",
+    "http://harvardartmuseumsdesign.tumblr.com",
+    "http://soundcloud.com/harvardartmuseums",
+    "http://www.pinterest.com/harvardartmus",
+    "http://plus.google.com/115442831826414404650"
+
+  ]
+}
+</script>
+
+<!-- Facebook OG metadata -->
+<meta property="og:title" content=" From the Harvard Art Museums’ collections Wolf Hunt with Traps and Arquebus" />
+<meta property="og:type" content=" website" />
+<meta property="og:url" content=" https://www.harvardartmuseums.org/collections/object/292454"/>
+<meta property="og:image" content=" https://nrs.harvard.edu/urn-3:HUAM:71273_dynmc?width=3000&amp;height=3000" />
+<meta property="og:description" content=" Wolf Hunt with Traps and Arquebus" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<!-- For Windows 8 -->
+<meta name="application-name" content="Harvard Art Museums"/>
+<meta name="msapplication-TileColor" content="#fff"/>
+<meta name="msapplication-TileImage" content="/assets/icons/win8-120.png"/>
+
+<!-- iOS / Android icons & favicon go in the site root -->
+
+<link rel="stylesheet" href="https://fonts.typotheque.com/WF-023797-007265.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/application.css" />
+
+  <style type="text/css">
+  .nav-secondary ul.opening-info,
+  .specification-list__map-link,
+  .specification-list__map-link:hover,
+  .sub-footer .footer-address,
+  .sub-footer .col.footer-opening-hours,
+  .detail-page--visit .today {
+    color: #ffc80a;
+  }
+  .sub-footer .clock .hr,
+  .sub-footer .clock .min {
+    background-color: #ffc80a;
+  }
+  .svg-fill {
+    fill: #ffc80a;
+  }
+  .svg-stroke {
+    stroke: #ffc80a;
+  }
+  </style>
+
+<script src="/assets/js/provider/js/libs/modernizr.js"></script>
+</head>
+<body>
+
+  <div id="artwork" class="artwork">
+    <header class="page-header" role="banner">
+      <h1 class="logo-small"><a href="/">Harvard Art Museums / Fogg Museum | Bush-Reisinger Museum | Arthur M. Sackler Museum</a></h1>
+
+      <a href="https://www.harvardartmuseums.org/collections" class="artwork__close">Close</a>
+    </header> <!-- / .page-header -->
+
+    <main role="main">
+        <article>
+    <header class="hero-artwork " data-artwork-wrapper data-behavior="captions">
+      <figure>
+        <div class="hero-artwork__image-wrapper">
+          <div class="hero-artwork__image-wrapper-inner">
+                                          
+                  <div class="osd__wrapper">
+                    <div class="osd" id="osd_18480880" data-behavior="openseadragon" data-element="container" data-initial-image-href="https://nrs.harvard.edu/urn-3:HUAM:71273_dynmc?width=3000&height=3000" data-initial-image-id="18480880" data-zoom-enabled="1"></div>
+                    <div class="osd__overlay"></div>
+                  </div>
+
+                  
+                                          
+                                            <figcaption class="hero-artwork__caption ">
+                                                        <span class="artwork__meta">&copy; President and Fellows of Harvard College</span>
+                                  </figcaption>
+                       </div>
+        </div>
+
+        <ul class="artwork-nav">
+                            </ul>
+
+        <div class="hero-artwork__loader"></div>
+      </figure>
+
+      <div class="toolbox" data-behavior="toolbox">
+        <ul>
+            <li><a href="https://www.harvardartmuseums.org/mycollection/add?292454" data-behavior="add_to_collection tooltip" data-artwork="292454" data-main-class="mfp-close--back"><i class="icn-plus-grey40"></i> <span>Add to Collection</span></a></li>
+                          <li>
+                <a href="https://www.harvardartmuseums.org/imagerequest?artwork_id=292454&amp;image_id=71273" data-behavior="lightbox_ajax tooltip" data-ajax-target=".image-request">
+                  <i class="icn-envelope-grey40"></i>
+                  <span>Order Image</span>
+                </a>
+              </li>
+                      <li>
+            <a href="#" data-behavior="modal tooltip" data-modal-src="#popup-share" data-modal-class="mfp-close--back">
+              <i class="icn-share-grey40"></i>
+              <span>Share</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.harvardartmuseums.org/collections/object/292454/pdf" class="toolbox__print" data-behavior="open_pdf">
+              <i class="icn-print-grey40"></i>
+              <span>PDF</span>
+            </a>
+          </li>
+          <li class="toolbox__download"><a href="#" target="_blank" data-behavior="tooltip" data-download="1" download><i class="icn-unpublish-grey40"></i> <span>Download</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="in" id="openseadragon-zoom-in"><i class="icn-zoom-in-grey40"></i> <span>Zoom In</span></a></li>
+          <li class="toolbox__zoom"><a href="#" data-behavior="tooltip" data-zoom="out" id="openseadragon-zoom-out"><i class="icn-zoom-out-grey40"></i> <span>Zoom Out</span></a></li>
+        </ul>
+      </div>
+
+      
+
+
+
+    </header>
+
+    <div class="artwork__inner">
+        
+
+<dl class="specification-list">
+
+        <dt>Identification and Creation</dt>
+        <dd>
+          <dl>
+            <dt>Object Number</dt>
+            <dd>1997.205</dd>
+
+                            <dt>People</dt>
+                <dd>
+                                                                 <a href=https://www.harvardartmuseums.org/collections/person/33968>Jan van der Straet</a>, Netherlandish                                                                                                                                                                                                                                                                          (Bruges, Belgium 1523 - 1605 Florence, Italy)
+                                            <br>
+                                    </dd>
+            
+                            <dt>Title</dt>
+                <dd>Wolf Hunt with Traps and Arquebus</dd>
+            
+                                                                                                            
+                            <dt>Classification</dt>
+                <dd>Drawings</dd>
+                                        <dt>Work Type</dt>
+                <dd>
+                                                            drawing                                                      </dd>
+                                        <dt>Date</dt>
+                <dd>1578-1580</dd>
+                                                                <dt>Culture</dt>
+                <dd>Netherlandish</dd>
+                            <dt>Persistent Link</dt>
+                <dd><a href="https://hvrd.art/o/292454">https://hvrd.art/o/292454</a></dd>
+          </dl>
+        </dd>
+
+        
+                <dt>Physical Descriptions</dt>
+        <dd>
+          <dl>
+                          <dt>Medium</dt>
+              <dd>Brown ink and white opaque watercolor over black chalk on cream antique laid paper, original partial framing line in brown ink</dd>
+            
+           
+           
+                          <dt>Dimensions</dt>
+              <dd>19.8 x 28.4 cm (7 13/16 x 11 3/16 in.)<br />
+mount: 21 x 29.4 cm (8 1/4 x 11 9/16 in.)</dd>
+            
+            
+            
+            
+            
+                          <dt>Inscriptions and Marks</dt>
+              <dd>
+                                  <ul class="unstyled-list">
+                                          <li data-a="1">
+                        Signed: lower left, brown ink: stradanus
+                      </li>
+                    
+                                                                  <li data-a="2">
+                          inscription: verso, upper left, graphite: 524
+                        </li>
+                                              <li data-a="2">
+                          collector's mark: verso, lower right, black ink, stamp: L. 370 (William A. Baillie-Grohman)
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, upper center, graphite: [illegible]
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: H002505/1/2
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, center, graphite: A. 18
+                        </li>
+                                              <li data-a="2">
+                          inscription: verso, lower left, graphite: VI
+                        </li>
+                                              <li data-a="2">
+                          inscription: primary mount, lower right, graphite: 4
+                        </li>
+                                              <li data-a="2">
+                          watermark: none visible
+                        </li>
+                                          
+                    
+                                      </ul>
+                              </dd>
+            
+          </dl>
+        </dd>
+        
+                  <dt>Provenance</dt>
+          <dd>[Bernard Quaritch, London] sold; to William A. Baillie-Grohman, London and Brixlegg, Tyrol (L. 370, verso, lower right), by descent; to Mrs. William A. Baillie Grohman, sold; [Sotheby's, London, 14 May 1923, part of lot 157-159]; to Charles Francis George Richard Schwerdt, sold; [Sotheby's, London, 10 July 1929, part of lot 1305]; to Marcel Jeanson, Paris, by descent to; his heirs, sold; [Sotheby's, Monaco, 1 March 1987, lot 524, repr.] [Christie's, Amsterdam, 14 November 1994, lot 18, repr.], sold; to Vermeer Associates Limited, Brampton, Ontario, sold; to Harvard University Art Museums, 1997; purchase through the generosity of Melvin R. Seiden and Janine Luke and an anonymous donor in honor of Lisbet and Joseph Koerner, 1997.205.<br />
+<br />
+NOTE: Marcel Jeanson's collection had been in storage in Paris from the time of his death in 1942 to the auction in 1987. Please see Rita Reif's article in the New York Times, "Auctions", 13 February 1987, pg. C23.<br />
+<br />
+</dd>
+        
+        
+                                    <dt>Published Text</dt>
+          <dd>
+              <dl>
+                                                  <dt>Catalogue</dt>
+                  <dd>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</dd>
+                  <dt>Authors</dt>
+                    <dd>
+
+
+                                                                                                                                              William W. Robinson and
+                                                                                                                                                    Susan Anderson
+                                                                                                            </dd>
+                    <dt>Publisher</dt>
+                      <dd>                                                                                                                                              Harvard Art Museums (Cambridge, MA, 2016)
+                                              </dd>
+                                                                                                  <p>Catalogue entry no. 84 by William W. Robinson:  </p>
+                    
+              <div class="entry-text">
+                <p>Jan van der Straet (Johannes Stradanus, Giovanni Stradano) studied with Pieter Aertsen in Antwerp for three years and joined the guild there in 1545. He soon left for Italy and, in 1548 or 1549, was engaged by the Arazzeria Medicea, the tapestry works in Florence, where he remained for most of the rest of his life as a versatile and prolific painter and designer of tapestries and prints. For two decades he worked under Giorgio Vasari, who supervised the Arazzeria. In 1561, the Medici grand duke Cosimo I commissioned a cycle of forty tapestries of hunting subjects to hang in twenty rooms of his villa at Poggio a Caiano. Only twenty-eight were produced, all from cartoons by Stradanus, between 1566 and 1577. About half of the tapestries have survived.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-1"><a href="#fn21039393055ef6643ee31c7-1">1</a></sup></p>
+
+<p>Soon after the weaving commenced, Stradanus began to collaborate with printmakers and publishers to introduce his designs for the hunts to an international clientele, an effort he pursued to the end of his life.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-2"><a href="#fn21039393055ef6643ee31c7-2">2</a></sup> In 1567, he made drawings after several of the tapestries or cartoons. Six of these served as models for Hieronymus Cock in Antwerp, who in 1570 published prints showing the tapestries with their borders.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-3"><a href="#fn21039393055ef6643ee31c7-3">3</a></sup> In 1574 and 1576, Cock’s widow, Volcxken Diericx, issued two additional sets of six plates each, also after drawings dated 1567, but without the borders.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-4"><a href="#fn21039393055ef6643ee31c7-4">4</a></sup> In the latter year, Stradanus left Florence, worked briefly in Naples, then returned to the Netherlands. In Antwerp from 1576 to 1578, he planned several projects with the engraver Philips Galle, who began to fill the void in the Antwerp print publishing business left by Cock’s death.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-5"><a href="#fn21039393055ef6643ee31c7-5">5</a></sup> The most ambitious and long-lived of these was a new series after Stradanus’s designs for the tapestries of hunts. From 1578 to 1580, Galle brought out a set comprising a title print and forty-three plates.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-6"><a href="#fn21039393055ef6643ee31c7-6">6</a></sup> The title includes a text by Stradanus, dated 1578, in which he explains that the engravings represent small versions of the models he made for the tapestries in the villa at Poggio a Caiano.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-7"><a href="#fn21039393055ef6643ee31c7-7">7</a></sup> Some prints in this series relate—if not always exactly—to tapestries that were actually woven, while others represent ideas that were never executed.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-8"><a href="#fn21039393055ef6643ee31c7-8">8</a></sup> Stradanus must have completed some of the drawings for this series before he returned to Italy, where he is documented in 1579.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-9"><a href="#fn21039393055ef6643ee31c7-9">9</a></sup> A greatly expanded suite of engravings issued by Galle after 1596 included the forty-three scenes published in 1578–80, plus sixty-one new hunting subjects. Many plates in this last series represent hunts not envisioned in the original program for Poggio a Caiano.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-10"><a href="#fn21039393055ef6643ee31c7-10">10</a></sup></p>
+
+<p>Drawings survive for the title and about three-quarters of the plates in Galle’s series of 1578–80.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-11"><a href="#fn21039393055ef6643ee31c7-11">11</a></sup> Several, like <em>Wolf Hunt with Traps and Arquebus</em>, were done primarily with the pen in brown ink, in most instances with additions in brown wash and/or white opaque watercolor. Others, in which Stradanus used pen and ink mainly for the contours, are more extensively shaded in brown, gray, or blue wash. All the drawings are highly finished, and nearly all correspond closely, in reverse, to the prints, but only about half were partially or extensively incised on the contours to transfer the design to the plate.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-12"><a href="#fn21039393055ef6643ee31c7-12">12</a></sup></p>
+
+<p>The Harvard drawing illustrates the hunting of wolves with traps, snares, and an arquebus. A horseman drags the carcass of a ram that has been cut open, so that the scent of the entrails will lure the prey to a location where rope snares have been set, a pit has been dug and covered with twigs, and a marksman with an arquebus has concealed himself in a tree. The Latin text in the margin beneath the related print reads in translation, “Thus the wolf is deceived by the bowels of the dead sheep or a short noose or a pit covered with leafy twigs” (Fig. 1).<sup class="footnote" id="fnrev21039393055ef6643ee31c7-13"><a href="#fn21039393055ef6643ee31c7-13">13</a></sup> The subject reprises that of a print in the series published by Volcxken Diericx in 1574, although the composition has been significantly revised (Fig. 2).<sup class="footnote" id="fnrev21039393055ef6643ee31c7-14"><a href="#fn21039393055ef6643ee31c7-14">14</a></sup> The 1574 print in turn conflates elements from two tapestries Stradanus designed for Poggio a Caiano: one, which survives, shows the trapping of wolves in a pit and with snares; the other, which is lost, depicted a horseman laying the scent with a sheep carcass to lure wolves into the range of a hunter’s gun.<sup class="footnote" id="fnrev21039393055ef6643ee31c7-15"><a href="#fn21039393055ef6643ee31c7-15">15</a></sup></p>
+
+<p><strong>Notes</strong></p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-1"><sup><a href="#fnrev21039393055ef6643ee31c7-1">1</a></sup> Marjolein Leesberg in <em>New Hollstein</em>, Johannes Stradanus, part 1, p. xxx. Alessandra Baroni in Alessandra Baroni and Manfred Sellink, <em>Stradanus, 1523–1605: Court Artist of the Medici</em> (Turnhout, Belgium, 2012), pp. 5–7; Lucia Meoni in idem, pp. 42 and 48–49.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-2"><sup><a href="#fnrev21039393055ef6643ee31c7-2">2</a></sup> Marjolein Leesberg in Baroni and Sellink, pp. 253–58.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-3"><sup><a href="#fnrev21039393055ef6643ee31c7-3">3</a></sup> Alessandra Baroni in Jan van der Stock, Joris van Grieken, and Ger Luijten, eds., <em>Hieronymus Cock: The Renaissance in Print</em> (Brussels: Royal Library; Leuven, Belgium: M-Museum Leuven; Paris: Fondation Custodia, 2013), cat. 45, pp. 190–95; Leesberg, Johannes Stradanus, part 1, p. xxxi; part 3, nos. 403–8, pp. 116–21. An undated drawing in Harvard’s collection (Van der Straet, <em>A Wild Boar Hunt</em>, <a href="https://www.harvardartmuseums.org/collections/object/194164?position=0">2004.96</a>) relates to one of the prints in this series; Leesberg in idem, part 3, no. 405, p. 117.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-4"><sup><a href="#fnrev21039393055ef6643ee31c7-4">4</a></sup> Leesberg, Johannes Stradanus, part 1, p. xxxi; part 3, nos. 409–14 (1574) and 415–20 (1576), pp. 122–32.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-5"><sup><a href="#fnrev21039393055ef6643ee31c7-5">5</a></sup> Leesberg, Johannes Stradanus, part 1, pp. xxxii–xxxix.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-6"><sup><a href="#fnrev21039393055ef6643ee31c7-6">6</a></sup> Ibid., p. xxxiv; part 3, nos. 421–64, pp. 133–74.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-7"><sup><a href="#fnrev21039393055ef6643ee31c7-7">7</a></sup> Ibid., part 1, p. xxxiv. Marjolein Leesberg in Baroni and Sellink, p. 255.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-8"><sup><a href="#fnrev21039393055ef6643ee31c7-8">8</a></sup> Leesberg, Johannes Stradanus, part 1, p. xxxiv; Leesberg, Baroni and Sellink 2012, p. 255.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-9"><sup><a href="#fnrev21039393055ef6643ee31c7-9">9</a></sup> Leesberg, Johannes Stradanus, part 1, p. xxxiv; Baroni and Sellink, p. 7.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-10"><sup><a href="#fnrev21039393055ef6643ee31c7-10">10</a></sup> Leesberg in Baroni and Sellink, p. 256.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-11"><sup><a href="#fnrev21039393055ef6643ee31c7-11">11</a></sup> Alessandra Baroni Vannucci, <em>Jan van der Straet detto Giovanni Stradano: Flandrus pictor et inventor</em> (Milan, 1997) (cats. 315–47, pp. 247–57) and Leesberg (Johannes Stradanus, part 3, under nos. 421–64, pp. 133–47) list drawings for the title and thirty-four plates.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-12"><sup><a href="#fnrev21039393055ef6643ee31c7-12">12</a></sup> Baroni Vannucci, cats. 315–47, pp. 247–57. One drawing is oriented, exceptionally, in the same direction as the related print but differs from it in several details, thus representing an intermediate stage in the design process. See idem, cat. 325, pp. 250–51; and Leesberg, Johannes Stradanus, part 3, under no. 434, p. 138.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-13"><sup><a href="#fnrev21039393055ef6643ee31c7-13">13</a></sup> Philips Galle, after Jan van der Straet, <em>Wolf Hunt with Traps and Arquebus</em> (Fig. 1) from the series <em>Venationes Ferarum, Avium, Piscium</em>, 1578–80. Engraving, 204 × 277 mm. London, British Museum, 1957,0413.92; Leesberg, Johannes Stradanus, part 3, no. 431, pp. 136–37. The Latin inscription reads, <em>Sic ovis occis[a]e lupus extis fallitur, arcto / Aut laqueo, aut tectis frondoso vimine fossis</em>; translation from Welmoet Bok-van Kammen, <em>Stradanus and the Hunt</em>, Ph.D. thesis, Johns Hopkins University (Baltimore, Maryland, 1977), under cat. Galle 50, p. 390.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-14"><sup><a href="#fnrev21039393055ef6643ee31c7-14">14</a></sup> Master <span class="caps">FLB</span>, after Jan van der Straet, <em>Wolf Hunt with Traps and Arquebus</em> (Fig. 2) from the <em>Hunting Scenes</em> series, 1574. Engraving. 219 × 302 mm. London, British Museum, F,1.162; Leesberg, Johannes Stradanus, part 3, no. 412, p. 123.</p>
+
+<p class="footnote" id="fn21039393055ef6643ee31c7-15"><sup><a href="#fnrev21039393055ef6643ee31c7-15">15</a></sup> Welmoet Bok-van Kammen notes the relationship between the two prints and the tapestries; see Bok-van Kammen, p. 28, and under cats. P. a C.19 and P. a C.20, pp. 203–8. For the related tapestries, see also Baroni Vannucci, cat. 683.7, pp. 349–52, repr. p. 350, fig. 683.7. She cites the lost tapestry <em>Wolf Hunt with Arquebus</em> on p. 352.</p>
+              </div>
+                            <strong>Figures</strong>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/292454/1.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 1 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Philips Galle, after Jan van der Straet, <em>Wolf Hunt with Traps and Arquebus</em>, from <em>Venationes Ferarum, Avium, Piscium</em> series</a></p>
+                  </div>
+                </div>
+              </div>
+                            <div class="figures">
+                <div class="entry-figure">
+                  <div class="entry-figure_image">
+                    <img src="https://s3.amazonaws.com/media.harvardartmuseums.org/production/hamcollections/5/292454/2.jpg">
+                  </div>
+                  <div class="entry-description">
+                  <p>Fig. 2 <a href="https://www.harvardartmuseums.org/tour/drawings-from-the-age-of-bruegel-rubens-and-rembrandt-the-complete-collection-online/slide/10047">Master <span class="caps">FLB</span>, after Jan van der Straet, <em>Wolf Hunt with Traps and Arquebus</em>, from <em>Hunting Scenes</em> series</a></p>
+                  </div>
+                </div>
+              </div>
+                                      </dl>
+                        
+        <dt>Acquisition and Rights</dt>
+        <dd>
+          <dl>
+                          <dt>Credit Line</dt>
+              <dd>Harvard Art Museums/Fogg Museum, Purchase through the generosity of Melvin R. Seiden and Janine Luke and an anonymous donor in honor of Lisbet and Joseph Koerner</dd>
+            
+            
+                          <dt>Accession Year</dt>
+              <dd>1997</dd>
+            
+            <dt>Object Number</dt>
+            <dd>1997.205</dd>
+
+                          <dt>Division</dt>
+              <dd>European and American Art</dd>
+            
+                          <dt>Contact</dt>
+              <dd><a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></dd>
+                               		  <dd>The Harvard Art Museums encourage the use of images found on this website for personal, noncommercial use, including educational and scholarly purposes. To request a higher resolution file of this image, please submit an <a href="https://www.harvardartmuseums.org/imagerequest"><span>online request.</span></a></dd>
+          </dl>
+        </dd>
+
+        
+                  <dt>Publication History</dt>
+          <dd>
+                                        <p>
+                                              <em>Catalogue of Manuscripts, chiefly illuminated, and remarkable as examples of antiquity, calligraphy and ornamentation, including also valuable texts: besides some Drawings and Separate Miniatures, and a few Autographs...</em>, auct. cat., Bernard Quaritch (London, 1886), no. 35768, pp. 3491-2
+                             </p>
+                                                      <p>
+                                              William A. Baillie-Grohman, <em>Sport in Art: An Iconography of Sport during Four Hundred Years from the Beginning of the Fifteenth to the End of the Eighteenth Centuries</em>, Ballantyne and Co. Ltd. (London, England, 1913), p. 119 (n. *)
+                             </p>
+                                                      <p>
+                                              Charles Francis George Richard Schwerdt, <em>Hunting, Hawking, Shooting, illustrated in a catalogue of books, manuscripts prints and drawings collected by C.F.G.R. Schwerdt</em>, Waterlow & Sons (priv. printed) (London, England, 1928), vol. 3, no. 6, p. 221
+                             </p>
+                                                      <p>
+                                              F. W. H. Hollstein, <em>The New Hollstein : Dutch & Flemish etchings, engravings, and woodcuts, 1450-1700</em>, Koninklijke van Poll, Rijksprentenkabinet, Rijksmuseum, and Sound + Vision Publishers (Roosendall, Rotterdam, and Ouderkerk aan den IJssel, 1993 - ongoing), vol. 18 (compiled by Marjolein Leesberg), part III, under no. 431, p. 137
+                             </p>
+                                                      <p>
+                                              Alessandra Baroni Vannucci, <em>Jan van der Straet detto Giovanni Stradano: Flandrus pictor et inventor</em>, Jandi Sapi (Milan, Italy, 1997), cat. no. 323, p. 250, repr.
+                             </p>
+                                                      <p>
+                                              Harvard University Art Museums, <em>Harvard University Art Museums Annual Report 1997-98</em> (Cambridge, MA, 1999), p. 22, repr. p. 23
+                             </p>
+                                                      <p>
+                                              William W. Robinson and Susan Anderson, <em>Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums</em>, Harvard Art Museums (Cambridge, MA, 2016), p. 18; cat. no. 84, pp. 281-283, repr. p. 282
+                             </p>
+                                    </dd>
+        
+        
+                  <dt>Subjects and Contexts</dt>
+          <dd>
+                          <p>Dutch, Flemish, & Netherlandish Drawings</p>
+                      </dd>
+        
+
+        
+      
+      
+        
+                          <dt> </dt>
+          <dd>
+                        <p>This record has been reviewed by the curatorial staff but may be incomplete. Our records are frequently revised and enhanced. For more information please contact the Division of European and American Art at <a href="mailto:am_europeanamerican@harvard.edu"><span>am_europeanamerican@harvard.edu</span></a></p>
+                        </dd>
+                      </dl>
+    </div>
+  </article>
+
+
+
+  <section id="popup-share" class="popup popup--share">
+    <div class="popup__inner">
+      <span class="popup__title">Share</span>
+
+      <div class="popup__artwork-info">
+                  <img  src="https://nrs.harvard.edu/urn-3:HUAM:71273_dynmc?width=200&height=200" alt="Wolf Hunt With Traps And Arquebus">
+                <span class="popup__artwork-info-id">1997.205</span>
+        <span class="popup__artwork-info-author">
+                                    Jan van der Straet
+                              </span>
+        <span class="popup__artwork-info-title">Wolf Hunt with Traps and Arquebus</span>
+        <span class="popup__artwork-info-class">Drawings</span>
+      </div>
+
+      <ul class="popup__share">
+        <li>
+          <a href="mailto:?subject=An object from the Harvard Art Museums collections has been shared with you&body=I%E2%80%99ve%20shared%20an%20object%20292454%20from%20the%20Harvard%20Art%20Museums%E2%80%99%20collections%20with%20you.%20Click%20on%20the%20link%20below%20to%20view%3A%0Ahttps%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F292454">
+            <i class="popup__share-email"></i>
+            <span>Share via Email</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F292454" target="_blank">
+            <i class="popup__share-facebook"></i>
+            <span>Share on Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/home?status=Wolf+Hunt+with+Traps+and+Arquebus+From+%40harvartmuseums++https%3A%2F%2Fwww.harvardartmuseums.org%2Fcollections%2Fobject%2F292454" target="_blank">
+            <i class="popup__share-twitter"></i>
+            <span>Share on Twitter</span>
+          </a>
+        </li>
+               <li>
+          <a href="https://iiif.harvardartmuseums.org/viewers/mirador?manifest=https://iiif.harvardartmuseums.org/manifests/object/292454" target="_blank">
+            <i class="popup__share-iiif"></i>
+            <span>Reuse via IIIF</span>
+          </a>
+        </li>
+              </ul>
+
+      <footer class="login-reg-form__footer">
+        <a href="#" data-popup-close>Cancel</a>
+      </footer>
+    </div><!-- / .popup__inner -->
+  </section><!-- / #popup-login -->
+    </main>
+  </div>
+
+<!-- Login / Register Popups -->
+<section id="popup-login" class="login-reg-form popup" data-behavior="login_reg" data-type="login">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Log in to the Harvard Art Museums</span>
+    <span class="popup__subtitle">Please enter your information below</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/login" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Username or Email</label>
+          <input type="text" tabindex="1" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+      
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" tabindex="2" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Log In" class="control__button--invert">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group control--centred">
+          <label for="remember" class="control__checkbox">
+            <input type="checkbox" tabindex="4" name="remember" id="remember" value="1" class="control__input">
+            <span class="control__indicator"></span>
+            Remember me
+          </label>
+
+          <a href="/user/forgot" class="login-reg__forgot" data-behavior="modal" data-modal-src="#popup-forgot">Forgot your password?</a>
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-login --><section id="popup-register" class="login-reg-form popup" data-behavior="login_reg" data-type="register">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Create your Harvard Art Museums account</span>
+    <span class="popup__subtitle">You can build your own collections and more</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control">
+          <label for="name" class="control__label">First Name</label>
+          <input type="text" name="first_name" id="first_name" value="" class="control__input" required>
+        </div>
+
+        <div class="control">
+          <label for="name" class="control__label">Last Name</label>
+          <input type="text" name="last_name" id="last_name" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="password" class="control__label">Password</label>
+          <input type="password" name="password" id="password" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="control control__inline-group" data-behavior="faux_radio">
+          <span class="control__label">Are you one of the following?</span>
+                          <label for="faculty" class="control__checkbox">
+                <input type="checkbox" name="role" id="faculty" value="35" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Faculty
+              </label>
+                          <label for="student" class="control__checkbox">
+                <input type="checkbox" name="role" id="student" value="34" class="control__input">
+                <span class="control__indicator"></span>
+                Harvard Student
+              </label>
+                          <label for="teacher" class="control__checkbox">
+                <input type="checkbox" name="role" id="teacher" value="31" class="control__input">
+                <span class="control__indicator"></span>
+                K–12 Educator
+              </label>
+                          <label for="press" class="control__checkbox">
+                <input type="checkbox" name="role" id="press" value="32" class="control__input">
+                <span class="control__indicator"></span>
+                Press
+              </label>
+                    </div>
+      </div>
+
+      <div class="form-row">    
+        <div class="control control__inline-group">
+          <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script><div class="g-recaptcha" theme="light" id="buzzNoCaptchaId_da9e86bbcd0cfa98c2bb0e5119df7d98" data-sitekey="6LeZxVwUAAAAAE_oMwO9HuS3twiRodkwAtev934Y"></div>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Create My Account" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <p><small>By creating your Harvard Art Museums account you agree to our <a href="https://www.harvardartmuseums.org/terms-of-use" target="_blank">Terms of Use</a> and <a href="https://www.harvardartmuseums.org/privacy-statement" target="_blank">Privacy Policy</a>.</small></p>
+      <a href="/user/login" data-behavior="modal" data-modal-src="#popup-login">Already have an account? Log in</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-register -->
+<section id="popup-forgot" class="login-reg-form popup" data-behavior="login_reg" data-type="reset">
+  <div class="popup__inner">
+    <span class="popup__logo">Harvard Art Museums</span>
+    <span class="popup__title">Forgot your password?</span>
+    <span class="popup__subtitle">We can reset it for you; enter your email address below to get started.</span>
+
+    <form method="POST" action="https://www.harvardartmuseums.org/user/forgot" accept-charset="UTF-8" novalidate>
+      <input type="hidden" name="_token" value="ldiRmcmjZrkBXf0gJlqgnyTMJ2GLjRH2jEYy232D">
+
+      <div class="form-row">
+        <div class="control control--full">
+          <label for="email" class="control__label">Email</label>
+          <input type="email" tabindex="1" placeholder="" name="email" id="email" value="" class="control__input" required>
+        </div>
+      </div>
+
+      <div class="form-row form-row--submit">
+        <div class="control control--full">
+          <input type="submit" value="Reset Password" class="control__button--invert">
+        </div>
+      </div>
+    </form>
+
+    <footer class="login-reg-form__footer">
+      <a href="/user/create" data-behavior="modal" data-modal-src="#popup-register">Don’t have an account? Register</a>
+    </footer>
+  </div><!-- / .popup__inner -->
+</section><!-- / #popup-forgot -->
+<!-- Scripts -->
+<!--[if lt IE 9]>
+<script src="/assets/js/provider/js/libs/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/provider/js/libs/selectivizr-min.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+
+<!-- Open Sea Dragon -->
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/openseadragon.min.js"></script>
+
+<!-- Plugins -->
+<script src="/assets//js/plugins.js?id=8f25f3058efaeb3ad240"></script>
+
+<!-- Application -->
+<script> var varnishEnabled =  0; </script>
+
+<script src="https://www.harvardartmuseums.org/assets/js/init.js"></script>
+<script src="/assets//js/application.js?id=b0c6863eedaeed7d8482"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGMHC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGMHC9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/dragscroll.js"></script>
+<script src="https://www.harvardartmuseums.org/assets/js/provider/js/libs/soundmanager2.js"></script>
+
+
+<script src="/assets/js/mustache/default.templates.js"></script>
+</body>
+</html>
