@@ -66,7 +66,7 @@ Promise.all([
     nodes()
     // triplets()
     
-    fps()
+    // fps()
     // search()
 
     window.onresize = function () {

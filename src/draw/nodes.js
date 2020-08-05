@@ -26,24 +26,27 @@ export default () => {
 
     const stage = new PIXI.Graphics()
     s.pixi.addChild(stage)
+    stage.tint = color.off
 
     s.nodes.forEach(node => {
 
         // Circle
 
-        const size = 5
-        // const size = node.docs * .1
+        // console.log(node)
 
-        node.circle = new PIXI.Graphics()
-        node.circle.beginFill(color.off, 1)
-        node.circle.drawCircle(0, 0, size)
-        node.circle.endFill()
-        node.circle.tint = color.off
-        node.circle.position = new PIXI.Point(node.x, node.y)
-        node.circle.hitArea = new PIXI.Circle(0, 0, s.distance)
-        node.circle.interactive = true
+        // const size = Math.log(node.index) * .5
+        const size = 4
+
+        // node.circle = new PIXI.Graphics()
+        stage.beginFill(color.off, 1)
+        stage.drawCircle(node.x, node.y, size)
+        stage.endFill()
         
-        stage.addChild(node.circle)
+        // node.circle.position = new PIXI.Point(node.x, node.y)
+        // node.circle.hitArea = new PIXI.Circle(0, 0, s.distance)
+        // node.circle.interactive = true
+        
+        // stage.addChild(node.circle)
 
         // Label
 
