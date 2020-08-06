@@ -23,15 +23,12 @@ class MyHTMLParser(HTMLParser):
                     + attrs[5][1]
                     + "?height=500&width=500"
                 )
-        if (tag == "div") 
+        # if (tag == "div") 
 
 
 parser = MyHTMLParser()
 
 for entry in dir:
-    if count == 10:
-        # print(html)
-        break
     data.append([0, 0, 0])
     path = os.path.join(basepath, entry)
     file = open(path, "r")
