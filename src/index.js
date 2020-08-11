@@ -52,10 +52,10 @@ Promise.all([
 
     s.links = linksData
     s.nodes = nodesData
-    s.triplets = tripletsData
+    // s.triplets = tripletsData
     console.log('nodes', s.nodes.length)
     console.log('links', s.links.length)
-    console.log('triplets', s.triplets.length)
+    // console.log('triplets', s.triplets.length)
     
     pixi(arialXML)
     
