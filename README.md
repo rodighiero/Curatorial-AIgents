@@ -5,7 +5,7 @@ The project is part of the Curatorial A(I)gent exhibition that will be exhibited
 `npm install`
 
 ## Launch it
-`npm run start
+`npm run start`
 
 ## Open it at
 `http://localhost:8080/`
