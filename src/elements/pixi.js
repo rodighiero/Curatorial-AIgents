@@ -48,7 +48,7 @@ export default (nodes, links, arialXML) => {
     const scaleY = window.innerHeight / height
     const scale = scaleX < scaleY ? scaleX : scaleY
     const zoomMin = scale
-    const zoomMax = 100
+    const zoomMax = 3
 
     const zoomOut = scaleLinear().domain([zoomMin, 2]).range([1, 0])
     const zoomIn = scaleLinear().domain([zoomMin, 2]).range([0, 1])

@@ -1,7 +1,15 @@
 import * as PIXI from 'pixi.js'
-import { image } from 'd3-fetch'
 
 import { mouseover, mouseout } from '../elements/mouseover'
+
+const splitInTwo = string => {
+    const middle = Math.round(string.length / 2)
+    for (let i = middle, j = middle; i < string.length || j >= 0; i++, j--) {
+        if (string[i] === ' ') return [string.substring(0, i), string.substring(i + 1)]
+        if (string[j] === ' ') return [string.substring(0, j), string.substring(j + 1)]
+    }
+    return [string, '']
+}
 
 const color = {
     on: 0xFEDD00,
@@ -14,32 +22,23 @@ PIXI.BitmapFont.from('NodeFont', {
     fill: color.off,
 })
 
-export default (viewport, nodes, imagesArray) => {
+export default (viewport, nodes) => {
 
-    const start = Date.now() // Time counter
-
-    const stage = new PIXI.Container()
+    const stage = new PIXI.Graphics()
     stage.tint = color.off
-
+    
     viewport.addChild(stage)
 
+    nodes.forEach(node => {
 
-    nodes.forEach((node, i) => {
+        // Circle
 
-        const scale = .1
+        const size = 4
 
-        const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[i] + '?width=100&height=100'
-        const texture = PIXI.Texture.from(address)
-        const sprite = new PIXI.Sprite(texture)
-        sprite.setTransform(node.x, node.y, scale, scale)
-
-        stage.addChild(sprite)
-
-        // if (i == nodes.length - 1) {
-        //     const d = new Date(Date.now() - start)
-        //     console.log(`\nTime computed ${d.getUTCHours()}h ${d.getUTCMinutes()}m ${d.getUTCSeconds()}s ${d.getUTCMilliseconds()}ms\n`)
-        // }
-
+        stage.beginFill(color.off, 1)
+        stage.drawCircle(node.x, node.y, size)
+        stage.endFill()
+        
     })
 
 }
