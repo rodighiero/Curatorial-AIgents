@@ -84,7 +84,7 @@ li {
 
 h1 {
 	font-size: 100%;
-	margin: 10px 0;
+	margin: 10px 0 5px 0;
 }
 
 h2 {
@@ -112,6 +112,7 @@ p {
 }
 
 .inverted {
+	font-size: 45%;
 	background-color: #c7d1c2;
 	color: black;
 	white-space: nowrap;

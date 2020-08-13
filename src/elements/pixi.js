@@ -18,12 +18,14 @@ export default (nodes, links, arialXML) => {
     const app = new PIXI.Application({
         width: window.innerWidth,
         height: window.innerHeight,
-        antialias: true,
-        transparent: true,
-        resolution: 2,
+        antialias: false,
+        transparent: false,
+        resolution: 1,
         autoDensity: true,
         autoResize: true,
         resizeTo: window,
+        backgroundColor: 0x000000,
+        roundPixels: true,
     })
 
     document.body.prepend(app.view)
