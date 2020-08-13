@@ -19,7 +19,6 @@ export default (viewport, nodes, imagesArray) => {
     const start = Date.now() // Time counter
 
     const stage = new PIXI.Container()
-    stage.interactiveChildren = false
     stage.tint = color.off
 
     viewport.addChild(stage)
@@ -27,10 +26,9 @@ export default (viewport, nodes, imagesArray) => {
 
     nodes.forEach((node, i) => {
 
-        const scale = .025
+        const scale = .1
 
-        // const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[i] + '?width=100&height=100'
-        const address = '../src/images/' + imagesArray[i]
+        const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[i] + '?width=100&height=100'
         const texture = PIXI.Texture.from(address)
         const sprite = new PIXI.Sprite(texture)
         sprite.setTransform(node.x, node.y, scale, scale)
