@@ -22,66 +22,23 @@ PIXI.BitmapFont.from('NodeFont', {
     fill: color.off,
 })
 
-export default () => {
+export default (viewport, nodes) => {
 
     const stage = new PIXI.Graphics()
-    s.pixi.addChild(stage)
     stage.tint = color.off
+    
+    viewport.addChild(stage)
 
-    s.nodes.forEach(node => {
+    nodes.forEach(node => {
 
         // Circle
 
-        // console.log(node)
-
-        // const size = Math.log(node.index) * .5
         const size = 4
 
-        // node.circle = new PIXI.Graphics()
         stage.beginFill(color.off, 1)
         stage.drawCircle(node.x, node.y, size)
         stage.endFill()
         
-        // node.circle.position = new PIXI.Point(node.x, node.y)
-        // node.circle.hitArea = new PIXI.Circle(0, 0, s.distance)
-        // node.circle.interactive = true
-        
-        // stage.addChild(node.circle)
-
-        // Label
-
-        // const scale = .2
-        // const [nA, nB] = splitInTwo('Curatorial A(I)gent')
-        // // const [nA, nB] = splitInTwo(node.name)
-
-        // node.text = new PIXI.BitmapText(`${nA}\n${nB}`, { fontName: 'NodeFont' })
-        // node.text.scale.set(scale)
-        // node.text.align = 'center'
-        // node.text.position.set(node.x - node.text.width / 2, node.y + size + 2)
-        
-        // stage.addChild(node.text)
-
-        // Set information panel & set on circles
-
-        // node.circle.mouseover = mouseData => {
-        //     mouseover(node)
-        //     s.nodes.filter(peer => node.peers.includes(peer.id))
-        //         .forEach(node => {
-        //             node.circle.tint = color.on
-        //             node.text.tint = color.on
-        //         })
-        // }
-
-        // Clean information panel & set off circles
-
-        // node.circle.mouseout = mouseData => {
-        //     mouseout(node)
-        //     s.nodes.forEach(node => {
-        //             node.circle.tint = color.off
-        //             node.text.tint = color.off
-        //         })
-        // }
-
     })
 
 }

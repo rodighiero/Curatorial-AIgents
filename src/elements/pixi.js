@@ -2,11 +2,18 @@ import * as PIXI from 'pixi.js'
 import { Viewport } from 'pixi-viewport'
 import arialDataPNG from '../constant/arial.png'
 import { scaleLinear } from 'd3-scale'
+import { extent } from "d3-array"
 
+// pixi.js
 
-export default (arialXML) => {
+export default (nodes, links, arialXML) => {
 
-    // Create and append PIXI
+    // Font
+
+    const arialPNG = PIXI.Texture.from(arialDataPNG)
+    PIXI.BitmapFont.install(arialXML, arialPNG)
+    
+    // Create app
 
     const app = new PIXI.Application({
         width: window.innerWidth,
@@ -18,44 +25,43 @@ export default (arialXML) => {
         autoResize: true,
         resizeTo: window,
     })
+
     document.body.prepend(app.view)
 
-    s.app = app
-
-    const arialPNG = PIXI.Texture.from(arialDataPNG)
-    const arial = PIXI.BitmapFont.install(arialXML, arialPNG)
-
-    // Create and append viewport
+    // Create viewport
 
     const viewport = new Viewport({
         screenWidth: window.innerWidth,
         screenHeight: window.innerHeight,
         interaction: app.renderer.plugins.interaction
     })
+
     app.stage.addChild(viewport)
 
-    s.pixi = viewport
+    // Settings
 
-    // Activate plugins
+    const extX = extent(nodes, d => d.x)
+    const extY = extent(nodes, d => d.y)
+    const width = extX[1] - extX[0]
+    const height = extY[1] - extY[0]
+    const scaleX = window.innerWidth / width
+    const scaleY = window.innerHeight / height
+    const scale = scaleX < scaleY ? scaleX : scaleY
+    const zoomMin = scale
+    const zoomMax = 3
 
-    const zoomMin = .07
-    const zoomMax = 5
+    const zoomOut = scaleLinear().domain([zoomMin, 2]).range([1, 0])
+    const zoomIn = scaleLinear().domain([zoomMin, 2]).range([0, 1])
 
     viewport
         .drag()
         .pinch()
         .wheel()
         .decelerate()
-        .clampZoom({ minScale: zoomMin, zoomMax: zoomMax })
+        .clampZoom({ minScale: zoomMin, maxScale: zoomMax })
         .setTransform(window.innerWidth / 2, window.innerHeight / 2, zoomMin, zoomMin)
 
     // Transparency on zoom
-
-    const zoomOut = scaleLinear()
-        .domain([zoomMin, 2]).range([1, 0])
-
-    const zoomIn = scaleLinear()
-        .domain([zoomMin, 2]).range([0, 1])
 
     // viewport.on('zoomed', e => {
     //     const scale = e.viewport.lastViewport.scaleX
@@ -65,10 +71,20 @@ export default (arialXML) => {
         // e.viewport.children[5].alpha = zoomIn(scale)
     // })
 
-    // Prevent pinch gesture in Chrome
+    // Prevent pinch in Chrome
 
     window.addEventListener('wheel', e => {
         e.preventDefault()
     }, { passive: false })
+
+    // Resize
+
+    window.onresize = function () {
+        viewport.resize()
+    }
+
+    // return viewport
+
+    return viewport
 
 }
