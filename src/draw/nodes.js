@@ -24,24 +24,42 @@ export default (viewport, nodes, imagesArray) => {
 
     viewport.addChild(stage)
 
+    const scale = .4
 
-    nodes.forEach((node, i) => {
+    async function draw() {
+        for (const node of nodes) {
+            const address = await '../src/32images/' + imagesArray[node.index]
+            const texture = await PIXI.Texture.from(address)
+            const sprite = new PIXI.Sprite(texture)
+            sprite.setTransform(node.x, node.y, scale, scale)
+            stage.addChild(sprite)
+            console.log(node.index)
+        }
+    }
 
-        const scale = .025
+    draw()
 
-        // const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[i] + '?width=100&height=100'
-        const address = '../src/images/' + imagesArray[i]
-        const texture = PIXI.Texture.from(address)
-        const sprite = new PIXI.Sprite(texture)
-        sprite.setTransform(node.x, node.y, scale, scale)
+    const d = new Date(Date.now() - start)
+    console.log(`\nTime computed ${d.getUTCHours()}h ${d.getUTCMinutes()}m ${d.getUTCSeconds()}s ${d.getUTCMilliseconds()}ms\n`)
 
-        stage.addChild(sprite)
 
-        // if (i == nodes.length - 1) {
-        //     const d = new Date(Date.now() - start)
-        //     console.log(`\nTime computed ${d.getUTCHours()}h ${d.getUTCMinutes()}m ${d.getUTCSeconds()}s ${d.getUTCMilliseconds()}ms\n`)
-        // }
 
-    })
+
+
+    // nodes.forEach((node, i) => {
+
+    //     const scale = .4
+
+    //     // const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[i] + '?width=32&height=32'
+    //     const address = '../src/32images/' + imagesArray[i]
+    //     const texture = PIXI.Texture.from(address)
+    //     const sprite = new PIXI.Sprite(texture)
+    //     sprite.setTransform(node.x, node.y, scale, scale)
+
+    //     stage.addChild(sprite)
+
+
+
+    // })
 
 }

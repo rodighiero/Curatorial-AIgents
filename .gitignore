@@ -2,6 +2,5 @@ data/html/
 node_modules/
 .vscode/
 .DS_Store
-src/images/
-src/.DS_Store
+src/*images/
 src/.DS_Store

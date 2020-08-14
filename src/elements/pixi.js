@@ -25,7 +25,6 @@ export default (nodes, links, arialXML) => {
         autoResize: true,
         resizeTo: window,
         backgroundColor: 0x000000,
-        roundPixels: true,
     })
 
     document.body.prepend(app.view)

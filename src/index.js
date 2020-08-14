@@ -30,7 +30,7 @@ Promise.all([
 
 ]).then(([nodes, links, arial, images]) => {
 
-    nodes = nodes.slice(0, 5000)
+    nodes = nodes.slice(0, 100000)
     images = images.split(',')
 
     console.log('nodes', nodes.length)
