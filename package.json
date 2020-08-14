@@ -1,5 +1,5 @@
 {
-  "name": "suprise-machines",
+  "name": "surprise-machines",
   "version": "1.0.0",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodighiero/Suprise-Machines.git"
+    "url": "git+https://github.com/rodighiero/Surprise-Machines.git"
   },
   "author": "Dario Rodighiero",
   "license": "MIT",
