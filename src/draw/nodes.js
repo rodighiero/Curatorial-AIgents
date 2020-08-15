@@ -14,7 +14,7 @@ PIXI.BitmapFont.from('NodeFont', {
     fill: color.off,
 })
 
-export default (viewport, nodes, imagesArray) => {
+export default (viewport, app, nodes, imagesArray) => {
 
     const start = Date.now() // Time counter
 
@@ -24,20 +24,20 @@ export default (viewport, nodes, imagesArray) => {
 
     viewport.addChild(stage)
 
-    const scale = .4
+    const scale = .5
 
-    async function draw() {
-        for (const node of nodes) {
-            const address = await '../src/32images/' + imagesArray[node.index]
-            const texture = await PIXI.Texture.from(address)
-            const sprite = new PIXI.Sprite(texture)
-            sprite.setTransform(node.x, node.y, scale, scale)
-            stage.addChild(sprite)
-            console.log(node.index)
-        }
+    for (const node of nodes) draw(node)
+
+    async function draw(node) {
+        const address = await '../src/16images/' + imagesArray[node.index]
+        const texture = await PIXI.Texture.from(address)
+        const sprite = await new PIXI.Sprite(texture)
+        sprite.setTransform(node.x, node.y, scale, scale)
+        stage.addChild(sprite)
+        console.log(node.index)
     }
 
-    draw()
+
 
     const d = new Date(Date.now() - start)
     console.log(`\nTime computed ${d.getUTCHours()}h ${d.getUTCMinutes()}m ${d.getUTCSeconds()}s ${d.getUTCMilliseconds()}ms\n`)

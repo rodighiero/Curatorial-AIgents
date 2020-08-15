@@ -12,12 +12,19 @@ export default (nodes, links, arialXML) => {
 
     const arialPNG = PIXI.Texture.from(arialDataPNG)
     PIXI.BitmapFont.install(arialXML, arialPNG)
+
+    // Parameters
+    
+    // const screenWidth = 3840
+    // const screenHeight = 1080
+    const screenWidth = window.innerWidth
+    const screenHeight = window.innerHeight
     
     // Create app
 
     const app = new PIXI.Application({
-        width: window.innerWidth,
-        height: window.innerHeight,
+        width: screenWidth,
+        height: screenHeight,
         antialias: false,
         transparent: false,
         resolution: 1,
@@ -32,8 +39,8 @@ export default (nodes, links, arialXML) => {
     // Create viewport
 
     const viewport = new Viewport({
-        screenWidth: window.innerWidth,
-        screenHeight: window.innerHeight,
+        screenWidth: screenWidth,
+        screenHeight: screenHeight,
         interaction: app.renderer.plugins.interaction
     })
 
@@ -86,6 +93,6 @@ export default (nodes, links, arialXML) => {
 
     // return viewport
 
-    return viewport
+    return ([viewport, app])
 
 }
