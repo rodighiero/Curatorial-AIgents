@@ -18,11 +18,11 @@ export default (viewport, app, nodes, imagesArray) => {
 
     const start = Date.now() // Time counter
 
-    const stage = new PIXI.Container()
-    stage.interactiveChildren = false
-    stage.tint = color.off
+    // const stage = new PIXI.Container()
+    // stage.interactiveChildren = false
+    // stage.tint = color.off
 
-    viewport.addChild(stage)
+    // viewport.addChild(stage)
 
     const scale = .5
 
@@ -33,8 +33,8 @@ export default (viewport, app, nodes, imagesArray) => {
         const texture = await PIXI.Texture.from(address)
         const sprite = await new PIXI.Sprite(texture)
         sprite.setTransform(node.x, node.y, scale, scale)
-        stage.addChild(sprite)
-        console.log(node.index)
+        viewport.addChild(sprite)
+        // console.log(node.index)
     }
 
 

@@ -1,0 +1,32 @@
+// your tilemap containervar mapContainer = new PIXI.DisplayObjectContainer();
+// ... add all the sprites to the container
+// render the tilemap to a render texturevar texture = new PIXI.RenderTexture():texture.render(mapContainer);
+// create a single background sprite with the texturevar background = new PIXI.Sprite(texture);
+// add the background to the stage
+// (notice I didn't add the mapContainer to the scene graph)stage.addChild(background);
+
+// untested// 2d or webgl, doesn't matter.
+var renderer = PIXI.autoDetectRenderer(300,300);
+var canvas = renderer.view;
+var stage = new PIXI.Container();
+var sprite = PIXI.Sprite.fromImage(source);
+var graphics = new PIXI.Graphics();
+stage.addChild(graphics);
+graphics.addChild(sprite);
+// assuming graphics object is 100w x 100h
+// graphics position is centered horizontally and vertically relative to stage/canvas.
+// absolute position of the graphics object is 100 points right and 100 points down from the top-left corner of container (parent).
+
+graphics.position = new PIXI.Point(100,100);
+// assuming sprite object is 50w x 50h
+// sprite position is centered horizontally and vertically relative to graphics object.
+// absolute position of the sprite object is 125 points right and 125 points down from the top-left corner of container (grandparent).
+sprite.position = new PIXI.Point(25,25);
+// draw some lines n stuff on the graphics object.
+// Only reason I'm putting it in the ticker is just in case the image hasn't loaded yet.
+// We'll render 60 frames per second until it does... and after it does!
+PIXI.ticker.shared.add(function () {  renderer.render(stage);});
+// put the canvas somewhere in the DOM.
+
+Instead if this thing doesn't change often once drawn, you can draw it all to a canvas and use that as a texture. You could also put multiple graphics and sprites into a container to build the object you want and render that to render texture and use that as a sprite, or just use the container itself in the scene.
+
