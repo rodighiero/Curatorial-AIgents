@@ -39,7 +39,7 @@ Promise.all([
 
     fps()
 
-    const [viewport, app] = pixi(nodes, links, arial, images)
+    pixi(nodes, links, arial, images)
 
     // drawNodes(viewport, app, nodes, images)
 

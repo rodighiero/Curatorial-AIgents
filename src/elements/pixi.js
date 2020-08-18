@@ -8,19 +8,21 @@ import { extent } from "d3-array"
 
 export default (nodes, links, arialXML, imagesArray) => {
 
+
     // Font
 
-    const arialPNG = PIXI.Texture.from(arialDataPNG)
-    PIXI.BitmapFont.install(arialXML, arialPNG)
+    const png = PIXI.Texture.from(arialDataPNG)
+    PIXI.BitmapFont.install(arialXML, png)
+
 
     // Parameters
 
-    // const screenWidth = 3840
-    // const screenHeight = 1080
-    const screenWidth = window.innerWidth
-    const screenHeight = window.innerHeight
+    // const screenWidth = 3840, screenHeight = 1080
+    const screenWidth = window.innerWidth, screenHeight = window.innerHeight
 
-    // Create app
+
+
+    // Create PixiJS app
 
     const app = new PIXI.Application({
         width: screenWidth,
@@ -36,26 +38,73 @@ export default (nodes, links, arialXML, imagesArray) => {
 
     document.body.prepend(app.view)
 
-    const container = new PIXI.Container();
 
-    app.stage.addChild(container);
 
-    const scale = 1
-    
-    for (const node of nodes)
-        draw(node)
+    // Viewport
 
+    const nodeScale = 1
+    const networkScale = 1.4
+
+    const extX = extent(nodes, d => d.x * networkScale)
+    const extY = extent(nodes, d => d.y * networkScale)
+    const nodesWidth = extX[1] - extX[0]
+    const nodesHeight = extY[1] - extY[0]
+    const scaleX = screenWidth / nodesWidth * .8
+    const scaleY = screenWidth / nodesHeight * .8
+    const scale = scaleX < scaleY ? scaleX : scaleY
+    const zoomMin = scale
+    const zoomMax = 100
+
+    const viewport = new Viewport({
+        screenWidth: screenWidth,
+        screenHeight: screenHeight,
+        interaction: app.renderer.plugins.interaction
+    })
+
+    viewport.drag().pinch().wheel().decelerate()
+        .clampZoom({ minScale: zoomMin, maxScale: zoomMax })
+        .setTransform(window.innerWidth / 2, window.innerHeight / 2, zoomMin, zoomMin)
+
+    app.stage.addChild(viewport)
+
+
+
+    // Draw nodes
+
+
+    for (const node of nodes) draw(node)
     async function draw(node) {
         const address = await '../src/16images/' + imagesArray[node.index]
         const texture = await PIXI.Texture.from(address)
         const sprite = await new PIXI.Sprite(texture)
-        sprite.setTransform(node.x, node.y, scale, scale)
-        container.addChild(sprite)
-        console.log(node.index)
+        sprite.setTransform(
+            node.x * networkScale, node.y * networkScale,
+            nodeScale, nodeScale)
+        viewport.addChild(sprite)
     }
 
+
+
+    // Prevent pinch in Chrome
+
+    window.addEventListener('wheel', e => {
+        e.preventDefault()
+    }, { passive: false })
+
+
+
+    // Resize
+
+    window.onresize = function () {
+        viewport.resize()
+    }
+
+
+
+    // Vieport print
+
     const download_sprite_as_png = () => {
-        app.renderer.extract.canvas(container).toBlob(function(b){
+        app.renderer.extract.canvas(viewport).toBlob(function (b) {
             var a = document.createElement('a');
             document.body.append(a);
             a.download = 'screenshot.png';
@@ -64,68 +113,8 @@ export default (nodes, links, arialXML, imagesArray) => {
             a.remove();
         }, 'image/png');
     }
-
     window.print = download_sprite_as_png
 
-    // return
 
-    // Create viewport
-
-    const viewport = new Viewport({
-        screenWidth: screenWidth,
-        screenHeight: screenHeight,
-        interaction: app.renderer.plugins.interaction
-    })
-
-    // app.stage.addChild(viewport)
-
-    // // Settings
-
-    // const extX = extent(nodes, d => d.x)
-    // const extY = extent(nodes, d => d.y)
-    // const width = extX[1] - extX[0]
-    // const height = extY[1] - extY[0]
-    // const scaleX = window.innerWidth / width
-    // const scaleY = window.innerHeight / height
-    // const scale = scaleX < scaleY ? scaleX : scaleY
-    // const zoomMin = scale
-    // const zoomMax = 100
-
-    // const zoomOut = scaleLinear().domain([zoomMin, 2]).range([1, 0])
-    // const zoomIn = scaleLinear().domain([zoomMin, 2]).range([0, 1])
-
-    // viewport
-    //     .drag()
-    //     .pinch()
-    //     .wheel()
-    //     .decelerate()
-    //     .clampZoom({ minScale: zoomMin, maxScale: zoomMax })
-    //     .setTransform(window.innerWidth / 2, window.innerHeight / 2, zoomMin, zoomMin)
-
-    // // Transparency on zoom
-
-    // // viewport.on('zoomed', e => {
-    // //     const scale = e.viewport.lastViewport.scaleX
-    // // 0. Background 1. Links 2. Contours 3. Keywords 4. Nodes 5. Wordclouds
-    // // e.viewport.children[2].alpha = zoomOut(scale)
-    // // e.viewport.children[3].alpha = zoomOut(scale)
-    // // e.viewport.children[5].alpha = zoomIn(scale)
-    // // })
-
-    // // Prevent pinch in Chrome
-
-    // window.addEventListener('wheel', e => {
-    //     e.preventDefault()
-    // }, { passive: false })
-
-    // // Resize
-
-    // window.onresize = function () {
-    //     viewport.resize()
-    // }
-
-    // return viewport
-
-    return ([viewport, app])
 
 }
