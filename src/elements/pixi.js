@@ -9,13 +9,13 @@ import { extent } from "d3-array"
 export default (nodes, links, arialXML, imagesArray) => {
 
 
-    // Font
+    // Config
 
-    const png = PIXI.Texture.from(arialDataPNG)
-    PIXI.BitmapFont.install(arialXML, png)
+    PIXI.BitmapFont.install(arialXML, PIXI.Texture.from(arialDataPNG))
 
-
-    // Parameters
+    // nodes = nodes.slice(0, 1000)
+    // nodes = nodes.slice(0, 10000)
+    // nodes = nodes.slice(0, 200000)
 
     // const screenWidth = 3840, screenHeight = 1080
     const screenWidth = window.innerWidth, screenHeight = window.innerHeight
@@ -42,8 +42,8 @@ export default (nodes, links, arialXML, imagesArray) => {
 
     // Viewport
 
-    const nodeScale = 1
-    const networkScale = 1.4
+    const nodeScale = 1 * 1.5
+    const networkScale = 1.4 * 1.5
 
     const extX = extent(nodes, d => d.x * networkScale)
     const extY = extent(nodes, d => d.y * networkScale)
@@ -72,7 +72,9 @@ export default (nodes, links, arialXML, imagesArray) => {
     // Draw nodes
 
 
-    for (const node of nodes) draw(node)
+    for (const node of nodes)
+        draw(node)
+
     async function draw(node) {
         const address = await '../src/16images/' + imagesArray[node.index]
         const texture = await PIXI.Texture.from(address)

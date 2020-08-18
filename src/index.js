@@ -16,7 +16,6 @@ import arialXML from './constant/arial.xml'
 import { json, xml, text } from 'd3-fetch'
 
 import fps from './elements/fps.js'
-import drawNodes from './draw/nodes.js'
 import pixi from './elements/pixi.js'
 
 // Start
@@ -30,7 +29,6 @@ Promise.all([
 
 ]).then(([nodes, links, arial, images]) => {
 
-    nodes = nodes.slice(0, 100)
     images = images.split(',')
 
     console.log('nodes', nodes.length)
@@ -40,7 +38,5 @@ Promise.all([
     fps()
 
     pixi(nodes, links, arial, images)
-
-    // drawNodes(viewport, app, nodes, images)
 
 })
