@@ -13,7 +13,7 @@ export default (nodes, links, arialXML, imagesArray) => {
 
     PIXI.BitmapFont.install(arialXML, PIXI.Texture.from(arialDataPNG))
 
-    // nodes = nodes.slice(0, 1000)
+    nodes = nodes.slice(0, 1000)
     // nodes = nodes.slice(0, 10000)
     // nodes = nodes.slice(0, 200000)
 
