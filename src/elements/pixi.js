@@ -90,7 +90,9 @@ export default (nodes, links, arialXML, imagesArray) => {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
     }
 
-    const draw = (node, i) => {
+    let j = 0
+
+    const draw = (node) => {
         const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[node.index] + '?height=' + imageSize + '&width=' + imageSize
         const texture = PIXI.Texture.from(address)
         const sprite = new PIXI.Sprite(texture)
@@ -98,13 +100,13 @@ export default (nodes, links, arialXML, imagesArray) => {
         sprite.texture.baseTexture.on('loaded', () => {
             sprite.setTransform(
                 (node.x * networkScale) - sprite.width / 2,
-                node.y * networkScale - sprite.height / 2,
-                spriteScale, spriteScale)
+                node.y * networkScale - sprite.height / 2)
 
             viewport.addChild(sprite)
             node.visibility = true
             setZoom()
-            document.getElementById("number").innerHTML = commas(i) + ' Artworks'
+            j += 1
+            document.getElementById("number").innerHTML = commas(j) + ' Artworks'
         })
     }
 
@@ -114,7 +116,7 @@ export default (nodes, links, arialXML, imagesArray) => {
         setTimeout(() => {
             const node = nodes[i]
             node.visibility = true
-            draw(node, i)
+            draw(node)
             i++
             loop()
         }, 10)
