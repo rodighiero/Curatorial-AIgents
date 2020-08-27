@@ -9,81 +9,187 @@ import { extent } from "d3-array"
 export default (nodes, links, arialXML, imagesArray) => {
 
 
+
+    ////////////////////
     // Config
+    ////////////////////
+
+    const spriteScale = 1
+    const networkScale = 16
+    const imageSize = 200
 
     PIXI.BitmapFont.install(arialXML, PIXI.Texture.from(arialDataPNG))
 
-    nodes = nodes.slice(0, 1000)
-    // nodes = nodes.slice(0, 10000)
-    // nodes = nodes.slice(0, 200000)
-
-    // const screenWidth = 3840, screenHeight = 1080
-    const screenWidth = window.innerWidth, screenHeight = window.innerHeight
 
 
-
+    ////////////////////
     // Create PixiJS app
+    ////////////////////
 
     const app = new PIXI.Application({
-        width: screenWidth,
-        height: screenHeight,
-        antialias: false,
-        transparent: false,
-        resolution: 1,
+        width: window.innerWidth,
+        height: window.innerHeight,
+        antialias: true,
+        transparent: true,
+        resolution: 2,
         autoDensity: true,
         autoResize: true,
         resizeTo: window,
-        backgroundColor: 0x000000,
     })
 
     document.body.prepend(app.view)
 
 
 
+    ////////////////////
     // Viewport
-
-    const nodeScale = 1 * 1.5
-    const networkScale = 1.4 * 1.5
-
-    const extX = extent(nodes, d => d.x * networkScale)
-    const extY = extent(nodes, d => d.y * networkScale)
-    const nodesWidth = extX[1] - extX[0]
-    const nodesHeight = extY[1] - extY[0]
-    const scaleX = screenWidth / nodesWidth * .8
-    const scaleY = screenWidth / nodesHeight * .8
-    const scale = scaleX < scaleY ? scaleX : scaleY
-    const zoomMin = scale
-    const zoomMax = 100
+    ////////////////////
 
     const viewport = new Viewport({
-        screenWidth: screenWidth,
-        screenHeight: screenHeight,
+        screenWidth: window.innerWidth,
+        screenHeight: window.innerHeight,
         interaction: app.renderer.plugins.interaction
     })
 
-    viewport.drag().pinch().wheel().decelerate()
-        .clampZoom({ minScale: zoomMin, maxScale: zoomMax })
-        .setTransform(window.innerWidth / 2, window.innerHeight / 2, zoomMin, zoomMin)
-
     app.stage.addChild(viewport)
 
+    viewport.setTransform(window.innerWidth / 2, window.innerHeight / 2)
 
 
-    // Draw nodes
 
+    ////////////////////
+    // Zoom
+    ////////////////////
 
-    for (const node of nodes)
-        draw(node)
+    const setZoom = () => {
+        const filteredNodes = nodes.filter(node => node.visibility == true)
+        const extX = extent(filteredNodes, d => d.x * networkScale)
+        const extY = extent(filteredNodes, d => d.y * networkScale)
+        const nodesWidth = extX[1] - extX[0]
+        const nodesHeight = extY[1] - extY[0]
+        const scaleX = window.innerWidth / nodesWidth * .8
+        const scaleY = window.innerHeight / nodesHeight * .8
+        const scale = scaleX < scaleY ? scaleX : scaleY
+        const zoomMin = scale
 
-    async function draw(node) {
-        const address = await '../src/16images/' + imagesArray[node.index]
-        const texture = await PIXI.Texture.from(address)
-        const sprite = await new PIXI.Sprite(texture)
-        sprite.setTransform(
-            node.x * networkScale, node.y * networkScale,
-            nodeScale, nodeScale)
-        viewport.addChild(sprite)
+        viewport.animate({
+            scale: zoomMin,
+            position: new PIXI.Point(0, 0),
+            time: 1000,
+            removeOnInterrupt: true,
+        })
     }
+
+
+
+    ////////////////////
+    // Drawing
+    ////////////////////
+
+    const commas = x => {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+    }
+
+    const draw = (node, i) => {
+        const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[node.index] + '?height=' + imageSize + '&width=' + imageSize
+        const texture = PIXI.Texture.from(address)
+        const sprite = new PIXI.Sprite(texture)
+
+        sprite.texture.baseTexture.on('loaded', () => {
+            sprite.setTransform(
+                (node.x * networkScale) - sprite.width / 2,
+                node.y * networkScale - sprite.height / 2,
+                spriteScale, spriteScale)
+
+            viewport.addChild(sprite)
+            node.visibility = true
+            setZoom()
+            document.getElementById("number").innerHTML = commas(i) + ' Artworks'
+        })
+    }
+
+    let i = 0
+
+    const loop = () => {
+        setTimeout(() => {
+            const node = nodes[i]
+            node.visibility = true
+            draw(node, i)
+            i++
+            loop()
+        }, 10)
+    }
+
+    loop()
+
+
+
+
+
+
+
+
+
+    ////////////////////
+    // Draw single image (not working for large size)
+    ////////////////////
+
+    // async function draw() {
+    //     const address = await '../src/constant/screenshot.png'
+    //     // const address = await '../src/constant/screenshot.jpg'
+    //     // const address = await '../src/16images/9703848'
+    //     const texture = await PIXI.Texture.from(address)
+    //     const sprite = await new PIXI.Sprite(texture)
+    //     sprite.x = -sprite.width / 2
+    //     // sprite.setTransform(
+    //     //     , 0,
+    //     //     100000, 100000)
+    //     viewport.addChild(sprite)
+    // }
+
+    // draw()
+
+
+
+    ////////////////////
+    // Draw nodes one by one (actually working)
+    ////////////////////
+
+    // for (const node of nodes) {
+    //     draw(node)
+    // }
+
+    // const size = 10
+
+    // async function draw(node) {
+    //     const address = await 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[node.index] + '?height=' + size + '&width=150' + size
+    //     // const address = await '../src/16images/' + imagesArray[node.index]
+    //     const texture = await PIXI.Texture.from(address)
+    //     const sprite = await new PIXI.Sprite(texture)
+    //     sprite.setTransform(
+    //         (node.x - sprite.width / 2) * networkScale,
+    //         (node.y - sprite.height / 2) * networkScale,
+    //         nodeScale, nodeScale)
+    //     viewport.addChild(sprite)
+    // }
+
+
+
+    ////////////////////
+    // Vieport print
+    ////////////////////
+
+    // const download_sprite_as_png = () => {
+    //     app.renderer.extract.canvas(viewport).toBlob(function (b) {
+    //         var a = document.createElement('a');
+    //         document.body.append(a);
+    //         a.download = 'screenshot.png';
+    //         a.href = URL.createObjectURL(b);
+    //         a.click();
+    //         a.remove();
+    //     }, 'image/png');
+    // }
+    // window.print = download_sprite_as_png
 
 
 
@@ -93,29 +199,11 @@ export default (nodes, links, arialXML, imagesArray) => {
         e.preventDefault()
     }, { passive: false })
 
-
-
     // Resize
 
-    window.onresize = function () {
+    window.onresize = () => {
         viewport.resize()
     }
-
-
-
-    // Vieport print
-
-    const download_sprite_as_png = () => {
-        app.renderer.extract.canvas(viewport).toBlob(function (b) {
-            var a = document.createElement('a');
-            document.body.append(a);
-            a.download = 'screenshot.png';
-            a.href = URL.createObjectURL(b);
-            a.click();
-            a.remove();
-        }, 'image/png');
-    }
-    window.print = download_sprite_as_png
 
 
 
