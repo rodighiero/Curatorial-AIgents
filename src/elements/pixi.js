@@ -16,7 +16,6 @@ export default (nodes, links, arialXML, imagesArray) => {
 
     const spriteScale = 1
     const networkScale = 16
-    const imageSize = 200
 
     PIXI.BitmapFont.install(arialXML, PIXI.Texture.from(arialDataPNG))
 
@@ -93,6 +92,13 @@ export default (nodes, links, arialXML, imagesArray) => {
     let j = 0
 
     const draw = (node) => {
+
+        const large = viewport.scale.x > .1
+
+
+        const imageSize = large ? 200 : 10
+        console.log(imageSize)
+
         const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[node.index] + '?height=' + imageSize + '&width=' + imageSize
         const texture = PIXI.Texture.from(address)
         const sprite = new PIXI.Sprite(texture)
@@ -100,13 +106,15 @@ export default (nodes, links, arialXML, imagesArray) => {
         sprite.texture.baseTexture.on('loaded', () => {
             sprite.setTransform(
                 (node.x * networkScale) - sprite.width / 2,
-                node.y * networkScale - sprite.height / 2)
+                node.y * networkScale - sprite.height / 2,
+                large ? 1 : 20,
+                large ? 1 : 20)
 
             viewport.addChild(sprite)
             node.visibility = true
             setZoom()
             j += 1
-            document.getElementById("number").innerHTML = commas(j) + ' Artworks'
+            document.getElementById("number").innerHTML = commas(j) + ' Artworks<br\>out of ' + commas(nodes.length)
         })
     }
 

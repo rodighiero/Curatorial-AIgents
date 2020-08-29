@@ -50,13 +50,14 @@ a {
 ******************************************************************************/
 
 h1 {
-	font-size: 200%;
+	font-size: 150%;
 	margin: 10px 0 5px 0;
 }
 
 h2 {
-	font-size: 100%;
+	font-size: 64%;
 	margin: 5px 0;
+	font-weight: normal;
 }
 
 h3 {
