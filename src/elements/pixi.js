@@ -114,7 +114,7 @@ export default (nodes, links, arialXML, imagesArray) => {
             node.visibility = true
             setZoom()
             j += 1
-            document.getElementById("number").innerHTML = commas(j) + ' Artworks<br\>out of ' + commas(nodes.length)
+            document.getElementById("number").innerHTML = commas(j) + ' Artworks<br\>Out of ' + commas(nodes.length)
         })
     }
 
