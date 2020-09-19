@@ -12,5 +12,5 @@ More information about the exhibition at the Harvard Art Museum at https://metal
 ## Launch it
 `npm run start`
 
-## Open it at
-`http://localhost:8080/`
+## Open it
+http://localhost:8080/
