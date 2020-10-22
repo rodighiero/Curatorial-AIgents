@@ -30,7 +30,7 @@
     "natural": "^2.1.5",
     "remove-accents": "^0.4.2",
     "stopword": "^1.0.3",
-    "webpack": "^4.44.1",
+    "webpack": "^5.2.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
