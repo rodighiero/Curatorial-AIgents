@@ -14,8 +14,8 @@ import arialXML from './constant/arial.xml'
 // Libraries
 
 import { json, xml, text } from 'd3-fetch'
-
 import pixi from './elements/pixi.js'
+import shuffle from 'shuffle-array'
 
 // Start
 
@@ -34,6 +34,6 @@ Promise.all([
     console.log('links', links.length)
     console.log('images', images.length)
 
-    pixi(nodes, links, arial, images)
+    pixi(nodes, links, arial, shuffle(images))
 
 })

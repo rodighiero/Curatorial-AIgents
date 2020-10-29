@@ -44,6 +44,7 @@
     "fps": "0.0.3",
     "normalize.css": "^8.0.1",
     "pixi-viewport": "^4.15.0",
-    "pixi.js": "^5.3.3"
+    "pixi.js": "^5.3.3",
+    "shuffle-array": "^1.0.1"
   }
 }
