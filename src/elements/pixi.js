@@ -93,10 +93,11 @@ export default (nodes, links, arialXML, imagesArray) => {
 
     const draw = (node) => {
 
-        const large = viewport.scale.x > .1
+        // const large = viewport.scale.x > .1
+        const large = true
 
 
-        const imageSize = large ? 200 : 10
+        const imageSize = large ? 500 : 10
         console.log(imageSize)
 
         const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[node.index] + '?height=' + imageSize + '&width=' + imageSize
