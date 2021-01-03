@@ -14,8 +14,8 @@ import arialXML from './constant/arial.xml'
 // Libraries
 
 import { json, xml, text } from 'd3-fetch'
+import { shuffle } from 'd3-array'
 import pixi from './elements/pixi.js'
-import shuffle from 'shuffle-array'
 
 // Start
 
