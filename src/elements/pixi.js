@@ -3,6 +3,10 @@ import { Viewport } from 'pixi-viewport'
 import arialDataPNG from '../constant/arial.png'
 import { scaleLinear } from 'd3-scale'
 import { extent } from "d3-array"
+import * as ml5 from 'ml5'
+
+
+
 
 // pixi.js
 
@@ -18,7 +22,6 @@ export default (nodes, links, arialXML, imagesArray) => {
     const networkScale = 16
 
     PIXI.BitmapFont.install(arialXML, PIXI.Texture.from(arialDataPNG))
-
 
 
     ////////////////////
@@ -79,6 +82,47 @@ export default (nodes, links, arialXML, imagesArray) => {
         })
     }
 
+    /**
+         * ml5
+        */
+
+    const onModelReady = () => {
+        const i = 0
+        const imageSize = 1000
+        const node = nodes[i]
+        const address = 'https://ids.lib.harvard.edu/ids/view/' + imagesArray[node.index] + '?height=' + imageSize + '&width=' + imageSize
+        const texture = PIXI.Texture.from(address)
+        const sprite = new PIXI.Sprite(texture)
+        const large = true
+
+        const gotResults = (err, results) => {
+            // console.log(results)
+            results.forEach(line => {
+                console.log(line)
+            })
+        }
+        
+        sprite.texture.baseTexture.on('loaded', () => {
+            const source = sprite.texture.baseTexture.resource.source
+            const prediction = classifier.predict(source, gotResults)
+
+            sprite.setTransform(
+                (node.x * networkScale) - sprite.width / 2,
+                node.y * networkScale - sprite.height / 2,
+                large ? 1 : 20,
+                large ? 1 : 20)
+
+            viewport.addChild(sprite)
+            node.visibility = true
+            // setZoom()
+
+        })
+    }
+
+    const classifier = ml5.imageClassifier("MobileNet", onModelReady)
+
+    return
+
 
 
     ////////////////////
@@ -105,6 +149,7 @@ export default (nodes, links, arialXML, imagesArray) => {
         const sprite = new PIXI.Sprite(texture)
 
         sprite.texture.baseTexture.on('loaded', () => {
+
             sprite.setTransform(
                 (node.x * networkScale) - sprite.width / 2,
                 node.y * networkScale - sprite.height / 2,
@@ -117,6 +162,7 @@ export default (nodes, links, arialXML, imagesArray) => {
             j += 1
             document.getElementById("number").innerHTML = commas(j) + ' Artworks<br\>Out of ' + commas(nodes.length)
         })
+
     }
 
     let i = 0
@@ -128,7 +174,7 @@ export default (nodes, links, arialXML, imagesArray) => {
             draw(node)
             i++
             loop()
-        }, 10)
+        }, 100)
     }
 
     loop()
